@@ -293,5 +293,11 @@ ok(parsedArticle && parsedArticle.paragraphs.length === 2 && parsedArticle.words
 const randomPick = parser ? parser.pickRandomItem(parsedHome, 3, 'https://breakingnewsenglish.com/2610/test-story.html') : null;
 ok(randomPick === null, '只有当前文章时不会重复抽取同一篇');
 ok(fs.existsSync(path.join(root, 'server.js')), '本地实时新闻服务器 server.js 存在');
+ok(fs.existsSync(path.join(root, 'tools/crawl-breaking-news.js')), 'Breaking News 爬虫脚本存在');
+const cachePath = path.join(root, 'data/news-cache.json');
+let cacheData = null;
+try { cacheData = JSON.parse(read('data/news-cache.json')); } catch (e) {}
+ok(cacheData && Array.isArray(cacheData.items) && cacheData.items.length > 0 && cacheData.articles,
+  '静态新闻缓存包含文章列表与正文版本');
 console.log('\n' + (fail === 0 ? '全部通过 ✅' : fail + ' 项未通过 ❌'));
 process.exit(fail === 0 ? 0 : 1);

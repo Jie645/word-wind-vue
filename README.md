@@ -14,6 +14,12 @@ node server.js
 
 服务器负责同源代理 Breaking News English，避免浏览器 CORS 限制。也可以直接双击 `word-wind.standalone.html` 使用内置回退文章；如需实时新闻，请同时运行上面的服务器。
 
+手动更新新闻静态缓存：
+
+```powershell
+npm run crawl
+```
+
 **方式二（仅静态/离线）**：直接双击打开 `index.html` 或 `word-wind.standalone.html`，登录、背单词和内置阅读文章均可使用；实时新闻接口不可用时页面会自动保留内置文章并显示提示。
 
 演示登录：**用户名 ≥ 2 位、密码 ≥ 6 位**，任意输入即可进入。
@@ -28,6 +34,7 @@ word-wind-vue/
 ├─ server.js                      # 零依赖静态服务器 + Breaking News English 同源代理/解析
 ├─ word-wind.standalone.html      # 单文件版（由 tools/build-standalone.js 生成）
 ├─ css/style.css                  # 自定义样式（渐变背景 / 阅读排版 / 可点击单词 / 弹窗动画 / 校验抖动）
+├─ data/news-cache.json           # 爬虫生成的最新新闻与各 Level 静态缓存
 ├─ vendor/                        # 本地化的第三方库（离线可用）
 │  ├─ vue.global.prod.js          #   Vue 3.5.13
 │  └─ tailwind.js                 #   Tailwind CSS 3.4.16 Play CDN 构建
@@ -45,6 +52,7 @@ word-wind-vue/
 └─ tools/                         # 开发与验证工具（非运行时依赖）
    ├─ verify-data.js              #   数据自检：词数 / 词典覆盖 / 词形还原
    ├─ verify-app.js               #   静态自检：模板闭合、组件注册、store API、Tailwind 类名
+   ├─ crawl-breaking-news.js      #   爬取最新新闻与各 Level 正文，生成静态缓存
    ├─ build-standalone.js         #   打包单文件版
    ├─ login-test.js               #   注入脚本生成「登录流程自动化测试页」
    ├─ shot.html                   #   截图验证页（可直达某个界面）
@@ -73,6 +81,8 @@ word-wind-vue/
 
 **路由**：`js/router.js` 用 hash 路由（`#/login`、`#/app`、`#/reading`），不依赖 history API，`file://` 下也能正常跳转。未登录访问 `#/app`、`#/reading` 会被兜回登录页；勾选「记住我」后刷新直接进入主页。
 
+**新闻爬虫**：`tools/crawl-breaking-news.js` 会读取首页、解析文章列表，再按并发限制逐篇抓取 Level 0-6 的可用版本，最终生成 `data/news-cache.json`。GitHub Actions 每 12 小时执行一次；本地服务器优先提供实时接口，GitHub Pages 则自动回退读取该缓存。
+
 **实时新闻**：`server.js` 先抓取 Breaking News English 首页，解析文章标题、日期、Easier/Harder 类型以及该新闻可用的 Level 链接；用户切换难度或随机换稿时，再按需请求具体文章，避免一次性抓取所有正文。文章页解析标题、发布日期、正文段落和当前 Level；若同一篇新闻没有目标级别，则自动选择距离最近的可用级别并提示。主要接口为 `GET /api/news/list` 与 `GET /api/news/article?url=...&level=0..6`，列表缓存 10 分钟、文章缓存 30 分钟。
 
 **点击查词**：`reading-utils.js` 先把段落按词组正则切分（词组优先），再用 `[A-Za-z][A-Za-z'’-]*` 切出单个单词，生成 `{type:'word'|'phrase'|'text', text, key}` token 序列。点击 token 时 `store.lookupInArticle()` 查词典：
@@ -89,6 +99,7 @@ word-wind-vue/
 
 ```powershell
 node tools/verify-data.js    # 数据：305 词、36 个词条、全部可在正文点到、词形还原正确
+node tools/crawl-breaking-news.js --limit=10  # 更新 10 篇新闻的 Level 缓存
 node tools/verify-app.js     # 静态：19 个脚本、12 个组件模板闭合、组件/store API 引用、Tailwind 类名刻度
 node tools/build-standalone.js   # 改动源码后重新生成单文件版
 node tools/login-test.js         # 生成登录流程测试页（用 ?case=A|B|C 选择场景）

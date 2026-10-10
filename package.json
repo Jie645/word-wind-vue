@@ -1,0 +1,11 @@
+{
+  "name": "word-wind-vue",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Word Wind Vue English learning app with Breaking News English crawler",
+  "scripts": {
+    "start": "node server.js",
+    "crawl": "node tools/crawl-breaking-news.js --limit=10 --concurrency=4",
+    "verify": "node tools/verify-data.js && node tools/verify-app.js"
+  }
+}

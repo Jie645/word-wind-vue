@@ -288,12 +288,70 @@
   }
 
   let listCache = null;
+  let transport = 'unknown';
+  let staticCachePromise = null;
+
+  function staticCacheUrl() {
+    return 'data/news-cache.json';
+  }
+
+  async function loadStaticCache(force) {
+    if (staticCachePromise && !force) return staticCachePromise;
+    staticCachePromise = fetch(staticCacheUrl(), { cache: force ? 'no-store' : 'default' })
+      .then((res) => {
+        if (!res.ok) throw new Error('静态新闻缓存不存在');
+        return res.json();
+      })
+      .then((data) => {
+        if (!data || !Array.isArray(data.items) || !data.items.length || !data.articles) {
+          throw new Error('静态新闻缓存格式无效');
+        }
+        return data;
+      })
+      .catch((error) => {
+        staticCachePromise = null;
+        throw error;
+      });
+    return staticCachePromise;
+  }
+
+  async function getStaticArticle(item, requestedLevel) {
+    const cache = await loadStaticCache(false);
+    const target = resolveItemLevel(item, requestedLevel);
+    if (!target) throw new Error('这篇新闻没有可用的阅读级别');
+    const cached = cache.articles[target.url];
+    if (!cached || !Array.isArray(cached.paragraphs)) throw new Error('静态缓存中没有这篇文章');
+    return Object.assign({}, cached, {
+      id: item.id,
+      requestedLevel: requestedLevel,
+      resolvedLevel: target.level,
+      fallback: target.level !== requestedLevel,
+      level: 'Level ' + target.level + ' · ' + LEVEL_BANDS[target.level],
+      availableLevels: item.availableLevels,
+      paragraphs: cached.paragraphs.slice()
+    });
+  }
+
   async function getLatestNews(force) {
     if (listCache && !force) return listCache;
-    const data = await requestJson('/news/list');
-    if (!data || !Array.isArray(data.items) || !data.items.length) throw new Error('未获取到最新新闻列表');
-    listCache = data.items;
-    return listCache;
+    if (transport !== 'static') {
+      try {
+        const data = await requestJson('/news/list');
+        if (!data || !Array.isArray(data.items) || !data.items.length) throw new Error('未获取到最新新闻列表');
+        transport = 'api';
+        listCache = data.items;
+        return listCache;
+      } catch (apiError) {
+        transport = 'static';
+      }
+    }
+    try {
+      const data = await loadStaticCache(force);
+      listCache = data.items;
+      return listCache;
+    } catch (cacheError) {
+      throw new Error('实时新闻服务与静态缓存均不可用；本地请运行 node server.js，线上请先执行爬虫更新缓存');
+    }
   }
 
   const articleCache = {};
@@ -303,10 +361,22 @@
     if (!target) throw new Error('这篇新闻没有可用的阅读级别');
     const key = target.url + '::' + requested;
     if (articleCache[key] && !force) return articleCache[key];
-    const data = await requestJson('/news/article?url=' + encodeURIComponent(target.url) + '&level=' + requested);
-    if (!data || !data.article || !Array.isArray(data.article.paragraphs)) throw new Error('文章解析失败');
-    articleCache[key] = data.article;
-    return data.article;
+
+    if (transport !== 'static') {
+      try {
+        const data = await requestJson('/news/article?url=' + encodeURIComponent(target.url) + '&level=' + requested);
+        if (!data || !data.article || !Array.isArray(data.article.paragraphs)) throw new Error('文章解析失败');
+        transport = 'api';
+        articleCache[key] = data.article;
+        return data.article;
+      } catch (apiError) {
+        transport = 'static';
+      }
+    }
+
+    const article = await getStaticArticle(item, requested);
+    articleCache[key] = article;
+    return article;
   }
 
   return {
@@ -324,6 +394,7 @@
     extractParagraphs: extractParagraphs,
     countWords: countWords,
     pickRandomItem: pickRandomItem,
+    loadStaticCache: loadStaticCache,
     getLatestNews: getLatestNews,
     getArticle: getArticle
   };
