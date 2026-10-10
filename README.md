@@ -99,7 +99,7 @@ word-wind-vue/
 
 ```powershell
 node tools/verify-data.js    # 数据：305 词、36 个词条、全部可在正文点到、词形还原正确
-node tools/crawl-breaking-news.js --limit=10  # 更新 10 篇新闻的 Level 缓存
+node tools/crawl-breaking-news.js --limit=50  # 更新 50 篇新闻的 Level 缓存
 node tools/verify-app.js     # 静态：19 个脚本、12 个组件模板闭合、组件/store API 引用、Tailwind 类名刻度
 node tools/build-standalone.js   # 改动源码后重新生成单文件版
 node tools/login-test.js         # 生成登录流程测试页（用 ?case=A|B|C 选择场景）

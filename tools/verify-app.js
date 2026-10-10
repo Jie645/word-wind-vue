@@ -292,6 +292,16 @@ ok(parsedArticle && parsedArticle.paragraphs.length === 2 && parsedArticle.words
   '文章正文段落与词数解析正确');
 const randomPick = parser ? parser.pickRandomItem(parsedHome, 3, 'https://breakingnewsenglish.com/2610/test-story.html') : null;
 ok(randomPick === null, '只有当前文章时不会重复抽取同一篇');
+
+const sampleArchive = '<li><tt>2026-10-10: </tt><a href="2610/test-story-0.html">Test News Story</a></li>' +
+  '<li><tt>2026-10-03: </tt><a href="2610/older-story-0.html">Older News Story</a></li>';
+const archiveItems = parser ? parser.parseArchivePage(sampleArchive, 'https://breakingnewsenglish.com/easy-news-english.html', 0) : [];
+const mergedItems = parser ? parser.mergeNewsItems([parsedHome, archiveItems]) : [];
+ok(archiveItems.length === 2 && archiveItems[0].date === '10th October',
+  '历史归档页与日期解析正确');
+const mergedTest = mergedItems.find((item) => item.title === 'Test News Story');
+ok(mergedItems.length === 2 && mergedTest && Object.keys(mergedTest.availableLevels).join(',') === '0,1,2,3',
+  '首页与归档页中的同一新闻级别可以正确合并');
 ok(fs.existsSync(path.join(root, 'server.js')), '本地实时新闻服务器 server.js 存在');
 ok(fs.existsSync(path.join(root, 'tools/crawl-breaking-news.js')), 'Breaking News 爬虫脚本存在');
 const cachePath = path.join(root, 'data/news-cache.json');

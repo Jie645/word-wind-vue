@@ -164,6 +164,69 @@
     return items;
   }
 
+  const MONTHS = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+
+  function formatIsoDate(value) {
+    const m = String(value || '').match(/^(\d{4})-(\d{2})-(\d{2})$/);
+    if (!m) return String(value || '');
+    const day = parseInt(m[3], 10);
+    const month = MONTHS[parseInt(m[2], 10) - 1] || '';
+    return day + (day % 10 === 1 && day !== 11 ? 'st' : day % 10 === 2 && day !== 12 ? 'nd' : day % 10 === 3 && day !== 13 ? 'rd' : 'th') + ' ' + month;
+  }
+
+  function baseUrlForLevel(pageUrl, level) {
+    const url = String(pageUrl || '').split(/[?#]/)[0];
+    if (level === 0 || level === 1 || level === 2 || level === 4 || level === 5) {
+      return url.replace(new RegExp('-' + level + '[a-z]?\\.html$', 'i'), '.html');
+    }
+    return url;
+  }
+
+  function parseArchivePage(html, baseUrl, level) {
+    const n = parseInt(level, 10);
+    const source = String(html || '');
+    const items = [];
+    const re = /<li\b[^>]*>\s*<tt>\s*(\d{4}-\d{2}-\d{2}):\s*<\/tt>\s*<a\b([^>]*)>([\s\S]*?)<\/a>\s*<\/li>/gi;
+    let m;
+    while ((m = re.exec(source)) !== null) {
+      const href = extractAttr(m[2], 'href');
+      const title = compactText(m[3]);
+      if (!href || !title || /^javascript:/i.test(href)) continue;
+      const levelUrl = absoluteUrl(href, baseUrl || HOME_URL);
+      const url = baseUrlForLevel(levelUrl, n);
+      items.push({
+        id: url.replace(/^https?:\/\/[^/]+/i, '').replace(/^\//, ''),
+        title: title,
+        url: url,
+        date: formatIsoDate(m[1]),
+        dateIso: m[1],
+        kind: n <= 3 ? 'Easier' : 'Harder',
+        summary: title,
+        availableLevels: { [String(n)]: levelUrl }
+      });
+    }
+    return items;
+  }
+
+  function mergeNewsItems(groups) {
+    const map = {};
+    (groups || []).forEach((group) => {
+      (group || []).forEach((item) => {
+        if (!item || !item.url) return;
+        const key = item.url;
+        if (!map[key]) {
+          map[key] = Object.assign({}, item, { availableLevels: Object.assign({}, item.availableLevels || {}) });
+          return;
+        }
+        const current = map[key];
+        if (!current.title && item.title) current.title = item.title;
+        if (!current.date && item.date) current.date = item.date;
+        if (!current.dateIso && item.dateIso) current.dateIso = item.dateIso;
+        current.availableLevels = Object.assign({}, item.availableLevels || {}, current.availableLevels || {});
+      });
+    });
+    return Object.keys(map).map((key) => map[key]).sort((a, b) => String(b.dateIso || '').localeCompare(String(a.dateIso || '')));
+  }
   function extractArticleBody(html) {
     const source = String(html || '');
     const marker = source.search(/<div\b[^>]*id=["']lesson-archive["']/i);
@@ -390,6 +453,8 @@
     resolveLevel: resolveLevel,
     resolveItemLevel: resolveItemLevel,
     parseHomepage: parseHomepage,
+    parseArchivePage: parseArchivePage,
+    mergeNewsItems: mergeNewsItems,
     parseArticlePage: parseArticlePage,
     extractParagraphs: extractParagraphs,
     countWords: countWords,

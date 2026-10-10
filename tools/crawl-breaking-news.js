@@ -1,6 +1,6 @@
 /* ============================================================
  * Breaking News English 新闻爬虫
- *   node tools/crawl-breaking-news.js --limit=10
+ *   node tools/crawl-breaking-news.js --limit=50
  *   node tools/crawl-breaking-news.js --all --concurrency=3
  *
  * 输出：data/news-cache.json
@@ -22,7 +22,7 @@ function readArg(name, fallback) {
   const found = process.argv.find((arg) => arg.indexOf(prefix) === 0);
   return found ? found.slice(prefix.length) : fallback;
 }
-const LIMIT = process.argv.indexOf('--all') > -1 ? Infinity : Math.max(1, parseInt(readArg('limit', '10'), 10) || 10);
+const LIMIT = process.argv.indexOf('--all') > -1 ? Infinity : Math.max(1, parseInt(readArg('limit', '50'), 10) || 50);
 const CONCURRENCY = Math.max(1, Math.min(6, parseInt(readArg('concurrency', '3'), 10) || 3));
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
@@ -66,14 +66,34 @@ async function runPool(jobs, worker, concurrency) {
 async function main() {
   console.log('抓取首页：' + HOME_URL);
   const homeHtml = await fetchHtml(HOME_URL);
-  const allItems = parser.parseHomepage(homeHtml, HOME_URL);
-  if (!allItems.length) throw new Error('没有从首页解析出新闻列表');
+  const homeItems = parser.parseHomepage(homeHtml, HOME_URL);
+  if (!homeItems.length) throw new Error('没有从首页解析出新闻列表');
+
+  let allItems = homeItems;
+  if (process.argv.indexOf('--home-only') < 0) {
+    const archives = [
+      { level: 0, url: parser.absoluteUrl('easy-news-english.html', HOME_URL) },
+      { level: 1, url: parser.absoluteUrl('simple-english-news.html', HOME_URL) },
+      { level: 2, url: parser.absoluteUrl('easy-english-news.html', HOME_URL) },
+      { level: 3, url: parser.absoluteUrl('graded-news-stories.html', HOME_URL) },
+      { level: 4, url: parser.absoluteUrl('graded-news-articles.html', HOME_URL) },
+      { level: 5, url: parser.absoluteUrl('english-news-readings.html', HOME_URL) },
+      { level: 6, url: parser.absoluteUrl('news-for-kids.html', HOME_URL) }
+    ];
+    console.log('抓取 Level 0-6 归档页...');
+    const groups = await Promise.all(archives.map(async (archive) => {
+      const html = await fetchHtml(archive.url);
+      return parser.parseArchivePage(html, archive.url, archive.level);
+    }));
+    allItems = parser.mergeNewsItems([homeItems].concat(groups));
+  }
 
   const items = allItems.slice(0, LIMIT).map((item) => ({
     id: item.id,
     title: item.title,
     url: item.url,
     date: item.date,
+    dateIso: item.dateIso || '',
     kind: item.kind,
     summary: item.summary,
     availableLevels: item.availableLevels

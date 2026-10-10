@@ -25,7 +25,7 @@ jobs:
           node-version: '22'
 
       - name: Crawl latest articles
-        run: node tools/crawl-breaking-news.js --limit=10 --concurrency=4
+        run: node tools/crawl-breaking-news.js --limit=50 --concurrency=4
 
       - name: Commit cache changes
         shell: bash
