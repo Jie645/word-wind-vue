@@ -15,7 +15,7 @@
     setup() { return { store: WW.store }; },
     template: `
 <div>
-  <p class="mt-5 mb-2.5 text-sm font-extrabold tracking-wide text-[#8a7256] dark:text-[#c9a978]">翻译</p>
+  <p class="mt-5 mb-2.5 text-sm font-extrabold tracking-wide text-[#8a7256] dark:text-[#c9a978]">释义 / 翻译</p>
   <ul class="space-y-2.5">
     <li v-for="(t, i) in entry.trans" :key="'t' + i"
         class="flex items-start gap-2.5 rounded-xl px-4 py-3
@@ -40,7 +40,7 @@
   </template>
 
   <template v-if="entry.phrases && entry.phrases.length">
-    <p class="mt-5 mb-2.5 text-sm font-extrabold tracking-wide text-[#8a7256] dark:text-[#c9a978]">短语搭配</p>
+    <p class="mt-5 mb-2.5 text-sm font-extrabold tracking-wide text-[#8a7256] dark:text-[#c9a978]">{{ entry.phraseLabel || '短语搭配' }}</p>
     <ul class="grid sm:grid-cols-2 gap-2.5">
       <li v-for="(p, i) in entry.phrases" :key="'p' + i"
           class="rounded-xl px-3.5 py-2.5 text-[14px]

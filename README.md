@@ -14,10 +14,11 @@ node server.js
 
 服务器负责同源代理 Breaking News English，避免浏览器 CORS 限制。也可以直接双击 `word-wind.standalone.html` 使用内置回退文章；如需实时新闻，请同时运行上面的服务器。
 
-手动更新新闻静态缓存：
+手动更新新闻与词典缓存：
 
 ```powershell
 npm run crawl
+npm run crawl:dict
 ```
 
 **方式二（仅静态/离线）**：直接双击打开 `index.html` 或 `word-wind.standalone.html`，登录、背单词和内置阅读文章均可使用；实时新闻接口不可用时页面会自动保留内置文章并显示提示。
@@ -35,6 +36,7 @@ word-wind-vue/
 ├─ word-wind.standalone.html      # 单文件版（由 tools/build-standalone.js 生成）
 ├─ css/style.css                  # 自定义样式（渐变背景 / 阅读排版 / 可点击单词 / 弹窗动画 / 校验抖动）
 ├─ data/news-cache.json           # 爬虫生成的最新新闻与各 Level 静态缓存
+├─ data/dictionary-cache.json     # 文章词汇词典缓存（释义、音标、词形变化）
 ├─ vendor/                        # 本地化的第三方库（离线可用）
 │  ├─ vue.global.prod.js          #   Vue 3.5.13
 │  └─ tailwind.js                 #   Tailwind CSS 3.4.16 Play CDN 构建
@@ -45,6 +47,7 @@ word-wind-vue/
 │  ├─ app.js                      # 入口：注册组件、挂载、快捷键
 │  ├─ lib/reading-utils.js        # 分词 / 词形还原 / 查词（纯函数，可单测）
 │  ├─ lib/breaking-news.js        # 新闻列表/正文解析、Level 回退、随机选文、前端 API 客户端
+│  ├─ lib/dictionary.js           # 静态/在线词典查询、中文翻译与词形分析
 │  ├─ data/
 │  │  ├─ words.js                 # 原版 7 大词库（26 词，结构不变）
 │  │  └─ reading.js               # 阅读文章（305 词）+ 词典（30 词 + 6 词组）
@@ -53,6 +56,7 @@ word-wind-vue/
    ├─ verify-data.js              #   数据自检：词数 / 词典覆盖 / 词形还原
    ├─ verify-app.js               #   静态自检：模板闭合、组件注册、store API、Tailwind 类名
    ├─ crawl-breaking-news.js      #   爬取最新新闻与各 Level 正文，生成静态缓存
+   ├─ crawl-dictionary.js         #   抓取文章词汇释义、音标、词形、中文翻译
    ├─ build-standalone.js         #   打包单文件版
    ├─ login-test.js               #   注入脚本生成「登录流程自动化测试页」
    ├─ shot.html                   #   截图验证页（可直达某个界面）
@@ -85,11 +89,13 @@ word-wind-vue/
 
 **实时新闻**：`server.js` 先抓取 Breaking News English 首页，解析文章标题、日期、Easier/Harder 类型以及该新闻可用的 Level 链接；用户切换难度或随机换稿时，再按需请求具体文章，避免一次性抓取所有正文。文章页解析标题、发布日期、正文段落和当前 Level；若同一篇新闻没有目标级别，则自动选择距离最近的可用级别并提示。主要接口为 `GET /api/news/list` 与 `GET /api/news/article?url=...&level=0..6`，列表缓存 10 分钟、文章缓存 30 分钟。
 
+**文章词典**：`tools/crawl-dictionary.js` 会从所有已抓取文章中提取词汇，调用 Datamuse / Wiktionary 获取词性、英文释义、音标与词形变化，并调用 MyMemory 补充中文翻译。网页优先读取 `data/dictionary-cache.json`；遇到未缓存词时自动在线查询，因此不再只覆盖演示文章的 30 个重点词。
+
 **点击查词**：`reading-utils.js` 先把段落按词组正则切分（词组优先），再用 `[A-Za-z][A-Za-z'’-]*` 切出单个单词，生成 `{type:'word'|'phrase'|'text', text, key}` token 序列。点击 token 时 `store.lookupInArticle()` 查词典：
 
 1. 精确匹配；
 2. 未命中则做轻量词形还原（`habits→habit`、`studies→study`、`running→run`、`refused→refuse`、`steadily→steadly→steadily`、`behaviour→behaviour`）后重试；
-3. 仍未命中则展示「未收录」兜底弹窗，并支持浏览器朗读。
+3. 仍未命中则自动调用在线词典与中文翻译，并支持浏览器朗读。
 
 已查过的词会在正文中留下淡粉色下划线标记，可一键清除。
 
@@ -100,7 +106,8 @@ word-wind-vue/
 ```powershell
 node tools/verify-data.js    # 数据：305 词、36 个词条、全部可在正文点到、词形还原正确
 node tools/crawl-breaking-news.js --limit=50  # 更新 50 篇新闻的 Level 缓存
-node tools/verify-app.js     # 静态：19 个脚本、12 个组件模板闭合、组件/store API 引用、Tailwind 类名刻度
+node tools/crawl-dictionary.js --limit=1000 --concurrency=8  # 增量更新文章词典
+node tools/verify-app.js     # 静态：20 个脚本、12 个组件模板闭合、组件/store API 引用、Tailwind 类名刻度
 node tools/build-standalone.js   # 改动源码后重新生成单文件版
 node tools/login-test.js         # 生成登录流程测试页（用 ?case=A|B|C 选择场景）
 ```

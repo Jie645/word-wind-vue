@@ -128,14 +128,25 @@
   function closeDetail() { state.detail = null; }
 
   /* ---------------- 阅读页查词 ---------------- */
-  function lookupInArticle(token) {
+  async function lookupInArticle(token) {
     const utils = global.WW.readingUtils;
     const entry = utils.lookupWord(global.WW.READING_DICT, token.text);
     const nk = utils.normalizeKey(token.text);
     if (state.lookedUp.indexOf(nk) < 0) state.lookedUp.push(nk);
-    if (entry) openDetail(entry, READING_LIB, entry.word);
+    if (entry) {
+      openDetail(entry, READING_LIB, entry.word);
+      return entry;
+    }
+
+    state.detail = { entry: null, lib: READING_LIB, word: token.text, loading: true };
+    let onlineEntry = null;
+    try {
+      onlineEntry = global.WW.dictionary ? await global.WW.dictionary.lookup(token.text) : null;
+    } catch (e) {}
+    if (!state.detail || !state.detail.loading || state.detail.word !== token.text) return onlineEntry;
+    if (onlineEntry) openDetail(onlineEntry, READING_LIB, onlineEntry.word || token.text);
     else openMissing(token.text);
-    return entry;
+    return onlineEntry;
   }
 
   /* ---------------- 搜索（全词库精确 → 模糊 → 阅读词典） ---------------- */

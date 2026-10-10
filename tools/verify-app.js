@@ -39,7 +39,7 @@ sandbox.history = { replaceState: () => {} };
 vm.createContext(sandbox);
 
 const files = [
-  'js/data/words.js', 'js/data/reading.js', 'js/lib/reading-utils.js', 'js/lib/breaking-news.js',
+  'js/data/words.js', 'js/data/reading.js', 'js/lib/reading-utils.js', 'js/lib/breaking-news.js', 'js/lib/dictionary.js',
   'js/router.js', 'js/store.js',
   'js/components/AppTopBar.js', 'js/components/ToastHost.js', 'js/components/MeaningBlock.js',
   'js/components/WordCard.js', 'js/components/LibrarySidebar.js', 'js/components/ListModal.js',
@@ -309,5 +309,9 @@ let cacheData = null;
 try { cacheData = JSON.parse(read('data/news-cache.json')); } catch (e) {}
 ok(cacheData && Array.isArray(cacheData.items) && cacheData.items.length > 0 && cacheData.articles,
   '静态新闻缓存包含文章列表与正文版本');
+let dictionaryData = null;
+try { dictionaryData = JSON.parse(read('data/dictionary-cache.json')); } catch (e) {}
+ok(WW.dictionary && dictionaryData && dictionaryData.words && dictionaryData.words.influencers,
+  '阅读词典服务与静态词典缓存包含文章词汇');
 console.log('\n' + (fail === 0 ? '全部通过 ✅' : fail + ' 项未通过 ❌'));
 process.exit(fail === 0 ? 0 : 1);

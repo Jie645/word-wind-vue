@@ -23,7 +23,7 @@
       // 未收录时，顺便提示该词是否能在背单词词库中找到
       const libHit = computed(() => {
         const d = detail.value;
-        if (!d || d.entry || !d.word) return null;
+        if (!d || d.entry || d.loading || !d.word) return null;
         const all = store.libs();
         for (const k of Object.keys(all)) {
           const hit = all[k].words.find((w) => w.word.toLowerCase() === String(d.word).toLowerCase());
@@ -96,16 +96,33 @@
           </button>
         </div>
 
-        <!-- 已收录：完整释义 -->
-        <MeaningBlock v-if="detail.entry" :entry="detail.entry" />
+        <template v-if="detail.loading">
+          <div class="mt-5 rounded-2xl px-5 py-8 text-center
+                       bg-gradient-to-r from-[#e9f3fd] to-[#fdeaf2]
+                       dark:from-[#26313f] dark:to-[#342732]">
+            <span class="inline-block w-7 h-7 rounded-full border-[3px] border-brand-blue/25 border-t-brand-blue animate-spin"></span>
+            <p class="mt-3 text-[15px] font-bold text-ink-700 dark:text-slate-100">正在查询在线词典...</p>
+            <p class="mt-1 text-[12px] text-ink-400 dark:text-slate-400">首次查询会稍慢，结果后续会自动缓存</p>
+          </div>
+        </template>
 
-        <!-- 未收录兜底 -->
+        <template v-else-if="detail.entry">
+          <MeaningBlock :entry="detail.entry" />
+          <p v-if="detail.entry.sourceName"
+             class="mt-4 text-right text-[11px] text-ink-400 dark:text-slate-500">
+            释义来源：
+            <a v-if="detail.entry.sourceUrl" :href="detail.entry.sourceUrl" target="_blank" rel="noopener noreferrer"
+               class="font-semibold hover:underline">{{ detail.entry.sourceName }}</a>
+            <span v-else>{{ detail.entry.sourceName }}</span>
+          </p>
+        </template>
+
         <div v-else class="mt-5 rounded-2xl px-5 py-6 text-center
-                           bg-gradient-to-r from-[#e9f3fd] to-[#fdeaf2]
-                           dark:from-[#26313f] dark:to-[#342732]">
-          <p class="text-[15px] font-bold text-ink-700 dark:text-slate-100">这个词还没有收录进演示词典 📭</p>
+                     bg-gradient-to-r from-[#e9f3fd] to-[#fdeaf2]
+                     dark:from-[#26313f] dark:to-[#342732]">
+          <p class="text-[15px] font-bold text-ink-700 dark:text-slate-100">在线词典暂未找到这个词 📭</p>
           <p class="mt-1.5 text-[13px] text-ink-500 dark:text-slate-300">
-            演示词典收录了本文的 30 个重点词与 6 个词组，其余单词点击后会走到这个兜底状态。
+            可能是专有名词、缩写或特殊拼写，可以尝试切换到词形原形。
           </p>
           <button v-if="libHit" @click="jumpToLibrary"
                   class="mt-4 px-4 py-2 rounded-xl text-sm font-bold text-white
@@ -115,7 +132,7 @@
         </div>
 
         <div class="flex gap-2.5 mt-6">
-          <button v-if="detail.entry" @click="toggleFav"
+          <button v-if="detail.entry && !detail.loading" @click="toggleFav"
                   :class="faved
                     ? 'text-white bg-gradient-to-br from-[#ffd76e] to-[#f0a93b] border-transparent'
                     : 'text-[#c08a2e] bg-cream-100 dark:bg-slate-800 border-[#f0d9a8] dark:border-slate-600'"

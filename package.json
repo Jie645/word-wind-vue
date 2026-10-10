@@ -6,6 +6,7 @@
   "scripts": {
     "start": "node server.js",
     "crawl": "node tools/crawl-breaking-news.js --limit=50 --concurrency=4",
+    "crawl:dict": "node tools/crawl-dictionary.js --limit=1000 --concurrency=8",
     "verify": "node tools/verify-data.js && node tools/verify-app.js"
   }
 }
