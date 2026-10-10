@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Word Wind · 高效背单词 + 文章阅读</title>
+<meta name="description" content="Word Wind 在线背单词：登录后可使用七大词库背单词，并进入英语文章阅读页点击查词。" />
+
+<!-- ===================== Tailwind CSS（本地优先，CDN 兜底） ===================== -->
+<script src="vendor/tailwind.js"></script>
+<script>
+  if (!window.tailwind) {
+    document.write('<script src="https://cdn.tailwindcss.com/3.4.16"><\/script>');
+  }
+</script>
+<script src="js/tailwind-config.js"></script>
+
+<link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+<!-- ===================== 应用挂载点 ===================== -->
+<div id="app" v-cloak>
+  <div class="min-h-screen grid place-items-center">
+    <div class="text-center">
+      <div class="w-12 h-12 mx-auto rounded-full border-4 border-brand-blue/25 border-t-brand-blue animate-spin"></div>
+      <p class="mt-4 text-sm font-semibold text-ink-500">Word Wind 加载中…</p>
+    </div>
+  </div>
+</div>
+
+<!-- CDN 不可用时的兜底提示 -->
+<div id="bootError" class="hidden fixed inset-0 z-[300] grid place-items-center bg-cream-100 p-6">
+  <div class="max-w-[520px] rounded-2xl bg-white p-8 shadow-xl text-center">
+    <p class="text-2xl">📡</p>
+    <h1 class="mt-3 text-lg font-extrabold text-ink">资源加载失败</h1>
+    <p class="mt-2 text-sm leading-6 text-ink-500">
+      本页优先加载项目内 <code class="px-1 rounded bg-cream-200">vendor/</code> 目录下的
+      <b>Vue 3</b> 与 <b>Tailwind CSS</b>；若本地文件缺失才会请求 CDN。请确认
+      <code class="px-1 rounded bg-cream-200">vendor/vue.global.prod.js</code> 与
+      <code class="px-1 rounded bg-cream-200">vendor/tailwind.js</code> 存在，或网络可访问
+      <code class="px-1 rounded bg-cream-200">unpkg.com</code> / <code class="px-1 rounded bg-cream-200">cdn.tailwindcss.com</code>。
+    </p>
+  </div>
+</div>
+
+<noscript>
+  <div style="padding:24px;font-family:sans-serif">本页面需要启用 JavaScript 才能运行。</div>
+</noscript>
+
+<!-- ===================== 依赖：Vue 3（本地优先 + 两个 CDN 兜底） ===================== -->
+<script src="vendor/vue.global.prod.js"></script>
+<script>
+  if (!window.Vue) {
+    document.write('<script src="https://unpkg.com/vue@3.5.13/dist/vue.global.prod.js"><\/script>');
+  }
+</script>
+<script>
+  if (!window.Vue) {
+    document.write('<script src="https://cdn.jsdelivr.net/npm/vue@3.5.13/dist/vue.global.prod.js"><\/script>');
+  }
+</script>
+
+<!-- ===================== 数据层 ===================== -->
+<script src="js/data/words.js"></script>
+<script src="js/data/reading.js"></script>
+<script src="js/lib/reading-utils.js"></script>
+<script src="js/lib/breaking-news.js"></script>
+
+<!-- ===================== 路由与状态 ===================== -->
+<script src="js/router.js"></script>
+<script src="js/store.js"></script>
+
+<!-- ===================== 组件 ===================== -->
+<script src="js/components/AppTopBar.js"></script>
+<script src="js/components/ToastHost.js"></script>
+<script src="js/components/MeaningBlock.js"></script>
+<script src="js/components/WordCard.js"></script>
+<script src="js/components/LibrarySidebar.js"></script>
+<script src="js/components/ListModal.js"></script>
+<script src="js/components/WordDetailModal.js"></script>
+<script src="js/components/StudyView.js"></script>
+<script src="js/components/ArticleText.js"></script>
+<script src="js/components/ReadingView.js"></script>
+<script src="js/components/RegisterModal.js"></script>
+<script src="js/components/LoginView.js"></script>
+
+<!-- ===================== 启动 ===================== -->
+<script src="js/app.js"></script>
+<script>
+  (function () {
+    if (!window.Vue) {
+      document.getElementById('bootError').classList.remove('hidden');
+      document.getElementById('app').innerHTML = '';
+      return;
+    }
+    window.WW.boot();
+  })();
+</script>
+</body>
+</html>

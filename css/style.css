@@ -1,0 +1,176 @@
+/* ============================================================
+ * Word Wind · 自定义样式
+ * Tailwind 负责排版与配色，这里只放 Tailwind 不方便表达的部分：
+ * 动态渐变背景、毛玻璃、阅读排版、可点击单词、弹窗动画、滚动条
+ * ============================================================ */
+
+:root {
+  --ww-cream-1: #fbf6ec;
+  --ww-cream-2: #f3e8d6;
+  --ww-ink: #35404e;
+  --ww-blue: #4f8ef7;
+  --ww-pink: #ec5f8b;
+  --ww-violet: #8b7cf6;
+  --ww-card: rgba(255, 255, 255, 0.92);
+  --ww-line: #e8ddca;
+  --ww-word-hover: rgba(79, 142, 247, 0.12);
+  --ww-word-seen: rgba(236, 95, 139, 0.14);
+}
+
+.dark {
+  --ww-cream-1: #1a1c24;
+  --ww-cream-2: #22252f;
+  --ww-ink: #e8ecf3;
+  --ww-card: rgba(36, 40, 50, 0.92);
+  --ww-line: #363c4a;
+  --ww-word-hover: rgba(96, 165, 250, 0.18);
+  --ww-word-seen: rgba(236, 95, 139, 0.22);
+}
+
+html, body { height: 100%; }
+
+body {
+  margin: 0;
+  color: var(--ww-ink);
+  background: linear-gradient(-45deg, #fbf6ec, #f0e3cc, #f7ecdd, #fbe8ef);
+  background-size: 400% 400%;
+  animation: wwShift 20s ease infinite;
+  -webkit-font-smoothing: antialiased;
+}
+
+.dark body {
+  background: linear-gradient(-45deg, #191b23, #22242e, #211d28, #191b23);
+  background-size: 400% 400%;
+}
+
+@keyframes wwShift {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+/* 顶部/底部栏毛玻璃 */
+.ww-glass {
+  background: rgba(255, 253, 248, 0.78);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+}
+.dark .ww-glass { background: rgba(28, 30, 38, 0.82); }
+
+/* 卡片 */
+.ww-card {
+  background: var(--ww-card);
+  border: 1px solid rgba(255, 255, 255, 0.7);
+  box-shadow: 0 16px 40px rgba(120, 96, 60, 0.14);
+}
+.dark .ww-card {
+  border-color: rgba(255, 255, 255, 0.06);
+  box-shadow: 0 16px 40px rgba(0, 0, 0, 0.45);
+}
+
+/* 弹窗卡片需要完全不透明，避免正文透过弹窗隐约可见 */
+.ww-card.ww-solid { background: #fffdf9; }
+.dark .ww-card.ww-solid { background: #242832; }
+
+/* ---------------- 阅读页排版 ---------------- */
+.article-body { font-family: Georgia, "Times New Roman", "Songti SC", serif; }
+
+.article-para {
+  font-size: 1.06rem;
+  line-height: 2.05;
+  margin: 0 0 1.15rem;
+  color: #3c4756;
+  text-align: justify;
+  hyphens: auto;
+}
+.dark .article-para { color: #cfd8e4; }
+.article-para:first-of-type::first-letter {
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1;
+  padding-right: 6px;
+  color: var(--ww-blue);
+}
+.article-para:last-child { margin-bottom: 0; }
+
+.article-body.font-sm .article-para { font-size: 0.98rem; line-height: 1.95; }
+.article-body.font-lg .article-para { font-size: 1.18rem; line-height: 2.15; }
+
+/* 可点击单词 / 词组 */
+.rd-word {
+  cursor: pointer;
+  border-radius: 5px;
+  padding: 1px 2px;
+  margin: 0 -1px;
+  transition: background 0.16s ease, color 0.16s ease, box-shadow 0.16s ease;
+  box-shadow: inset 0 -2px 0 rgba(79, 142, 247, 0);
+}
+.rd-word:hover,
+.rd-word:focus-visible {
+  color: #2f6fd0;
+  background: var(--ww-word-hover);
+  box-shadow: inset 0 -2px 0 var(--ww-blue);
+  outline: none;
+}
+.dark .rd-word:hover,
+.dark .rd-word:focus-visible { color: #8fc0ff; }
+
+.rd-word.is-seen {
+  box-shadow: inset 0 -2px 0 rgba(236, 95, 139, 0.55);
+}
+.rd-word.is-seen:hover { box-shadow: inset 0 -2px 0 var(--ww-blue); }
+
+.rd-phrase {
+  cursor: pointer;
+  border-radius: 6px;
+  padding: 1px 5px;
+  margin: 0 -2px;
+  background: linear-gradient(90deg, rgba(220, 236, 251, 0.9), rgba(253, 227, 238, 0.9));
+  box-shadow: inset 0 -1px 0 rgba(139, 124, 246, 0.35);
+  transition: filter 0.16s ease, box-shadow 0.16s ease;
+}
+.rd-phrase:hover { filter: brightness(0.96); box-shadow: inset 0 -2px 0 var(--ww-violet); }
+.dark .rd-phrase { background: linear-gradient(90deg, rgba(38, 52, 74, 0.95), rgba(58, 39, 51, 0.95)); }
+
+/* ---------------- 弹窗动画 ---------------- */
+.ww-fade-enter-active, .ww-fade-leave-active { transition: opacity 0.22s ease; }
+.ww-fade-enter-from, .ww-fade-leave-to { opacity: 0; }
+
+.ww-pop-enter-active { animation: wwPop 0.32s cubic-bezier(0.2, 1.2, 0.4, 1) both; }
+.ww-pop-leave-active { transition: opacity 0.18s ease, transform 0.18s ease; }
+.ww-pop-leave-to { opacity: 0; transform: scale(0.96) translateY(10px); }
+
+@keyframes wwPop {
+  from { opacity: 0; transform: scale(0.92) translateY(18px); }
+  to { opacity: 1; transform: scale(1) translateY(0); }
+}
+
+/* ---------------- 表单校验失败抖动 ---------------- */
+@keyframes wwShake {
+  0%, 100% { transform: translateX(0); }
+  20% { transform: translateX(-6px); }
+  40% { transform: translateX(5px); }
+  60% { transform: translateX(-4px); }
+  80% { transform: translateX(3px); }
+}
+.ww-shake { animation: wwShake 0.45s ease; }
+
+/* ---------------- 发音按钮 ---------------- */
+.phon-btn.speaking {
+  background: linear-gradient(135deg, var(--ww-violet), var(--ww-blue)) !important;
+  box-shadow: 0 10px 22px rgba(139, 124, 246, 0.45) !important;
+}
+
+/* ---------------- 滚动条 ---------------- */
+.ww-scroll::-webkit-scrollbar { width: 10px; }
+.ww-scroll::-webkit-scrollbar-thumb {
+  background: rgba(139, 152, 168, 0.45);
+  border-radius: 99px;
+  border: 3px solid transparent;
+  background-clip: content-box;
+}
+.ww-scroll::-webkit-scrollbar-track { background: transparent; }
+
+::selection { background: rgba(79, 142, 247, 0.22); }
+
+[v-cloak] { display: none; }

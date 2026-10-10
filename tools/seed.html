@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head><meta charset="UTF-8" /><title>seed</title></head>
+<body>
+<!-- 仅用于验证单文件版：写入「记住我」的登录态后跳到目标页面 -->
+<script>
+  try { localStorage.setItem('ww_user', '小明'); } catch (e) {}
+  location.replace('../word-wind.standalone.html' + (location.hash || '#/app'));
+</script>
+</body>
+</html>

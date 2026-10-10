@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Word Wind · 渲染验证页（开发调试用）</title>
+<!--
+  仅用于自动化验证 / 截图：与 index.html 加载完全相同的资源，
+  额外支持三个查询参数，方便直接跳到某个界面：
+     ?user=小明        直接以某个用户身份进入（跳过登录）
+     ?theme=dark       进入夜间模式
+     ?lookup=habits    自动打开某个词的详情弹窗
+     ?noanim=1         关闭全部动画/过渡（截图用，避免动画被冻在半途）
+  路由仍由 hash 决定：#/app 或 #/reading
+-->
+<script>
+  if (new URLSearchParams(location.search).get('noanim')) {
+    document.write('<style>*,*::before,*::after{animation:none !important;transition:none !important}</style>');
+  }
+</script>
+<script src="../vendor/tailwind.js"></script>
+<script src="../js/tailwind-config.js"></script>
+<link rel="stylesheet" href="../css/style.css" />
+</head>
+<body>
+
+<div id="app" v-cloak></div>
+
+<script src="../vendor/vue.global.prod.js"></script>
+
+<script src="../js/data/words.js"></script>
+<script src="../js/data/reading.js"></script>
+<script src="../js/lib/reading-utils.js"></script>
+<script src="../js/lib/breaking-news.js"></script>
+<script src="../js/router.js"></script>
+<script src="../js/store.js"></script>
+
+<script src="../js/components/AppTopBar.js"></script>
+<script src="../js/components/ToastHost.js"></script>
+<script src="../js/components/MeaningBlock.js"></script>
+<script src="../js/components/WordCard.js"></script>
+<script src="../js/components/LibrarySidebar.js"></script>
+<script src="../js/components/ListModal.js"></script>
+<script src="../js/components/WordDetailModal.js"></script>
+<script src="../js/components/StudyView.js"></script>
+<script src="../js/components/ArticleText.js"></script>
+<script src="../js/components/ReadingView.js"></script>
+<script src="../js/components/RegisterModal.js"></script>
+<script src="../js/components/LoginView.js"></script>
+
+<script src="../js/app.js"></script>
+<script>
+  (function () {
+    var P = new URLSearchParams(location.search);
+    WW.store.state.user = P.get('user') || '小明';
+    WW.boot();
+    if (P.get('theme') === 'dark') WW.store.applyTheme(true);
+    var lk = P.get('lookup');
+    if (lk) setTimeout(function () { WW.store.lookupInArticle({ text: lk }); }, 120);
+  })();
+</script>
+</body>
+</html>
