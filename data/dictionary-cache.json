@@ -1,7 +1,7 @@
 {
   "source": "Free Dictionary API + Wiktionary + MyMemory",
-  "count": 3080,
-  "failed": 25,
+  "count": 3110,
+  "failed": 24,
   "words": {
     "ability": {
       "word": "ability",
@@ -104665,6 +104665,850 @@
         [
           "n",
           "A country in Southern Africa. Official name: Republic of Zambia. Formerly called Northern Rhodesia."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "affordable": {
+      "word": "affordable",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Able to be afforded; inexpensive or reasonably priced."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "auto": {
+      "word": "auto",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(automotive) A car with an automatic gearbox/transmission."
+        ],
+        [
+          "n",
+          "(automotive) An automatic gearbox/transmission."
+        ],
+        [
+          "n",
+          "(uncountable) A setting for automatic operation."
+        ],
+        [
+          "n",
+          "(India) An autorickshaw."
+        ],
+        [
+          "v",
+          "(intransitive, dated) To travel by automobile."
+        ],
+        [
+          "n",
+          "An unincorporated community in West Virginia."
+        ],
+        [
+          "n",
+          "(now chiefly attributive) Clipping of automobile. [(US, Canada, Philippines, Australia, New Zealand) A type of motor vehicle designed to move on the ground under its own stored power and intended to carry a driver, a small number of additional passengers, and a very limited amount of other load.]"
+        ],
+        [
+          "adj",
+          "(automotive) Clipping of automatic (of a gearbox/transmission). [Capable of operating without external control or intervention.]"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "agreement": {
+      "word": "agreement",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(countable) An understanding between entities to follow a specific course of conduct."
+        ],
+        [
+          "n",
+          "(uncountable) A state whereby several parties share a view or opinion; the state of not contradicting one another."
+        ],
+        [
+          "n",
+          "(uncountable, law) A legally binding contract enforceable in a court of law."
+        ],
+        [
+          "n",
+          "(uncountable, linguistics, grammar) Rules that exist in many languages that force some parts of a sentence to be used or inflected differently depending on certain attributes of other parts."
+        ],
+        [
+          "n",
+          "(obsolete, chiefly in the plural) An agreeable quality."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "alternatives": {
+      "word": "alternatives",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "N",
+          "Founded in 1994, Alternatives, Action and Communication Network for International Development, is a non-governmental, international solidarity organization based in Montreal, Quebec, Canada."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "byd": {
+      "word": "byd",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A Chinese multinational manufacturing company."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "china": {
+      "word": "china",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A large country in East Asia, occupying the region around the Yellow, Yangtze, and Pearl Rivers; the People's Republic of China, since 1949."
+        ],
+        [
+          "n",
+          "A cultural region and civilization in East Asia, occupying the region around the Yellow, Yangtze, and Pearl Rivers, taken as a whole under its various dynasties."
+        ],
+        [
+          "n",
+          "Synonym of mainland China."
+        ],
+        [
+          "n",
+          "China in One China, asserting that there is only one de jure Chinese nation"
+        ],
+        [
+          "n",
+          "(historical) The Republic of China prior to 1949, and sometimes after that time, particularly up through the early 1970's or so (when the People's Republic of China assumed the United Nations seat allocated to China)."
+        ],
+        [
+          "n",
+          "(historical) Any of the empires occupying similar territory to that of the modern nation of China, ruled under various dynasties up through the early 20th century."
+        ],
+        [
+          "n",
+          "An unincorporated community in Jefferson County, Indiana, United States."
+        ],
+        [
+          "n",
+          "A town in Kennebec County, Maine, United States."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "chinese": {
+      "word": "chinese",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Of, from, or related to China, particularly now the People's Republic of China."
+        ],
+        [
+          "adj",
+          "Of, from, or related to the people of China, particularly the Han Chinese and their culture whether in China or overseas."
+        ],
+        [
+          "adj",
+          "Of, from, or related to a language native to Han Chinese persons, often used generally of Chinese characters or particularly to refer to Standard Mandarin."
+        ],
+        [
+          "n",
+          "(countable, chiefly in the plural) A person from China or of Chinese descent."
+        ],
+        [
+          "n",
+          "(uncountable, collective) The citizens of China, particularly citizens of the People's Republic of China."
+        ],
+        [
+          "n",
+          "(uncountable, collective) The Han Chinese, whether in China or overseas."
+        ],
+        [
+          "n",
+          "(uncountable) The Standard Chinese language, written in Chinese characters and spoken and spelled using Standard Mandarin pronunciation."
+        ],
+        [
+          "n",
+          "(uncountable) The branch of the Sino-Tibetan language family including Mandarin, Cantonese, Shanghainese, Southern Min, and other closely related language varieties and dialects."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "carmakers": {
+      "word": "carmakers",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A manufacturer of automobiles."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "compete": {
+      "word": "compete",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "To be in battle or in a rivalry with another for the same thing, position, or reward; to contend."
+        ],
+        [
+          "v",
+          "To take part in a contest, game or similar event."
+        ],
+        [
+          "v",
+          "To strive to achieve or obtain something which another also strives for, whether knowingly or unknowingly."
+        ],
+        [
+          "v",
+          "To be in a position in which it is possible to win or triumph."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "closures": {
+      "word": "closures",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "An event or occurrence that signifies an ending."
+        ],
+        [
+          "n",
+          "(figurative) A feeling of completeness; the experience of an emotional conclusion, usually to a difficult period."
+        ],
+        [
+          "n",
+          "The act of shutting; a closing."
+        ],
+        [
+          "n",
+          "The act of shutting or closing something permanently or temporarily."
+        ],
+        [
+          "n",
+          "A device to facilitate temporary and repeatable opening and closing."
+        ],
+        [
+          "n",
+          "That which closes or shuts; that by which separate parts are fastened or closed."
+        ],
+        [
+          "n",
+          "(mathematics) The smallest set that both includes a given subset and possesses some given property."
+        ],
+        [
+          "n",
+          "(topology, of a set) The smallest closed set which contains the given set."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "competitively": {
+      "word": "competitively",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adv",
+          "In a competitive manner."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "equitable": {
+      "word": "equitable",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Fair, just, or impartial."
+        ],
+        [
+          "adj",
+          "Marked by or having equity."
+        ],
+        [
+          "adj",
+          "(law) Relating to the general principles of justice that correct or supplement the provisions of the law; relating to equity or courts of equity."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "established": {
+      "word": "established",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Having been in existence for a long time and therefore recognized and generally accepted."
+        ],
+        [
+          "adj",
+          "Of a religion, church etc.: formally recognized by a state as being official within that area."
+        ],
+        [
+          "adj",
+          "Of any social or economic entity: part of the establishment (“groups with socioeconomic power”)."
+        ],
+        [
+          "adj",
+          "(Model, procedure, disease) Explicitly defined, described or recognized as a reference."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "factory": {
+      "word": "factory",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A building or other place where manufacturing takes place."
+        ],
+        [
+          "n",
+          "A device or process that produces or manufactures something."
+        ],
+        [
+          "n",
+          "(programming) In a computer program or library, a function, method, etc. which creates an object."
+        ],
+        [
+          "n",
+          "(attributive) The original state of an electronic device, as it was when it came from the manufacturer."
+        ],
+        [
+          "adj",
+          "(colloquial, of a configuration, part, etc.) Having come from the factory in the state it is currently in; original, stock."
+        ],
+        [
+          "n",
+          "(UK, slang) A police station."
+        ],
+        [
+          "n",
+          "A factory farm."
+        ],
+        [
+          "n",
+          "(chiefly Scotland, now rare) The position or state of being a factor."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "foothold": {
+      "word": "foothold",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(by extension) A secure position from which it is difficult to be dislodged."
+        ],
+        [
+          "n",
+          "(climbing) A solid grip with the feet."
+        ],
+        [
+          "n",
+          "(military) Airhead, beachhead, bridgehead, lodgement."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "geely": {
+      "word": "geely",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "N",
+          "a city and municipality located in the Belgian province of Antwerp, which acquired city status in the 1980s."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "hybrid": {
+      "word": "hybrid",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "Something of mixed origin or composition; often, a tool or technology that combines the benefits of formerly separate tools or technologies."
+        ],
+        [
+          "n",
+          "(biology) Offspring resulting from cross-breeding different entities, e.g. two different species or two purebred parent strains."
+        ],
+        [
+          "n",
+          "A hybrid vehicle, especially a car; a vehicle that runs on both fuel (gasoline or diesel) and electricity (battery or energy from the sun)."
+        ],
+        [
+          "n",
+          "(cycling) A bicycle that is a compromise between a road bike and a mountain bike."
+        ],
+        [
+          "n",
+          "(golf) A golf club that combines the characteristics of an iron and a wood."
+        ],
+        [
+          "n",
+          "(computing) A computer that is part analog computer and part digital computer."
+        ],
+        [
+          "n",
+          "(electronics) An electronic circuit constructed of individual devices bonded to a substrate or PCB."
+        ],
+        [
+          "adj",
+          "Of or composed of mixed origin or composition."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "landmark": {
+      "word": "landmark",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A notable location with historical, cultural, or geographical significance."
+        ],
+        [
+          "n",
+          "A recognizable natural or man-made feature used for navigation."
+        ],
+        [
+          "n",
+          "(figurative, also attributive) A major event or discovery."
+        ],
+        [
+          "v",
+          "(US) To officially designate a site or building as a landmark."
+        ],
+        [
+          "n",
+          "(historical) An object that marks the boundary of a piece of land (usually a stone, or a tree)."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "losses": {
+      "word": "losses",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "something lost (especially money lost at gambling)"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "maros": {
+      "word": "maros",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A town in South Sulawesi, Indonesia."
+        ],
+        [
+          "n",
+          "The Mureș river in Romania and Hungary."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "motorists": {
+      "word": "motorists",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "One who drives a motor vehicle."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "negotiations": {
+      "word": "negotiations",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "The process of achieving agreement through discussion."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "negotiated": {
+      "word": "negotiated",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "(intransitive) To confer with others in order to come to terms or reach an agreement."
+        ],
+        [
+          "v",
+          "(transitive) To arrange or settle something by mutual agreement."
+        ],
+        [
+          "v",
+          "(transitive) To succeed in coping with, getting over or navigate a hazard or obstacle."
+        ],
+        [
+          "v",
+          "(transitive) To transfer to another person with all the rights of the original holder; to pass, as a bill."
+        ],
+        [
+          "v",
+          "(obsolete) To transact business; to carry on trade."
+        ],
+        [
+          "v",
+          "(obsolete) To intrigue; to scheme."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "package": {
+      "word": "package",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "Something which is packed, a parcel, a box, an envelope."
+        ],
+        [
+          "n",
+          "Something which consists of various components, such as a piece of computer software."
+        ],
+        [
+          "n",
+          "(software) A piece of software which has been prepared in such a way that it can be installed with a package manager."
+        ],
+        [
+          "v",
+          "To pack or bundle something."
+        ],
+        [
+          "v",
+          "To travel on a package holiday."
+        ],
+        [
+          "n",
+          "A package holiday."
+        ],
+        [
+          "v",
+          "To prepare (a book, a television series, etc.), including all stages from research to production, in order to sell the result to a publisher or broadcaster."
+        ],
+        [
+          "n",
+          "Something resembling a package."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "pleased": {
+      "word": "pleased",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Happy, content."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "sought": {
+      "word": "sought",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "being searched for"
+        ],
+        [
+          "adj",
+          "that is looked for"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "steadily": {
+      "word": "steadily",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adv",
+          "In a steady manner; with a steady progression."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "struggled": {
+      "word": "struggled",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "To strive, to labour in difficulty, to fight (for or against), to contend."
+        ],
+        [
+          "v",
+          "To have difficulty with something."
+        ],
+        [
+          "v",
+          "To strive, or to make efforts, with a twisting, or with contortions of the body."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "talks": {
+      "word": "talks",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "a discussion intended to produce an agreement"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "xiaomi": {
+      "word": "xiaomi",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "An electronic product made by Xiaomi, especially a phone."
         ]
       ],
       "sentences": [],
