@@ -1,6 +1,6 @@
 {
   "source": "Free Dictionary API + Wiktionary + MyMemory",
-  "count": 3110,
+  "count": 3141,
   "failed": 24,
   "words": {
     "ability": {
@@ -105509,6 +105509,1092 @@
         [
           "n",
           "An electronic product made by Xiaomi, especially a phone."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "anaphylactic": {
+      "word": "anaphylactic",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Pertaining to anaphylaxis."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "allergies": {
+      "word": "allergies",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(medicine, immunology, loosely) A disorder of the immune system causing adverse reactions to substances (allergens) not harmful to most and marked by the body's production of histamines and associated with atopy, anaphylaxis, and asthma; any condition of hypersensitivity to a substance."
+        ],
+        [
+          "n",
+          "(medicine, immunology, strictly) Specifically, hypersensitivity of class I in the modern classification thereof: the immunoglobulin E–mediated type."
+        ],
+        [
+          "n",
+          "(informal, figuratively) An antipathy, as toward a person or activity."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "backwards": {
+      "word": "backwards",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Synonym of backward; see usage notes there."
+        ],
+        [
+          "adv",
+          "Synonym of backward; see usage notes there."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "cameras": {
+      "word": "cameras",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(photography) A device for taking still or moving pictures or photographs."
+        ],
+        [
+          "n",
+          "(computer graphics, video games) The viewpoint in a three-dimensional game or simulation."
+        ],
+        [
+          "n",
+          "A judge's private chamber, where cases may be heard in camera."
+        ],
+        [
+          "n",
+          "A vaulted room."
+        ],
+        [
+          "n",
+          "A surname."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "bee": {
+      "word": "bee",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A flying insect, of the clade Anthophila within the hymenopteran superfamily Apoidea, known for its organised societies (though only a minority have them), for collecting pollen and (in some species) producing wax and honey."
+        ],
+        [
+          "n",
+          "A contest, especially for spelling; see spelling bee."
+        ],
+        [
+          "n",
+          "(informal, proscribed) Any stinging flying insect, especially a wasp."
+        ],
+        [
+          "n",
+          "A community gathering to share labour, e.g. a sewing bee or a quilting bee."
+        ],
+        [
+          "n",
+          "The name of the Latin-script letter B/b."
+        ],
+        [
+          "n",
+          "(nautical, usually in the plural) Any of the pieces of hard wood bolted to the sides of the bowsprit, to reeve the fore-topmast stays through."
+        ],
+        [
+          "n",
+          "(obsolete) A ring or torque; a bracelet."
+        ],
+        [
+          "n",
+          "A diminutive of the female given name Beatrice."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "breathing": {
+      "word": "breathing",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "Any gentle influence or operation; inspiration."
+        ],
+        [
+          "n",
+          "Aspiration; secret prayer."
+        ],
+        [
+          "n",
+          "A diacritical mark indicating aspiration or lack thereof."
+        ],
+        [
+          "n",
+          "(archaic) Time to recover one's breath; hence, a delay, a spell of time."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "emergency": {
+      "word": "emergency",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(sometimes attributive) A situation which poses an immediate risk and which requires urgent attention."
+        ],
+        [
+          "n",
+          "The department of a hospital that treats emergencies."
+        ],
+        [
+          "n",
+          "(euphemistic) A critical urge to urinate or defecate."
+        ],
+        [
+          "n",
+          "A person brought in at short notice to replace a member of staff, a player in a sporting team, etc."
+        ],
+        [
+          "n",
+          "(archaic) The quality of being emergent; sudden or unexpected appearance; an unforeseen occurrence."
+        ],
+        [
+          "n",
+          "(historical, Ireland) World War II as experienced in Ireland."
+        ],
+        [
+          "n",
+          "(historical, Malaysia, euphemistic) the Malayan Emergency as experienced in Malaysia."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "forwards": {
+      "word": "forwards",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adv",
+          "Synonym of forward in most senses."
+        ],
+        [
+          "adj",
+          "(sometimes nonstandard) Synonym of forward."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "exciting": {
+      "word": "exciting",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Creating or producing excitement."
+        ],
+        [
+          "adj",
+          "Sexually stimulating."
+        ],
+        [
+          "n",
+          "The process of something becoming excited; excitation."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "honey": {
+      "word": "honey",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(uncountable) A sweet, viscous, gold-colored fluid produced from plant nectar by bees, and often consumed by humans."
+        ],
+        [
+          "n",
+          "(countable) A variety of this substance."
+        ],
+        [
+          "n",
+          "(figuratively) Something sweet or desirable."
+        ],
+        [
+          "n",
+          "A term of affection."
+        ],
+        [
+          "n",
+          "(countable, informal) A woman, especially an attractive one."
+        ],
+        [
+          "n",
+          "A spectrum of pale yellow to brownish-yellow color, like that of most types of (the sweet substance) honey."
+        ],
+        [
+          "adj",
+          "Of a pale yellow to brownish-yellow color, like most types of honey."
+        ],
+        [
+          "adj",
+          "Involving or resembling honey."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "ice": {
+      "word": "ice",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "Water in frozen (solid) form."
+        ],
+        [
+          "n",
+          "(physics, astronomy) Any frozen volatile chemical, such as ammonia or carbon dioxide."
+        ],
+        [
+          "n",
+          "(astronomy) Any volatile chemical, such as water, ammonia, or carbon dioxide, not necessarily in solid form, when discussing the composition of e.g. a planet as an ice giant vs a gas giant."
+        ],
+        [
+          "v",
+          "(intransitive) To become ice; to freeze."
+        ],
+        [
+          "v",
+          "(transitive) To cool with ice, as an injured body part or a beverage."
+        ],
+        [
+          "v",
+          "(transitive) To make icy; to freeze."
+        ],
+        [
+          "n",
+          "(figuratively) Something having an extreme coldness of manner."
+        ],
+        [
+          "n",
+          "(figuratively) Something, such as awkwardness, that prevents open social interaction."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "immediately": {
+      "word": "immediately",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adv",
+          "In an immediate manner; instantly or without delay."
+        ],
+        [
+          "adv",
+          "Without any intervening time or space."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "high-speed": {
+      "word": "high-speed",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Physically elevated, extending above a base or average level:"
+        ],
+        [
+          "adj",
+          "Very elevated; extending or being far above a base; tall; lofty."
+        ],
+        [
+          "adj",
+          "Relatively elevated; rising or raised above the average or normal level from which elevation is measured."
+        ],
+        [
+          "adj",
+          "(baseball, of a ball) Above the batter's shoulders."
+        ],
+        [
+          "adj",
+          "Pertaining to (or, especially of a language: spoken in) in an area which is at a greater elevation, for example more mountainous, than other regions."
+        ],
+        [
+          "adj",
+          "Having a specified elevation or height; tall."
+        ],
+        [
+          "adj",
+          "Elevated in status, esteem, or prestige, or in importance or development; exalted in rank, station, or character."
+        ],
+        [
+          "adj",
+          "Most exalted; foremost."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "interesting": {
+      "word": "interesting",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Arousing or holding the attention or interest of someone."
+        ],
+        [
+          "adj",
+          "(euphemistic) Pregnant. (used with situation and condition)"
+        ],
+        [
+          "adj",
+          "(obsolete) Of concern; affecting, important."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "macquarie": {
+      "word": "macquarie",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(by ellipsis, usually preceded by the definite article) A Macquarie Dictionary."
+        ],
+        [
+          "n",
+          "A suburb of Canberra, Australian Capital Territory, Australia."
+        ],
+        [
+          "n",
+          "An electoral division in New South Wales, Australia."
+        ],
+        [
+          "n",
+          "A surname."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "millimetres": {
+      "word": "millimetres",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "An SI/MKS unit of measure, the length of ¹⁄₁₀₀₀ of a metre. Symbol: mm"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "pack": {
+      "word": "pack",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A bundle made up and prepared to be carried; especially, a bundle to be carried on the back, but also a load for an animal, a bale."
+        ],
+        [
+          "n",
+          "A number or quantity equal to the contents of a pack"
+        ],
+        [
+          "n",
+          "A multitude."
+        ],
+        [
+          "n",
+          "A number or quantity of connected or similar things; a collective."
+        ],
+        [
+          "n",
+          "A full set of playing cards"
+        ],
+        [
+          "n",
+          "The assortment of playing cards used in a particular game."
+        ],
+        [
+          "n",
+          "A group of hounds or dogs, hunting or kept together."
+        ],
+        [
+          "n",
+          "A wolfpack: a number of wolves, hunting together."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "push": {
+      "word": "push",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "(transitive, intransitive) To apply a force to (an object) such that it moves away from the person or thing applying the force."
+        ],
+        [
+          "v",
+          "(transitive) To continually attempt to persuade (a person) into a particular course of action."
+        ],
+        [
+          "v",
+          "(transitive) To press or urge forward; to drive."
+        ],
+        [
+          "v",
+          "(transitive) To continually promote (a point of view, a product for sale, etc.)."
+        ],
+        [
+          "v",
+          "(intransitive) To continually exert oneself in order to achieve a goal."
+        ],
+        [
+          "v",
+          "(informal, transitive, usually in present participle) To approach; to come close to."
+        ],
+        [
+          "v",
+          "(intransitive) To continue to attempt to persuade a person into a particular course of action."
+        ],
+        [
+          "n",
+          "An attempt to persuade someone into a particular course of action."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "redness": {
+      "word": "redness",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(uncountable) The state or quality of being red."
+        ],
+        [
+          "n",
+          "(countable, uncountable) A red discoloration, especially of skin."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "reaction": {
+      "word": "reaction",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "An action or statement in response to a stimulus or other event."
+        ],
+        [
+          "n",
+          "(chemistry) A transformation in which one or more substances is converted into another by combination or decomposition."
+        ],
+        [
+          "n",
+          "(Internet) An icon or emoji appended to a posted message by a user to express their feeling about it."
+        ],
+        [
+          "n",
+          "(politics) Reactionary politics; a period in which reactionary thought or politics is resurgent or dominant."
+        ],
+        [
+          "n",
+          "(Misesian praxeology, Austrian economics) Unpurposeful behavior."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "shock": {
+      "word": "shock",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A sudden, heavy impact."
+        ],
+        [
+          "n",
+          "(figuratively) Something so surprising that it is stunning."
+        ],
+        [
+          "n",
+          "(psychology) A sudden or violent mental or emotional disturbance."
+        ],
+        [
+          "n",
+          "(medicine) Electric shock, a sudden burst of electrical energy hitting a person or animal."
+        ],
+        [
+          "n",
+          "(psychology) A state of distress following a mental or emotional disturbance, often caused by news or other stimuli."
+        ],
+        [
+          "n",
+          "(medicine) Circulatory shock, a medical emergency characterized by the inability of the circulatory system to supply enough oxygen to meet tissue requirements."
+        ],
+        [
+          "n",
+          "(physics) A shock wave."
+        ],
+        [
+          "n",
+          "(automotive, mechanical engineering) A shock absorber (typically in the suspension of a vehicle)."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "soap": {
+      "word": "soap",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(chemistry) A metallic salt derived from a fatty acid, commonly used in cleaning products."
+        ],
+        [
+          "n",
+          "(countable, uncountable, informal, by extension, mineralogy) Some other substance, often a detergent or another surfactant, able to mix with both oil and water, used for cleaning."
+        ],
+        [
+          "n",
+          "(countable, informal) A soap opera."
+        ],
+        [
+          "v",
+          "(transitive) To apply soap to in washing."
+        ],
+        [
+          "v",
+          "(transitive, informal) To cover, lather, or in any other manner treat with soap, often as a prank."
+        ],
+        [
+          "n",
+          "(countable) A solid masonry unit or brick reduced in depth or height from standard dimensions."
+        ],
+        [
+          "n",
+          "(slang) Money, specially when used as a bribe."
+        ],
+        [
+          "v",
+          "(slang, dated) To flatter; to wheedle."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "sting": {
+      "word": "sting",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A puncture made by an insect or arachnid in an attack, usually including the injection of venom."
+        ],
+        [
+          "n",
+          "A pointed portion of an insect or arachnid used for attack."
+        ],
+        [
+          "n",
+          "The thrust of a sting into the flesh; the act of stinging; a wound inflicted by stinging."
+        ],
+        [
+          "n",
+          "A sharp, localized pain primarily on the epidermis."
+        ],
+        [
+          "v",
+          "(ambitransitive) To hurt, usually by introducing poison or a sharp point, or both."
+        ],
+        [
+          "v",
+          "(transitive, of an insect or arachnid) To puncture with the stinger."
+        ],
+        [
+          "v",
+          "(intransitive, sometimes figurative) To hurt, to be in pain (physically or emotionally)."
+        ],
+        [
+          "v",
+          "(figurative) To cause harm or pain to."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "stinger": {
+      "word": "stinger",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A pointed portion of an insect or arachnid used for attack."
+        ],
+        [
+          "n",
+          "Anything that is used to sting, as a means of attack."
+        ],
+        [
+          "n",
+          "Anything, such as an insult, that stings mentally or psychologically."
+        ],
+        [
+          "n",
+          "A minor neurological injury of the spine characterized by a shooting or stinging pain down one arm, followed by numbness and weakness."
+        ],
+        [
+          "n",
+          "A cocktail of brandy and crème de menthe."
+        ],
+        [
+          "n",
+          "A portable bed of nails to puncture car tires, used by police and military forces."
+        ],
+        [
+          "n",
+          "A short musical phrase or chord used non-diegetically to dramatic or emphatic effect."
+        ],
+        [
+          "n",
+          "(slang) A nonlethal grenade using rubber instead of shrapnel, more commonly called a sting grenade."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "stung": {
+      "word": "stung",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "feeling sharp psychological pain"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "swell": {
+      "word": "swell",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "(intransitive) To become bigger, especially due to being engorged."
+        ],
+        [
+          "v",
+          "(transitive) To cause to become bigger."
+        ],
+        [
+          "v",
+          "(intransitive) To grow gradually in force or loudness."
+        ],
+        [
+          "v",
+          "(transitive) To cause to grow gradually in force or loudness."
+        ],
+        [
+          "v",
+          "(transitive) To raise to arrogance; to puff up; to inflate."
+        ],
+        [
+          "v",
+          "(intransitive) To be raised to arrogance."
+        ],
+        [
+          "n",
+          "The act of swelling; increase in size."
+        ],
+        [
+          "n",
+          "A bulge or protuberance."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "throat": {
+      "word": "throat",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "The front part of the neck."
+        ],
+        [
+          "n",
+          "The gullet or windpipe."
+        ],
+        [
+          "n",
+          "A narrow opening in a vessel."
+        ],
+        [
+          "n",
+          "The part of a chimney between the gathering, or portion of the funnel which contracts in ascending, and the flue."
+        ],
+        [
+          "n",
+          "(nautical) The upper fore corner of a boom-and-gaff sail, or of a staysail."
+        ],
+        [
+          "n",
+          "(nautical) That end of a gaff which is next to the mast."
+        ],
+        [
+          "n",
+          "(nautical) The angle where the arm of an anchor is joined to the shank."
+        ],
+        [
+          "n",
+          "(shipbuilding) The inside of a timber knee."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "trouble": {
+      "word": "trouble",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A distressing or dangerous situation."
+        ],
+        [
+          "n",
+          "A difficulty, problem, condition, or action contributing to such a situation."
+        ],
+        [
+          "n",
+          "The state of being troubled, disturbed, or distressed mentally; unease, disquiet."
+        ],
+        [
+          "n",
+          "Objectionable feature of something or someone; problem, drawback, weakness, failing, or shortcoming."
+        ],
+        [
+          "n",
+          "Violent or turbulent occurrence or event; unrest, disturbance."
+        ],
+        [
+          "v",
+          "(transitive) To mentally distress; to cause (someone) to be anxious or perplexed."
+        ],
+        [
+          "v",
+          "(transitive) In weaker sense: to bother or inconvenience."
+        ],
+        [
+          "v",
+          "(transitive, of ailments, etc.) To physically afflict."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "unwell": {
+      "word": "unwell",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Not in good health; not feeling well; somewhat ill"
+        ],
+        [
+          "adj",
+          "(dated, euphemistic) Specifically, ill from menstruation; affected with, or having, catamenial; menstruant."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "venom": {
+      "word": "venom",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "An animal toxin intended for defensive or offensive use; a biological poison delivered by bite, sting, etc., to protect an animal or to kill its prey."
+        ],
+        [
+          "n",
+          "(figuratively) Feeling or speech marked by spite or malice; vitriol."
+        ],
+        [
+          "v",
+          "(transitive, obsolete) To infect with venom; to envenom; to poison."
+        ],
+        [
+          "adj",
+          "(obsolete) Poisonous, poisoned; (figuratively) pernicious."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "wash": {
+      "word": "wash",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "(transitive) To clean with water."
+        ],
+        [
+          "v",
+          "(transitive) To carry away or erode by the force of water in motion."
+        ],
+        [
+          "v",
+          "(intransitive) To be eroded or carried away by the action of water."
+        ],
+        [
+          "v",
+          "(mining) To separate valuable material (such as gold) from worthless material by the action of flowing water."
+        ],
+        [
+          "v",
+          "(intransitive) To clean oneself with water."
+        ],
+        [
+          "v",
+          "(transitive) To cover with water or any liquid; to wet; to fall on and moisten."
+        ],
+        [
+          "v",
+          "(intransitive) To move with a lapping or swashing sound; to lap or splash."
+        ],
+        [
+          "v",
+          "(intransitive, figuratively) To be cogent, convincing; to withstand critique."
         ]
       ],
       "sentences": [],

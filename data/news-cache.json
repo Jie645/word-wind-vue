@@ -6,6 +6,21 @@
   "failed": 0,
   "items": [
     {
+      "id": "2610/261015-honey-bee-stinger.html",
+      "title": "Scientists discover secret about a honey bee's stinger",
+      "url": "https://breakingnewsenglish.com/2610/261015-honey-bee-stinger.html",
+      "date": "15th October",
+      "dateIso": "2026-10-15",
+      "kind": "Easier",
+      "summary": "Scientists discover secret about a honey bee's stinger 15th October - \"Easier\"",
+      "availableLevels": {
+        "0": "https://breakingnewsenglish.com/2610/261015-honey-bee-stinger-0.html",
+        "1": "https://breakingnewsenglish.com/2610/261015-honey-bee-stinger-1.html",
+        "2": "https://breakingnewsenglish.com/2610/261015-honey-bee-stinger-2.html",
+        "3": "https://breakingnewsenglish.com/2610/261015-honey-bee-stinger.html"
+      }
+    },
+    {
       "id": "2610/261012-hybrid-car-exports.html",
       "title": "China agrees to halve hybrid car exports to EU",
       "url": "https://breakingnewsenglish.com/2610/261012-hybrid-car-exports.html",
@@ -200,7 +215,7 @@
       "date": "27th August",
       "dateIso": "2026-08-27",
       "kind": "Easier",
-      "summary": "Bali jails tourist for not respecting Day of Silence 27th August - \"Easier\"",
+      "summary": "Bali jails tourist for not respecting Day of Silence",
       "availableLevels": {
         "0": "https://breakingnewsenglish.com/2608/260827-bali-day-of-silence-0.html",
         "1": "https://breakingnewsenglish.com/2608/260827-bali-day-of-silence-1.html",
@@ -714,132 +729,9 @@
         "5": "https://breakingnewsenglish.com/2604/260427-tim-cook-apple-maps-5.html",
         "6": "https://breakingnewsenglish.com/2604/260427-tim-cook-apple-maps.html"
       }
-    },
-    {
-      "id": "2604/260423-looksmaxxing.html",
-      "title": "The new 'looksmaxxing' trend could be risky",
-      "url": "https://breakingnewsenglish.com/2604/260423-looksmaxxing.html",
-      "date": "23rd April",
-      "dateIso": "2026-04-23",
-      "kind": "Easier",
-      "summary": "The new 'looksmaxxing' trend could be risky",
-      "availableLevels": {
-        "0": "https://breakingnewsenglish.com/2604/260423-looksmaxxing-0.html",
-        "1": "https://breakingnewsenglish.com/2604/260423-looksmaxxing-1.html",
-        "2": "https://breakingnewsenglish.com/2604/260423-looksmaxxing-2.html",
-        "3": "https://breakingnewsenglish.com/2604/260423-looksmaxxing.html"
-      }
     }
   ],
   "articles": {
-    "https://breakingnewsenglish.com/2604/260423-looksmaxxing-0.html": {
-      "id": "2604/260423-looksmaxxing.html",
-      "title": "The new 'looksmaxxing' trend could be risky",
-      "titleZh": "",
-      "tag": "Easier",
-      "level": "Level 0 · A2",
-      "levelBand": "A2",
-      "resolvedLevel": 0,
-      "requestedLevel": 0,
-      "fallback": false,
-      "minutes": 1,
-      "words": 110,
-      "published": "23rd April",
-      "summary": "The new 'looksmaxxing' trend could be risky",
-      "paragraphs": [
-        "A new trend called \"looksmaxxing\" is making doctors worry about men. Many men want to be more handsome. However, they do some dangerous things to be more handsome. One thing is bone smashing. This changes the shape of bones in the face. Other men have cosmetic surgery or use fillers in their face.",
-        "Doctors are worried that men are damaging their mental health. Men get stressed if they worry too much about their looks. A looksmaxxing expert said looks should not be the most important thing in a man's life. A doctor said men can become very unhappy. He wants men to try ways to be happy with their looks."
-      ],
-      "sourceName": "Breaking News English",
-      "sourceUrl": "https://breakingnewsenglish.com/2604/260423-looksmaxxing-0.html",
-      "availableLevels": {
-        "0": "https://breakingnewsenglish.com/2604/260423-looksmaxxing-0.html",
-        "1": "https://breakingnewsenglish.com/2604/260423-looksmaxxing-1.html",
-        "2": "https://breakingnewsenglish.com/2604/260423-looksmaxxing-2.html",
-        "3": "https://breakingnewsenglish.com/2604/260423-looksmaxxing.html"
-      }
-    },
-    "https://breakingnewsenglish.com/2604/260423-looksmaxxing-1.html": {
-      "id": "2604/260423-looksmaxxing.html",
-      "title": "The new 'looksmaxxing' trend could be risky",
-      "titleZh": "",
-      "tag": "Easier",
-      "level": "Level 1 · A2-B1",
-      "levelBand": "A2-B1",
-      "resolvedLevel": 1,
-      "requestedLevel": 1,
-      "fallback": false,
-      "minutes": 1,
-      "words": 149,
-      "published": "23rd April",
-      "summary": "The new 'looksmaxxing' trend could be risky",
-      "paragraphs": [
-        "A new trend called \"looksmaxxing\" is making doctors worry about men. Many men want to \"maximize\" their looks. They want a handsome face and good body. They use some dangerous methods to get these. One method is bone smashing. This changes the shape of bones in the face. Men do this to look stronger. Other men have cosmetic surgery. They use fillers in their cheeks, under their eyes, and in their lips. These things can make men look younger.",
-        "Doctors are worried that men are damaging their health. Things can go wrong with bone smashing. Mental health experts say men can get stressed if they worry about their looks. An expert on looksmaxxing said looks are the most important thing in some men's lives. Another doctor warned that men can fall \"into the trap of dissatisfaction\". He hopes men will try new ways to be satisfied with their looks."
-      ],
-      "sourceName": "Breaking News English",
-      "sourceUrl": "https://breakingnewsenglish.com/2604/260423-looksmaxxing-1.html",
-      "availableLevels": {
-        "0": "https://breakingnewsenglish.com/2604/260423-looksmaxxing-0.html",
-        "1": "https://breakingnewsenglish.com/2604/260423-looksmaxxing-1.html",
-        "2": "https://breakingnewsenglish.com/2604/260423-looksmaxxing-2.html",
-        "3": "https://breakingnewsenglish.com/2604/260423-looksmaxxing.html"
-      }
-    },
-    "https://breakingnewsenglish.com/2604/260423-looksmaxxing-2.html": {
-      "id": "2604/260423-looksmaxxing.html",
-      "title": "The new 'looksmaxxing' trend could be risky",
-      "titleZh": "",
-      "tag": "Easier",
-      "level": "Level 2 · A2-B1",
-      "levelBand": "A2-B1",
-      "resolvedLevel": 2,
-      "requestedLevel": 2,
-      "fallback": false,
-      "minutes": 2,
-      "words": 188,
-      "published": "23rd April",
-      "summary": "The new 'looksmaxxing' trend could be risky",
-      "paragraphs": [
-        "A new trend is causing doctors to worry about men. The trend is called \"looksmaxxing\". Men want to \"maximize\" their looks. They want to have a more attractive face and body. They use some dangerous methods to do this. One method is bone smashing. This is putting pressure on bones in the face to change their shape. Men do this to get a square \"power jaw\". They want to look stronger. Other men are having cosmetic surgery. They are also using fillers in their cheeks, under their eyes, and in their lips. These things can remove wrinkles and make men look younger.",
-        "Doctors are worried that men are damaging their physical and mental health. Things can go wrong with bone smashing and cosmetic surgery. Mental health experts say men can develop anxiety if they worry about their looks. An expert on looksmaxxing said problems start for men when looks become the most important thing in their lives. A doctor in California warned that many men are falling \"into the trap of dissatisfaction and low self-esteem\". He hopes men will \"focus on more sustainable ways to generate their self-esteem\"."
-      ],
-      "sourceName": "Breaking News English",
-      "sourceUrl": "https://breakingnewsenglish.com/2604/260423-looksmaxxing-2.html",
-      "availableLevels": {
-        "0": "https://breakingnewsenglish.com/2604/260423-looksmaxxing-0.html",
-        "1": "https://breakingnewsenglish.com/2604/260423-looksmaxxing-1.html",
-        "2": "https://breakingnewsenglish.com/2604/260423-looksmaxxing-2.html",
-        "3": "https://breakingnewsenglish.com/2604/260423-looksmaxxing.html"
-      }
-    },
-    "https://breakingnewsenglish.com/2604/260423-looksmaxxing.html": {
-      "id": "2604/260423-looksmaxxing.html",
-      "title": "The new 'looksmaxxing' trend could be risky",
-      "titleZh": "",
-      "tag": "Easier",
-      "level": "Level 3 · B1",
-      "levelBand": "B1",
-      "resolvedLevel": 3,
-      "requestedLevel": 3,
-      "fallback": false,
-      "minutes": 2,
-      "words": 227,
-      "published": "23rd April",
-      "summary": "The new 'looksmaxxing' trend could be risky",
-      "paragraphs": [
-        "A new trend among young men is causing doctors to worry. The trend is called \"looksmaxxing\". Men who follow it want to maximize their looks. They want to have a more physically attractive face and body. They do this through many different methods. Some of these are dangerous. One method is bone smashing. This involves putting pressure on bones in the face to make them change shape. Many men do this to try to get a \"square\" jaw. They want to look stronger by having a \"power jaw\". Another thing young men are doing is having cosmetic surgery and using fillers in their cheeks, under their eyes, and in their lips. These things can remove wrinkles and make men look younger.",
-        "Many doctors are concerned that men who follow looksmaxxing are damaging their physical and mental health. Many things can go wrong with bone smashing and cosmetic surgery. Moreover, mental health experts warn that young men can develop anxiety if they constantly worry about their looks and body shape. Anda Solea, an expert on looksmaxxing, said problems start for men when looks become the only thing in their lives. Dr Stuart Murray, from the University of Southern California, warned that too many young men are falling \"into the trap of dissatisfaction and low self-esteem\". He hopes men will \"focus on more sustainable ways to generate their self-esteem\"."
-      ],
-      "sourceName": "Breaking News English",
-      "sourceUrl": "https://breakingnewsenglish.com/2604/260423-looksmaxxing.html",
-      "availableLevels": {
-        "0": "https://breakingnewsenglish.com/2604/260423-looksmaxxing-0.html",
-        "1": "https://breakingnewsenglish.com/2604/260423-looksmaxxing-1.html",
-        "2": "https://breakingnewsenglish.com/2604/260423-looksmaxxing-2.html",
-        "3": "https://breakingnewsenglish.com/2604/260423-looksmaxxing.html"
-      }
-    },
     "https://breakingnewsenglish.com/2604/260427-tim-cook-apple-maps-4.html": {
       "id": "2604/260427-tim-cook-apple-maps.html",
       "title": "Apple CEO says 2012 Apple Maps was 'big mistake'",
@@ -4093,7 +3985,7 @@
       "minutes": 1,
       "words": 119,
       "published": "27th August",
-      "summary": "Bali jails tourist for not respecting Day of Silence 27th August - \"Easier\"",
+      "summary": "Bali jails tourist for not respecting Day of Silence",
       "paragraphs": [
         "A tourist got a one-year jail sentence in Bali. He said bad things about a festival called the Day of Silence. It is a special time for Hindus. People stay at home and be quiet. The tourist broke the rules. He went outside. He made a video and used bad language. He was arrested after his video made Balinese people angry.",
         "The Day of Silence is hundreds of years old. People in Bali are quiet for one day. Bali's airport shuts down and people have less access to the internet. Traditional workers can go outside. They make sure people are indoors. The tourist did not understand how important the festival was. He did not mean to make people angry."
@@ -4120,7 +4012,7 @@
       "minutes": 1,
       "words": 155,
       "published": "27th August",
-      "summary": "Bali jails tourist for not respecting Day of Silence 27th August - \"Easier\"",
+      "summary": "Bali jails tourist for not respecting Day of Silence",
       "paragraphs": [
         "A tourist has been given a one-year jail sentence in Bali. His crime was saying bad things about a Hindu festival called the Day of Silence. It is a special time for Hindus. On this day, people must stay at home to fast and meditate. The 26-year-old tourist broke the rules by going outside. He filmed himself walking and using bad language. He said the silence was \"crazy\". He was arrested because his video made Balinese people angry.",
         "The Day of Silence is hundreds of years old. People in Bali try to be quiet for one day. They do not work or play. Bali's airport shuts down and people have less access to the internet. Traditional Balinese security officers can go outside. They make sure people are indoors. The tourist said he did not understand how important the festival was. He did not mean to hurt people. He was very regretful for what he did."
@@ -4147,7 +4039,7 @@
       "minutes": 2,
       "words": 201,
       "published": "27th August",
-      "summary": "Bali jails tourist for not respecting Day of Silence 27th August - \"Easier\"",
+      "summary": "Bali jails tourist for not respecting Day of Silence",
       "paragraphs": [
         "A Swiss tourist has been given a one-year jail sentence in Bali. His crime was saying bad things about a Hindu festival called Nyepi. In English, this is called Day of Silence. It is a special time for Hindus. On this day, the island becomes quiet. People stay at home to fast and meditate. The 26-year-old tourist broke the rules by going outside. He filmed himself walking to a beach. As he walked, he used a lot of bad language. He said the silence and lack of people were \"crazy\". He was arrested after the video he uploaded on social media made Balinese people angry.",
         "The Day of Silence has been celebrated for hundreds of years. People in Bali try to be quiet for one day. They do not work, travel, or do leisure activities. Bali's airport shuts down and people have less access to the internet. Some people, such as traditional Balinese security officers, can go outside. They make sure people are indoors. The judge said the tourist made Balinese people angry. The tourist said he did not understand how important Nyepi was. He did not mean to insult the Balinese people. He was very regretful for what he did."
@@ -4174,7 +4066,7 @@
       "minutes": 2,
       "words": 244,
       "published": "27th August",
-      "summary": "Bali jails tourist for not respecting Day of Silence 27th August - \"Easier\"",
+      "summary": "Bali jails tourist for not respecting Day of Silence",
       "paragraphs": [
         "A tourist from Switzerland has been given a one-year jail sentence in Bali, Indonesia. His crime was insulting (saying bad things about) an important Hindu festival called Nyepi. In English, this is called Day of Silence. It is a sacred time for Hindus in Bali. On this day, the island becomes quiet. People stay at home. They try to be silent, and they fast and meditate. The 26-year-old Swiss tourist broke the rules by going outside. He filmed himself walking to an empty beach. As he walked, he used a lot of swear words and bad language. He said the silence and lack of people were \"crazy\". He was arrested after the video he uploaded on social media made Balinese people angry.",
         "The Day of Silence has been celebrated for centuries. Today, people in Bali keep quiet from 6 am one day to 6 am the following day. During this period, people do not work, travel, or take part in leisure activities. Bali's airport shuts down and people have less access to the internet. Most people must stay at home. However, some people, such as traditional Balinese security officers, can go outside. They walk the streets to make sure people are indoors. The judge said the tourist made Balinese people angry and hurt their religious feelings. The tourist said he did not understand how important Nyepi was, and that he did not mean to insult the Balinese people. He expressed deep regret for what he did."
@@ -5380,6 +5272,114 @@
         "4": "https://breakingnewsenglish.com/2610/261012-hybrid-car-exports-4.html",
         "5": "https://breakingnewsenglish.com/2610/261012-hybrid-car-exports-5.html",
         "6": "https://breakingnewsenglish.com/2610/261012-hybrid-car-exports.html"
+      }
+    },
+    "https://breakingnewsenglish.com/2610/261015-honey-bee-stinger-0.html": {
+      "id": "2610/261015-honey-bee-stinger.html",
+      "title": "Scientists discover secret about a honey bee's stinger",
+      "titleZh": "",
+      "tag": "Easier",
+      "level": "Level 0 · A2",
+      "levelBand": "A2",
+      "resolvedLevel": 0,
+      "requestedLevel": 0,
+      "fallback": false,
+      "minutes": 1,
+      "words": 117,
+      "published": "15th October",
+      "summary": "Scientists discover secret about a honey bee's stinger 15th October - \"Easier\"",
+      "paragraphs": [
+        "Scientists found something interesting about honey bees. It is why a bee's stinger puts venom into a person's skin after it comes off the bee. The scientists videoed the stinger. The video showed that the stinger is like a pump. This keeps the venom going into a person's skin. A researcher hopes the discovery will be useful.",
+        "A bee sting can be very painful. It can be dangerous for people with allergies. They may have trouble breathing. If someone is stung by a bee, they should remove the stinger. This will stop venom going into the body. The person should also wash the area with soap. If a person feels unwell, they should call the emergency services."
+      ],
+      "sourceName": "Breaking News English",
+      "sourceUrl": "https://breakingnewsenglish.com/2610/261015-honey-bee-stinger-0.html",
+      "availableLevels": {
+        "0": "https://breakingnewsenglish.com/2610/261015-honey-bee-stinger-0.html",
+        "1": "https://breakingnewsenglish.com/2610/261015-honey-bee-stinger-1.html",
+        "2": "https://breakingnewsenglish.com/2610/261015-honey-bee-stinger-2.html",
+        "3": "https://breakingnewsenglish.com/2610/261015-honey-bee-stinger.html"
+      }
+    },
+    "https://breakingnewsenglish.com/2610/261015-honey-bee-stinger-1.html": {
+      "id": "2610/261015-honey-bee-stinger.html",
+      "title": "Scientists discover secret about a honey bee's stinger",
+      "titleZh": "",
+      "tag": "Easier",
+      "level": "Level 1 · A2-B1",
+      "levelBand": "A2-B1",
+      "resolvedLevel": 1,
+      "requestedLevel": 1,
+      "fallback": false,
+      "minutes": 1,
+      "words": 150,
+      "published": "15th October",
+      "summary": "Scientists discover secret about a honey bee's stinger 15th October - \"Easier\"",
+      "paragraphs": [
+        "Scientists in Australia made an exciting discovery about honey bees. It is about why a bee's stinger puts venom into a person's skin after it comes off the bee's body. The scientists videoed the stinger. The video showed that the stinger works like a pump. It has two small parts that move backwards and forwards. This keeps the venom flowing into the skin. A researcher hopes the discovery will be useful. Similar pumps could give medicine to people.",
+        "A bee sting can be very painful. It can be dangerous for people with allergies. Some people have a serious reaction. Their throat may swell up, or they may have trouble breathing. If someone is stung, they should remove the stinger. This will stop more venom going into the body. The person should also wash the area with soap and water. If the person feels unwell, someone should call the emergency services."
+      ],
+      "sourceName": "Breaking News English",
+      "sourceUrl": "https://breakingnewsenglish.com/2610/261015-honey-bee-stinger-1.html",
+      "availableLevels": {
+        "0": "https://breakingnewsenglish.com/2610/261015-honey-bee-stinger-0.html",
+        "1": "https://breakingnewsenglish.com/2610/261015-honey-bee-stinger-1.html",
+        "2": "https://breakingnewsenglish.com/2610/261015-honey-bee-stinger-2.html",
+        "3": "https://breakingnewsenglish.com/2610/261015-honey-bee-stinger.html"
+      }
+    },
+    "https://breakingnewsenglish.com/2610/261015-honey-bee-stinger-2.html": {
+      "id": "2610/261015-honey-bee-stinger.html",
+      "title": "Scientists discover secret about a honey bee's stinger",
+      "titleZh": "",
+      "tag": "Easier",
+      "level": "Level 2 · A2-B1",
+      "levelBand": "A2-B1",
+      "resolvedLevel": 2,
+      "requestedLevel": 2,
+      "fallback": false,
+      "minutes": 2,
+      "words": 193,
+      "published": "15th October",
+      "summary": "Scientists discover secret about a honey bee's stinger 15th October - \"Easier\"",
+      "paragraphs": [
+        "Scientists in Australia have made an exciting discovery about honey bees. The scientists found out why a bee's stinger puts venom into a person's skin after it comes off the bee's body. The scientists used high-speed cameras to film the stinger. The video showed that the stinger works like a pump. It has two small parts that move backwards and forwards. These parts help keep the venom flowing into the skin. A researcher said the pump's design was \"unique\". She hopes her discovery will be useful. Companies might make pumps that could give medicine to people.",
+        "A bee sting can be very painful. Most people have swelling after a sting. It can be dangerous for people who have allergies. Some people have a serious reaction. Their face or throat may swell up, or they may have trouble breathing. If someone is stung, they should remove the stinger quickly. This will stop more venom going into the body. The person should also wash the area with soap and water. In addition, it is a good idea to put an ice pack over the sting. If the person feels unwell, someone should call emergency services."
+      ],
+      "sourceName": "Breaking News English",
+      "sourceUrl": "https://breakingnewsenglish.com/2610/261015-honey-bee-stinger-2.html",
+      "availableLevels": {
+        "0": "https://breakingnewsenglish.com/2610/261015-honey-bee-stinger-0.html",
+        "1": "https://breakingnewsenglish.com/2610/261015-honey-bee-stinger-1.html",
+        "2": "https://breakingnewsenglish.com/2610/261015-honey-bee-stinger-2.html",
+        "3": "https://breakingnewsenglish.com/2610/261015-honey-bee-stinger.html"
+      }
+    },
+    "https://breakingnewsenglish.com/2610/261015-honey-bee-stinger.html": {
+      "id": "2610/261015-honey-bee-stinger.html",
+      "title": "Scientists discover secret about a honey bee's stinger",
+      "titleZh": "",
+      "tag": "Easier",
+      "level": "Level 3 · B1",
+      "levelBand": "B1",
+      "resolvedLevel": 3,
+      "requestedLevel": 3,
+      "fallback": false,
+      "minutes": 2,
+      "words": 233,
+      "published": "15th October",
+      "summary": "Scientists discover secret about a honey bee's stinger 15th October - \"Easier\"",
+      "paragraphs": [
+        "Scientists from Macquarie University in Australia have made an exciting discovery about honey bees. The scientists found out why a bee's stinger keeps putting venom into a person's skin after it leaves the bee's body. The scientists used high-speed cameras to film the tiny stinger, which is only two millimetres long. The video showed that the stinger works like a pump. It has two small parts that move backwards and forwards. These parts push the stinger deeper into a person's skin to help keep the venom flowing. The lead researcher said the design of the pump was \"unique\". She hopes her discovery will help companies make tiny pumps that could give medicine to people.",
+        "A bee sting can be very painful. Most people have pain, redness and swelling after a sting. However, a sting can be dangerous for people who have allergies. Some people have a serious reaction and go into anaphylactic shock. Their face or throat may swell up, or they may have trouble breathing. If someone is stung, they should remove the stinger as quickly as possible. This will help to stop more venom from entering their body. The person should also wash the area with soap and water. In addition, it is a good idea to put an ice pack over the sting to help reduce pain and swelling. If the person feels unwell, someone should call emergency services immediately."
+      ],
+      "sourceName": "Breaking News English",
+      "sourceUrl": "https://breakingnewsenglish.com/2610/261015-honey-bee-stinger.html",
+      "availableLevels": {
+        "0": "https://breakingnewsenglish.com/2610/261015-honey-bee-stinger-0.html",
+        "1": "https://breakingnewsenglish.com/2610/261015-honey-bee-stinger-1.html",
+        "2": "https://breakingnewsenglish.com/2610/261015-honey-bee-stinger-2.html",
+        "3": "https://breakingnewsenglish.com/2610/261015-honey-bee-stinger.html"
       }
     }
   }
