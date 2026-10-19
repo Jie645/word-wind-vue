@@ -6,6 +6,20 @@
   "failed": 0,
   "items": [
     {
+      "id": "2610/261019-food-waste.html",
+      "title": "One billion meals thrown away every day",
+      "url": "https://breakingnewsenglish.com/2610/261019-food-waste.html",
+      "date": "19th October",
+      "dateIso": "2026-10-19",
+      "kind": "Harder",
+      "summary": "One billion meals thrown away every day 19th October - \"Harder\"",
+      "availableLevels": {
+        "4": "https://breakingnewsenglish.com/2610/261019-food-waste-4.html",
+        "5": "https://breakingnewsenglish.com/2610/261019-food-waste-5.html",
+        "6": "https://breakingnewsenglish.com/2610/261019-food-waste.html"
+      }
+    },
+    {
       "id": "2610/261015-honey-bee-stinger.html",
       "title": "Scientists discover secret about a honey bee's stinger",
       "url": "https://breakingnewsenglish.com/2610/261015-honey-bee-stinger.html",
@@ -201,7 +215,7 @@
       "date": "31st August",
       "dateIso": "2026-08-31",
       "kind": "Harder",
-      "summary": "Companies destroying books to train AI models 31st August - \"Harder\"",
+      "summary": "Companies destroying books to train AI models",
       "availableLevels": {
         "4": "https://breakingnewsenglish.com/2608/260831-destroying-rare-books-4.html",
         "5": "https://breakingnewsenglish.com/2608/260831-destroying-rare-books-5.html",
@@ -715,101 +729,9 @@
         "2": "https://breakingnewsenglish.com/2604/260430-global-military-spending-2.html",
         "3": "https://breakingnewsenglish.com/2604/260430-global-military-spending.html"
       }
-    },
-    {
-      "id": "2604/260427-tim-cook-apple-maps.html",
-      "title": "Apple CEO says 2012 Apple Maps was 'big mistake'",
-      "url": "https://breakingnewsenglish.com/2604/260427-tim-cook-apple-maps.html",
-      "date": "27th April",
-      "dateIso": "2026-04-27",
-      "kind": "Harder",
-      "summary": "Apple CEO says 2012 Apple Maps was 'big mistake'",
-      "availableLevels": {
-        "4": "https://breakingnewsenglish.com/2604/260427-tim-cook-apple-maps-4.html",
-        "5": "https://breakingnewsenglish.com/2604/260427-tim-cook-apple-maps-5.html",
-        "6": "https://breakingnewsenglish.com/2604/260427-tim-cook-apple-maps.html"
-      }
     }
   ],
   "articles": {
-    "https://breakingnewsenglish.com/2604/260427-tim-cook-apple-maps-4.html": {
-      "id": "2604/260427-tim-cook-apple-maps.html",
-      "title": "Apple CEO says 2012 Apple Maps was 'big mistake'",
-      "titleZh": "",
-      "tag": "Harder",
-      "level": "Level 4 · B1-B2",
-      "levelBand": "B1-B2",
-      "resolvedLevel": 4,
-      "requestedLevel": 4,
-      "fallback": false,
-      "minutes": 1,
-      "words": 145,
-      "published": "27th April",
-      "summary": "Apple CEO says 2012 Apple Maps was 'big mistake'",
-      "paragraphs": [
-        "Tim Cook has spoken about being boss of Apple. Mr Cook will step down as CEO. He revealed which Apple products he thought were less than perfect. He said Apple Maps was a \"really big mistake\". In 2012, he recommended map apps from Apple's competitors. He said admitting this was hard. The original Apple Maps was criticised. Faulty data and mapping errors guided drivers to strange places. These included non-existent bridges and businesses in the ocean.",
-        "Tim Cook became Apple CEO in 2011. He transformed Apple from a $350 billion company into a $4 trillion giant. It continues to make huge profits and growth. Apple's brand represents a quality lifestyle choice. One in five people has an Apple device. Apple products are highly integrated in our lives. Cook said his biggest achievement was the Apple Watch. He said: \"Apple's greatest contribution ... will be in the health and wellness area.\""
-      ],
-      "sourceName": "Breaking News English",
-      "sourceUrl": "https://breakingnewsenglish.com/2604/260427-tim-cook-apple-maps-4.html",
-      "availableLevels": {
-        "4": "https://breakingnewsenglish.com/2604/260427-tim-cook-apple-maps-4.html",
-        "5": "https://breakingnewsenglish.com/2604/260427-tim-cook-apple-maps-5.html",
-        "6": "https://breakingnewsenglish.com/2604/260427-tim-cook-apple-maps.html"
-      }
-    },
-    "https://breakingnewsenglish.com/2604/260427-tim-cook-apple-maps-5.html": {
-      "id": "2604/260427-tim-cook-apple-maps.html",
-      "title": "Apple CEO says 2012 Apple Maps was 'big mistake'",
-      "titleZh": "",
-      "tag": "Harder",
-      "level": "Level 5 · B2-C1",
-      "levelBand": "B2-C1",
-      "resolvedLevel": 5,
-      "requestedLevel": 5,
-      "fallback": false,
-      "minutes": 2,
-      "words": 182,
-      "published": "27th April",
-      "summary": "Apple CEO says 2012 Apple Maps was 'big mistake'",
-      "paragraphs": [
-        "Tim Cook has spoken about his time as boss of the tech giant Apple. Mr Cook will step down as CEO in September. He revealed which Apple products he thought were less than perfect. He singled out Apple Maps, calling it a \"really big mistake\". In 2012, he recommended what he thought were more reliable map apps from Apple's competitors. He said admitting this was hard. The original Apple Maps was criticised for guiding drivers to strange places. This was because of faulty data and mapping errors. The places included non-existent bridges and businesses in the ocean.",
-        "Tim Cook became Apple CEO in 2011. He replaced pioneer and co-founder Steve Jobs. Cook transformed Apple from a $350 billion company into a $4 trillion company. It continues to generate huge profits and growth through products like the iPhone. Apple's brand represents a superlative lifestyle choice. Roughly one out of five people on Earth has an Apple device. Apple products are highly integrated in our lives. Cook said his greatest achievement was the Apple Watch. He said: \"Apple's greatest contribution ... will be in the health and wellness area.\""
-      ],
-      "sourceName": "Breaking News English",
-      "sourceUrl": "https://breakingnewsenglish.com/2604/260427-tim-cook-apple-maps-5.html",
-      "availableLevels": {
-        "4": "https://breakingnewsenglish.com/2604/260427-tim-cook-apple-maps-4.html",
-        "5": "https://breakingnewsenglish.com/2604/260427-tim-cook-apple-maps-5.html",
-        "6": "https://breakingnewsenglish.com/2604/260427-tim-cook-apple-maps.html"
-      }
-    },
-    "https://breakingnewsenglish.com/2604/260427-tim-cook-apple-maps.html": {
-      "id": "2604/260427-tim-cook-apple-maps.html",
-      "title": "Apple CEO says 2012 Apple Maps was 'big mistake'",
-      "titleZh": "",
-      "tag": "Harder",
-      "level": "Level 6 · C1-C2",
-      "levelBand": "C1-C2",
-      "resolvedLevel": 6,
-      "requestedLevel": 6,
-      "fallback": false,
-      "minutes": 2,
-      "words": 224,
-      "published": "27th April",
-      "summary": "Apple CEO says 2012 Apple Maps was 'big mistake'",
-      "paragraphs": [
-        "Outgoing Apple CEO Tim Cook has reflected on his time as head of the tech giant. Mr Cook will bow out as Apple boss in September. He revealed which Apple products he deemed to have been less than perfect. In particular, he singled out Apple Maps as being a \"really big mistake\". In 2012, he recommended using what he thought were more reliable map apps from Apple's competitors. He said admitting this was a hard thing to do. The original Apple Maps was widely criticised upon its release for guiding drivers to bizarre places due to faulty data and mapping errors. These included non-existent bridges, businesses in the ocean, and fields of wheat shown as airports.",
-        "Tim Cook was appointed CEO of Apple in 2011. He succeeded visionary pioneer and co-founder Steve Jobs. During his tenure, Cook transformed Apple from a $350 billion company into a $4 trillion company. It continues to generate enormous profits and growth through products like the iPhone. Cook has ensured Apple's brand represents a superlative lifestyle choice. Today, roughly one out of every five people on Earth uses an Apple device. Apple products are among the most integrated in our lives. Cook revealed that his greatest achievement was the Apple Watch, and its impact on health, fitness, and daily habits. He said: \"Apple's greatest contribution ... will be in the health and wellness area.\""
-      ],
-      "sourceName": "Breaking News English",
-      "sourceUrl": "https://breakingnewsenglish.com/2604/260427-tim-cook-apple-maps.html",
-      "availableLevels": {
-        "4": "https://breakingnewsenglish.com/2604/260427-tim-cook-apple-maps-4.html",
-        "5": "https://breakingnewsenglish.com/2604/260427-tim-cook-apple-maps-5.html",
-        "6": "https://breakingnewsenglish.com/2604/260427-tim-cook-apple-maps.html"
-      }
-    },
     "https://breakingnewsenglish.com/2604/260430-global-military-spending-0.html": {
       "id": "2604/260430-global-military-spending.html",
       "title": "Global military spending hits record $2.9 trillion",
@@ -4093,7 +4015,7 @@
       "minutes": 1,
       "words": 148,
       "published": "31st August",
-      "summary": "Companies destroying books to train AI models 31st August - \"Harder\"",
+      "summary": "Companies destroying books to train AI models",
       "paragraphs": [
         "Consumer groups in the US want the government to look at AI companies. The groups claim that AI companies are digitizing rare books to train their large language models (LLMs). The process includes breaking the spines of the books, scanning the pages, and then destroying them. Some books may be the last copies of the original texts. Critics say such books are historically important. One critic said we needed to preserve old books.",
         "The bulk buying of books is creating a problem for book stores. They are getting large orders for valuable books, but are also questioning the ethics of destroying books. Booksellers are getting unusually large orders for valuable books. Some of these books are apparently being bought not to be read, but to be scanned. The Washington Post reported that AI companies are spending lots of money on millions of books to help train AI assistants."
@@ -4119,7 +4041,7 @@
       "minutes": 2,
       "words": 189,
       "published": "31st August",
-      "summary": "Companies destroying books to train AI models 31st August - \"Harder\"",
+      "summary": "Companies destroying books to train AI models",
       "paragraphs": [
         "A trade commission in the US is being asked to investigate AI companies for allegedly destroying rare books. Some consumer groups claim that AI companies are digitizing old books to train their large language models (LLMs). The process includes breaking the spines of the rare books, scanning the pages, and then destroying them. Some books may be among the last surviving copies of the original texts. Critics say such books are historically important and that it is unacceptable to burn them. One critic said: \"The rarer a book is, the more carefully we should preserve it.\"",
         "The bulk buying of books is creating a problem for rare book stores. They are getting large orders for valuable books, but are also questioning the ethics of destroying books. The Wall Street Journal reported that sales of rare books have surged. Booksellers are getting unusually large orders for out-of-print, and sometimes valuable books. Some of these books are apparently being bought not to be read, but to be scanned for AI training. The Washington Post reported that AI companies are spending a fortune on millions of books to help train AI assistants."
@@ -4145,7 +4067,7 @@
       "minutes": 2,
       "words": 229,
       "published": "31st August",
-      "summary": "Companies destroying books to train AI models 31st August - \"Harder\"",
+      "summary": "Companies destroying books to train AI models",
       "paragraphs": [
         "The Federal Trade Commission in the USA is being urged to investigate AI companies for allegedly buying rare books in bulk and then destroying them. Groups like the Consumer Federation of America have asked the FTC to look into claims that AI companies are digitizing the books to train their large language models (LLMs). The process includes breaking the spines of the rare works, scanning the pages, and then destroying them. Some destroyed books may be among the last surviving copies of the original texts. Critics argue that such books are historically important and that it is not socially acceptable to burn them. One critic said: \"The rarer a book is, the more carefully we should preserve it.\"",
         "The bulk buying of books is creating a dilemma for stores that specialize in rare and antique books. They are receiving large orders for some rather valuable items, but are then questioning the ethics of destroying books. The Wall Street Journal reported that rare and obscure book sales have suddenly surged. Booksellers have been getting unusually large orders for out-of-print, and sometimes valuable books. It added that some books are apparently being bought not to be read, but to be digitized for AI training. Earlier this year, the Washington Post reported that the companies are spending a fortune on millions of books that are being used to help train AI assistants."
@@ -5380,6 +5302,84 @@
         "1": "https://breakingnewsenglish.com/2610/261015-honey-bee-stinger-1.html",
         "2": "https://breakingnewsenglish.com/2610/261015-honey-bee-stinger-2.html",
         "3": "https://breakingnewsenglish.com/2610/261015-honey-bee-stinger.html"
+      }
+    },
+    "https://breakingnewsenglish.com/2610/261019-food-waste-4.html": {
+      "id": "2610/261019-food-waste.html",
+      "title": "One billion meals thrown away every day",
+      "titleZh": "",
+      "tag": "Harder",
+      "level": "Level 4 · B1-B2",
+      "levelBand": "B1-B2",
+      "resolvedLevel": 4,
+      "requestedLevel": 4,
+      "fallback": false,
+      "minutes": 1,
+      "words": 139,
+      "published": "19th October",
+      "summary": "One billion meals thrown away every day 19th October - \"Harder\"",
+      "paragraphs": [
+        "A billion meals are thrown away every day, despite millions of people starving. The UN has reported that households are responsible for 60 per cent of food waste. Restaurants and food services waste 28 per cent and shops waste 12 per cent. The Maldives wastes the most, at around 260 kg per person annually. Food waste accounts for 10 per cent of greenhouse gas emissions. Rotting food in landfills releases dangerous gases like methane.",
+        "People, businesses and governments can all reduce food waste. People can plan meals, prepare shopping lists, and purchase only what they need. They can store food correctly, freeze surplus food, and turn leftovers into new dishes. Restaurants and supermarkets can donate surplus food to people in need. The UN said wasted food should be put to better use. Reducing waste would save money, improve food security and help climate change."
+      ],
+      "sourceName": "Breaking News English",
+      "sourceUrl": "https://breakingnewsenglish.com/2610/261019-food-waste-4.html",
+      "availableLevels": {
+        "4": "https://breakingnewsenglish.com/2610/261019-food-waste-4.html",
+        "5": "https://breakingnewsenglish.com/2610/261019-food-waste-5.html",
+        "6": "https://breakingnewsenglish.com/2610/261019-food-waste.html"
+      }
+    },
+    "https://breakingnewsenglish.com/2610/261019-food-waste-5.html": {
+      "id": "2610/261019-food-waste.html",
+      "title": "One billion meals thrown away every day",
+      "titleZh": "",
+      "tag": "Harder",
+      "level": "Level 5 · B2-C1",
+      "levelBand": "B2-C1",
+      "resolvedLevel": 5,
+      "requestedLevel": 5,
+      "fallback": false,
+      "minutes": 2,
+      "words": 176,
+      "published": "19th October",
+      "summary": "One billion meals thrown away every day 19th October - \"Harder\"",
+      "paragraphs": [
+        "Over a billion meals are thrown away every day, despite famines and people starving. The United Nations recently reported that households are responsible for 60 per cent of food waste. Restaurants and food services waste 28 per cent and shops waste 12 per cent. The Maldives has the highest household food waste per person, at around 260 kilograms annually. Globally, food waste accounts for 8 to 10 per cent of greenhouse gas emissions. As trashed food decomposes in landfills, it releases dangerous greenhouse gases like methane. This accelerates global warming.",
+        "People, businesses and governments can take steps to reduce food waste. People should plan meals, prepare shopping lists, and purchase only what they need. They should store food correctly and freeze surplus portions. They should also turn leftovers into new dishes. Restaurants and supermarkets also have a big part to play in reducing food loss. They can donate surplus food to people in need. The UN said: \"Every meal rescued, shared or never wasted is food put to better use.\" Reducing waste would save money, improve food security and help climate change."
+      ],
+      "sourceName": "Breaking News English",
+      "sourceUrl": "https://breakingnewsenglish.com/2610/261019-food-waste-5.html",
+      "availableLevels": {
+        "4": "https://breakingnewsenglish.com/2610/261019-food-waste-4.html",
+        "5": "https://breakingnewsenglish.com/2610/261019-food-waste-5.html",
+        "6": "https://breakingnewsenglish.com/2610/261019-food-waste.html"
+      }
+    },
+    "https://breakingnewsenglish.com/2610/261019-food-waste.html": {
+      "id": "2610/261019-food-waste.html",
+      "title": "One billion meals thrown away every day",
+      "titleZh": "",
+      "tag": "Harder",
+      "level": "Level 6 · C1-C2",
+      "levelBand": "C1-C2",
+      "resolvedLevel": 6,
+      "requestedLevel": 6,
+      "fallback": false,
+      "minutes": 2,
+      "words": 210,
+      "published": "19th October",
+      "summary": "One billion meals thrown away every day 19th October - \"Harder\"",
+      "paragraphs": [
+        "More than one billion meals are thrown away worldwide every day, despite famine and millions of people starving. The United Nations Environment Programme (UNEP) recently reported that households are responsible for 60 per cent of food waste, followed by restaurants and food services at 28 per cent, and shops at 12 per cent. The Maldives has the highest estimated household food waste per person, at around 260 kilograms annually. Syria, Seychelles, Mexico and Tunisia also recorded high levels. Globally, food waste accounts for 8 to 10 per cent of greenhouse gas emissions. As discarded food decomposes in landfills, it releases the dangerous greenhouse gas methane, which accelerates global warming.",
+        "Individuals, businesses and governments can all take practical steps to reduce food waste. People should plan meals, prepare shopping lists, and purchase only what they need. We should store ingredients correctly and freeze surplus portions. We should also turn leftovers into new dishes and compost inedible waste. Restaurants and supermarkets also have a huge part to play in reducing food loss. They can donate surplus food to communities in need. Martin Krause, Director of the Climate Change Division at UNEP, said: \"Every meal rescued, shared or never wasted is food put to better use.\" Reducing waste would save money, improve food security and help curb climate change."
+      ],
+      "sourceName": "Breaking News English",
+      "sourceUrl": "https://breakingnewsenglish.com/2610/261019-food-waste.html",
+      "availableLevels": {
+        "4": "https://breakingnewsenglish.com/2610/261019-food-waste-4.html",
+        "5": "https://breakingnewsenglish.com/2610/261019-food-waste-5.html",
+        "6": "https://breakingnewsenglish.com/2610/261019-food-waste.html"
       }
     }
   }
