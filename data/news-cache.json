@@ -6,6 +6,21 @@
   "failed": 0,
   "items": [
     {
+      "id": "2610/261022-ai-partner.html",
+      "title": "Man sells everything for AI dream \"partner\"",
+      "url": "https://breakingnewsenglish.com/2610/261022-ai-partner.html",
+      "date": "22nd October",
+      "dateIso": "2026-10-22",
+      "kind": "Easier",
+      "summary": "Man sells everything for AI dream \"partner\" 22nd October - \"Easier\"",
+      "availableLevels": {
+        "0": "https://breakingnewsenglish.com/2610/261022-ai-partner-0.html",
+        "1": "https://breakingnewsenglish.com/2610/261022-ai-partner-1.html",
+        "2": "https://breakingnewsenglish.com/2610/261022-ai-partner-2.html",
+        "3": "https://breakingnewsenglish.com/2610/261022-ai-partner.html"
+      }
+    },
+    {
       "id": "2610/261019-food-waste.html",
       "title": "One billion meals thrown away every day",
       "url": "https://breakingnewsenglish.com/2610/261019-food-waste.html",
@@ -200,7 +215,7 @@
       "date": "3rd September",
       "dateIso": "2026-09-03",
       "kind": "Easier",
-      "summary": "France and Saudi Arabia agree to manga theme park 3rd September - \"Easier\"",
+      "summary": "France and Saudi Arabia agree to manga theme park",
       "availableLevels": {
         "0": "https://breakingnewsenglish.com/2609/260903-manga-theme-park-0.html",
         "1": "https://breakingnewsenglish.com/2609/260903-manga-theme-park-1.html",
@@ -714,132 +729,9 @@
         "5": "https://breakingnewsenglish.com/2605/260504-press-freedom-5.html",
         "6": "https://breakingnewsenglish.com/2605/260504-press-freedom.html"
       }
-    },
-    {
-      "id": "2604/260430-global-military-spending.html",
-      "title": "Global military spending hits record $2.9 trillion",
-      "url": "https://breakingnewsenglish.com/2604/260430-global-military-spending.html",
-      "date": "30th April",
-      "dateIso": "2026-04-30",
-      "kind": "Easier",
-      "summary": "Global military spending hits record $2.9 trillion",
-      "availableLevels": {
-        "0": "https://breakingnewsenglish.com/2604/260430-global-military-spending-0.html",
-        "1": "https://breakingnewsenglish.com/2604/260430-global-military-spending-1.html",
-        "2": "https://breakingnewsenglish.com/2604/260430-global-military-spending-2.html",
-        "3": "https://breakingnewsenglish.com/2604/260430-global-military-spending.html"
-      }
     }
   ],
   "articles": {
-    "https://breakingnewsenglish.com/2604/260430-global-military-spending-0.html": {
-      "id": "2604/260430-global-military-spending.html",
-      "title": "Global military spending hits record $2.9 trillion",
-      "titleZh": "",
-      "tag": "Easier",
-      "level": "Level 0 · A2",
-      "levelBand": "A2",
-      "resolvedLevel": 0,
-      "requestedLevel": 0,
-      "fallback": false,
-      "minutes": 1,
-      "words": 100,
-      "published": "30th April",
-      "summary": "Global military spending hits record $2.9 trillion",
-      "paragraphs": [
-        "Military spending hit a record in 2025. A peace institute said global defence spending was nearly $2.9 trillion last year. Spending has gone up for eleven years in a row. Europe's defence spending increased by 14 per cent. The Asia-Oceania region increased its spending by 8.1 per cent. The USA is the biggest spender.",
-        "There are several reasons for the record levels of spending. One reason is that NATO countries met their spending targets. Another reason is the Russia-Ukraine war. Russia spent around 7.5 per cent of its GDP. Ukraine spent 40 per cent. The peace institute said countries are spending more because of today's wars."
-      ],
-      "sourceName": "Breaking News English",
-      "sourceUrl": "https://breakingnewsenglish.com/2604/260430-global-military-spending-0.html",
-      "availableLevels": {
-        "0": "https://breakingnewsenglish.com/2604/260430-global-military-spending-0.html",
-        "1": "https://breakingnewsenglish.com/2604/260430-global-military-spending-1.html",
-        "2": "https://breakingnewsenglish.com/2604/260430-global-military-spending-2.html",
-        "3": "https://breakingnewsenglish.com/2604/260430-global-military-spending.html"
-      }
-    },
-    "https://breakingnewsenglish.com/2604/260430-global-military-spending-1.html": {
-      "id": "2604/260430-global-military-spending.html",
-      "title": "Global military spending hits record $2.9 trillion",
-      "titleZh": "",
-      "tag": "Easier",
-      "level": "Level 1 · A2-B1",
-      "levelBand": "A2-B1",
-      "resolvedLevel": 1,
-      "requestedLevel": 1,
-      "fallback": false,
-      "minutes": 1,
-      "words": 139,
-      "published": "30th April",
-      "summary": "Global military spending hits record $2.9 trillion",
-      "paragraphs": [
-        "Military spending hit a record in 2025. New data published by a peace research institute said global defence spending was nearly $2.9 trillion last year. This was a three per cent rise from 2024. Spending has gone up for eleven years in a row. Europe's defence spending increased by 14 per cent, to $864 billion. The Asia-Oceania region increased its spending by 8.1 per cent. The USA is the biggest spender. It spent $954 billion on its military last year.",
-        "There are several reasons for the record levels of spending. One reason is that NATO members met their spending targets. Another reason is the Russia-Ukraine war. This is now five years old. Russia spent around 7.5 per cent of its GDP. Ukraine spent 40 per cent. The peace institute said countries are spending more because of today's wars. It added: \"This trend will probably continue through 2026 and beyond.\""
-      ],
-      "sourceName": "Breaking News English",
-      "sourceUrl": "https://breakingnewsenglish.com/2604/260430-global-military-spending-1.html",
-      "availableLevels": {
-        "0": "https://breakingnewsenglish.com/2604/260430-global-military-spending-0.html",
-        "1": "https://breakingnewsenglish.com/2604/260430-global-military-spending-1.html",
-        "2": "https://breakingnewsenglish.com/2604/260430-global-military-spending-2.html",
-        "3": "https://breakingnewsenglish.com/2604/260430-global-military-spending.html"
-      }
-    },
-    "https://breakingnewsenglish.com/2604/260430-global-military-spending-2.html": {
-      "id": "2604/260430-global-military-spending.html",
-      "title": "Global military spending hits record $2.9 trillion",
-      "titleZh": "",
-      "tag": "Easier",
-      "level": "Level 2 · A2-B1",
-      "levelBand": "A2-B1",
-      "resolvedLevel": 2,
-      "requestedLevel": 2,
-      "fallback": false,
-      "minutes": 2,
-      "words": 173,
-      "published": "30th April",
-      "summary": "Global military spending hits record $2.9 trillion",
-      "paragraphs": [
-        "Military spending reached a record in 2025. New data published by the Stockholm International Peace Research Institute (SIPRI) stated that global defence spending was nearly $2.9 trillion last year. This was a three per cent rise compared to 2024. Spending has now gone up for eleven years in a row. Europe's defence spending increased by 14 per cent, to $864 billion. The Asia-Oceania region increased its spending by 8.1 per cent, to $681 billion. The USA is the biggest spender. It spent $954 billion on its military last year.",
-        "There are several reasons for the record levels of spending. One reason is that NATO members met their target to spend two per cent of their GDP on defence. Another reason is the war between Russia and Ukraine. This is now in its fifth year. Russia spent around $190 billion on defence. This was 7.5 per cent of its GDP. Ukraine spent 40 per cent of its GDP on the war. SIPRI said that the increased spending shows how countries are reacting to today's wars. It added: \"This trend will probably continue through 2026 and beyond.\""
-      ],
-      "sourceName": "Breaking News English",
-      "sourceUrl": "https://breakingnewsenglish.com/2604/260430-global-military-spending-2.html",
-      "availableLevels": {
-        "0": "https://breakingnewsenglish.com/2604/260430-global-military-spending-0.html",
-        "1": "https://breakingnewsenglish.com/2604/260430-global-military-spending-1.html",
-        "2": "https://breakingnewsenglish.com/2604/260430-global-military-spending-2.html",
-        "3": "https://breakingnewsenglish.com/2604/260430-global-military-spending.html"
-      }
-    },
-    "https://breakingnewsenglish.com/2604/260430-global-military-spending.html": {
-      "id": "2604/260430-global-military-spending.html",
-      "title": "Global military spending hits record $2.9 trillion",
-      "titleZh": "",
-      "tag": "Easier",
-      "level": "Level 3 · B1",
-      "levelBand": "B1",
-      "resolvedLevel": 3,
-      "requestedLevel": 3,
-      "fallback": false,
-      "minutes": 2,
-      "words": 222,
-      "published": "30th April",
-      "summary": "Global military spending hits record $2.9 trillion",
-      "paragraphs": [
-        "Spending on weapons reached a record high in 2025. New data on military spending has been published by the Stockholm International Peace Research Institute (SIPRI). It writes a report every year called \"Trends in World Military Expenditure\". SIPRI stated that global defence spending was nearly $2.9 trillion last year. This was a three per cent rise compared to 2024. Spending on armed forces has now risen for eleven years in a row. Europe's defence spending shot up by 14 per cent, to $864 billion. The Asia-Oceania region increased its spending by 8.1 per cent, to $681 billion. The USA remained the biggest spender on defence. It spent $954 billion on its military last year.",
-        "There are several reasons for the record levels of spending in Europe. One reason is that all NATO members met their target to spend two per cent of their GDP on defence. Last year, NATO members agreed to a new target of five per cent by 2035. Another reason is the war between Russia and Ukraine. This conflict is now in its fifth year. Russia spent around $190 billion on defence. This was 7.5 per cent of its GDP. Ukraine spent an unbelievable 40 per cent of its GDP on the war. SIPRI said that the increased spending \"really speaks to countries' reactions to ongoing wars, tensions and geopolitical uncertainty\". It added: \"This trend will probably continue through 2026 and beyond.\""
-      ],
-      "sourceName": "Breaking News English",
-      "sourceUrl": "https://breakingnewsenglish.com/2604/260430-global-military-spending.html",
-      "availableLevels": {
-        "0": "https://breakingnewsenglish.com/2604/260430-global-military-spending-0.html",
-        "1": "https://breakingnewsenglish.com/2604/260430-global-military-spending-1.html",
-        "2": "https://breakingnewsenglish.com/2604/260430-global-military-spending-2.html",
-        "3": "https://breakingnewsenglish.com/2604/260430-global-military-spending.html"
-      }
-    },
     "https://breakingnewsenglish.com/2605/260504-press-freedom-4.html": {
       "id": "2605/260504-press-freedom.html",
       "title": "Press freedom at lowest level in 25 years",
@@ -4093,7 +3985,7 @@
       "minutes": 1,
       "words": 104,
       "published": "3rd September",
-      "summary": "France and Saudi Arabia agree to manga theme park 3rd September - \"Easier\"",
+      "summary": "France and Saudi Arabia agree to manga theme park",
       "paragraphs": [
         "Millions of people like Japanese manga. Series like One Piece and Naruto have fans everywhere. Manga fans will soon have a new theme park. Saudi Arabia and France are planning to build a $7 billion Dragon Ball Z park near Paris. The leaders of Saudi Arabia and France thought of the idea in 2024.",
         "The park will create many jobs in France. It will also help Saudi Arabia move away from oil. France's President Macron said the park would be \"a new global destination\". The French government said it was as big as Disneyland. The park will have 50,000 square metres of green spaces to help biodiversity."
@@ -4120,7 +4012,7 @@
       "minutes": 1,
       "words": 153,
       "published": "3rd September",
-      "summary": "France and Saudi Arabia agree to manga theme park 3rd September - \"Easier\"",
+      "summary": "France and Saudi Arabia agree to manga theme park",
       "paragraphs": [
         "Millions of people like Japanese manga. Popular series like One Piece and Naruto have fans all over the world. Manga fans will soon have a new theme park to go to. Saudi Arabia and France are planning to build a Dragon Ball Z park near Paris. It will cost around $7 billion. It will be one of Europe's largest parks. The leaders of Saudi Arabia and France thought of the idea in 2024. They both had a passion for manga and liked Dragon Ball Z.",
         "The park will create 22,000 jobs in France. It will also help Saudi Arabia move away from oil. Saudi has already moved into tourism, entertainment, and other industries. France's President Macron said the park would be \"a new global destination\". The French government said it was \"a project on the scale of Disneyland\". The Politico website said the park was \"expected to include 50,000 square metres of green spaces dedicated to biodiversity\"."
@@ -4147,7 +4039,7 @@
       "minutes": 2,
       "words": 190,
       "published": "3rd September",
-      "summary": "France and Saudi Arabia agree to manga theme park 3rd September - \"Easier\"",
+      "summary": "France and Saudi Arabia agree to manga theme park",
       "paragraphs": [
         "Millions of people love Japanese manga. Popular series like One Piece and Naruto have fans all over the world. This popularity is leading to a new theme park based on the series Dragon Ball Z. Saudi Arabia and France are planning to build it near Paris. It will cost around $7 billion and take several years to build. It will be one of Europe's largest theme parks. Saudi Arabia's Crown Prince Mohammed bin Salman and France's President Emmanuel Macron thought of the idea in Saudi Arabia in 2024. They both had a passion for manga and liked Dragon Ball Z.",
         "The project will be good for both countries. It will create 22,000 jobs in France. It will also help Saudi Arabia move its economy away from oil. Saudi has been investing in tourism, entertainment, sports and other industries. President Macron said the park would be \"a new global destination\". The French government said the park was \"a project on the scale of Disneyland\". The Politico website reported that the park would also focus on green issues. It wrote: \"The development is also expected to include 50,000 square metres of green spaces dedicated to biodiversity.\""
@@ -4174,7 +4066,7 @@
       "minutes": 2,
       "words": 225,
       "published": "3rd September",
-      "summary": "France and Saudi Arabia agree to manga theme park 3rd September - \"Easier\"",
+      "summary": "France and Saudi Arabia agree to manga theme park",
       "paragraphs": [
         "Millions of people around the world enjoy Japanese manga and anime. Popular series such as One Piece, Naruto, and Dragon Ball have fans in many countries. Now, this global popularity is leading to a new theme park. Saudi Arabia and France are planning an attraction based on the series Dragon Ball Z. It will be built near Paris and will cost around $7 billion. It will take several years to build and will be one of Europe's largest amusement parks. The idea for the park began after Saudi Arabia's Crown Prince Mohammed bin Salman met France's President Emmanuel Macron in Saudi Arabia in 2024. They discovered they both had a passion for manga and liked Dragon Ball Z.",
         "The project will benefit the economies of both countries. It will create 22,000 jobs in France. It will also help Saudi Arabia move away from relying on oil. As part of its plan to reduce its reliance on the fossil fuel, Saudi has been investing in tourism, entertainment, sports and other industries. President Macron said the park would be \"a new global destination\". A spokesperson for the French government said the park was \"a project on the scale of Disneyland\". The Politico website reported that the park would also focus on green issues. It wrote: \"The development is also expected to include 50,000 square metres of green spaces dedicated to biodiversity.\""
@@ -5380,6 +5272,114 @@
         "4": "https://breakingnewsenglish.com/2610/261019-food-waste-4.html",
         "5": "https://breakingnewsenglish.com/2610/261019-food-waste-5.html",
         "6": "https://breakingnewsenglish.com/2610/261019-food-waste.html"
+      }
+    },
+    "https://breakingnewsenglish.com/2610/261022-ai-partner-0.html": {
+      "id": "2610/261022-ai-partner.html",
+      "title": "Man sells everything for AI dream 'partner'",
+      "titleZh": "",
+      "tag": "Easier",
+      "level": "Level 0 · A2",
+      "levelBand": "A2",
+      "resolvedLevel": 0,
+      "requestedLevel": 0,
+      "fallback": false,
+      "minutes": 1,
+      "words": 114,
+      "published": "22nd October",
+      "summary": "Man sells everything for AI dream \"partner\" 22nd October - \"Easier\"",
+      "paragraphs": [
+        "A man had a sad experience looking for love. He sold everything he owned to meet a woman he met online. He travelled 2,000 kilometres to see her. When the man went to meet her, he could not find her. He showed people photos of her, but nobody knew her. He found out that she was not real. She was made by AI.",
+        "The man's story shows that online love is risky. People can be tricked. AI can make people look real. The online woman looked like a real person. Mr X hopes people do not make the mistake he made. He said that loneliness can cause people to have \"many problems\" in their life."
+      ],
+      "sourceName": "Breaking News English",
+      "sourceUrl": "https://breakingnewsenglish.com/2610/261022-ai-partner-0.html",
+      "availableLevels": {
+        "0": "https://breakingnewsenglish.com/2610/261022-ai-partner-0.html",
+        "1": "https://breakingnewsenglish.com/2610/261022-ai-partner-1.html",
+        "2": "https://breakingnewsenglish.com/2610/261022-ai-partner-2.html",
+        "3": "https://breakingnewsenglish.com/2610/261022-ai-partner.html"
+      }
+    },
+    "https://breakingnewsenglish.com/2610/261022-ai-partner-1.html": {
+      "id": "2610/261022-ai-partner.html",
+      "title": "Man sells everything for AI dream 'partner'",
+      "titleZh": "",
+      "tag": "Easier",
+      "level": "Level 1 · A2-B1",
+      "levelBand": "A2-B1",
+      "resolvedLevel": 1,
+      "requestedLevel": 1,
+      "fallback": false,
+      "minutes": 1,
+      "words": 167,
+      "published": "22nd October",
+      "summary": "Man sells everything for AI dream \"partner\" 22nd October - \"Easier\"",
+      "paragraphs": [
+        "A man, Mr X, had a sad experience looking for love. He sold everything he owned to get money to see a woman. He met her online. He travelled 2,000 kilometres by bus to see her. Her name was Jessica. Her online profile read: \"I want you to come to my farm and never work again in your life.\" Mr X went to meet her, but he could not find her. He showed people photos of her, but nobody knew her. He found out that she was not real. She was made by AI.",
+        "Mr X's story shows that online love is risky. People try to find a partner online, but they can be tricked. This is because AI can make people look real. Jessica looked like a real woman. The person who made her wanted her to help sell things on their website. Mr X hopes people do not make the mistake he made. He said: \"Sometimes, loneliness at home causes many problems in a person's life.\""
+      ],
+      "sourceName": "Breaking News English",
+      "sourceUrl": "https://breakingnewsenglish.com/2610/261022-ai-partner-1.html",
+      "availableLevels": {
+        "0": "https://breakingnewsenglish.com/2610/261022-ai-partner-0.html",
+        "1": "https://breakingnewsenglish.com/2610/261022-ai-partner-1.html",
+        "2": "https://breakingnewsenglish.com/2610/261022-ai-partner-2.html",
+        "3": "https://breakingnewsenglish.com/2610/261022-ai-partner.html"
+      }
+    },
+    "https://breakingnewsenglish.com/2610/261022-ai-partner-2.html": {
+      "id": "2610/261022-ai-partner.html",
+      "title": "Man sells everything for AI dream 'partner'",
+      "titleZh": "",
+      "tag": "Easier",
+      "level": "Level 2 · A2-B1",
+      "levelBand": "A2-B1",
+      "resolvedLevel": 2,
+      "requestedLevel": 2,
+      "fallback": false,
+      "minutes": 2,
+      "words": 226,
+      "published": "22nd October",
+      "summary": "Man sells everything for AI dream \"partner\" 22nd October - \"Easier\"",
+      "paragraphs": [
+        "A man, Mr X, had a sad experience in his search for love. Mr X sold everything he owned to get money to see a woman he met online. He travelled over 2,000 kilometres by bus to see her. Her name was Jessica. Her online profile read: \"I really want to support you. I want you to come to my farm and never work again in your life.\" Mr X went to a city in Brazil to meet her, but he could not find her. He showed people photos of her. However, nobody knew who she was. He then found out that she was not real. She was made by AI. The man was sad. He said: \"I came here to find happiness.\"",
+        "Mr X's story shows that it is risky to look for love online. Many people try to find a partner online, but they can be tricked. This is because AI can make people look real. Jessica had over 300,000 followers. She looked like a real woman. The person who created her wanted to get people's attention online. They wanted to use Jessica to help sell things. Mr X hopes people do not make a similar mistake in the future. It is important to check the identity of someone you meet online. Mr X said: \"Sometimes, loneliness at home causes many problems in a person's life.\""
+      ],
+      "sourceName": "Breaking News English",
+      "sourceUrl": "https://breakingnewsenglish.com/2610/261022-ai-partner-2.html",
+      "availableLevels": {
+        "0": "https://breakingnewsenglish.com/2610/261022-ai-partner-0.html",
+        "1": "https://breakingnewsenglish.com/2610/261022-ai-partner-1.html",
+        "2": "https://breakingnewsenglish.com/2610/261022-ai-partner-2.html",
+        "3": "https://breakingnewsenglish.com/2610/261022-ai-partner.html"
+      }
+    },
+    "https://breakingnewsenglish.com/2610/261022-ai-partner.html": {
+      "id": "2610/261022-ai-partner.html",
+      "title": "Man sells everything for AI dream 'partner'",
+      "titleZh": "",
+      "tag": "Easier",
+      "level": "Level 3 · B1",
+      "levelBand": "B1",
+      "resolvedLevel": 3,
+      "requestedLevel": 3,
+      "fallback": false,
+      "minutes": 2,
+      "words": 261,
+      "published": "22nd October",
+      "summary": "Man sells everything for AI dream \"partner\" 22nd October - \"Easier\"",
+      "paragraphs": [
+        "A man in Brazil had a sad experience in his search for love. Mr X, 49, sold everything he owned to get enough money to see a woman he met online. He travelled over 2,000 kilometres by bus. He first met her online in 2020 and fell in love with her. He wanted to marry her. Her name was Jessica. Her online profile read: \"I really want to support you. I want you to come to my farm and never work again in your life.\" Mr X went to meet her in the city of Belo Horizonte, but he could not find her. He showed people photos of her, but nobody knew who she was. He then found out that she was not real. She was created by AI. The man was sad. He said: \"I came here to find happiness.\"",
+        "Mr X's story shows how risky it can be to look for love online. Many people feel lonely and want to find a partner. However, they can be easily tricked because AI can make people who look and sound real. Jessica's social media account had over 300,000 followers. She looked like a real woman. The person who created Jessica said they made her to get people's attention online. They wanted to use the AI Jessica to help sell things. Mr X wants people to be careful so they don't make a similar mistake in the future. It is important to check the identity of a person you meet online carefully. The man said: \"Sometimes, loneliness at home causes many problems in a person's life.\""
+      ],
+      "sourceName": "Breaking News English",
+      "sourceUrl": "https://breakingnewsenglish.com/2610/261022-ai-partner.html",
+      "availableLevels": {
+        "0": "https://breakingnewsenglish.com/2610/261022-ai-partner-0.html",
+        "1": "https://breakingnewsenglish.com/2610/261022-ai-partner-1.html",
+        "2": "https://breakingnewsenglish.com/2610/261022-ai-partner-2.html",
+        "3": "https://breakingnewsenglish.com/2610/261022-ai-partner.html"
       }
     }
   }

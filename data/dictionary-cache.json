@@ -1,7 +1,7 @@
 {
   "source": "Free Dictionary API + Wiktionary + MyMemory",
-  "count": 3188,
-  "failed": 24,
+  "count": 3210,
+  "failed": 22,
   "words": {
     "ability": {
       "word": "ability",
@@ -108005,6 +108005,745 @@
         [
           "n",
           "(slang) A beating; a thrashing."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "account": {
+      "word": "account",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(accounting) A registry of pecuniary transactions; a written or printed statement of business dealings or debts and credits, and also of other things subjected to a reckoning or review."
+        ],
+        [
+          "n",
+          "(banking) A bank account."
+        ],
+        [
+          "n",
+          "A statement in general of reasons, causes, grounds, etc., explanatory of some event; a reason of an action to be done."
+        ],
+        [
+          "n",
+          "A reason, grounds, consideration, motive; a person's sake."
+        ],
+        [
+          "n",
+          "A record of events; a relation or narrative."
+        ],
+        [
+          "n",
+          "An estimate or estimation; valuation; judgment."
+        ],
+        [
+          "n",
+          "Importance; worth; value; esteem; judgement."
+        ],
+        [
+          "n",
+          "Authorization as a specific registered user in accessing a system."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "attention": {
+      "word": "attention",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(uncountable) Mental focus."
+        ],
+        [
+          "n",
+          "(countable) An action or remark expressing concern for or interest in someone or something, especially romantic interest."
+        ],
+        [
+          "n",
+          "(uncountable, military) A state of alertness in the standing position."
+        ],
+        [
+          "n",
+          "(uncountable, machine learning) A kind of prioritisation technique in neural networks that assigns soft weights between tokens from two (or more) input sequences in order to compute the required output."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "belo": {
+      "word": "belo",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A surname from Portuguese."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "brazil": {
+      "word": "brazil",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A large Portuguese-speaking country in South America. Official name: Federative Republic of Brazil. Capital: Brasília."
+        ],
+        [
+          "n",
+          "A city, the county seat of Clay County, Indiana, United States."
+        ],
+        [
+          "n",
+          "A surname from Irish."
+        ],
+        [
+          "n",
+          "A Brazil nut."
+        ],
+        [
+          "n",
+          "The hard, brown wood of a certain species of the tribe Caesalpinieae; originally sappan (Biancaea sappan), of the East Indies, and later brazilwood, Paubrasilia echinata."
+        ],
+        [
+          "n",
+          "(obsolete) A red-orange dye obtained from brazil wood."
+        ],
+        [
+          "n",
+          "A seam of coal containing iron pyrites"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "careful": {
+      "word": "careful",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Taking care; attentive to potential danger, error or harm; cautious."
+        ],
+        [
+          "adj",
+          "Conscientious and painstaking; meticulous."
+        ],
+        [
+          "adj",
+          "(obsolete) Full of cares or anxiety; worried, troubled."
+        ],
+        [
+          "adj",
+          "(obsolete) Full of care or grief; sorrowful, sad."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "farm": {
+      "word": "farm",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(countable) A place where agricultural and similar activities take place, especially the growing of crops or the raising of livestock."
+        ],
+        [
+          "n",
+          "(countable) A tract of land held on lease for the purpose of cultivation."
+        ],
+        [
+          "n",
+          "(countable, often in combination) A location used for an industrial purpose, having many similar structures."
+        ],
+        [
+          "n",
+          "(computing, countable) A group of coordinated servers."
+        ],
+        [
+          "v",
+          "(intransitive) To work on a farm, especially in the growing and harvesting of crops."
+        ],
+        [
+          "v",
+          "(transitive) To devote (land) to farming."
+        ],
+        [
+          "v",
+          "(transitive) To grow (a particular crop)."
+        ],
+        [
+          "v",
+          "To give up to another, as an estate, a business, the revenue, etc., on condition of receiving in return a percentage of what it yields; to farm out."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "everything": {
+      "word": "everything",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "(ambitransitive, colloquial, somewhat uncommon) Used as a placeholder verb to encapsulate a set of related verbs or any action."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "here": {
+      "word": "here",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adv",
+          "(location) In, on, or at this place (a place perceived to be close to the speaker); compare there."
+        ],
+        [
+          "adv",
+          "(abstract) At this point or stage (in a process, argument, narration, etc.)"
+        ],
+        [
+          "n",
+          "This place; this location."
+        ],
+        [
+          "adv",
+          "(abstract) In this matter."
+        ],
+        [
+          "adv",
+          "(abstract) In this context."
+        ],
+        [
+          "adv",
+          "(as complement of 'be') Notionally at the speaker's location by virtue of happening now."
+        ],
+        [
+          "n",
+          "(abstract) This time, the present situation."
+        ],
+        [
+          "n",
+          "(figuratively) This point or stage in time, conceptualised as a location."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "happiness": {
+      "word": "happiness",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(uncountable) The emotion of being happy; joy; elation."
+        ],
+        [
+          "n",
+          "(archaic, uncountable) Prosperity, thriving, wellbeing."
+        ],
+        [
+          "n",
+          "(archaic, uncountable) Good luck; good fortune."
+        ],
+        [
+          "n",
+          "(obsolete, countable) Fortuitous elegance; unstudied grace, used especially of language."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "jessica": {
+      "word": "jessica",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A female given name from Hebrew."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "horizonte": {
+      "word": "horizonte",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "identity": {
+      "word": "identity",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "The difference or character that marks off an individual or collective from the rest of the same kind; selfhood; the sense of who something or someone or oneself is, or the recurring characteristics that enable the recognition of such an individual or group by others or themselves."
+        ],
+        [
+          "n",
+          "Sameness, identicalness; the quality or fact of (several specified things) being the same."
+        ],
+        [
+          "n",
+          "A name or persona—a mask or appearance one presents to the world—by which one is known."
+        ],
+        [
+          "n",
+          "(Australia, New Zealand) A well-known or famous person."
+        ],
+        [
+          "n",
+          "(mathematics) An equation which always holds true regardless of the choice of input variables."
+        ],
+        [
+          "n",
+          "(algebra, computing) Any function which maps all elements of its domain to themselves."
+        ],
+        [
+          "n",
+          "(algebra) An element of an algebraic structure which, when applied to another element under an operation in that structure, yields this second element."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "knew": {
+      "word": "knew",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "(transitive) To perceive the truth or factuality of; to be certain of; to be certain that."
+        ],
+        [
+          "v",
+          "(transitive) To be aware of; to be cognizant of."
+        ],
+        [
+          "v",
+          "(intransitive) To be or become aware or cognizant."
+        ],
+        [
+          "v",
+          "(intransitive) To have knowledge; to have information, be informed."
+        ],
+        [
+          "v",
+          "To understand or have a grasp of through experience or study."
+        ],
+        [
+          "v",
+          "(transitive) To be acquainted or familiar with; to have encountered."
+        ],
+        [
+          "v",
+          "(transitive) To experience."
+        ],
+        [
+          "v",
+          "(transitive) To be able to distinguish, to discern, particularly by contrast or comparison; to recognize the nature of."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "lonely": {
+      "word": "lonely",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Unhappy due to feeling isolated from contact with other people."
+        ],
+        [
+          "adj",
+          "(of a person) Without companions; solitary."
+        ],
+        [
+          "adj",
+          "(of a place or time) Unfrequented by people; desolate."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "loneliness": {
+      "word": "loneliness",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "The condition or state of being alone or having no companions."
+        ],
+        [
+          "n",
+          "A feeling of depression resulting from being alone or from having no companions."
+        ],
+        [
+          "n",
+          "The state of being unfrequented or devoid of human activity (of a place or time)."
+        ],
+        [
+          "n",
+          "(obsolete) A desire to be alone; disposition to solitude."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "marry": {
+      "word": "marry",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "(intransitive) To enter into the conjugal or connubial state; to take a husband or a wife."
+        ],
+        [
+          "v",
+          "(intransitive) To enter into marriage with one another."
+        ],
+        [
+          "v",
+          "(transitive) To take as husband or wife."
+        ],
+        [
+          "v",
+          "(transitive) To unite in wedlock or matrimony; to perform the ceremony of joining spouses; to bring about a marital union according to the laws or customs of a place."
+        ],
+        [
+          "v",
+          "(transitive) To arrange for the marriage of; to give away as wife or husband."
+        ],
+        [
+          "v",
+          "(transitive, figuratively) To unite; to join together into a close union."
+        ],
+        [
+          "v",
+          "(intransitive, figuratively, of inanimate or abstract things) To join or connect. See also marry up."
+        ],
+        [
+          "v",
+          "(nautical) To place (two ropes) alongside each other so that they may be grasped and hauled on at the same time."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "nobody": {
+      "word": "nobody",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "Someone who is not important or well-known."
+        ],
+        [
+          "n",
+          "Something that has no body or an especially small one."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "profile": {
+      "word": "profile",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(countable) The outermost shape, view, or edge of an object."
+        ],
+        [
+          "n",
+          "(countable) The shape, view, or shadow of a person's head from the side; a side view."
+        ],
+        [
+          "n",
+          "(countable) A summary or collection of information, especially about a person"
+        ],
+        [
+          "n",
+          "(Internet, countable) A specific page or field in which users can provide various types of personal information in software or Internet systems."
+        ],
+        [
+          "n",
+          "(figurative, uncountable) Reputation, prominence; noticeability."
+        ],
+        [
+          "n",
+          "(uncountable) The amount by which something protrudes."
+        ],
+        [
+          "n",
+          "(archaeology) A smoothed (e.g., troweled or brushed) vertical surface of an excavation showing evidence of at least one feature or diagnostic specimen; the graphic recording of such as by sketching, photographing, etc."
+        ],
+        [
+          "n",
+          "Character; totality of related characteristics; signature; status (especially in scientific, technical, or military uses)."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "risky": {
+      "word": "risky",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Dangerous, involving risks."
+        ],
+        [
+          "adj",
+          "Misspelling of risqué. [Slightly sexually suggestive; bordering on indelicate.]"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "sound": {
+      "word": "sound",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A sensation perceived by the ear caused by the vibration of air or some other medium."
+        ],
+        [
+          "n",
+          "A vibration capable of causing such sensations."
+        ],
+        [
+          "n",
+          "(music) A distinctive style and sonority of a particular musician, orchestra etc."
+        ],
+        [
+          "adj",
+          "(of sleep) Quiet and deep."
+        ],
+        [
+          "adj",
+          "(British, Ireland, slang) Good; acceptable; decent."
+        ],
+        [
+          "adj",
+          "Healthy."
+        ],
+        [
+          "adj",
+          "Complete, solid, or secure."
+        ],
+        [
+          "adj",
+          "Founded in law; legal; valid; not defective."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "support": {
+      "word": "support",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "(transitive) To help keep from falling."
+        ],
+        [
+          "v",
+          "(transitive) To back or favor a cause, party, etc., mentally or with concrete aid:"
+        ],
+        [
+          "v",
+          "(transitive) To provide sustenance or maintenance for; to sustain in integrity or livelihood."
+        ],
+        [
+          "v",
+          "(transitive) To help, particularly financially; to subsidize."
+        ],
+        [
+          "v",
+          "(transitive) To provide evidence for; to lend credibility to."
+        ],
+        [
+          "v",
+          "(transitive) To serve, as in a customer-oriented position; to give support to."
+        ],
+        [
+          "v",
+          "(transitive) To assist or be involved with, but not be responsible for."
+        ],
+        [
+          "v",
+          "(transitive) To answer questions and resolve problems regarding something sold."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "tricked": {
+      "word": "tricked",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "(transitive) To fool; to cause to believe something untrue; to deceive."
+        ],
+        [
+          "v",
+          "To engage in prostitution or casual sex."
+        ],
+        [
+          "v",
+          "(heraldry) To draw (as contrasted with to blazon, which is to describe in words)."
+        ],
+        [
+          "v",
+          "To dress; to decorate; to adorn fantastically; often followed by up, off, or out."
         ]
       ],
       "sentences": [],
