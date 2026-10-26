@@ -1,7 +1,7 @@
 {
   "source": "Free Dictionary API + Wiktionary + MyMemory",
-  "count": 3210,
-  "failed": 22,
+  "count": 3251,
+  "failed": 23,
   "words": {
     "ability": {
       "word": "ability",
@@ -108744,6 +108744,1400 @@
         [
           "v",
           "To dress; to decorate; to adorn fantastically; often followed by up, off, or out."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "absence": {
+      "word": "absence",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A state of being away or withdrawn from a place or from companionship"
+        ],
+        [
+          "n",
+          "Failure to be present where one is expected, wanted, or needed; nonattendance; deficiency."
+        ],
+        [
+          "n",
+          "The period of someone being away."
+        ],
+        [
+          "n",
+          "Lack; deficiency; non-existence."
+        ],
+        [
+          "n",
+          "Inattention to things present; abstraction (of mind)."
+        ],
+        [
+          "n",
+          "(medicine) Temporary loss or disruption of consciousness, with sudden onset and recovery, and common in epilepsy."
+        ],
+        [
+          "n",
+          "(fencing) Lack of contact between blades."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "consent": {
+      "word": "consent",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "(intransitive) To express willingness, to give permission."
+        ],
+        [
+          "n",
+          "Voluntary agreement or permission."
+        ],
+        [
+          "v",
+          "(intransitive) To agree in opinion or sentiment; to be of the same mind; to accord; to concur."
+        ],
+        [
+          "v",
+          "(transitive, medicine) To cause to sign a consent form."
+        ],
+        [
+          "v",
+          "(transitive, obsolete) To grant; to allow; to assent to."
+        ],
+        [
+          "n",
+          "(obsolete) Unity or agreement of opinion, sentiment, or inclination."
+        ],
+        [
+          "n",
+          "(obsolete) Advice; counsel."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "campaigner": {
+      "word": "campaigner",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A person who campaigns for a person running for political office or works, or supports, in an organised and active way towards a goal; an activist."
+        ],
+        [
+          "n",
+          "A person who has served in a military campaign."
+        ],
+        [
+          "n",
+          "(by extension) A military veteran."
+        ],
+        [
+          "n",
+          "Someone with experience in a certain field."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "cited": {
+      "word": "cited",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "That has a citation"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "code": {
+      "word": "code",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(programming, uncountable) Instructions for a computer, written in a programming language; the input of a translator, an interpreter or a browser, namely: source code, machine code, bytecode."
+        ],
+        [
+          "n",
+          "A set of rules for converting information into another form or representation."
+        ],
+        [
+          "n",
+          "A message represented by rules intended to conceal its meaning."
+        ],
+        [
+          "n",
+          "A body of law, sanctioned by legislation, in which the rules of law to be specifically applied by the courts are set forth in systematic form; a compilation of laws by public authority; a digest."
+        ],
+        [
+          "n",
+          "Any system of principles, rules or regulations relating to one subject."
+        ],
+        [
+          "n",
+          "(informal) A set of unwritten rules that bind a social group."
+        ],
+        [
+          "v",
+          "(computing) To write software programs."
+        ],
+        [
+          "v",
+          "(transitive) To add codes to (a data set)."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "contemporary": {
+      "word": "contemporary",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Modern, of the present age (shorthand for ‘contemporary with the present’)."
+        ],
+        [
+          "adj",
+          "From the same time period, coexistent in time; contemporaneous."
+        ],
+        [
+          "n",
+          "Someone or something belonging to the same time period (as someone or something else)"
+        ],
+        [
+          "n",
+          "Something existing at the same time."
+        ],
+        [
+          "n",
+          "(dated) A rival newspaper or magazine."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "council": {
+      "word": "council",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A committee that leads or governs (e.g. city council, student council)."
+        ],
+        [
+          "n",
+          "(UK, metonymic) A local authority."
+        ],
+        [
+          "n",
+          "Discussion or deliberation."
+        ],
+        [
+          "n",
+          "A small city, the county seat of Adams County, Idaho, United States."
+        ],
+        [
+          "n",
+          "A surname."
+        ],
+        [
+          "n",
+          "A male given name."
+        ],
+        [
+          "n",
+          "(Christianity) Short for church council [A formal meeting of bishops and church representatives who are brought together to regulate points of doctrine or discipline.]"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "criticism": {
+      "word": "criticism",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(uncountable) The act of criticising; a critical judgment passed or expressed"
+        ],
+        [
+          "n",
+          "(countable) A critical observation or detailed examination and review."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "daughter": {
+      "word": "daughter",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "One’s female offspring."
+        ],
+        [
+          "n",
+          "A female descendant."
+        ],
+        [
+          "n",
+          "(by extension) A female character of a creator."
+        ],
+        [
+          "n",
+          "(informal, uncommon, sometimes derogatory) A familiar address to a female person from an older or otherwise more authoritative person."
+        ],
+        [
+          "n",
+          "A daughter language."
+        ],
+        [
+          "n",
+          "(syntax, of a parse tree) A descendant."
+        ],
+        [
+          "n",
+          "(physics) A nuclide left over from radioactive decay."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "deceased": {
+      "word": "deceased",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "No longer alive; dead."
+        ],
+        [
+          "adj",
+          "(law) One who has died. In property law, the alternate term decedent is generally used. In criminal law, \"the deceased\" refers to the victim of a homicide."
+        ],
+        [
+          "n",
+          "(law) One who has died. In property law, the alternate term decedent is generally used in US English. In criminal law, “the deceased” refers to the victim of a homicide."
+        ],
+        [
+          "adj",
+          "Belonging to the dead."
+        ],
+        [
+          "n",
+          "(euphemistic) Synonym of dead (“those who have died”)."
+        ],
+        [
+          "adj",
+          "(hyperbolic) Overwhelmed to the point of being figuratively dead."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "dignity": {
+      "word": "dignity",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "The state of being dignified or worthy of esteem: elevation of mind or character."
+        ],
+        [
+          "n",
+          "Decorum, formality, stateliness."
+        ],
+        [
+          "n",
+          "(sometimes proscribed) Respect."
+        ],
+        [
+          "n",
+          "High office, rank, or station."
+        ],
+        [
+          "n",
+          "One holding high rank; a dignitary."
+        ],
+        [
+          "n",
+          "(obsolete) Fundamental principle; axiom; maxim."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "egyptian": {
+      "word": "egyptian",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Of, from, or pertaining to Egypt, the Egyptian people or the Egyptian language."
+        ],
+        [
+          "n",
+          "A person from Egypt or of Egyptian descent."
+        ],
+        [
+          "n",
+          "The Afroasiatic language spoken (and written) in ancient Egypt"
+        ],
+        [
+          "n",
+          "(dated) A gypsy."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "exhibition": {
+      "word": "exhibition",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A large-scale public showing of objects or products."
+        ],
+        [
+          "n",
+          "An instance of exhibiting, or something exhibited."
+        ],
+        [
+          "n",
+          "A demonstration of personal skill or feelings."
+        ],
+        [
+          "n",
+          "A public display, intentional or otherwise, generally characterised as negative."
+        ],
+        [
+          "n",
+          "(sports) A game which does not impact the standings for any major cup or competition."
+        ],
+        [
+          "n",
+          "(UK) A financial award or prize given to a student (who becomes an exhibitioner) by a school or university, usually on the basis of academic merit."
+        ],
+        [
+          "v",
+          "(intransitive) To participate in sexual exhibitionism."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "exhibits": {
+      "word": "exhibits",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "(transitive) To display or show (something) for others to see, especially at an exhibition or contest."
+        ],
+        [
+          "v",
+          "(transitive) To demonstrate."
+        ],
+        [
+          "v",
+          "(intransitive) To put on a public display."
+        ],
+        [
+          "n",
+          "An instance of exhibiting."
+        ],
+        [
+          "n",
+          "A public showing; an exhibition."
+        ],
+        [
+          "v",
+          "(transitive, law) To submit (a physical object) to a court as evidence."
+        ],
+        [
+          "n",
+          "(law) An article formally introduced as evidence in a court."
+        ],
+        [
+          "v",
+          "(medicine) To administer as a remedy."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "gallery": {
+      "word": "gallery",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "An institution, building, or room for the exhibition and conservation of important objects, especially works of art."
+        ],
+        [
+          "n",
+          "An establishment that buys, sells, and displays works of art."
+        ],
+        [
+          "n",
+          "The uppermost seating area projecting from the rear or side walls of a theater, concert hall, or auditorium."
+        ],
+        [
+          "n",
+          "(by extension, metonymic) The spectators at an event, collectively."
+        ],
+        [
+          "n",
+          "(law) The part of a courtroom, often elevated and in the rear, where seating for the public audience is facilitated during trial."
+        ],
+        [
+          "n",
+          "(computing) A browsable collection of images, font styles, etc."
+        ],
+        [
+          "n",
+          "A roofed promenade, especially one extending along the wall of a building and supported by arches or columns on the outer side."
+        ],
+        [
+          "n",
+          "(automotive) A channel that carries engine oil to parts of the engine that need lubrication, such as the main bearings."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "fraser": {
+      "word": "fraser",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A river in British Columbia that flows from the Rocky Mountains into the Strait of Georgia, named after Simon Fraser (explorer)."
+        ],
+        [
+          "n",
+          "A placename"
+        ],
+        [
+          "n",
+          "A number of places in Canada."
+        ],
+        [
+          "n",
+          "A Scottish surname from Old French thought to be of Norman origin."
+        ],
+        [
+          "n",
+          "A male given name transferred from the surname."
+        ],
+        [
+          "n",
+          "A number of places in the United States:"
+        ],
+        [
+          "n",
+          "A city in Macomb County, Michigan."
+        ],
+        [
+          "n",
+          "A township in Bay County, Michigan."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "glasgow": {
+      "word": "glasgow",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A major city and council area of Scotland, largest city in Scotland."
+        ],
+        [
+          "n",
+          "A community in the Regional Municipality of Durham, Ontario, Canada."
+        ],
+        [
+          "n",
+          "A number of places in the United States:"
+        ],
+        [
+          "n",
+          "A home rule city, the county seat of Barren County, Kentucky."
+        ],
+        [
+          "n",
+          "A minor city in Howard County and Chariton County, Missouri."
+        ],
+        [
+          "n",
+          "A minor city, the county seat of Valley County, Montana."
+        ],
+        [
+          "n",
+          "A community in the town of Caledon, Regional Municipality of Peel, Ontario, Canada."
+        ],
+        [
+          "n",
+          "A settlement in Nickerie district, Suriname."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "inherent": {
+      "word": "inherent",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Naturally as part or consequence of something."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "ignorance": {
+      "word": "ignorance",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "The condition of being uninformed or uneducated; lack of knowledge or information."
+        ],
+        [
+          "n",
+          "(religion, in the plural) Sins committed through ignorance."
+        ],
+        [
+          "n",
+          "Existential blindness."
+        ],
+        [
+          "n",
+          "A personification of ignorance."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "madness": {
+      "word": "madness",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "The state of being mad; insanity; mental disease."
+        ],
+        [
+          "n",
+          "The state of being angry."
+        ],
+        [
+          "n",
+          "Rash folly."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "male": {
+      "word": "male",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Belonging to the sex which typically produces sperm, or to the gender which is typically associated with it."
+        ],
+        [
+          "adj",
+          "Characteristic of this sex/gender. (Compare masculine, manly.)"
+        ],
+        [
+          "n",
+          "One of the male (masculine) sex or gender."
+        ],
+        [
+          "n",
+          "A human member of the masculine sex or gender."
+        ],
+        [
+          "n",
+          "An animal of the sex that has testes."
+        ],
+        [
+          "adj",
+          "Tending to lead to or regulate the development of sexual characteristics typical of this sex."
+        ],
+        [
+          "adj",
+          "(figuratively) Of instruments, tools, or connectors: designed to fit into or penetrate a female counterpart, as in a connector, pipe fitting or laboratory glassware."
+        ],
+        [
+          "adj",
+          "(of bacteria) Having the F factor; able to impart DNA into another bacterium which does not have the F factor (a female)."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "mark": {
+      "word": "mark",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(heading) Boundary, land within a boundary."
+        ],
+        [
+          "n",
+          "A stone or post used to indicate position and guide travellers."
+        ],
+        [
+          "n",
+          "(heading) Characteristic, sign, visible impression."
+        ],
+        [
+          "n",
+          "An omen; a symptomatic indicator of something."
+        ],
+        [
+          "n",
+          "A characteristic feature."
+        ],
+        [
+          "n",
+          "A visible impression or sign; a blemish, scratch, or stain, whether accidental or intentional."
+        ],
+        [
+          "n",
+          "A sign or brand on a person."
+        ],
+        [
+          "n",
+          "A written character or sign."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "mummified": {
+      "word": "mummified",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Preserved, for a dead body, by mummification."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "mummy": {
+      "word": "mummy",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(countable) An embalmed human or non-human animal corpse wrapped in linen bandages for burial, especially as practised by the ancient Egyptians and some Native American tribes."
+        ],
+        [
+          "n",
+          "(countable, by extension) A reanimated embalmed human corpse, as a stock character in horror films."
+        ],
+        [
+          "n",
+          "(countable, by extension) Any naturally preserved human or non-human animal body."
+        ],
+        [
+          "n",
+          "(chiefly UK, New England, usually childish) mother."
+        ],
+        [
+          "v",
+          "(transitive, dated) To mummify."
+        ],
+        [
+          "n",
+          "(uncountable, medicine, now historical) A substance used in medicine, prepared from mummified flesh."
+        ],
+        [
+          "n",
+          "(uncountable, now rare) A pulp."
+        ],
+        [
+          "n",
+          "(uncountable, horticulture, obsolete) A sort of wax used in grafting."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "murdo": {
+      "word": "murdo",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A small city, the county seat of Jones County, South Dakota, United States."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "nakht": {
+      "word": "nakht",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "Initialism of National Association of Head Teachers."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "politician": {
+      "word": "politician",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "One engaged in politics, especially an elected or appointed government official."
+        ],
+        [
+          "n",
+          "Specifically, one who regards elected political office as a career."
+        ],
+        [
+          "n",
+          "A politically active or interested person."
+        ],
+        [
+          "n",
+          "A sly or ingratiating person."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "practice": {
+      "word": "practice",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "Repetition of an activity to improve a skill."
+        ],
+        [
+          "n",
+          "(uncountable, especially medicine, art) The ongoing pursuit of a craft or profession, particularly in medicine or the fine arts."
+        ],
+        [
+          "n",
+          "An organized event for the purpose of performing such repetition."
+        ],
+        [
+          "n",
+          "(countable) A place where a professional service is provided, such as a general practice."
+        ],
+        [
+          "n",
+          "A customary action, habit, or behaviour; a manner or routine."
+        ],
+        [
+          "n",
+          "Actual operation or experiment, in contrast to theory."
+        ],
+        [
+          "n",
+          "The observance of religious duties that a church requires of its members."
+        ],
+        [
+          "n",
+          "(law) The form, manner, and order of conducting and carrying on suits and prosecutions through their various stages, according to the principles of law and the rules laid down by the courts."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "priest": {
+      "word": "priest",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A religious clergyman (clergywoman, clergyperson) who is trained to perform services or sacrifices at a church or temple."
+        ],
+        [
+          "v",
+          "(transitive) To ordain as a priest."
+        ],
+        [
+          "n",
+          "A blunt tool, used for quickly stunning and killing fish."
+        ],
+        [
+          "n",
+          "(Mormonism) The highest office in the Aaronic priesthood."
+        ],
+        [
+          "n",
+          "A surname."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "provoked": {
+      "word": "provoked",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "incited, especially deliberately, to anger"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "respect": {
+      "word": "respect",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(uncountable) an attitude of consideration or high regard"
+        ],
+        [
+          "n",
+          "(uncountable) good opinion, honor, or admiration"
+        ],
+        [
+          "n",
+          "(uncountable, always plural) Polite greetings, often offered as condolences after a death."
+        ],
+        [
+          "n",
+          "(countable) a particular aspect, feature or detail of something"
+        ],
+        [
+          "n",
+          "Good will; favor"
+        ],
+        [
+          "v",
+          "To have respect for."
+        ],
+        [
+          "v",
+          "To have regard for something, to observe a custom, practice, rule or right."
+        ],
+        [
+          "v",
+          "To abide by an agreement."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "respectful": {
+      "word": "respectful",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Marked or characterized by respect"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "scotland": {
+      "word": "scotland",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A constituent country of the United Kingdom, located in northwest Europe to the north of England."
+        ],
+        [
+          "n",
+          "A habitational surname referring to someone from Scotland."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "scottish": {
+      "word": "scottish",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Of a person, native to, born in or whose ancestors originally came from Scotland."
+        ],
+        [
+          "n",
+          "(collective, with definite article, i. e. the Scottish) the people of Scotland."
+        ],
+        [
+          "adj",
+          "Of a thing or concept, of or pertaining to Scotland."
+        ],
+        [
+          "n",
+          "Scottish English, the varieties of English spoken in Scotland."
+        ],
+        [
+          "n",
+          "(rare) Short for Scottish Gaelic [The Gaelic language of Scotland, spoken primarily in the northern and western parts of the country.]"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "showcase": {
+      "word": "showcase",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "(transitive) To display, demonstrate, show, or present."
+        ],
+        [
+          "n",
+          "A setting, occasion, or medium for exhibiting something or someone, especially in an attractive or favorable aspect."
+        ],
+        [
+          "n",
+          "A case for displaying merchandise or valuable items."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "stupidity": {
+      "word": "stupidity",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(uncountable) The property of being stupid."
+        ],
+        [
+          "n",
+          "(countable) An act that is stupid."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "uphold": {
+      "word": "uphold",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "To keep erect; to support; to sustain; to keep from falling"
+        ],
+        [
+          "v",
+          "To support by approval or encouragement; to vindicate; to confirm (something which has been questioned)"
+        ],
+        [
+          "v",
+          "To hold up; to lift on high; to elevate."
+        ],
+        [
+          "n",
+          "A surname."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "upset": {
+      "word": "upset",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "(of a person, predicative only) Angry, distressed, or unhappy"
+        ],
+        [
+          "adj",
+          "(of a stomach or gastrointestinal tract) Feeling unwell, nauseated, or ready to vomit."
+        ],
+        [
+          "n",
+          "(uncountable) Disturbance or disruption."
+        ],
+        [
+          "n",
+          "(countable, sports, politics) An unexpected victory of a competitor or candidate that was not favored to win."
+        ],
+        [
+          "n",
+          "(automobile insurance) An overturn."
+        ],
+        [
+          "n",
+          "An upset stomach."
+        ],
+        [
+          "n",
+          "(mathematics) An upper set; a subset (X,≤) of a partially ordered set with the property that, if x is in U and x≤y, then y is in U."
+        ],
+        [
+          "n",
+          "(aviation) The dangerous situation where the flight attitude or airspeed of an aircraft is outside the designed bounds of operation, possibly resulting in loss of control."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "visitor": {
+      "word": "visitor",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "Someone who visits someone else; someone staying as a guest."
+        ],
+        [
+          "n",
+          "Someone who pays a visit to a specific place or event; a sightseer or tourist."
+        ],
+        [
+          "n",
+          "(sports, usually in the plural) Someone, or a team, that is playing away from home."
+        ],
+        [
+          "n",
+          "(law) A person authorized to visit an institution to see that it is being managed properly."
+        ],
+        [
+          "n",
+          "(ufology, specifically) An extraterrestrial being on Earth."
+        ],
+        [
+          "n",
+          "An object which lands or passes by Earth or its orbit."
+        ],
+        [
+          "n",
+          "(British) A head or overseer of an institution such as a college (in which case, equivalent to the university's chancellor) or cathedral or hospital, who resolves disputes, gives ceremonial speeches, etc."
+        ],
+        [
+          "n",
+          "(software engineering) The object in the visitor pattern that performs an operation on the elements of a structure one by one."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "widespread": {
+      "word": "widespread",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Affecting, or found throughout, a large area (e.g. the entire land or body); broad in extent; widely diffused."
+        ],
+        [
+          "adj",
+          "(uncommon) Spread far apart."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "woke": {
+      "word": "woke",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "(originally African-American Vernacular, slang) Alert, aware of what is going on, or well-informed, especially of racial and other social justice issues."
+        ],
+        [
+          "adj",
+          "(by extension, politics, slang, often derogatory) Holding progressive views or attitudes, principally with regard to social justice."
+        ],
+        [
+          "n",
+          "(countable, slang, often derogatory) A person with progressive views or attitudes."
+        ],
+        [
+          "adj",
+          "(by extension, politics, slang, derogatory) Promoting cancel culture, identitarianism, pontification, victim mentality, or virtue signalling."
+        ],
+        [
+          "n",
+          "(uncountable, slang, derogatory) A progressive ideology, in particular with regards to social justice."
+        ],
+        [
+          "adj",
+          "(African-American Vernacular or slang) Awake: conscious and not asleep."
         ]
       ],
       "sentences": [],

@@ -6,6 +6,20 @@
   "failed": 0,
   "items": [
     {
+      "id": "2610/261026-mummies-wokeness-consent.html",
+      "title": "Mummy removed from exhibition over 'lack of consent'",
+      "url": "https://breakingnewsenglish.com/2610/261026-mummies-wokeness-consent.html",
+      "date": "26th October",
+      "dateIso": "2026-10-26",
+      "kind": "Harder",
+      "summary": "Mummy removed from exhibition over 'lack of consent' 26th October - \"Harder\"",
+      "availableLevels": {
+        "4": "https://breakingnewsenglish.com/2610/261026-mummies-wokeness-consent-4.html",
+        "5": "https://breakingnewsenglish.com/2610/261026-mummies-wokeness-consent-5.html",
+        "6": "https://breakingnewsenglish.com/2610/261026-mummies-wokeness-consent.html"
+      }
+    },
+    {
       "id": "2610/261022-ai-partner.html",
       "title": "Man sells everything for AI dream \"partner\"",
       "url": "https://breakingnewsenglish.com/2610/261022-ai-partner.html",
@@ -201,7 +215,7 @@
       "date": "7th September",
       "dateIso": "2026-09-07",
       "kind": "Harder",
-      "summary": "Australia bans AI songs from official music charts 7th September - \"Harder\"",
+      "summary": "Australia bans AI songs from official music charts",
       "availableLevels": {
         "4": "https://breakingnewsenglish.com/2609/260907-ban-on-ai-songs-4.html",
         "5": "https://breakingnewsenglish.com/2609/260907-ban-on-ai-songs-5.html",
@@ -715,101 +729,9 @@
         "2": "https://breakingnewsenglish.com/2605/260507-public-advertisement-ban-2.html",
         "3": "https://breakingnewsenglish.com/2605/260507-public-advertisement-ban.html"
       }
-    },
-    {
-      "id": "2605/260504-press-freedom.html",
-      "title": "Press freedom at lowest level in 25 years",
-      "url": "https://breakingnewsenglish.com/2605/260504-press-freedom.html",
-      "date": "4th May",
-      "dateIso": "2026-05-04",
-      "kind": "Harder",
-      "summary": "Press freedom at lowest level in 25 years",
-      "availableLevels": {
-        "4": "https://breakingnewsenglish.com/2605/260504-press-freedom-4.html",
-        "5": "https://breakingnewsenglish.com/2605/260504-press-freedom-5.html",
-        "6": "https://breakingnewsenglish.com/2605/260504-press-freedom.html"
-      }
     }
   ],
   "articles": {
-    "https://breakingnewsenglish.com/2605/260504-press-freedom-4.html": {
-      "id": "2605/260504-press-freedom.html",
-      "title": "Press freedom at lowest level in 25 years",
-      "titleZh": "",
-      "tag": "Harder",
-      "level": "Level 4 · B1-B2",
-      "levelBand": "B1-B2",
-      "resolvedLevel": 4,
-      "requestedLevel": 4,
-      "fallback": false,
-      "minutes": 1,
-      "words": 144,
-      "published": "4th May",
-      "summary": "Press freedom at lowest level in 25 years",
-      "paragraphs": [
-        "Press freedom is at a 25-year low according to the organization Reporters Without Borders (RSF). This group creates an annual report on how free the media is worldwide. It said press freedom was \"problematic\" or worse in three quarters of the 180 nations it looked at. In over half of the world, conditions were \"difficult\" to \"very serious\". This was a third in 2013. The RSF said conditions were \"good\" in seven countries. These were all in Europe.",
-        "The RSF report says there is growing political pressure on the press. It said there was an \"alarming\" worsening in the conditions for journalists in many countries. The report stated that there was a \"systematic policy\" of attacks on journalists in the USA. It also said that in Russia, laws designed to fight terrorism and extremism were used to limit press freedom. Sixty-seven journalists were killed worldwide in 2025."
-      ],
-      "sourceName": "Breaking News English",
-      "sourceUrl": "https://breakingnewsenglish.com/2605/260504-press-freedom-4.html",
-      "availableLevels": {
-        "4": "https://breakingnewsenglish.com/2605/260504-press-freedom-4.html",
-        "5": "https://breakingnewsenglish.com/2605/260504-press-freedom-5.html",
-        "6": "https://breakingnewsenglish.com/2605/260504-press-freedom.html"
-      }
-    },
-    "https://breakingnewsenglish.com/2605/260504-press-freedom-5.html": {
-      "id": "2605/260504-press-freedom.html",
-      "title": "Press freedom at lowest level in 25 years",
-      "titleZh": "",
-      "tag": "Harder",
-      "level": "Level 5 · B2-C1",
-      "levelBand": "B2-C1",
-      "resolvedLevel": 5,
-      "requestedLevel": 5,
-      "fallback": false,
-      "minutes": 2,
-      "words": 175,
-      "published": "4th May",
-      "summary": "Press freedom at lowest level in 25 years",
-      "paragraphs": [
-        "Press freedom is at its lowest level in 25 years. This is according to the organization Reporters Without Borders (RSF). Its annual World Press Freedom Index assessed how free the media is in 180 countries. RSF said press freedom was \"problematic\" or worse in three quarters of the nations. In over half of the world, conditions were \"difficult\" to \"very serious\". This was a third in 2013. Press freedom was considered \"problematic\" in over 70 per cent of countries. The RSF said conditions were \"good\" in seven countries. These were all in northern and western Europe.",
-        "The RSF report is worried about growing pressure on journalists. It stated: \"Political pressure on the press is intensifying [and] authoritarian tendencies are growing.\" It said there was \"an alarming deterioration in the conditions for journalism in many parts of the world\". The Index reported that there was a \"systematic policy\" of attacks on journalists in the USA. It said that in Russia, \"laws designed to combat terrorism, separatism and extremism\" were used to \"restrict press freedom\". Sixty-seven journalists were killed worldwide in 2025."
-      ],
-      "sourceName": "Breaking News English",
-      "sourceUrl": "https://breakingnewsenglish.com/2605/260504-press-freedom-5.html",
-      "availableLevels": {
-        "4": "https://breakingnewsenglish.com/2605/260504-press-freedom-4.html",
-        "5": "https://breakingnewsenglish.com/2605/260504-press-freedom-5.html",
-        "6": "https://breakingnewsenglish.com/2605/260504-press-freedom.html"
-      }
-    },
-    "https://breakingnewsenglish.com/2605/260504-press-freedom.html": {
-      "id": "2605/260504-press-freedom.html",
-      "title": "Press freedom at lowest level in 25 years",
-      "titleZh": "",
-      "tag": "Harder",
-      "level": "Level 6 · C1-C2",
-      "levelBand": "C1-C2",
-      "resolvedLevel": 6,
-      "requestedLevel": 6,
-      "fallback": false,
-      "minutes": 2,
-      "words": 217,
-      "published": "4th May",
-      "summary": "Press freedom at lowest level in 25 years",
-      "paragraphs": [
-        "Press freedom is at its lowest level in 25 years. This is according to a report from the organization Reporters Without Borders (RSF). It has released its annual World Press Freedom Index, which assesses the degree to which the media in 180 countries is free to operate. RSF said press freedom was \"problematic\" or worse in three quarters of the nations assessed. In over half of the world, conditions were \"difficult\" to \"very serious\". In 2013, fewer than a third of countries were given this classification. Press freedom was considered \"problematic\" in over 70 per cent of countries. The RSF said conditions were \"good\" in only seven countries. These were all in northern and western Europe.",
-        "The RSF report highlights growing authoritarian pressure on journalists. It wrote: \"Political pressure on the press is intensifying, authoritarian tendencies are growing, and the media market is heavily weakened....The Index's analysis highlights an alarming deterioration in the conditions for journalism in many parts of the world.\" The Index describes a worrying trend across the globe. It says there was a \"systematic policy\" of attacks on journalists in the USA. It said that in Russia, \"laws designed to combat terrorism, separatism and extremism\" were used to \"restrict press freedom\". RSF said \"67 media professionals killed in the past year were victims of war or criminal networks\"."
-      ],
-      "sourceName": "Breaking News English",
-      "sourceUrl": "https://breakingnewsenglish.com/2605/260504-press-freedom.html",
-      "availableLevels": {
-        "4": "https://breakingnewsenglish.com/2605/260504-press-freedom-4.html",
-        "5": "https://breakingnewsenglish.com/2605/260504-press-freedom-5.html",
-        "6": "https://breakingnewsenglish.com/2605/260504-press-freedom.html"
-      }
-    },
     "https://breakingnewsenglish.com/2605/260507-public-advertisement-ban-0.html": {
       "id": "2605/260507-public-advertisement-ban.html",
       "title": "Amsterdam bans public ads for meat and fossil fuels",
@@ -4093,7 +4015,7 @@
       "minutes": 1,
       "words": 160,
       "published": "7th September",
-      "summary": "Australia bans AI songs from official music charts 7th September - \"Harder\"",
+      "summary": "Australia bans AI songs from official music charts",
       "paragraphs": [
         "The fight against the use of AI in music goes on. Australia's recording industry (ARIA) has banned songs that are \"wholly\" created with AI from the official music charts. There is controversy over an AI version of a Madonna hit. The cover version used AI technology. It spent 16 weeks in the top 20. It also made music lovers angry. ARIA said that \"wholly AI-generated\" music will be banned from the charts, but \"AI-assisted\" music is OK.",
         "ARIA said the industry must protect artists' livelihoods. It said AI can be used, but not if it excludes human creativity. It said the new rules were to \"promote the human nature of artistry\". The artist who created the Madonna cover said he used AI on the song. He saw no problem with using AI as a tool in creating music. He also said the new rules were \"a great move\". He wrote: \"I understand that AI in music isn't for everyone and that's fine.\""
@@ -4119,7 +4041,7 @@
       "minutes": 2,
       "words": 189,
       "published": "7th September",
-      "summary": "Australia bans AI songs from official music charts 7th September - \"Harder\"",
+      "summary": "Australia bans AI songs from official music charts",
       "paragraphs": [
         "The fight against the use of artificial intelligence (AI) in music continues. Australia's recording industry (ARIA) has banned songs that are \"wholly\" created with AI from entering the official music charts. There is controversy over an AI version of the Madonna hit \"Like a Prayer\". The cover version used AI technology. The song spent 16 weeks in the Australian top 20. It also created a backlash among music lovers and the general public. ARIA said that \"wholly AI-generated\" music will be banned from the charts, while \"AI-assisted\" music can still be included.",
         "ARIA said the music charts must protect artists' livelihoods. It said there is a legitimate use of AI, but not if it excludes human creativity. It said the new rules \"reflect our intent to remain dynamic and promote the human nature of artistry\". Josh Fawaz, the artist who created the AI Madonna cover, said he used AI on his version of the song. He defended his use of AI as a \"tool\" in creating music. He also said ARIA's new rules were \"a great move\". He wrote: \"I understand that AI in music isn't for everyone and that's fine.\""
@@ -4145,7 +4067,7 @@
       "minutes": 2,
       "words": 228,
       "published": "7th September",
-      "summary": "Australia bans AI songs from official music charts 7th September - \"Harder\"",
+      "summary": "Australia bans AI songs from official music charts",
       "paragraphs": [
         "The fight against the intrusion of artificial intelligence (AI) into music continues. The Australian Recording Industry Association (ARIA) has banned songs that have been \"wholly\" created with AI from entering the country's official music charts. There has been a recent controversy over an AI version of the 1989 Madonna hit \"Like a Prayer\". The cover version of the tune made considerable use of AI technology. The song spent 16 weeks in the Australian top 20. It also created a backlash among music purists and the general public. ARIA declared that \"wholly AI-generated\" music will be banned from the charts, while \"AI-assisted\" music will still be eligible for inclusion.",
         "ARIA CEO Annabelle Herd said the music charts must protect artists and their livelihoods. She said there should be a legitimate use of AI, but not to the extent that it excludes human creativity. She commented on the new rules, saying: \"These changes reflect our intent to remain dynamic and promote the human nature of artistry in what is, to say the least, a rapidly developing space.\" Josh Fawaz, the artist who created the AI Madonna cover, acknowledged his use of AI on his version of the track. He defended his use of AI as a \"tool\" in creating music. He also called ARIA's new rules \"a great move\". He wrote: \"I understand that AI in music isn't for everyone and that's fine.\""
@@ -5380,6 +5302,84 @@
         "1": "https://breakingnewsenglish.com/2610/261022-ai-partner-1.html",
         "2": "https://breakingnewsenglish.com/2610/261022-ai-partner-2.html",
         "3": "https://breakingnewsenglish.com/2610/261022-ai-partner.html"
+      }
+    },
+    "https://breakingnewsenglish.com/2610/261026-mummies-wokeness-consent-4.html": {
+      "id": "2610/261026-mummies-wokeness-consent.html",
+      "title": "Mummy removed from exhibition over 'lack of consent'",
+      "titleZh": "",
+      "tag": "Harder",
+      "level": "Level 4 · B1-B2",
+      "levelBand": "B1-B2",
+      "resolvedLevel": 4,
+      "requestedLevel": 4,
+      "fallback": false,
+      "minutes": 1,
+      "words": 153,
+      "published": "26th October",
+      "summary": "Mummy removed from exhibition over 'lack of consent' 26th October - \"Harder\"",
+      "paragraphs": [
+        "A museum has removed parts of an Egyptian mummy from an exhibition because the person who died did not consent for its remains to be displayed. The museum is in Scotland. It took away a mummified head and other body parts. In place of the remains, a sign explained the exhibits were removed \"as a mark of respect\". The museum said that removing the ancient human remains from its displays showed respect to those who died.",
+        "The decision has started a lot of criticism. A politician called it \"woke madness\". He said museums should show history rather than hide it. A museum visitor's daughter was upset at not being able to see the exhibits. An education campaigner called the decision \"the triumph of educational stupidity\". He said it was impossible to get permission from someone who died thousands of years ago. The museum said it wanted to respect the \"dignity of human remains\"."
+      ],
+      "sourceName": "Breaking News English",
+      "sourceUrl": "https://breakingnewsenglish.com/2610/261026-mummies-wokeness-consent-4.html",
+      "availableLevels": {
+        "4": "https://breakingnewsenglish.com/2610/261026-mummies-wokeness-consent-4.html",
+        "5": "https://breakingnewsenglish.com/2610/261026-mummies-wokeness-consent-5.html",
+        "6": "https://breakingnewsenglish.com/2610/261026-mummies-wokeness-consent.html"
+      }
+    },
+    "https://breakingnewsenglish.com/2610/261026-mummies-wokeness-consent-5.html": {
+      "id": "2610/261026-mummies-wokeness-consent.html",
+      "title": "Mummy removed from exhibition over 'lack of consent'",
+      "titleZh": "",
+      "tag": "Harder",
+      "level": "Level 5 · B2-C1",
+      "levelBand": "B2-C1",
+      "resolvedLevel": 5,
+      "requestedLevel": 5,
+      "fallback": false,
+      "minutes": 2,
+      "words": 185,
+      "published": "26th October",
+      "summary": "Mummy removed from exhibition over 'lack of consent' 26th October - \"Harder\"",
+      "paragraphs": [
+        "A museum in Scotland has removed parts of an Egyptian mummy from an exhibition because there is no evidence that it gave consent for its remains to be displayed. The museum is in Glasgow. It took away the remains of a priest named Nakht, a mummified head, and other body parts. In place of the remains, visitors found signs explaining that the exhibits had been removed \"as a mark of respect\". The museum said its decision \"reflects contemporary museum practice\". It added with no consent, removing ancient human remains from display is more respectful to the deceased.",
+        "The decision has provoked a lot of criticism. A Scottish politician called the move \"woke madness\". He said museums should show history rather than hide it. A museum visitor said his daughter was upset at not being able to see the exhibits. An education campaigner called the decision \"the triumph of educational stupidity and ignorance\". He added: \"It is not possible to seek permission from those who died thousands of years ago.\" However, the museum defended its action. It wants to \"uphold the inherent dignity of human remains\"."
+      ],
+      "sourceName": "Breaking News English",
+      "sourceUrl": "https://breakingnewsenglish.com/2610/261026-mummies-wokeness-consent-5.html",
+      "availableLevels": {
+        "4": "https://breakingnewsenglish.com/2610/261026-mummies-wokeness-consent-4.html",
+        "5": "https://breakingnewsenglish.com/2610/261026-mummies-wokeness-consent-5.html",
+        "6": "https://breakingnewsenglish.com/2610/261026-mummies-wokeness-consent.html"
+      }
+    },
+    "https://breakingnewsenglish.com/2610/261026-mummies-wokeness-consent.html": {
+      "id": "2610/261026-mummies-wokeness-consent.html",
+      "title": "Mummy removed from exhibition over 'lack of consent'",
+      "titleZh": "",
+      "tag": "Harder",
+      "level": "Level 6 · C1-C2",
+      "levelBand": "C1-C2",
+      "resolvedLevel": 6,
+      "requestedLevel": 6,
+      "fallback": false,
+      "minutes": 2,
+      "words": 209,
+      "published": "26th October",
+      "summary": "Mummy removed from exhibition over 'lack of consent' 26th October - \"Harder\"",
+      "paragraphs": [
+        "A museum in Scotland has removed the remains of an ancient Egyptian mummy from an exhibition because there is no documented evidence that the deceased gave consent for their remains to be displayed. Glasgow's Kelvingrove Art Gallery and Museum took away the remains of a priest named Nakht, a mummified male head, and other body parts. In place of the exhibits, visitors found signs explaining that the remains had been removed \"as a mark of respect\". The museum said the decision \"reflects contemporary museum practice\". It added: \"In the absence of consent, we believe removing ancient Egyptian human remains from display is more respectful to the deceased individuals.\"",
+        "The decision has provoked widespread criticism. Scottish politician Murdo Fraser called the move \"woke madness\". He argued that museums should showcase history rather than hide it. A museum visitor complained that his daughter was upset at not being able to see the exhibits. An education campaigner said the decision \"represents the triumph of educational stupidity and ignorance\". He added: \"It is not possible to seek permission from those who died thousands of years ago.\" However, the museum defended its action. It cited the International Council of Museums' Code of Ethics, which says museums \"should uphold the inherent dignity of human remains\"."
+      ],
+      "sourceName": "Breaking News English",
+      "sourceUrl": "https://breakingnewsenglish.com/2610/261026-mummies-wokeness-consent.html",
+      "availableLevels": {
+        "4": "https://breakingnewsenglish.com/2610/261026-mummies-wokeness-consent-4.html",
+        "5": "https://breakingnewsenglish.com/2610/261026-mummies-wokeness-consent-5.html",
+        "6": "https://breakingnewsenglish.com/2610/261026-mummies-wokeness-consent.html"
       }
     }
   }
