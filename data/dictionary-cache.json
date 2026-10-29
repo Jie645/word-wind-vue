@@ -1,7 +1,7 @@
 {
   "source": "Free Dictionary API + Wiktionary + MyMemory",
-  "count": 3251,
-  "failed": 23,
+  "count": 3277,
+  "failed": 24,
   "words": {
     "ability": {
       "word": "ability",
@@ -110138,6 +110138,809 @@
         [
           "adj",
           "(African-American Vernacular or slang) Awake: conscious and not asleep."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "barnes": {
+      "word": "barnes",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A surname."
+        ],
+        [
+          "n",
+          "An English toponymic surname transferred from the common noun for someone who owned, lived in, or worked in a barn."
+        ],
+        [
+          "n",
+          "A habitational surname from Middle English for someone from the place of the same name in Surrey."
+        ],
+        [
+          "n",
+          "A suburb of London in the borough of Richmond upon Thames, Greater London, England, originally a town in Surrey (OS grid ref TQ2276)."
+        ],
+        [
+          "n",
+          "An inner suburb and ward in Sunderland, Tyne and Wear, England (approx OS grid ref NZ3856)."
+        ],
+        [
+          "n",
+          "A minor city in Washington County, Kansas, United States."
+        ],
+        [
+          "n",
+          "A small town in the far south of the Riverina, New South Wales, Australia."
+        ],
+        [
+          "n",
+          "A placename"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "drive": {
+      "word": "drive",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "To operate a vehicle:"
+        ],
+        [
+          "v",
+          "(transitive, ergative) To operate (a wheeled motorized vehicle)."
+        ],
+        [
+          "v",
+          "(intransitive) To travel by operating a wheeled motorized vehicle."
+        ],
+        [
+          "v",
+          "(transitive) To convey (a person, etc.) in a wheeled motorized vehicle."
+        ],
+        [
+          "v",
+          "(transitive, slang, aviation) To operate (an aircraft); to pilot."
+        ],
+        [
+          "v",
+          "(transitive, intransitive) To direct a vehicle powered by a horse, ox or similar animal."
+        ],
+        [
+          "v",
+          "To compel to move:"
+        ],
+        [
+          "v",
+          "(transitive) (especially of animals) To impel or urge onward by force; to push forward; to compel to move on."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "delivery": {
+      "word": "delivery",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "The act of conveying something."
+        ],
+        [
+          "n",
+          "The item which has been conveyed."
+        ],
+        [
+          "n",
+          "The act of giving birth"
+        ],
+        [
+          "n",
+          "The manner of speaking or singing."
+        ],
+        [
+          "n",
+          "(medicine) The administration of a drug."
+        ],
+        [
+          "n",
+          "(baseball) A thrown pitch."
+        ],
+        [
+          "n",
+          "(baseball) A pitching motion."
+        ],
+        [
+          "n",
+          "(soccer) A cross or pass"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "enter": {
+      "word": "enter",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "(intransitive) To go or come into an enclosed or partially enclosed space."
+        ],
+        [
+          "v",
+          "(transitive) To cause to go (into), or to be received (into); to put in; to insert; to cause to be admitted."
+        ],
+        [
+          "v",
+          "(figuratively) To go or come into (a state or profession)."
+        ],
+        [
+          "v",
+          "(transitive) To type (something) into a computer; to input."
+        ],
+        [
+          "v",
+          "(transitive) To record (something) in an account, ledger, etc."
+        ],
+        [
+          "v",
+          "(intransitive, law) To become a party to an agreement, treaty, etc."
+        ],
+        [
+          "v",
+          "(law, intransitive) To become effective; to come into effect."
+        ],
+        [
+          "v",
+          "(law) To go into or upon, as lands, and take actual possession of them."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "etc": {
+      "word": "etc",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adv",
+          "Alternative form of etc.."
+        ],
+        [
+          "n",
+          "Acronym of electron transport chain."
+        ],
+        [
+          "n",
+          "(finance) Acronym of Exchange-Traded Commodity."
+        ],
+        [
+          "n",
+          "(wireless location) Acronym of Electronic Toll Collection, a system to eliminate delays on toll roads by collecting them electronically."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "khan": {
+      "word": "khan",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A noble or man of rank in various Muslim countries of Central Asia, including Afghanistan."
+        ],
+        [
+          "n",
+          "(historical) A ruler over various Turkic and Mongol peoples in the Middle Ages."
+        ],
+        [
+          "n",
+          "An Ottoman sultan."
+        ],
+        [
+          "n",
+          "Synonym of fonduk (“inn or hotel in Middle Eastern contexts”)."
+        ],
+        [
+          "n",
+          "Synonym of caravanserai (particularly in Middle Eastern contexts)"
+        ],
+        [
+          "n",
+          "A male given name used extensively among Muslims of South Asia."
+        ],
+        [
+          "n",
+          "A surname derived from the given name."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "kilometre": {
+      "word": "kilometre",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(metrology) An SI unit of length equal to 10³ metres. Symbol: km"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "londoners": {
+      "word": "londoners",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A person from, or an inhabitant of, London."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "magazine": {
+      "word": "magazine",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A nonacademic, periodical publication which consists of articles by multiple writers on some broad topic or theme."
+        ],
+        [
+          "n",
+          "(broadcasting) A radio or television show where each episode comprises a variety of features or segments, akin to the format of a print magazine."
+        ],
+        [
+          "n",
+          "A chamber in or attachable to a firearm enabling multiple rounds of ammunition to be fed into the firearm."
+        ],
+        [
+          "n",
+          "(military) An ammunition storehouse."
+        ],
+        [
+          "n",
+          "(nautical) The portion of a warship where munitions are stored."
+        ],
+        [
+          "n",
+          "A reservoir or supply chamber for a stove, battery, camera, typesetting machine, or other apparatus."
+        ],
+        [
+          "n",
+          "(Louisiana) A store, or shop, where goods are kept for sale."
+        ],
+        [
+          "n",
+          "(archaic) A country or district especially rich in natural products."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "mayor": {
+      "word": "mayor",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "The chief executive of the municipal government of a city, borough, etc., formerly (historical) usually appointed as a caretaker by European royal courts but now usually appointed or elected locally."
+        ],
+        [
+          "n",
+          "(chiefly US) A largely ceremonial position in some municipal governments that presides over the city council while a contracted city manager holds actual executive power."
+        ],
+        [
+          "n",
+          "(figurative, humorous) A local VIP, a muckamuck or big shot reckoned to lead some local group."
+        ],
+        [
+          "n",
+          "(historical) Synonym of mair, various former officials in the Kingdom of Scotland."
+        ],
+        [
+          "n",
+          "(Ireland, rare, obsolete) A member of a city council."
+        ],
+        [
+          "n",
+          "(historical, obsolete) A high justice, an important judge."
+        ],
+        [
+          "n",
+          "A surname from Anglo-Norman."
+        ],
+        [
+          "n",
+          "(historical) Ellipsis of mayor of the palace, the royal stewards of the Frankish Empire. [(historical) In the Merovingian kingdoms, the king’s steward and, by the 7th century, de facto regent.]"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "mixed": {
+      "word": "mixed",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Having two or more separate aspects."
+        ],
+        [
+          "adj",
+          "Not completely pure, tainted or adulterated."
+        ],
+        [
+          "adj",
+          "Including both male(s) and female(s)."
+        ],
+        [
+          "adj",
+          "Stemming from two or more races or breeds."
+        ],
+        [
+          "adj",
+          "Polarizing; including both positive and negative feedback."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "midnight": {
+      "word": "midnight",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "Twelve o'clock at night exactly."
+        ],
+        [
+          "n",
+          "The middle of the night: the sixth temporal hour, equidistant between sunset and sunrise."
+        ],
+        [
+          "adj",
+          "(poetic) Utterly dark or black."
+        ],
+        [
+          "n",
+          "(dice games) Synonym of boxcars (“a pair of sixes”)."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "motorbikes": {
+      "word": "motorbikes",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(informal) A motorcycle."
+        ],
+        [
+          "n",
+          "(US) A small and light motorcycle."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "nearby": {
+      "word": "nearby",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Adjacent, near, close by."
+        ],
+        [
+          "adv",
+          "Next to, close to."
+        ],
+        [
+          "n",
+          "(finance) A futures contract, of a particular group, whose settlement date is the earliest."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "pedestrianization": {
+      "word": "pedestrianization",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "The restriction of access to a street to pedestrians only."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "pedestrianized": {
+      "word": "pedestrianized",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "polluted": {
+      "word": "polluted",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Made unclean or impure."
+        ],
+        [
+          "adj",
+          "(Ireland) Drunk."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "richer": {
+      "word": "richer",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A surname."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "sadiq": {
+      "word": "sadiq",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A male given name from Arabic."
+        ],
+        [
+          "n",
+          "A surname from Arabic."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "sir": {
+      "word": "sir",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A respectful term of address to a man of higher rank or position, particularly:"
+        ],
+        [
+          "n",
+          "A respectful term of address to an adult male (often older), especially if his name or proper title is unknown."
+        ],
+        [
+          "n",
+          "A man of a higher rank or position."
+        ],
+        [
+          "n",
+          "to a knight or other low member of the peerage."
+        ],
+        [
+          "n",
+          "to a superior military officer."
+        ],
+        [
+          "n",
+          "to a teacher."
+        ],
+        [
+          "v",
+          "(transitive, informal) To address another individual using \"sir\"."
+        ],
+        [
+          "n",
+          "(Philippines, colloquial or informal) A respectful term of address or reference to a man of higher rank or position before the man's given name or nickname."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "spectator": {
+      "word": "spectator",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "One who observes, sees, or views something; an observer."
+        ],
+        [
+          "n",
+          "One who watches an event; especially, an event held outdoors."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "tables": {
+      "word": "tables",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "Any backgammon-like board game, played on a board with two rows of 12 vertical markings called \"points\"."
+        ],
+        [
+          "n",
+          "(backgammon) The halves or quarters of a backgammon board."
+        ],
+        [
+          "n",
+          "Backgammon."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "traffic-free": {
+      "word": "traffic-free",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj.",
+          "Of a road or area, free of, without, or devoid of road traffic."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Wiktionary / MyMemory",
+      "sourceUrl": "https://en.wiktionary.org/wiki/traffic-free",
+      "online": true
+    },
+    "trees": {
+      "word": "trees",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "N",
+          "\"Trees\" is a lyric poem by American poet Joyce Kilmer."
+        ],
+        [
+          "N",
+          "a British folk rock band recording and touring throughout 1969, 1970 and 1971, reforming briefly to continue performing throughout 1972."
+        ],
+        [
+          "N",
+          "a science fiction comic book series by Warren Ellis and Jason Howard, published by American company Image Comics."
+        ],
+        [
+          "N",
+          "(stylised as TREES) the second studio album by Avantdale Bowling Club, the solo project of New Zealand rapper Tom Scott."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "trucks": {
+      "word": "trucks",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "The wheel-set of railroad rolling stock."
+        ],
+        [
+          "n",
+          "The game of lawn billiards."
+        ],
+        [
+          "n",
+          "(UK, slang, archaic) Trousers."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "unlock": {
+      "word": "unlock",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "(transitive) To undo or open a lock or something locked by, for example, turning a key, or selecting a combination."
+        ],
+        [
+          "v",
+          "(transitive) To obtain access to something; to meet the requirements of a security or protection system."
+        ],
+        [
+          "v",
+          "(intransitive) To be or become unfastened or unrestrained."
+        ],
+        [
+          "v",
+          "(transitive) To disclose or reveal previously unknown knowledge or potential."
+        ],
+        [
+          "v",
+          "(transitive, figurative) To make available."
+        ],
+        [
+          "v",
+          "(transitive, mobile telephony) To configure (a mobile phone) so that it is not bound to any particular carrier."
+        ],
+        [
+          "v",
+          "(transitive) To undermine something that has control over a situation; to find a way to counter or oppose."
+        ],
+        [
+          "n",
+          "(video games) An initially hidden feature that is made available to reward the player for some achievement."
         ]
       ],
       "sentences": [],
