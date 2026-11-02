@@ -1,7 +1,7 @@
 {
   "source": "Free Dictionary API + Wiktionary + MyMemory",
-  "count": 3277,
-  "failed": 24,
+  "count": 3319,
+  "failed": 23,
   "words": {
     "ability": {
       "word": "ability",
@@ -110941,6 +110941,1330 @@
         [
           "n",
           "(video games) An initially hidden feature that is made available to reward the player for some achievement."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "briefly": {
+      "word": "briefly",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adv",
+          "(manner) In a brief manner, summarily."
+        ],
+        [
+          "adv",
+          "(duration) For a brief period."
+        ],
+        [
+          "adv",
+          "To be brief, in short."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "admitted": {
+      "word": "admitted",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "(transitive) To allow to enter; to grant entrance (to), whether into a place, into the mind, or into consideration"
+        ],
+        [
+          "v",
+          "(transitive or intransitive) To concede as true; to acknowledge or assent to, as an allegation which it is impossible to deny (+ to)."
+        ],
+        [
+          "v",
+          "(transitive) To allow (someone) to enter a profession or to enjoy a privilege; to recognize as qualified for a franchise."
+        ],
+        [
+          "v",
+          "(transitive) To allow to enter a hospital or similar facility for treatment."
+        ],
+        [
+          "v",
+          "(transitive) To be capable of; to permit. In this sense, \"of\" may be used after the verb, or may be omitted."
+        ],
+        [
+          "v",
+          "(intransitive, with of) To give warrant or allowance, to grant opportunity or permission."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "cockpit": {
+      "word": "cockpit",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "The compartment in an aircraft or spacecraft in which the pilot sits and from where the craft is controlled."
+        ],
+        [
+          "n",
+          "The driver's compartment in a racing car (or, by extension, in a sports car or other automobile)."
+        ],
+        [
+          "n",
+          "(figurative) An area from where something is controlled or managed; a centre of control."
+        ],
+        [
+          "n",
+          "(figurative) A site of conflict; a battlefield."
+        ],
+        [
+          "n",
+          "(vulgar) The vagina."
+        ],
+        [
+          "n",
+          "(nautical) A well, usually near the stern, where the helm is located."
+        ],
+        [
+          "n",
+          "(now chiefly historical) A pit or other enclosure for cockfighting."
+        ],
+        [
+          "n",
+          "(nautical, now historical) The area set aside for junior officers including the ship's surgeon on a man-of-war, where the wounded were treated; the sickbay."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "aircraft": {
+      "word": "aircraft",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A vehicle capable of atmospheric flight due to interaction with the air, such as buoyancy or lift."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "coen": {
+      "word": "coen",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A Jewish surname from Hebrew."
+        ],
+        [
+          "n",
+          "A male given name transferred from the surname."
+        ],
+        [
+          "n",
+          "A male given name from Dutch."
+        ],
+        [
+          "n",
+          "A town in Queensland, Australia."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "carriers": {
+      "word": "carriers",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A person or object that carries someone or something else."
+        ],
+        [
+          "n",
+          "A person or company in the business of shipping freight."
+        ],
+        [
+          "n",
+          "(telecommunications) A mobile network operator; wireless carrier."
+        ],
+        [
+          "n",
+          "(genetics, pathology) A person or other organism that has a genetic trait, mutation or infection liable to cause a disease, but displays no symptoms."
+        ],
+        [
+          "n",
+          "A signal such as radio, sound, or light that is modulated to transmit information."
+        ],
+        [
+          "n",
+          "(science fiction, by extension) A starship designed to carry starfighters"
+        ],
+        [
+          "n",
+          "(aviation) A certified airline."
+        ],
+        [
+          "n",
+          "(engineering) That which drives or carries."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "aviation": {
+      "word": "aviation",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "The art or science of making and flying aircraft."
+        ],
+        [
+          "n",
+          "Flying, operating, or operation of aircraft."
+        ],
+        [
+          "n",
+          "Industry that produces aircraft."
+        ],
+        [
+          "n",
+          "(collectively, military) Aircraft."
+        ],
+        [
+          "n",
+          "A cocktail made with gin, maraschino liqueur, crème de violette, and lemon juice."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "dozed": {
+      "word": "dozed",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "(intransitive) To sleep lightly or briefly; to nap, snooze."
+        ],
+        [
+          "v",
+          "(transitive) To make dull; to stupefy."
+        ],
+        [
+          "v",
+          "(intransitive, slang) To bulldoze."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "eca": {
+      "word": "eca",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(nautical) Initialism of emission control area."
+        ],
+        [
+          "n",
+          "(anatomy) Initialism of external carotid artery. [(anatomy) The outer branch of the carotid artery that supplies the face, tongue, and external parts of the head.]"
+        ],
+        [
+          "n",
+          "(education) Initialism of early career academic."
+        ],
+        [
+          "n",
+          "Acronym of European Communist Action."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "duty": {
+      "word": "duty",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(countable, uncountable) That which one is morally or legally obligated to do."
+        ],
+        [
+          "n",
+          "(uncountable) The state of being at work and responsible for or doing a particular task."
+        ],
+        [
+          "n",
+          "(countable) A tax placed on imports or exports; a tariff."
+        ],
+        [
+          "n",
+          "(euphemistic) The act of urination or defecation, especially for a dog."
+        ],
+        [
+          "n",
+          "(obsolete) One's due, something one is owed; a debt or fee."
+        ],
+        [
+          "n",
+          "(obsolete) Respect; reverence; regard; act of respect; homage."
+        ],
+        [
+          "n",
+          "(engineering) The efficiency of an engine in work done per unit of fuel; particularly, the number of pounds of water which a steam pumping engine can raise one foot by burning one bushel or hundredweight of coal."
+        ],
+        [
+          "n",
+          "A surname."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "fear": {
+      "word": "fear",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(uncountable) A strong, unpleasant emotion or feeling caused by actual or perceived danger or threat."
+        ],
+        [
+          "n",
+          "(countable) A phobia, a sense of fear induced by something or someone in particular."
+        ],
+        [
+          "n",
+          "(countable) Something one is afraid of; the object of one’s fear."
+        ],
+        [
+          "v",
+          "(transitive) To be afraid of (something or someone); to consider or expect (something or someone) with alarm."
+        ],
+        [
+          "v",
+          "(intransitive) To feel fear."
+        ],
+        [
+          "v",
+          "(intransitive) To worry about, to feel concern for, to be afraid for [with for]."
+        ],
+        [
+          "n",
+          "(uncountable) Terrified veneration or reverence, particularly towards God, gods, or sovereigns."
+        ],
+        [
+          "n",
+          "(UK, with definite article, \"the fear\") A feeling of dread and anxiety when waking after drinking a lot of alcohol, wondering what one did while drunk."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "exhaustion": {
+      "word": "exhaustion",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "Supreme tiredness; having exhausted energy."
+        ],
+        [
+          "n",
+          "The point of complete depletion, of the state of being used up."
+        ],
+        [
+          "n",
+          "(dated, chemistry) The removal (by percolation etc) of an active medicinal constituent from plant material."
+        ],
+        [
+          "n",
+          "(dated, physics) The removal of all air from a vessel (the creation of a vacuum)."
+        ],
+        [
+          "n",
+          "(mathematics) An exhaustive procedure"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "feared": {
+      "word": "feared",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Regarded with fear, respect, or reverence."
+        ],
+        [
+          "adj",
+          "Pertaining to someone or thing that causes great fear in others."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "flown": {
+      "word": "flown",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "(theater) Suspended in the flies."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "foster": {
+      "word": "foster",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "(transitive) To nurture or bring up offspring, or to provide similar parental care to an unrelated child."
+        ],
+        [
+          "v",
+          "(transitive) To promote the development of something; to cultivate and grow a thing."
+        ],
+        [
+          "n",
+          "(uncountable) The care given to another; guardianship."
+        ],
+        [
+          "n",
+          "(countable, informal) A foster parent."
+        ],
+        [
+          "adj",
+          "Providing parental care to children not related to oneself."
+        ],
+        [
+          "adj",
+          "Receiving such care."
+        ],
+        [
+          "adj",
+          "Related by such care."
+        ],
+        [
+          "v",
+          "(transitive) To nurse or cherish something."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "george": {
+      "word": "george",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A male given name from Ancient Greek."
+        ],
+        [
+          "n",
+          "An English and Welsh surname originating as a patronymic."
+        ],
+        [
+          "n",
+          "A German surname originating as a patronymic, a variant of Georg."
+        ],
+        [
+          "n",
+          "A surname from Irish [in turn originating as a patronymic], an anglicization of Seoirse."
+        ],
+        [
+          "n",
+          "(World War II era, joint US/RAF) radiotelephony clear-code word for the letter G."
+        ],
+        [
+          "n",
+          "A diminutive of the female given names Georgina or Georgia; also used in the conjoined name George Ann(e)."
+        ],
+        [
+          "n",
+          "A city in the Western Cape province, South Africa; named for George III of the United Kingdom."
+        ],
+        [
+          "n",
+          "A locale in the United States."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "furthermore": {
+      "word": "furthermore",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adv",
+          "In addition; besides; further; what's more (i.e. to denote additional information)."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "impair": {
+      "word": "impair",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "(transitive) To weaken; to affect negatively; to have a diminishing effect on."
+        ],
+        [
+          "v",
+          "(intransitive, archaic) To grow worse; to deteriorate."
+        ],
+        [
+          "adj",
+          "(obsolete) Not fit or appropriate; unsuitable."
+        ],
+        [
+          "n",
+          "(obsolete) The act of impairing or deteriorating."
+        ],
+        [
+          "n",
+          "(obsolete) The fact of being impaired or having grown worse."
+        ],
+        [
+          "n",
+          "(obsolete) An impairment or deterioration."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "insufficient": {
+      "word": "insufficient",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Not sufficient; of a type or kind that does not suffice, that does not satisfy requirements or needs."
+        ],
+        [
+          "adj",
+          "Not sufficient; lacking competent power or ability; unqualified, unequal, unfit."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "honest": {
+      "word": "honest",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "(of a person or institution) Scrupulous with regard to telling the truth; not given to swindling, lying, or fraud; upright."
+        ],
+        [
+          "adj",
+          "(of a statement) True, especially as far as is known by the person making the statement; fair; unbiased."
+        ],
+        [
+          "adj",
+          "Open; frank."
+        ],
+        [
+          "adj",
+          "In good faith; without malice."
+        ],
+        [
+          "adj",
+          "Earned or acquired in a fair manner."
+        ],
+        [
+          "adj",
+          "Authentic; full."
+        ],
+        [
+          "adj",
+          "(of a measurement device) Accurate."
+        ],
+        [
+          "adv",
+          "(colloquial) Honestly; really."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "judgement": {
+      "word": "judgement",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(chiefly Commonwealth) Alternative spelling of judgment. [The act of judging.]"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "in-flight": {
+      "word": "in-flight",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "occurring, or provided for use during a flight"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "month": {
+      "word": "month",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A period into which a year is divided, historically based on the phases of the moon."
+        ],
+        [
+          "n",
+          "A period of 30 days, 31 days, or some alternation thereof."
+        ],
+        [
+          "n",
+          "(obsolete, in the plural) A woman's period; menstrual discharge."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "pilot": {
+      "word": "pilot",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A person who steers a ship, a helmsman."
+        ],
+        [
+          "n",
+          "A person who knows well the depths and currents of a harbor or coastal area, who is hired by a vessel to help navigate the harbor or coast."
+        ],
+        [
+          "n",
+          "A guide book for maritime navigation."
+        ],
+        [
+          "n",
+          "An instrument for detecting the compass error."
+        ],
+        [
+          "n",
+          "(Australia, road transport, informal) A pilot vehicle."
+        ],
+        [
+          "n",
+          "(Australia, road transport) A person authorised to drive such a vehicle during an escort."
+        ],
+        [
+          "n",
+          "A guide or escort through an unknown or dangerous area."
+        ],
+        [
+          "n",
+          "Something serving as a test or trial."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "pilots": {
+      "word": "pilots",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A person who steers a ship, a helmsman."
+        ],
+        [
+          "n",
+          "A person who knows well the depths and currents of a harbor or coastal area, who is hired by a vessel to help navigate the harbor or coast."
+        ],
+        [
+          "n",
+          "A guide book for maritime navigation."
+        ],
+        [
+          "n",
+          "An instrument for detecting the compass error."
+        ],
+        [
+          "n",
+          "(Australia, road transport, informal) A pilot vehicle."
+        ],
+        [
+          "n",
+          "(Australia, road transport) A person authorised to drive such a vehicle during an escort."
+        ],
+        [
+          "n",
+          "A guide or escort through an unknown or dangerous area."
+        ],
+        [
+          "n",
+          "Something serving as a test or trial."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "priority": {
+      "word": "priority",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "An item's relative importance."
+        ],
+        [
+          "n",
+          "A goal of a person or an organisation."
+        ],
+        [
+          "n",
+          "The quality of being earlier or coming first compared to another thing; the state of being prior."
+        ],
+        [
+          "n",
+          "Precedence; superior rank."
+        ],
+        [
+          "n",
+          "(transport) Right of way; The right to pass (an intersection) before other road users."
+        ],
+        [
+          "n",
+          "(taxonomy, of a name) A superior claim to use by virtue of being validly published at an earlier date."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "punishment": {
+      "word": "punishment",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "The act (action) or process of punishing, imposing and/or applying a sanction, typically by an authority or a person in authority (for example: a parent or teacher), especially when disappointed or dissatisfied with the behavior or actions of a child, student, or someone else being looked after."
+        ],
+        [
+          "n",
+          "A penalty to punish wrongdoing, especially for crime."
+        ],
+        [
+          "n",
+          "A suffering by pain or loss imposed as retribution."
+        ],
+        [
+          "n",
+          "(figuratively) Any harsh treatment or experience; rough handling."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "punished": {
+      "word": "punished",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "That has been the object of punishment."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "quarter": {
+      "word": "quarter",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A fourth part of something."
+        ],
+        [
+          "n",
+          "(in general sense) Each of four equal parts into which something can be divided; a fourth part."
+        ],
+        [
+          "n",
+          "A fourth part of a pound; approximately 113 grams."
+        ],
+        [
+          "n",
+          "(now chiefly finance) A fourth part of the year; 3 months; a term or season."
+        ],
+        [
+          "n",
+          "(time) A fourth part of an hour; a period of fifteen minutes, especially with reference to the quarter before or after the hour."
+        ],
+        [
+          "n",
+          "(heraldry) A fourth part of a coat of arms, or the charge on it, larger than a canton and normally on the upper dexter side, formed by a perpendicular line from the top meeting a horizontal line from the side."
+        ],
+        [
+          "n",
+          "(Canada, US) A quarter-dollar, divided into 25 cents; the coin of that value minted in the United States or Canada."
+        ],
+        [
+          "n",
+          "(sports) One of four equal periods into which a game is divided."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "rest": {
+      "word": "rest",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(uncountable, of a person or animal) Relief from work or activity by sleeping; sleep."
+        ],
+        [
+          "n",
+          "(countable) Any relief from exertion; a state of quiet and relaxation."
+        ],
+        [
+          "n",
+          "(uncountable) Peace; freedom from worry, anxiety, annoyances; tranquility."
+        ],
+        [
+          "n",
+          "(uncountable, of an object or concept) A state of inactivity; a state of little or no motion; a state of completion."
+        ],
+        [
+          "n",
+          "(euphemistic, uncountable) A final position after death. Also, death itself: \"Not alone, not alone would I go to my rest in the heart of the love...\" -- George William Russell (\"Love\")"
+        ],
+        [
+          "n",
+          "(music, countable) A pause of a specified length in a piece of music."
+        ],
+        [
+          "n",
+          "(music, countable) A written symbol indicating such a pause in a musical score such as in sheet music."
+        ],
+        [
+          "n",
+          "(physics, uncountable) Absence of motion."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "reluctant": {
+      "word": "reluctant",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Not wanting to take some action; unwilling to do something."
+        ],
+        [
+          "adj",
+          "(regular expressions) Tending to match as little text as possible."
+        ],
+        [
+          "adj",
+          "(archaic) Contrary; defiant; refractory."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "repercussions": {
+      "word": "repercussions",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A consequence or ensuing result of some action."
+        ],
+        [
+          "n",
+          "The act of driving back, or the state of being driven back; reflection; reverberation."
+        ],
+        [
+          "n",
+          "(music) Rapid reiteration of the same sound."
+        ],
+        [
+          "n",
+          "(medicine) The subsidence of a tumour or eruption by the action of a repellent."
+        ],
+        [
+          "n",
+          "(obstetrics, historical) In a vaginal examination, the act of imparting through the uterine wall with the finger a shock to the foetus, so that it bounds upward, and falls back again against the examining finger."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "respondents": {
+      "word": "respondents",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "One who responds; one who replies."
+        ],
+        [
+          "n",
+          "A person replying to a questionnaire."
+        ],
+        [
+          "n",
+          "(law) A defendant, especially in a case instituted by a petition or in appellate and divorce proceedings."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "responding": {
+      "word": "responding",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "response"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "three-quarters": {
+      "word": "three-quarters",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "Three of four equal parts (3/4, ¾, 0.75)."
+        ],
+        [
+          "n",
+          "forty-five minutes"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "schedules": {
+      "word": "schedules",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A procedural plan, usually but not necessarily tabular in nature, indicating a sequence of operations and the planned times at which those operations are to occur."
+        ],
+        [
+          "n",
+          "A serial record of items, systematically arranged."
+        ],
+        [
+          "n",
+          "(law) A written or printed table of information, often forming an annex or appendix to a statute or other regulatory instrument, or to a legal contract."
+        ],
+        [
+          "n",
+          "(US, law, often capitalized) One of the five divisions into which controlled substances are classified, or the restrictions denoted by such classification."
+        ],
+        [
+          "n",
+          "(Australia, law, medicine) One of the nine schedules of the Standard for the Uniform Scheduling of Medicines and Poisons. Identical to the American usage above."
+        ],
+        [
+          "n",
+          "(computer science) An allocation or ordering of a set of tasks on one or several resources."
+        ],
+        [
+          "n",
+          "(obsolete) A slip of paper; a short note."
+        ],
+        [
+          "n",
+          "(law, formal) Alternative letter-case form of schedule, commonly used in legislation and legal documents. [A procedural plan, usually but not necessarily tabular in nature, indicating a sequence of operations and the planned times at which those operations are to occur.]"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "tired": {
+      "word": "tired",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "In need of some rest or sleep."
+        ],
+        [
+          "adj",
+          "Fed up, annoyed, irritated, sick of."
+        ],
+        [
+          "adj",
+          "Old and worn."
+        ],
+        [
+          "adj",
+          "Overused, cliché."
+        ],
+        [
+          "adj",
+          "(slang, African-American Vernacular, derogatory) Played out, ineffectual; incompetent"
+        ],
+        [
+          "adj",
+          "Alternative form of tyred. [(in combination) Having a certain number, or type, of tyre.]"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "unfit": {
+      "word": "unfit",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Not fit; not having the correct requirements."
+        ],
+        [
+          "adj",
+          "(often with for) Unsuitable for a particular purpose."
+        ],
+        [
+          "adj",
+          "Not fit, not having a good physical demeanor."
+        ],
+        [
+          "v",
+          "To make unfit; to render unsuitable, spoil, disqualify."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "unreported": {
+      "word": "unreported",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Not reported"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "unpredictable": {
+      "word": "unpredictable",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Unable to be predicted."
+        ],
+        [
+          "n",
+          "An unpredictable thing."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "underreported": {
+      "word": "underreported",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Reported as smaller or lesser than reality"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "tiredness": {
+      "word": "tiredness",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "The state of being tired."
         ]
       ],
       "sentences": [],

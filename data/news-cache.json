@@ -6,6 +6,20 @@
   "failed": 0,
   "items": [
     {
+      "id": "2611/261102-pilot-fatigue.html",
+      "title": "Study finds majority of pilots nod off mid-flight",
+      "url": "https://breakingnewsenglish.com/2611/261102-pilot-fatigue.html",
+      "date": "2nd November",
+      "dateIso": "2026-11-02",
+      "kind": "Harder",
+      "summary": "Study finds majority of pilots nod off mid-flight 2nd November - \"Harder\"",
+      "availableLevels": {
+        "4": "https://breakingnewsenglish.com/2611/261102-pilot-fatigue-4.html",
+        "5": "https://breakingnewsenglish.com/2611/261102-pilot-fatigue-5.html",
+        "6": "https://breakingnewsenglish.com/2611/261102-pilot-fatigue.html"
+      }
+    },
+    {
       "id": "2610/261029-oxford-street-pedestrianized.html",
       "title": "World-famous London shopping street pedestrianized",
       "url": "https://breakingnewsenglish.com/2610/261029-oxford-street-pedestrianized.html",
@@ -201,7 +215,7 @@
       "date": "14th September",
       "dateIso": "2026-09-14",
       "kind": "Harder",
-      "summary": "CEO loses case to get back gifts from ex-girlfriend 14th September - \"Harder\"",
+      "summary": "CEO loses case to get back gifts from ex-girlfriend",
       "availableLevels": {
         "4": "https://breakingnewsenglish.com/2609/260914-lavish-gifts-4.html",
         "5": "https://breakingnewsenglish.com/2609/260914-lavish-gifts-5.html",
@@ -715,101 +729,9 @@
         "2": "https://breakingnewsenglish.com/2605/260514-african-continent-2.html",
         "3": "https://breakingnewsenglish.com/2605/260514-african-continent.html"
       }
-    },
-    {
-      "id": "2605/260511-ufo-uap-documents.html",
-      "title": "Pentagon releases never-before-seen UFO files",
-      "url": "https://breakingnewsenglish.com/2605/260511-ufo-uap-documents.html",
-      "date": "11th May",
-      "dateIso": "2026-05-11",
-      "kind": "Harder",
-      "summary": "Pentagon releases never-before-seen UFO files",
-      "availableLevels": {
-        "4": "https://breakingnewsenglish.com/2605/260511-ufo-uap-documents-4.html",
-        "5": "https://breakingnewsenglish.com/2605/260511-ufo-uap-documents-5.html",
-        "6": "https://breakingnewsenglish.com/2605/260511-ufo-uap-documents.html"
-      }
     }
   ],
   "articles": {
-    "https://breakingnewsenglish.com/2605/260511-ufo-uap-documents-4.html": {
-      "id": "2605/260511-ufo-uap-documents.html",
-      "title": "Pentagon releases never-before-seen UFO files",
-      "titleZh": "",
-      "tag": "Harder",
-      "level": "Level 4 · B1-B2",
-      "levelBand": "B1-B2",
-      "resolvedLevel": 4,
-      "requestedLevel": 4,
-      "fallback": false,
-      "minutes": 1,
-      "words": 125,
-      "published": "11th May",
-      "summary": "Pentagon releases never-before-seen UFO files",
-      "paragraphs": [
-        "Speculation about extraterrestrial life is increasing after the release of never-before-seen documents. The Pentagon released 161 files containing reports of sightings. These include reports from astronauts, the military, and civilians. One description was from Apollo 11 astronaut Buzz Aldrin. In 1969, he reported seeing a mysterious light that he said was a possible laser. In 1965, astronaut Frank Boman reported seeing \"trillions of little particles\".",
-        "President Donald Trump asked for the files to be released. He wanted his administration \"to provide government files related to alien and extraterrestrial life and Unidentified Aerial Phenomena (UAPs)\". Many organizations welcomed the release. One research group called for a full review of classified records. It said people should know the full truth about government knowledge \"concerning technologies and vehicles not of human origin\"."
-      ],
-      "sourceName": "Breaking News English",
-      "sourceUrl": "https://breakingnewsenglish.com/2605/260511-ufo-uap-documents-4.html",
-      "availableLevels": {
-        "4": "https://breakingnewsenglish.com/2605/260511-ufo-uap-documents-4.html",
-        "5": "https://breakingnewsenglish.com/2605/260511-ufo-uap-documents-5.html",
-        "6": "https://breakingnewsenglish.com/2605/260511-ufo-uap-documents.html"
-      }
-    },
-    "https://breakingnewsenglish.com/2605/260511-ufo-uap-documents-5.html": {
-      "id": "2605/260511-ufo-uap-documents.html",
-      "title": "Pentagon releases never-before-seen UFO files",
-      "titleZh": "",
-      "tag": "Harder",
-      "level": "Level 5 · B2-C1",
-      "levelBand": "B2-C1",
-      "resolvedLevel": 5,
-      "requestedLevel": 5,
-      "fallback": false,
-      "minutes": 1,
-      "words": 156,
-      "published": "11th May",
-      "summary": "Pentagon releases never-before-seen UFO files",
-      "paragraphs": [
-        "Speculation about the existence of extraterrestrial life is increasing after the release of never-before-seen documents on UFOs. The Pentagon declassified and released 161 files containing reports of sightings. These include reports from astronauts, the military, and civilians. One notable description was from Apollo 11 astronaut Buzz Aldrin. In 1969, he reported seeing a mysterious light. He said he \"tentatively ascribed it to a possible laser\". In 1965, astronaut Frank Boman reported seeing \"trillions of little particles\" from the Gemini 7 spacecraft.",
-        "President Donald Trump requested the release of the files. He wrote: \"It was my honour to direct my administration to identify and provide government files related to alien and extraterrestrial life and Unidentified Aerial Phenomena (UAPs).\" Many organizations welcomed the release. The Sol Foundation, a research group focused on UAPs, called for a full review of classified records. It said people should know \"the full truth about longstanding government knowledge and programs concerning technologies and vehicles not of human origin\"."
-      ],
-      "sourceName": "Breaking News English",
-      "sourceUrl": "https://breakingnewsenglish.com/2605/260511-ufo-uap-documents-5.html",
-      "availableLevels": {
-        "4": "https://breakingnewsenglish.com/2605/260511-ufo-uap-documents-4.html",
-        "5": "https://breakingnewsenglish.com/2605/260511-ufo-uap-documents-5.html",
-        "6": "https://breakingnewsenglish.com/2605/260511-ufo-uap-documents.html"
-      }
-    },
-    "https://breakingnewsenglish.com/2605/260511-ufo-uap-documents.html": {
-      "id": "2605/260511-ufo-uap-documents.html",
-      "title": "Pentagon releases never-before-seen UFO files",
-      "titleZh": "",
-      "tag": "Harder",
-      "level": "Level 6 · C1-C2",
-      "levelBand": "C1-C2",
-      "resolvedLevel": 6,
-      "requestedLevel": 6,
-      "fallback": false,
-      "minutes": 2,
-      "words": 198,
-      "published": "11th May",
-      "summary": "Pentagon releases never-before-seen UFO files",
-      "paragraphs": [
-        "Speculation regarding the existence of extraterrestrial life is increasing following the release of never-before-seen documents on UFOs (Unidentified Flying Objects). The Pentagon has declassified and released 161 files containing reports of sightings. These include observations from astronauts during Moon missions, and from the military and civilians on Earth. One notable description was from Apollo 11 astronaut Buzz Aldrin. In 1969, he reported seeing a mysterious light. He said: \"I observed what appeared to be a fairly bright light source which we tentatively ascribed to a possible laser.\" In 1965, Frank Boman reported seeing \"trillions of little particles\" from the Gemini 7 spacecraft.",
-        "The documents were released at the request of President Donald Trump. In a post on social media, President Trump wrote: \"In an effort for complete and maximum transparency, it was my honour to direct my administration to identify and provide government files related to alien and extraterrestrial life and Unidentified Aerial Phenomena (UAPs).\" Many organizations welcomed the release of the documents. The Sol Foundation, a research group focused on UAPs, called for a comprehensive review of classified UAP records. It said people should know \"the full truth about longstanding government knowledge and programs concerning technologies and vehicles not of human origin\"."
-      ],
-      "sourceName": "Breaking News English",
-      "sourceUrl": "https://breakingnewsenglish.com/2605/260511-ufo-uap-documents.html",
-      "availableLevels": {
-        "4": "https://breakingnewsenglish.com/2605/260511-ufo-uap-documents-4.html",
-        "5": "https://breakingnewsenglish.com/2605/260511-ufo-uap-documents-5.html",
-        "6": "https://breakingnewsenglish.com/2605/260511-ufo-uap-documents.html"
-      }
-    },
     "https://breakingnewsenglish.com/2605/260514-african-continent-0.html": {
       "id": "2605/260514-african-continent.html",
       "title": "African continent splitting into two parts",
@@ -4093,7 +4015,7 @@
       "minutes": 1,
       "words": 170,
       "published": "14th September",
-      "summary": "CEO loses case to get back gifts from ex-girlfriend 14th September - \"Harder\"",
+      "summary": "CEO loses case to get back gifts from ex-girlfriend",
       "paragraphs": [
         "A CEO lost a court case to get back hundreds of thousands of dollars of gifts that he gave to his ex-girlfriend. The two met on an airplane. He fell in love with her and gave her many expensive gifts. He said he also gave her \"loans\". The court said the value of the presents and loans was $369,200. The judge said the man had \"displayed a consistent pattern\" of showering his ex with \"lavish gifts\". The judge said she did not have to repay or return anything.",
         "The couple were in a relationship for just over a year. They split up after he thought she was having an affair. He argued that she asked him for interest-free loans for her credit cards, overseas trips, and the advice of a feng shui master. However, there was no evidence to prove this. She said all gifts were \"made out of love and affection\". The judge concluded that after they split up, the man was determined to get money back from his ex."
@@ -4119,7 +4041,7 @@
       "minutes": 2,
       "words": 213,
       "published": "14th September",
-      "summary": "CEO loses case to get back gifts from ex-girlfriend 14th September - \"Harder\"",
+      "summary": "CEO loses case to get back gifts from ex-girlfriend",
       "paragraphs": [
         "A man (Mr X) has lost a court case to get back hundreds of thousands of dollars of gifts that he gave to his ex-girlfriend. He is a company CEO. His ex, Ms Y, was a flight attendant. The two met on a flight. Mr X became besotted with her and gave her expensive gifts to win her love. He said he also gave her \"loans\". The court said the value of the presents and loans was $369,200. The judge said that Mr X had \"displayed a consistent pattern of showering [Ms Y] with lavish gifts\". The judge said there had been no expectation that Ms Y would have to repay or return anything.",
         "The couple were in a relationship for just over a year. They split up after Mr X thought Ms Y was having an affair. He argued that his ex-partner had requested interest-free loans for her credit cards, life insurance premiums, overseas trips, and the advice of a feng shui master to assess her apartment. However, there was no evidence to prove this. Ms Y said all gifts were \"made out of love and affection\". The judge concluded: \"Unfortunately, when their relationship ended on a sour note, [Mr X] became embittered and was determined to extract a price from [Ms Y].\""
@@ -4145,7 +4067,7 @@
       "minutes": 2,
       "words": 252,
       "published": "14th September",
-      "summary": "CEO loses case to get back gifts from ex-girlfriend 14th September - \"Harder\"",
+      "summary": "CEO loses case to get back gifts from ex-girlfriend",
       "paragraphs": [
         "A man in Singapore has lost a court case to get back hundreds of thousands of dollars of gifts that he had showered on his ex-girlfriend. The man, Mr X, is a company CEO. His ex, Ms Y, was a flight attendant. The two met during a flight in 2019. Mr X became besotted with Ms Y and started giving her lavish gifts to win her affection. He said he also gave her cash \"loans\". The court said the value of the presents and additional loans amounted to $369,200. The presiding judge said that Mr X had \"displayed a consistent pattern of showering [Ms Y] with lavish gifts\". The judge said there had been no expectation that Ms Y would have to repay any of the money or return the gifts.",
         "The couple were involved in a romantic relationship for just over a year. They split up after Mr X suspected Ms Y of having an affair. He argued in court that his ex-partner had requested interest-free loans to repay her credit cards and life insurance premiums, to pay for overseas trips, and to seek the advice of a feng shui master to assess her apartment. However, there was no documentary evidence to prove this. Ms Y said all gifts were \"made out of love and affection\". The judge concluded that Mr X had been \"smitten\" by Ms Y. He added: \"Unfortunately, when their relationship ended on a sour note, [Mr X] became embittered and was determined to extract a price from [Ms Y].\""
@@ -5380,6 +5302,84 @@
         "1": "https://breakingnewsenglish.com/2610/261029-oxford-street-pedestrianized-1.html",
         "2": "https://breakingnewsenglish.com/2610/261029-oxford-street-pedestrianized-2.html",
         "3": "https://breakingnewsenglish.com/2610/261029-oxford-street-pedestrianized.html"
+      }
+    },
+    "https://breakingnewsenglish.com/2611/261102-pilot-fatigue-4.html": {
+      "id": "2611/261102-pilot-fatigue.html",
+      "title": "Study finds majority of pilots nod off mid-flight",
+      "titleZh": "",
+      "tag": "Harder",
+      "level": "Level 4 · B1-B2",
+      "levelBand": "B1-B2",
+      "resolvedLevel": 4,
+      "requestedLevel": 4,
+      "fallback": false,
+      "minutes": 1,
+      "words": 138,
+      "published": "2nd November",
+      "summary": "Study finds majority of pilots nod off mid-flight 2nd November - \"Harder\"",
+      "paragraphs": [
+        "A new report has raised concerns about pilot fatigue. A European pilots' association conducted a survey of 7,200 pilots. It found that exhaustion was widespread and underreported. More than three-quarters of respondents said they had dozed off while being in control of an airplane. Almost a quarter of them said they had flown even when they were too tired. Tiredness can result from long working hours, not having enough rest, and changing schedules.",
+        "The pilots were honest in their answers. Many said they didn't report fatigue because they were worried about being punished. A pilots' spokesperson said: \"When pilots fear career consequences, fatigue goes unreported and the risk returns to the cockpit.\" Safety experts say fatigue can slow judgement and reaction times. The experts said pilots should be able to report fatigue without worrying. Airlines should prioritise passenger safety."
+      ],
+      "sourceName": "Breaking News English",
+      "sourceUrl": "https://breakingnewsenglish.com/2611/261102-pilot-fatigue-4.html",
+      "availableLevels": {
+        "4": "https://breakingnewsenglish.com/2611/261102-pilot-fatigue-4.html",
+        "5": "https://breakingnewsenglish.com/2611/261102-pilot-fatigue-5.html",
+        "6": "https://breakingnewsenglish.com/2611/261102-pilot-fatigue.html"
+      }
+    },
+    "https://breakingnewsenglish.com/2611/261102-pilot-fatigue-5.html": {
+      "id": "2611/261102-pilot-fatigue.html",
+      "title": "Study finds majority of pilots nod off mid-flight",
+      "titleZh": "",
+      "tag": "Harder",
+      "level": "Level 5 · B2-C1",
+      "levelBand": "B2-C1",
+      "resolvedLevel": 5,
+      "requestedLevel": 5,
+      "fallback": false,
+      "minutes": 2,
+      "words": 174,
+      "published": "2nd November",
+      "summary": "Study finds majority of pilots nod off mid-flight 2nd November - \"Harder\"",
+      "paragraphs": [
+        "A new report has raised concerns about pilot fatigue. The European Cockpit Association (ECA) conducted a survey of 7,200 pilots. It found that pilot exhaustion is both widespread and underreported. More than three-quarters of respondents said they had briefly dozed off while flying an aircraft. Almost a quarter of them admitted to flying even when they were too tired. Furthermore, half said they had flown when they should have declared themselves unfit for duty. Tiredness can result from long working hours, not enough rest, and unpredictable schedules.",
+        "The pilots were very honest in their survey answers. Many said they were reluctant to report fatigue because they feared punishment from their bosses. A director of the ECA warned: \"When pilots fear career consequences, fatigue goes unreported and the risk returns to the cockpit.\" Safety experts say exhaustion can impair judgement, slow reaction times and prevent pilots from responding effectively to unexpected situations. The experts urged airlines to create a culture in which pilots can report tiredness without worries. Airlines should make passenger safety their top priority."
+      ],
+      "sourceName": "Breaking News English",
+      "sourceUrl": "https://breakingnewsenglish.com/2611/261102-pilot-fatigue-5.html",
+      "availableLevels": {
+        "4": "https://breakingnewsenglish.com/2611/261102-pilot-fatigue-4.html",
+        "5": "https://breakingnewsenglish.com/2611/261102-pilot-fatigue-5.html",
+        "6": "https://breakingnewsenglish.com/2611/261102-pilot-fatigue.html"
+      }
+    },
+    "https://breakingnewsenglish.com/2611/261102-pilot-fatigue.html": {
+      "id": "2611/261102-pilot-fatigue.html",
+      "title": "Study finds majority of pilots nod off mid-flight",
+      "titleZh": "",
+      "tag": "Harder",
+      "level": "Level 6 · C1-C2",
+      "levelBand": "C1-C2",
+      "resolvedLevel": 6,
+      "requestedLevel": 6,
+      "fallback": false,
+      "minutes": 2,
+      "words": 205,
+      "published": "2nd November",
+      "summary": "Study finds majority of pilots nod off mid-flight 2nd November - \"Harder\"",
+      "paragraphs": [
+        "A new report has raised serious concerns about pilot fatigue. The European Cockpit Association (ECA) conducted a survey of nearly 7,200 pilots across 32 countries. It discovered that exhaustion in the cockpit is a widespread and underreported problem. More than three-quarters of respondents said they had briefly dozed off while operating an aircraft in the month before the survey. Almost a quarter of them admitted they continued flying even when they were too tired. Furthermore, half said they had operated a flight when they should have declared themselves unfit for duty. Tiredness can result from long working hours, insufficient rest, and unpredictable schedules.",
+        "The pilots were very frank in their answers to the survey questions. Many said they were reluctant to report fatigue because they feared punishment or other negative reactions from their bosses. Captain Coen George, a director of the ECA, warned: \"When pilots fear career consequences, fatigue goes unreported and the risk returns to the cockpit.\" Aviation safety experts say exhaustion can impair judgement, slow reaction times and prevent pilots from responding effectively to unexpected in-flight situations. The experts urged airlines to foster a culture in which pilots can report tiredness without fear of repercussions. Carriers should ensure that passenger safety is their top priority."
+      ],
+      "sourceName": "Breaking News English",
+      "sourceUrl": "https://breakingnewsenglish.com/2611/261102-pilot-fatigue.html",
+      "availableLevels": {
+        "4": "https://breakingnewsenglish.com/2611/261102-pilot-fatigue-4.html",
+        "5": "https://breakingnewsenglish.com/2611/261102-pilot-fatigue-5.html",
+        "6": "https://breakingnewsenglish.com/2611/261102-pilot-fatigue.html"
       }
     }
   }
