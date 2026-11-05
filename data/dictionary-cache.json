@@ -1,7 +1,7 @@
 {
   "source": "Free Dictionary API + Wiktionary + MyMemory",
-  "count": 3319,
-  "failed": 23,
+  "count": 3362,
+  "failed": 22,
   "words": {
     "ability": {
       "word": "ability",
@@ -112265,6 +112265,1488 @@
         [
           "n",
           "The state of being tired."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "arrived": {
+      "word": "arrived",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "(intransitive, copulative) To reach; to get to a certain place."
+        ],
+        [
+          "v",
+          "(intransitive) To obtain a level of success or fame; to succeed."
+        ],
+        [
+          "v",
+          "(intransitive) To come; said of time."
+        ],
+        [
+          "v",
+          "(intransitive) To happen or occur."
+        ],
+        [
+          "v",
+          "(intransitive, often vulgar, slang, chiefly UK, Ireland) To achieve orgasm; to cum; to ejaculate."
+        ],
+        [
+          "v",
+          "(transitive, archaic) To reach; to come to."
+        ],
+        [
+          "v",
+          "(intransitive, obsolete) To bring to shore."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "adventure": {
+      "word": "adventure",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(uncountable) A feeling of desire for new and exciting things."
+        ],
+        [
+          "n",
+          "A daring feat; a bold undertaking, in which dangers are likely to be encountered, and the issue is staked upon unforeseen events; the encountering of risks."
+        ],
+        [
+          "n",
+          "A remarkable occurrence; a striking event."
+        ],
+        [
+          "n",
+          "(video games) A text adventure or an adventure game."
+        ],
+        [
+          "n",
+          "A mercantile or speculative enterprise of hazard; a venture; a shipment by a merchant on his own account."
+        ],
+        [
+          "n",
+          "(obsolete) That which happens by chance; hazard; hap."
+        ],
+        [
+          "n",
+          "(obsolete) Chance of danger or loss."
+        ],
+        [
+          "n",
+          "(obsolete) Risk; danger; peril."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "bears": {
+      "word": "bears",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A surname."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "belief": {
+      "word": "belief",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "Mental acceptance of a claim as true."
+        ],
+        [
+          "n",
+          "Faith or trust in the reality of something; often based upon one's own reasoning, trust in a claim, desire of actuality, and/or evidence considered."
+        ],
+        [
+          "n",
+          "(uncountable) The quality or state of believing."
+        ],
+        [
+          "n",
+          "(uncountable) Religious faith."
+        ],
+        [
+          "n",
+          "(countable) Something believed."
+        ],
+        [
+          "n",
+          "(in the plural) One's religious or moral convictions."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "bushby": {
+      "word": "bushby",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A habitational surname from Old Norse."
+        ],
+        [
+          "n",
+          "A village in Thurnby and Bushby parish, Harborough district, Leicestershire, England (OS grid ref SK6504)."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "boats": {
+      "word": "boats",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A craft used for transportation of goods, fishing, racing, recreational cruising, or military use on or in the water, propelled by oars or outboard motor or inboard motor or by wind."
+        ],
+        [
+          "n",
+          "(poker slang) A full house."
+        ],
+        [
+          "n",
+          "A conveyance, utensil, or dish somewhat resembling a boat in shape."
+        ],
+        [
+          "n",
+          "(informal) A large and heavy car; the term connotes wasteful size."
+        ],
+        [
+          "n",
+          "(organic chemistry, physical chemistry) One of two possible conformations of cyclohexane rings (the other being chair), shaped roughly like a boat."
+        ],
+        [
+          "n",
+          "(Australian politics, informal) The refugee boats arriving in Australian waters, and by extension, refugees generally."
+        ],
+        [
+          "n",
+          "(cellular automata) In Conway’s Game of Life, a particular still life consisting of a dead cell surrounded by five living cells."
+        ],
+        [
+          "n",
+          "Alternative form of BOAT."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "childhood": {
+      "word": "childhood",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "The time during which one is a child, from between infancy and puberty."
+        ],
+        [
+          "n",
+          "(chiefly uncountable) The state of being a child."
+        ],
+        [
+          "n",
+          "(by extension) The early stages of development of something."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "chile": {
+      "word": "chile",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A country in South America. Official name: Republic of Chile. Capital and largest city: Santiago."
+        ],
+        [
+          "n",
+          "(US, regional) Alternative spelling of chili. [(countable) The pungent, spicy fresh or dried fruit of any of several cultivated varieties of capsicum peppers, used in cooking.]"
+        ],
+        [
+          "n",
+          "Pronunciation spelling of child, representing Southern US and African-American Vernacular English. [(broadly) A person who has not yet reached adulthood, whether natural (puberty), cultural (initiation), or legal (majority).]"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "congratulated": {
+      "word": "congratulated",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "To express one’s sympathetic pleasure or joy to the person(s) it is felt for"
+        ],
+        [
+          "v",
+          "(reflexive) To consider oneself fortunate in some matter."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "crossing": {
+      "word": "crossing",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "An intersection where roads, lines, or tracks cross."
+        ],
+        [
+          "n",
+          "A place at which a river, railroad, or highway may be crossed."
+        ],
+        [
+          "n",
+          "The act by which terrain or a road etc. is crossed."
+        ],
+        [
+          "n",
+          "A voyage across a body of water."
+        ],
+        [
+          "n",
+          "Opposition; thwarting."
+        ],
+        [
+          "n",
+          "Cross-breeding."
+        ],
+        [
+          "n",
+          "(architecture) The volume formed by the intersection of chancel, nave and transepts in a cruciform church; often with a tower or cupola over it."
+        ],
+        [
+          "n",
+          "Movement into a crossed position."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "crossed": {
+      "word": "crossed",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Marked by a line drawn crosswise, often denoting cancellation."
+        ],
+        [
+          "adj",
+          "Folded."
+        ],
+        [
+          "adj",
+          "(heraldry) Having a cross placed on it, or (with respect to the arms of a cross) having a bar placed crosswise over (an existing bar) so as to form a cross."
+        ],
+        [
+          "adj",
+          "Cruciate."
+        ],
+        [
+          "adj",
+          "(slang) Crossfaded."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "cheering": {
+      "word": "cheering",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A cheer."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "crowd": {
+      "word": "crowd",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "(intransitive) To press forward; to advance by pushing."
+        ],
+        [
+          "v",
+          "(intransitive) To press together or collect in numbers."
+        ],
+        [
+          "v",
+          "(transitive) To press or drive together, especially into a small space; to cram."
+        ],
+        [
+          "v",
+          "(transitive) To fill by pressing or thronging together"
+        ],
+        [
+          "v",
+          "(transitive, often used with \"out of\" or \"off\") To push, to press, to shove."
+        ],
+        [
+          "v",
+          "(nautical) To approach another ship too closely when it has right of way."
+        ],
+        [
+          "v",
+          "(nautical, of a square-rigged ship, transitive) To carry excessive sail in the hope of moving faster."
+        ],
+        [
+          "v",
+          "(transitive) To press by solicitation; to urge; to dun; hence, to treat discourteously or unreasonably."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "crowds": {
+      "word": "crowds",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A group of people congregated or collected into a close body without order."
+        ],
+        [
+          "n",
+          "Several things collected or closely pressed together; also, some things adjacent to each other."
+        ],
+        [
+          "n",
+          "(with definite article) The so-called lower orders of people; the populace; the vulgar."
+        ],
+        [
+          "n",
+          "A group of people united or at least characterised by a common interest."
+        ],
+        [
+          "n",
+          "(now dialectal) A fiddle."
+        ],
+        [
+          "n",
+          "(obsolete) Alternative form of crwth. [(historical) An archaic stringed instrument associated particularly with Wales, though once played widely in Europe, and characterized by a vaulted back and enough space for the player to stop each of the six strings on the fingerboard. Played variously by plucking or bowing.]"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "dangers": {
+      "word": "dangers",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "Exposure to likely harm; peril."
+        ],
+        [
+          "n",
+          "An instance or cause of likely harm."
+        ],
+        [
+          "n",
+          "(mainly outside US, rail transport) The stop indication of a signal (usually in the phrase \"at danger\")."
+        ],
+        [
+          "n",
+          "(UK, derogatory) A contemptible person, especially one seen as perverted or mentally ill."
+        ],
+        [
+          "n",
+          "(obsolete) Mischief."
+        ],
+        [
+          "n",
+          "(obsolete) Ability to harm; someone's dominion or power to harm or penalise. See in one's danger, below."
+        ],
+        [
+          "n",
+          "(obsolete) Liability."
+        ],
+        [
+          "n",
+          "(obsolete) Difficulty; sparingness; hesitation."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "deserts": {
+      "word": "deserts",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "an outcome (good or bad) that is well deserved"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "determination": {
+      "word": "determination",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "The act of determining, or the state of being determined."
+        ],
+        [
+          "n",
+          "The quality of mind which reaches definite conclusions; decisive character; resoluteness; fortitude."
+        ],
+        [
+          "n",
+          "(countable) That which is determined upon; result of deliberation; purpose; conclusion formed; fixed resolution."
+        ],
+        [
+          "n",
+          "(countable) The state of decision; a judicial decision, or ending of controversy."
+        ],
+        [
+          "n",
+          "(countable) The act, process, or result of any accurate measurement, as of length, volume, weight, intensity, etc."
+        ],
+        [
+          "n",
+          "The act of defining a concept or notion by giving its essential constituents."
+        ],
+        [
+          "n",
+          "The act of determining the relations of an object, such as genus and species; the referring of minerals, plants, or animals, to the species to which they belong; classification"
+        ],
+        [
+          "n",
+          "The addition of a distinguishing feature to a concept or notion, thus limiting its extent."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "done": {
+      "word": "done",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Having completed or finished an activity."
+        ],
+        [
+          "adj",
+          "(of an activity or task) Completed or finished."
+        ],
+        [
+          "adj",
+          "(of food) Ready, fully cooked."
+        ],
+        [
+          "adj",
+          "Without hope or prospect of completion or success."
+        ],
+        [
+          "adj",
+          "Being exhausted or fully spent."
+        ],
+        [
+          "adj",
+          "(Canada, Philadelphia, Scotland, predicative) Finished with (something)."
+        ],
+        [
+          "adj",
+          "Fashionable, socially acceptable, tasteful."
+        ],
+        [
+          "v",
+          "(African-American Vernacular, Southern US, Cockney, auxiliary verb, taking a past tense) Used in forming the perfective aspect; have."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "encountering": {
+      "word": "encountering",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "An encounter; a meeting."
+        ],
+        [
+          "adj",
+          "(obsolete) Fit for an encounter or battle."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "finally": {
+      "word": "finally",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adv",
+          "At the end or conclusion; ultimately."
+        ],
+        [
+          "adv",
+          "(sequence) To finish (with); lastly (in the present)."
+        ],
+        [
+          "adv",
+          "At bottom; ultimately; when all is considered."
+        ],
+        [
+          "adv",
+          "(manner) Definitively, comprehensively."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "finish": {
+      "word": "finish",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "(transitive) To complete (something)."
+        ],
+        [
+          "v",
+          "(intransitive) To come to an end."
+        ],
+        [
+          "n",
+          "An end; the end of anything."
+        ],
+        [
+          "v",
+          "(transitive) To put an end to; to destroy."
+        ],
+        [
+          "n",
+          "A protective coating given to wood or metal and other surfaces."
+        ],
+        [
+          "n",
+          "A finishing touch; careful elaboration; polish."
+        ],
+        [
+          "n",
+          "(sports) A shot on goal, especially one that ends in a goal."
+        ],
+        [
+          "n",
+          "(professional wrestling, slang) The ending of a match and its structure."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "greet": {
+      "word": "greet",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "(transitive) To welcome in a friendly manner, either in person or through another means such as writing."
+        ],
+        [
+          "v",
+          "(transitive) To accost; to address."
+        ],
+        [
+          "v",
+          "(transitive) To arrive at or reach, or meet."
+        ],
+        [
+          "v",
+          "(transitive, figurative) To be perceived by (someone)."
+        ],
+        [
+          "v",
+          "(intransitive, archaic) To meet and give salutations."
+        ],
+        [
+          "v",
+          "(Scotland, Northern England) To weep; to cry."
+        ],
+        [
+          "adj",
+          "(obsolete outside Scotland) Great."
+        ],
+        [
+          "n",
+          "(obsolete) Mourning, weeping, lamentation."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "frozen": {
+      "word": "frozen",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Having undergone the process of freezing; in ice form."
+        ],
+        [
+          "adj",
+          "Immobilized."
+        ],
+        [
+          "adj",
+          "(of a bank account or assets) In a state such that transactions are not allowed."
+        ],
+        [
+          "adj",
+          "(grammar) Retaining an older, obsolete syntax of an earlier version of a language, which now operates only on a specific word or phrase."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "finished": {
+      "word": "finished",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Completed; concluded; done."
+        ],
+        [
+          "adj",
+          "(comparable) Processed or perfected."
+        ],
+        [
+          "adj",
+          "(informal, figurative) Done for; doomed; used up."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "greeted": {
+      "word": "greeted",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "(transitive) To welcome in a friendly manner, either in person or through another means such as writing."
+        ],
+        [
+          "v",
+          "(transitive) To accost; to address."
+        ],
+        [
+          "v",
+          "(transitive) To arrive at or reach, or meet."
+        ],
+        [
+          "v",
+          "(transitive, figurative) To be perceived by (someone)."
+        ],
+        [
+          "v",
+          "(intransitive, archaic) To meet and give salutations."
+        ],
+        [
+          "v",
+          "(Scotland, Northern England) To weep; to cry."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "hell": {
+      "word": "hell",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(in many religions, uncountable) A place of torment where some or all sinners are believed to go after death and evil spirits are believed to be."
+        ],
+        [
+          "n",
+          "(countable, hyperbolic, figuratively) A place or situation of great suffering in life."
+        ],
+        [
+          "n",
+          "(sometimes vulgar) Used as an intensifier in phrases grammatically requiring a noun."
+        ],
+        [
+          "n",
+          "(colloquial, usually with on) Something extremely painful or harmful (to)"
+        ],
+        [
+          "n",
+          "(countable) A place for gambling."
+        ],
+        [
+          "n",
+          "(figuratively) An extremely hot place."
+        ],
+        [
+          "n",
+          "In certain games of chase, a place to which those who are caught are carried for detention."
+        ],
+        [
+          "v",
+          "To make hellish; to place (someone) in hell; to make (a place) into a hell."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "joked": {
+      "word": "joked",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "(intransitive) To do or say something for amusement rather than seriously."
+        ],
+        [
+          "v",
+          "(intransitive, followed by with) To dupe in a friendly manner for amusement; to mess with, play with."
+        ],
+        [
+          "v",
+          "(transitive, dated) To make merry with; to make jokes upon; to rally."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "hull": {
+      "word": "hull",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "The body or frame of a vessel, such as a ship or plane."
+        ],
+        [
+          "n",
+          "The outer covering of a fruit or seed."
+        ],
+        [
+          "v",
+          "To remove the outer covering of a fruit or seed."
+        ],
+        [
+          "n",
+          "Any covering."
+        ],
+        [
+          "v",
+          "(transitive) To hit (a ship) in the hull with cannon fire etc."
+        ],
+        [
+          "n",
+          "(mathematics, geometry, of a set A) The smallest set that possesses a particular property (such as convexity) and contains every point of A; slightly more formally, the intersection of all sets which possess the specified property and of which A is a subset."
+        ],
+        [
+          "v",
+          "(obsolete, intransitive, nautical) To drift; to be carried by the impetus of wind or water on the ship's hull alone, with sails furled."
+        ],
+        [
+          "n",
+          "The common name of Kingston upon Hull, a city in the East Riding of Yorkshire, England."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "karl": {
+      "word": "karl",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A male given name from the Germanic languages, equivalent to English Charles."
+        ],
+        [
+          "n",
+          "(historical) A medieval Scandinavian freeman."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "jungles": {
+      "word": "jungles",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A large, undeveloped, humid forest, especially in a tropical region, that is home to many wild plants and animals; a tropical rainforest."
+        ],
+        [
+          "n",
+          "(South Asia) Any uncultivated tract of forest or scrub habitat."
+        ],
+        [
+          "n",
+          "(colloquial) A place where people behave ruthlessly, unconstrained by law or morality."
+        ],
+        [
+          "n",
+          "(music, uncountable) A style of electronic dance music and precursor of drum and bass."
+        ],
+        [
+          "n",
+          "(figurative) A tangled mess."
+        ],
+        [
+          "n",
+          "(golf slang) Dense rough."
+        ],
+        [
+          "n",
+          "(slang) An area where hobos camp together."
+        ],
+        [
+          "n",
+          "(vulgar slang) A dense mass of pubic hair."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "mother": {
+      "word": "mother",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A female parent, especially of a human; a female who parents a child (which she has given birth to, adopted, or fostered)."
+        ],
+        [
+          "n",
+          "A female who has given birth to a baby; this person in relation to her child or children."
+        ],
+        [
+          "n",
+          "A pregnant female; mother-to-be; a female who gestates a baby."
+        ],
+        [
+          "n",
+          "A female who donates a fertilized egg or donates a body cell which has resulted in a clone."
+        ],
+        [
+          "n",
+          "(figuratively) A female ancestor."
+        ],
+        [
+          "n",
+          "(figuratively) A source or origin."
+        ],
+        [
+          "n",
+          "Something that is the greatest or most significant of its kind. (See mother of all.)"
+        ],
+        [
+          "n",
+          "(dated, when followed by a surname) A title of respect for one's mother-in-law."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "kidnappers": {
+      "word": "kidnappers",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A person who kidnaps someone."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "mountains": {
+      "word": "mountains",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "mountain range"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "november": {
+      "word": "november",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "The eleventh month of the Gregorian calendar, following October and preceding December."
+        ],
+        [
+          "n",
+          "A female given name."
+        ],
+        [
+          "n",
+          "(international standards) Alternative letter-case form of November from the NATO/ICAO Phonetic Alphabet."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "polar": {
+      "word": "polar",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "(geography) Of, relating to, measured from, or referred to a geographic pole (the North Pole or South Pole); within the Arctic or Antarctic circles."
+        ],
+        [
+          "adj",
+          "Of or having a pole or polarity, as:"
+        ],
+        [
+          "adj",
+          "(space sciences) Of an orbit that passes over, or near, one of these poles."
+        ],
+        [
+          "adj",
+          "(chemistry) Having a dipole; ionic."
+        ],
+        [
+          "adj",
+          "(mathematics) Of a coordinate system, specifying the location of a point in a plane by using a radius and an angle."
+        ],
+        [
+          "adj",
+          "(linguistics, of a question) Having but two possible answers, yes and no."
+        ],
+        [
+          "adj",
+          "(conceptual analysis) Of or relating to a pole (extreme) on any spectrum or field, such as an ideologically pure dogmatic position as opposed to any syncretic integration or balancing of competing principles."
+        ],
+        [
+          "n",
+          "(geometry) The line joining the points of contact of tangents drawn to meet a curve from a point called the pole of the line."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "prison": {
+      "word": "prison",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A place or institution where people are held against their will, in the US especially for long-term confinement, as of those convicted of serious crimes or otherwise considered undesirable by the government."
+        ],
+        [
+          "n",
+          "(uncountable) Confinement in prison."
+        ],
+        [
+          "v",
+          "(transitive) To imprison."
+        ],
+        [
+          "n",
+          "(colloquial, figurative) Any restrictive environment, such as a harsh academy or home."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "russian": {
+      "word": "russian",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Of or pertaining to Russia or Russians."
+        ],
+        [
+          "n",
+          "(countable) A citizen of Russia."
+        ],
+        [
+          "n",
+          "(countable) An ethnic Russian; a member of the East Slavic ethnic group which is native to, and constitutes the majority of the population of, Russia."
+        ],
+        [
+          "n",
+          "(uncountable) The Russian language."
+        ],
+        [
+          "adj",
+          "Of or pertaining to the Russian language."
+        ],
+        [
+          "adj",
+          "(dated) Of or pertaining to the Soviet Union."
+        ],
+        [
+          "adj",
+          "(dated) Of or pertaining to Rus."
+        ],
+        [
+          "n",
+          "(countable, obsolete) A person from the Soviet Union."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "soldier": {
+      "word": "soldier",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A member of a ground-based army, of any rank, but especially an enlisted member."
+        ],
+        [
+          "n",
+          "An enlisted member of a military service, as distinguished from a commissioned officer."
+        ],
+        [
+          "n",
+          "(by extension, nonstandard) Any member of a military, regardless of specialty."
+        ],
+        [
+          "n",
+          "A low-ranking gangster or member of a gang, especially the mafia, who engages in physical conflict."
+        ],
+        [
+          "n",
+          "A member of the Salvation Army."
+        ],
+        [
+          "n",
+          "A guardsman."
+        ],
+        [
+          "n",
+          "Someone who fights or toils well."
+        ],
+        [
+          "n",
+          "One of the asexual polymorphic forms of termites, in which the head and jaws are very large and strong. The soldiers serve to defend the nest."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "sorry": {
+      "word": "sorry",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "(of a person) Regretful or apologetic for one's actions."
+        ],
+        [
+          "n",
+          "The act of saying sorry; an apology."
+        ],
+        [
+          "adj",
+          "(of a person) Grieved or saddened, especially by the loss of something or someone."
+        ],
+        [
+          "adj",
+          "Poor, pitifully sad or regrettable."
+        ],
+        [
+          "adj",
+          "Pathetic; contemptibly inadequate."
+        ],
+        [
+          "v",
+          "(intransitive, transitive, rare) To feel sorry (for someone)."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "spoke": {
+      "word": "spoke",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A support structure that connects the axle or the hub of a wheel to the rim."
+        ],
+        [
+          "v",
+          "(transitive) To furnish (a wheel) with spokes."
+        ],
+        [
+          "n",
+          "(nautical) A projecting handle of a steering wheel."
+        ],
+        [
+          "n",
+          "One of the outlying points in a hub-and-spoke model of transportation."
+        ],
+        [
+          "n",
+          "A rung of a ladder."
+        ],
+        [
+          "n",
+          "A stick inserted into the wheel of a vehicle to keep the wheel from turning."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "visas": {
+      "word": "visas",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A permit to enter and leave a country, normally issued by the authorities of the country to be visited."
+        ],
+        [
+          "n",
+          "(banking) A credit card issued by the credit card company Visa."
+        ],
+        [
+          "n",
+          "(banking) A credit card company."
+        ],
+        [
+          "n",
+          "(banking) A credit card."
+        ],
+        [
+          "n",
+          "Alternative spelling of visa. [A permit to enter and leave a country, normally issued by the authorities of the country to be visited.]"
+        ],
+        [
+          "n",
+          "(medicine, microbiology) Initialism of vancomycin-intermediate Staphylococcus aureus."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "waiting": {
+      "word": "waiting",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "The act of staying or remaining in expectation."
+        ],
+        [
+          "n",
+          "Attendance, service."
+        ],
+        [
+          "n",
+          "(obsolete) Watching, observation; keeping watch, guarding."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "wasn't": {
+      "word": "wasn't",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "(chiefly in the negative, auxiliary) Contraction of was + not. [(now colloquial) Used in phrases with existential there when the semantic subject is (usually third-person) plural.]"
         ]
       ],
       "sentences": [],

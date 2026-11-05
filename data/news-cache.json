@@ -6,6 +6,21 @@
   "failed": 0,
   "items": [
     {
+      "id": "2611/261105-walking-around-the-world.html",
+      "title": "Man completes 28-year walk around the world",
+      "url": "https://breakingnewsenglish.com/2611/261105-walking-around-the-world.html",
+      "date": "5th November",
+      "dateIso": "2026-11-05",
+      "kind": "Easier",
+      "summary": "Man completes 28-year walk around the world 5th November - \"Easier\"",
+      "availableLevels": {
+        "0": "https://breakingnewsenglish.com/2611/261105-walking-around-the-world-0.html",
+        "1": "https://breakingnewsenglish.com/2611/261105-walking-around-the-world-1.html",
+        "2": "https://breakingnewsenglish.com/2611/261105-walking-around-the-world-2.html",
+        "3": "https://breakingnewsenglish.com/2611/261105-walking-around-the-world.html"
+      }
+    },
+    {
       "id": "2611/261102-pilot-fatigue.html",
       "title": "Study finds majority of pilots nod off mid-flight",
       "url": "https://breakingnewsenglish.com/2611/261102-pilot-fatigue.html",
@@ -200,7 +215,7 @@
       "date": "17th September",
       "dateIso": "2026-09-17",
       "kind": "Easier",
-      "summary": "Sleeping with a light on could damage the heart 17th September - \"Easier\"",
+      "summary": "Sleeping with a light on could damage the heart",
       "availableLevels": {
         "0": "https://breakingnewsenglish.com/2609/260917-sleeping-with-a-light-on-0.html",
         "1": "https://breakingnewsenglish.com/2609/260917-sleeping-with-a-light-on-1.html",
@@ -714,132 +729,9 @@
         "5": "https://breakingnewsenglish.com/2605/260518-food-packaging-ink-5.html",
         "6": "https://breakingnewsenglish.com/2605/260518-food-packaging-ink.html"
       }
-    },
-    {
-      "id": "2605/260514-african-continent.html",
-      "title": "African continent splitting into two parts",
-      "url": "https://breakingnewsenglish.com/2605/260514-african-continent.html",
-      "date": "14th May",
-      "dateIso": "2026-05-14",
-      "kind": "Easier",
-      "summary": "African continent splitting into two parts",
-      "availableLevels": {
-        "0": "https://breakingnewsenglish.com/2605/260514-african-continent-0.html",
-        "1": "https://breakingnewsenglish.com/2605/260514-african-continent-1.html",
-        "2": "https://breakingnewsenglish.com/2605/260514-african-continent-2.html",
-        "3": "https://breakingnewsenglish.com/2605/260514-african-continent.html"
-      }
     }
   ],
   "articles": {
-    "https://breakingnewsenglish.com/2605/260514-african-continent-0.html": {
-      "id": "2605/260514-african-continent.html",
-      "title": "African continent splitting into two parts",
-      "titleZh": "",
-      "tag": "Easier",
-      "level": "Level 0 · A2",
-      "levelBand": "A2",
-      "resolvedLevel": 0,
-      "requestedLevel": 0,
-      "fallback": false,
-      "minutes": 1,
-      "words": 108,
-      "published": "14th May",
-      "summary": "African continent splitting into two parts",
-      "paragraphs": [
-        "A big part of East Africa is breaking away from the African continent. There is a long, deep crack in Zambia. The crack is called a rift. Scientists said there was evidence that the rift is active and that other rifts are too. This may be a sign of the break-up of sub-Saharan Africa.",
-        "Land on Earth is always moving. Three hundred million years ago, there was one supercontinent. Over millions of years, it broke up to become today's continents. Rifts are one reason why continents split apart. The rift in Zambia is moving very slowly. It will take millions of years for Africa to split in two."
-      ],
-      "sourceName": "Breaking News English",
-      "sourceUrl": "https://breakingnewsenglish.com/2605/260514-african-continent-0.html",
-      "availableLevels": {
-        "0": "https://breakingnewsenglish.com/2605/260514-african-continent-0.html",
-        "1": "https://breakingnewsenglish.com/2605/260514-african-continent-1.html",
-        "2": "https://breakingnewsenglish.com/2605/260514-african-continent-2.html",
-        "3": "https://breakingnewsenglish.com/2605/260514-african-continent.html"
-      }
-    },
-    "https://breakingnewsenglish.com/2605/260514-african-continent-1.html": {
-      "id": "2605/260514-african-continent.html",
-      "title": "African continent splitting into two parts",
-      "titleZh": "",
-      "tag": "Easier",
-      "level": "Level 1 · A2-B1",
-      "levelBand": "A2-B1",
-      "resolvedLevel": 1,
-      "requestedLevel": 1,
-      "fallback": false,
-      "minutes": 1,
-      "words": 156,
-      "published": "14th May",
-      "summary": "African continent splitting into two parts",
-      "paragraphs": [
-        "A big part of East Africa is breaking away from the African continent. Scientists studied a long, deep crack in Zambia. The crack is called a rift. A geologist is studying it. He believes it shows that a giant piece of land is breaking away. He said there was evidence that the rift is active and that other rifts are too. He warned that this may be an early sign of the break-up of sub-Saharan Africa.",
-        "The land on Earth is always moving. Three hundred million years ago, there was one supercontinent. Over millions of years, it broke up. Giant areas of land moved across the oceans to become today's continents. Rifts are one reason why continents split apart. The rift in Zambia is part of a 2,500-kilometre-long crack. It is moving very slowly. It will take millions of years for Africa to split in two. In 200 million years, there could be just one supercontinent again."
-      ],
-      "sourceName": "Breaking News English",
-      "sourceUrl": "https://breakingnewsenglish.com/2605/260514-african-continent-1.html",
-      "availableLevels": {
-        "0": "https://breakingnewsenglish.com/2605/260514-african-continent-0.html",
-        "1": "https://breakingnewsenglish.com/2605/260514-african-continent-1.html",
-        "2": "https://breakingnewsenglish.com/2605/260514-african-continent-2.html",
-        "3": "https://breakingnewsenglish.com/2605/260514-african-continent.html"
-      }
-    },
-    "https://breakingnewsenglish.com/2605/260514-african-continent-2.html": {
-      "id": "2605/260514-african-continent.html",
-      "title": "African continent splitting into two parts",
-      "titleZh": "",
-      "tag": "Easier",
-      "level": "Level 2 · A2-B1",
-      "levelBand": "A2-B1",
-      "resolvedLevel": 2,
-      "requestedLevel": 2,
-      "fallback": false,
-      "minutes": 2,
-      "words": 201,
-      "published": "14th May",
-      "summary": "African continent splitting into two parts",
-      "paragraphs": [
-        "There are signs that a big part of East Africa is breaking away from the African continent. Scientists studied a deep crack that runs along a large part of Zambia. The crack is called a rift. It is a fault in the rock under Earth's surface. A geologist from Oxford University is studying it. He believes it shows that a giant piece of land is breaking away. He wrote: \"There is evidence that the fault... is active and therefore the Southwest African Rift Zone is too.\" He warned that this may be an early sign of the break-up of sub-Saharan Africa.",
-        "The land on Earth is always moving. Three hundred million years ago, there was one supercontinent, called Pangea. Over millions of years, Pangea broke up. Giant areas of land slowly moved across the oceans to become the continents we know today. Rifts are one reason why land masses split apart. The rift in Zambia is part of a 2,500-kilometre-long crack. The rift is moving at a rate of about 4.7 mm per year. At this rate, it will take millions of years for Africa to split in two. Scientists believe that in 200 million years, there could be just one supercontinent again."
-      ],
-      "sourceName": "Breaking News English",
-      "sourceUrl": "https://breakingnewsenglish.com/2605/260514-african-continent-2.html",
-      "availableLevels": {
-        "0": "https://breakingnewsenglish.com/2605/260514-african-continent-0.html",
-        "1": "https://breakingnewsenglish.com/2605/260514-african-continent-1.html",
-        "2": "https://breakingnewsenglish.com/2605/260514-african-continent-2.html",
-        "3": "https://breakingnewsenglish.com/2605/260514-african-continent.html"
-      }
-    },
-    "https://breakingnewsenglish.com/2605/260514-african-continent.html": {
-      "id": "2605/260514-african-continent.html",
-      "title": "African continent splitting into two parts",
-      "titleZh": "",
-      "tag": "Easier",
-      "level": "Level 3 · B1",
-      "levelBand": "B1",
-      "resolvedLevel": 3,
-      "requestedLevel": 3,
-      "fallback": false,
-      "minutes": 2,
-      "words": 249,
-      "published": "14th May",
-      "summary": "African continent splitting into two parts",
-      "paragraphs": [
-        "There are signs that a huge part of East Africa is starting to break away from the African continent. Geologists (people who study the Earth and its land and rocks) studied a deep crack that runs along a large part of Zambia. The crack is called a rift. It is a major fault in the rock that covers Earth's surface. Geologist Mike Daly of the University of Oxford is studying Zambia's Kafue Rift. He believes there is activity in the rift that suggests a giant piece of land is breaking away. He wrote: \"There is evidence that the fault boundary of the Kafue Rift is active and therefore the Southwest African Rift Zone is too.\" He warned that this \"may be an early indication of the break-up of sub-Saharan Africa\".",
-        "The land on Earth is constantly moving. Three hundred million years ago, there was just one huge supercontinent. It was called Pangea. Over millions of years, Pangea broke up. Giant areas of land slowly moved across the oceans to form the continents we know today. This movement is called continental drift. Rifts are one reason why land masses split apart. The Kafue Rift in Zambia is part of a 2,500-kilometre-long rift zone stretching from Tanzania to Namibia. The rift is moving at a rate of about 4.7 mm per year. At this rate, it will take millions of years for Africa to split in two. Scientists believe that in 200 million years from now, there could be just one supercontinent again."
-      ],
-      "sourceName": "Breaking News English",
-      "sourceUrl": "https://breakingnewsenglish.com/2605/260514-african-continent.html",
-      "availableLevels": {
-        "0": "https://breakingnewsenglish.com/2605/260514-african-continent-0.html",
-        "1": "https://breakingnewsenglish.com/2605/260514-african-continent-1.html",
-        "2": "https://breakingnewsenglish.com/2605/260514-african-continent-2.html",
-        "3": "https://breakingnewsenglish.com/2605/260514-african-continent.html"
-      }
-    },
     "https://breakingnewsenglish.com/2605/260518-food-packaging-ink-4.html": {
       "id": "2605/260518-food-packaging-ink.html",
       "title": "Iran war turns Japan's snack packaging black and white",
@@ -4093,7 +3985,7 @@
       "minutes": 1,
       "words": 112,
       "published": "17th September",
-      "summary": "Sleeping with a light on could damage the heart 17th September - \"Easier\"",
+      "summary": "Sleeping with a light on could damage the heart",
       "paragraphs": [
         "Sleeping with a light on could harm your heart. Researchers put sensors on people to measure the light in their bedrooms. Later, people with no heart disease had an MRI scan. The scans showed a link between sleeping with a light on and changes in the heart. For some people, the heart was less able to pump blood.",
         "Light could be a new risk for heart disease. A researcher suggested that turning off lights while sleeping could help prevent heart problems. People should turn off lights in their bedroom. Their room should be as dark as possible. The researcher said using blackout curtains and turning off tiny LED lights were good ideas."
@@ -4120,7 +4012,7 @@
       "minutes": 1,
       "words": 148,
       "published": "17th September",
-      "summary": "Sleeping with a light on could damage the heart 17th September - \"Easier\"",
+      "summary": "Sleeping with a light on could damage the heart",
       "paragraphs": [
         "Researchers say sleeping with a light on could harm your heart. Even lights that are not so bright could be harmful. The researchers put sensors on 11,000 people to measure the light in their bedrooms. People with no heart disease had an MRI scan three years later. The scans showed a link between sleeping with a light on and changes in the heart. The heart muscles were thicker. Also, the heart was less able to pump blood.",
         "The lead researcher said light was a new risk for heart disease. He suggested that reducing light while sleeping could help to prevent heart disease. The researchers advised people to turn off lights in their bedroom. They said the room should be as dark as possible. They added that their advice was simple and cheap: use blackout curtains and warm-coloured lights. They also suggested covering the small standby LEDs on household devices."
@@ -4147,7 +4039,7 @@
       "minutes": 2,
       "words": 186,
       "published": "17th September",
-      "summary": "Sleeping with a light on could damage the heart 17th September - \"Easier\"",
+      "summary": "Sleeping with a light on could damage the heart",
       "paragraphs": [
         "Sleeping with a light on could be bad for your heart. Researchers in the USA say even a light that is not very bright could be harmful. The researchers did tests on 11,000 people. The people wore sensors that measured the amount of light in their bedrooms. People who had no heart disease had an MRI scan three years later. The scans showed a link between sleeping with a light on and changes in the structure of the heart. One change was thicker heart muscles. Another change was the heart was less able to pump blood, stretch, and relax during heartbeats.",
         "The study is published in the European Heart Journal. The lead researcher said light pollution was a new risk factor for heart disease. He suggested that reducing light while sleeping could be a strategy for preventing heart disease. The researchers advised people to turn off lights, televisions, and smartphones in their bedroom. They said people needed to make the room as dark as possible. They added: \"The advice is simple and inexpensive: blackout curtains, warm-coloured bedside lighting, and covering the small standby LEDs on household electronics.\""
@@ -4174,7 +4066,7 @@
       "minutes": 2,
       "words": 217,
       "published": "17th September",
-      "summary": "Sleeping with a light on could damage the heart 17th September - \"Easier\"",
+      "summary": "Sleeping with a light on could damage the heart",
       "paragraphs": [
         "Sleeping with a light on could be bad for you. Researchers from Tulane University in the USA say any kind of light at bedtime could be bad for your heart. Even a very dim light could be harmful. The researchers did tests on 11,000 people for a week. The test participants wore sensors that measured the amount of light in their bedrooms. People who did not have heart disease had an MRI scan three years later. The scans showed there was a link between sleeping with a light on and changes in the structure of the heart. One change was thicker heart muscles. Another change was that people's hearts were less able to pump blood, stretch, and relax during heartbeats.",
         "The study is published in the European Heart Journal. Lead researcher Professor Lu Qi wrote: \"Light pollution has emerged as a new risk factor for cardiovascular disease.\" He added the findings from his study suggest that reducing light while sleeping could be \"one of the potential strategies for preventing heart disease\". The researchers suggested turning off lights, televisions, and smartphones in the bedroom. They said people needed to get their sleeping environment as dark as possible. They added: \"The advice is simple and inexpensive: blackout curtains, warm-coloured bedside lighting, and covering the small standby LEDs on household electronics.\""
@@ -5380,6 +5272,114 @@
         "4": "https://breakingnewsenglish.com/2611/261102-pilot-fatigue-4.html",
         "5": "https://breakingnewsenglish.com/2611/261102-pilot-fatigue-5.html",
         "6": "https://breakingnewsenglish.com/2611/261102-pilot-fatigue.html"
+      }
+    },
+    "https://breakingnewsenglish.com/2611/261105-walking-around-the-world-0.html": {
+      "id": "2611/261105-walking-around-the-world.html",
+      "title": "Man completes 28-year walk around the world",
+      "titleZh": "",
+      "tag": "Easier",
+      "level": "Level 0 · A2",
+      "levelBand": "A2",
+      "resolvedLevel": 0,
+      "requestedLevel": 0,
+      "fallback": false,
+      "minutes": 1,
+      "words": 108,
+      "published": "5th November",
+      "summary": "Man completes 28-year walk around the world 5th November - \"Easier\"",
+      "paragraphs": [
+        "A British man has finished a 28-year walk around the world. Karl Bushby started his walk in 1998 in Chile. He didn't use cars, boats, buses, trains, or airplanes. He walked 58,000 kilometres through 29 countries. He crossed deserts, mountains, and jungles. He had problems with visas and borders, so his trip took a long time.",
+        "Thousands of people welcomed Mr Bushby home. His mother greeted him outside his home. He told waiting crowds that he finished his trip across four continents with help from people around the world. Bushby said he wasn't so interested in walking. He said: \"It's boring as hell.\" A movie will be made about his adventure."
+      ],
+      "sourceName": "Breaking News English",
+      "sourceUrl": "https://breakingnewsenglish.com/2611/261105-walking-around-the-world-0.html",
+      "availableLevels": {
+        "0": "https://breakingnewsenglish.com/2611/261105-walking-around-the-world-0.html",
+        "1": "https://breakingnewsenglish.com/2611/261105-walking-around-the-world-1.html",
+        "2": "https://breakingnewsenglish.com/2611/261105-walking-around-the-world-2.html",
+        "3": "https://breakingnewsenglish.com/2611/261105-walking-around-the-world.html"
+      }
+    },
+    "https://breakingnewsenglish.com/2611/261105-walking-around-the-world-1.html": {
+      "id": "2611/261105-walking-around-the-world.html",
+      "title": "Man completes 28-year walk around the world",
+      "titleZh": "",
+      "tag": "Easier",
+      "level": "Level 1 · A2-B1",
+      "levelBand": "A2-B1",
+      "resolvedLevel": 1,
+      "requestedLevel": 1,
+      "fallback": false,
+      "minutes": 1,
+      "words": 147,
+      "published": "5th November",
+      "summary": "Man completes 28-year walk around the world 5th November - \"Easier\"",
+      "paragraphs": [
+        "A British man has finished a 28-year walk around the world. Karl Bushby, 57, started his adventure in 1998 in Chile. He walked home without using cars, boats, buses, trains, or airplanes. He travelled 58,000 kilometres through 29 countries. He crossed deserts, mountains, and jungles. He met polar bears and kidnappers, and spent time in a Russian prison. He had problems with money, visas, and borders, so his trip took longer than he planned.",
+        "Thousands of people welcomed Mr Bushby home. He was happy to finish his journey. His mother greeted him outside his home. He spoke to the crowds. He told them he could not have finished his trip without the help from people around the world. Britain's leader congratulated him. Bushby said he wasn't so interested in walking. He said: \"It's boring as hell.\" That didn't stop him crossing four continents. A movie will be made about his adventure."
+      ],
+      "sourceName": "Breaking News English",
+      "sourceUrl": "https://breakingnewsenglish.com/2611/261105-walking-around-the-world-1.html",
+      "availableLevels": {
+        "0": "https://breakingnewsenglish.com/2611/261105-walking-around-the-world-0.html",
+        "1": "https://breakingnewsenglish.com/2611/261105-walking-around-the-world-1.html",
+        "2": "https://breakingnewsenglish.com/2611/261105-walking-around-the-world-2.html",
+        "3": "https://breakingnewsenglish.com/2611/261105-walking-around-the-world.html"
+      }
+    },
+    "https://breakingnewsenglish.com/2611/261105-walking-around-the-world-2.html": {
+      "id": "2611/261105-walking-around-the-world.html",
+      "title": "Man completes 28-year walk around the world",
+      "titleZh": "",
+      "tag": "Easier",
+      "level": "Level 2 · A2-B1",
+      "levelBand": "A2-B1",
+      "resolvedLevel": 2,
+      "requestedLevel": 2,
+      "fallback": false,
+      "minutes": 2,
+      "words": 188,
+      "published": "5th November",
+      "summary": "Man completes 28-year walk around the world 5th November - \"Easier\"",
+      "paragraphs": [
+        "A British man has finished a 28-year walk around the world. Former soldier Karl Bushby, 57, arrived home in England on Monday. He started his adventure in 1998 in Chile. His plan was to walk all the way home without using cars, boats, buses, trains, or airplanes. He travelled 58,000 kilometres through 29 countries. He crossed frozen seas, deserts, mountains, and jungles. He also faced many dangers. He met polar bears and kidnappers, and spent time in a Russian prison. He had problems with money, visas, and borders, so his trip took many years longer than he planned.",
+        "Thousands of people welcomed Mr Bushby home. He was very happy to finish his journey. His mother greeted him outside his childhood home. Bushby joked: \"Sorry to keep you waiting.\" He also spoke to the cheering crowds. He said he could not have finished his trip without the help from many people around the world. Britain's leader congratulated him on his achievement. Bushby told a newspaper that he wasn't so interested in walking. He said: \"It's boring as hell.\" That didn't stop him crossing four continents. A movie will be made about Bushby's adventure."
+      ],
+      "sourceName": "Breaking News English",
+      "sourceUrl": "https://breakingnewsenglish.com/2611/261105-walking-around-the-world-2.html",
+      "availableLevels": {
+        "0": "https://breakingnewsenglish.com/2611/261105-walking-around-the-world-0.html",
+        "1": "https://breakingnewsenglish.com/2611/261105-walking-around-the-world-1.html",
+        "2": "https://breakingnewsenglish.com/2611/261105-walking-around-the-world-2.html",
+        "3": "https://breakingnewsenglish.com/2611/261105-walking-around-the-world.html"
+      }
+    },
+    "https://breakingnewsenglish.com/2611/261105-walking-around-the-world.html": {
+      "id": "2611/261105-walking-around-the-world.html",
+      "title": "Man completes 28-year walk around the world",
+      "titleZh": "",
+      "tag": "Easier",
+      "level": "Level 3 · B1",
+      "levelBand": "B1",
+      "resolvedLevel": 3,
+      "requestedLevel": 3,
+      "fallback": false,
+      "minutes": 2,
+      "words": 224,
+      "published": "5th November",
+      "summary": "Man completes 28-year walk around the world 5th November - \"Easier\"",
+      "paragraphs": [
+        "A British man has completed an amazing 28-year walk around the world. Former soldier Karl Bushby, 57, arrived home in the city of Hull in England on Monday. He started his adventure in November 1998 in Chile, South America. His plan was to walk all the way home without using cars, boats, buses, trains, or airplanes. During his journey, he travelled about 58,000 kilometres through 29 countries. He crossed frozen seas, deserts, mountains, and jungles. He also faced many dangers. These included encountering polar bears and kidnappers, and spending time in a Russian prison. His journey was expected to take 12 years. However, problems with money, visas, and borders made his trip a lot longer.",
+        "Thousands of people welcomed Mr Bushby home. He was very happy to finally finish his journey. His mother was waiting outside his childhood home to greet him. Bushby joked: \"Sorry to keep you waiting.\" He also told the cheering crowd that many people around the world had helped him get home. He said he could not have done it alone. Britain's Prime Minister congratulated him on his achievement. He praised Bushby's determination and belief in himself. Bushby told the Guardian newspaper that he wasn't so interested in walking. He said: \"It's boring as hell.\" That didn't stop him walking across four continents. A documentary will be made about Bushby's adventure called \"Walk of Life\"."
+      ],
+      "sourceName": "Breaking News English",
+      "sourceUrl": "https://breakingnewsenglish.com/2611/261105-walking-around-the-world.html",
+      "availableLevels": {
+        "0": "https://breakingnewsenglish.com/2611/261105-walking-around-the-world-0.html",
+        "1": "https://breakingnewsenglish.com/2611/261105-walking-around-the-world-1.html",
+        "2": "https://breakingnewsenglish.com/2611/261105-walking-around-the-world-2.html",
+        "3": "https://breakingnewsenglish.com/2611/261105-walking-around-the-world.html"
       }
     }
   }
