@@ -6,6 +6,20 @@
   "failed": 0,
   "items": [
     {
+      "id": "2611/261109-pineapple-on-pizza.html",
+      "title": "Chef fired for refusing to put pineapple on pizza",
+      "url": "https://breakingnewsenglish.com/2611/261109-pineapple-on-pizza.html",
+      "date": "9th November",
+      "dateIso": "2026-11-09",
+      "kind": "Harder",
+      "summary": "Chef fired for refusing to put pineapple on pizza 9th November - \"Harder\"",
+      "availableLevels": {
+        "4": "https://breakingnewsenglish.com/2611/261109-pineapple-on-pizza-4.html",
+        "5": "https://breakingnewsenglish.com/2611/261109-pineapple-on-pizza-5.html",
+        "6": "https://breakingnewsenglish.com/2611/261109-pineapple-on-pizza.html"
+      }
+    },
+    {
       "id": "2611/261105-walking-around-the-world.html",
       "title": "Man completes 28-year walk around the world",
       "url": "https://breakingnewsenglish.com/2611/261105-walking-around-the-world.html",
@@ -201,7 +215,7 @@
       "date": "21st September",
       "dateIso": "2026-09-21",
       "kind": "Harder",
-      "summary": "Sustainable Development Goals not on track, says UN 21st September - \"Harder\"",
+      "summary": "Sustainable Development Goals not on track, says UN",
       "availableLevels": {
         "4": "https://breakingnewsenglish.com/2609/260921-sustainable-development-goals-sdgs-4.html",
         "5": "https://breakingnewsenglish.com/2609/260921-sustainable-development-goals-sdgs-5.html",
@@ -715,101 +729,9 @@
         "2": "https://breakingnewsenglish.com/2605/260521-being-right-handed-2.html",
         "3": "https://breakingnewsenglish.com/2605/260521-being-right-handed.html"
       }
-    },
-    {
-      "id": "2605/260518-food-packaging-ink.html",
-      "title": "Iran war turns Japan's snack packaging black and white",
-      "url": "https://breakingnewsenglish.com/2605/260518-food-packaging-ink.html",
-      "date": "18th May",
-      "dateIso": "2026-05-18",
-      "kind": "Harder",
-      "summary": "Iran war turns Japan's snack packaging black and white",
-      "availableLevels": {
-        "4": "https://breakingnewsenglish.com/2605/260518-food-packaging-ink-4.html",
-        "5": "https://breakingnewsenglish.com/2605/260518-food-packaging-ink-5.html",
-        "6": "https://breakingnewsenglish.com/2605/260518-food-packaging-ink.html"
-      }
     }
   ],
   "articles": {
-    "https://breakingnewsenglish.com/2605/260518-food-packaging-ink-4.html": {
-      "id": "2605/260518-food-packaging-ink.html",
-      "title": "Iran war turns Japan's snack packaging black and white",
-      "titleZh": "",
-      "tag": "Harder",
-      "level": "Level 4 · B1-B2",
-      "levelBand": "B1-B2",
-      "resolvedLevel": 4,
-      "requestedLevel": 4,
-      "fallback": false,
-      "minutes": 1,
-      "words": 142,
-      "published": "18th May",
-      "summary": "Iran war turns Japan's snack packaging black and white",
-      "paragraphs": [
-        "The Iran war has affected food makers in Japan. There is now a shortage of the ink needed to make food wrappings. One major snack manufacturer is changing its packaging from colour to black and white. The company sells some of Japan's best-selling potato chips. Some of its products will come with a message that says: \"Packaged to save oil-related materials.\" Meanwhile, a Japanese ketchup maker will make parts of its wrappings transparent.",
-        "The Iran war has led to a shortage of a hydrocarbon called naphtha. This is used to make printing ink. It is made from crude oil. Japan's prime minister has said Japan will have enough naphtha to last beyond this year. Actions will be taken to ensure the supply. These include increasing domestic production and importing more. However, the snack maker is anticipating \"the possibility of additional impacts arising\"."
-      ],
-      "sourceName": "Breaking News English",
-      "sourceUrl": "https://breakingnewsenglish.com/2605/260518-food-packaging-ink-4.html",
-      "availableLevels": {
-        "4": "https://breakingnewsenglish.com/2605/260518-food-packaging-ink-4.html",
-        "5": "https://breakingnewsenglish.com/2605/260518-food-packaging-ink-5.html",
-        "6": "https://breakingnewsenglish.com/2605/260518-food-packaging-ink.html"
-      }
-    },
-    "https://breakingnewsenglish.com/2605/260518-food-packaging-ink-5.html": {
-      "id": "2605/260518-food-packaging-ink.html",
-      "title": "Iran war turns Japan's snack packaging black and white",
-      "titleZh": "",
-      "tag": "Harder",
-      "level": "Level 5 · B2-C1",
-      "levelBand": "B2-C1",
-      "resolvedLevel": 5,
-      "requestedLevel": 5,
-      "fallback": false,
-      "minutes": 2,
-      "words": 183,
-      "published": "18th May",
-      "summary": "Iran war turns Japan's snack packaging black and white",
-      "paragraphs": [
-        "The Iran war has brought consequences for food makers in Japan. A shortage of a product needed to make ink has caused companies to change the design of food wrapping. One major snack manufacturer is changing its packaging from colour to black and white. The company sells some of Japan's best-selling potato chips. A spokesperson said some products will come with a message that explains: \"Packaged to save oil-related materials.\" Meanwhile, a Japanese ketchup maker will make parts of its wrapping transparent in a bid to deal with the ink shortage.",
-        "Tensions in the Middle East have led to a shortage of a hydrocarbon called naphtha. This is a component in the production of plastics and printing ink. It is made from crude oil. Japanese Prime Minister Sanae Takaichi has assured people that Japan will have enough naphtha to last beyond this year. She said actions would be taken to ensure the supply. These include increasing domestic production and importing more from other countries. However, the snack maker said: \"Depending on how the situation evolves, we anticipate the possibility of additional impacts arising.\""
-      ],
-      "sourceName": "Breaking News English",
-      "sourceUrl": "https://breakingnewsenglish.com/2605/260518-food-packaging-ink-5.html",
-      "availableLevels": {
-        "4": "https://breakingnewsenglish.com/2605/260518-food-packaging-ink-4.html",
-        "5": "https://breakingnewsenglish.com/2605/260518-food-packaging-ink-5.html",
-        "6": "https://breakingnewsenglish.com/2605/260518-food-packaging-ink.html"
-      }
-    },
-    "https://breakingnewsenglish.com/2605/260518-food-packaging-ink.html": {
-      "id": "2605/260518-food-packaging-ink.html",
-      "title": "Iran war turns Japan's snack packaging black and white",
-      "titleZh": "",
-      "tag": "Harder",
-      "level": "Level 6 · C1-C2",
-      "levelBand": "C1-C2",
-      "resolvedLevel": 6,
-      "requestedLevel": 6,
-      "fallback": false,
-      "minutes": 2,
-      "words": 221,
-      "published": "18th May",
-      "summary": "Iran war turns Japan's snack packaging black and white",
-      "paragraphs": [
-        "The Iran war has brought unexpected consequences for food makers in Japan. A shortage of a product needed to manufacture ink has caused several companies to change the design of their food wrapping. Major snack manufacturer Calbee is temporarily changing the packaging for some of its most popular products to black and white. The company sells some of the best-selling potato chips in Japan. A spokesperson said some of its products will come with a printed message that explains: \"Packaged to save oil-related materials.\" Meanwhile, food and beverage maker Kagome will make some of the wrapping for its popular ketchup transparent in a bid to deal with the ink shortage.",
-        "Tensions in the Middle East are responsible for a shortage of a hydrocarbon liquid called naphtha. This is an important component in the production of plastics, solvents and printing ink. It is derived from crude oil. At the end of April, Japanese Prime Minister Sanae Takaichi assured industry leaders that Japan had secured enough naphtha to last beyond this year. She said countermeasures would be taken to ensure a supply of the liquid. These include a ramping up of domestic production, and a threefold increase in naphtha imports from countries outside the Middle East. However, Calbee said: \"Depending on how the situation evolves, we anticipate the possibility of additional impacts arising.\""
-      ],
-      "sourceName": "Breaking News English",
-      "sourceUrl": "https://breakingnewsenglish.com/2605/260518-food-packaging-ink.html",
-      "availableLevels": {
-        "4": "https://breakingnewsenglish.com/2605/260518-food-packaging-ink-4.html",
-        "5": "https://breakingnewsenglish.com/2605/260518-food-packaging-ink-5.html",
-        "6": "https://breakingnewsenglish.com/2605/260518-food-packaging-ink.html"
-      }
-    },
     "https://breakingnewsenglish.com/2605/260521-being-right-handed-0.html": {
       "id": "2605/260521-being-right-handed.html",
       "title": "Why 90 per cent of humans are right-handed",
@@ -4093,7 +4015,7 @@
       "minutes": 1,
       "words": 143,
       "published": "21st September",
-      "summary": "Sustainable Development Goals not on track, says UN 21st September - \"Harder\"",
+      "summary": "Sustainable Development Goals not on track, says UN",
       "paragraphs": [
         "The UN has warned that the world is not on track to achieve the SDGs by 2030. The goals were created in 2015 to improve our lives. They include ending poverty, improving education, reducing gender inequality, and tackling climate change. Only a third of the goals are on track. Wars, climate change, slow economic growth, and other global shocks are making progress difficult. The UN asked countries to increase their efforts in the run-up to 2030.",
         "The UN did report signs of progress. One billion more people have access to drinking water. Internet connectivity has also greatly increased. However, serious challenges remain. There is a lack of progress on gender equality. The UN said: \"At the current rate of progress, gender equality would take 171 years to achieve.\" An official said countries needed to invest more in infrastructure. The UN said the goals could still be achieved."
@@ -4119,7 +4041,7 @@
       "minutes": 2,
       "words": 178,
       "published": "21st September",
-      "summary": "Sustainable Development Goals not on track, says UN 21st September - \"Harder\"",
+      "summary": "Sustainable Development Goals not on track, says UN",
       "paragraphs": [
         "The UN has warned that the world is not on track to achieve its Sustainable Development Goals by 2030. The goals were created in 2015 to improve our lives. They include ending poverty, improving education, reducing gender inequality, and tackling climate change. The UN reported that only one third of the goals are on track to be met. Around half are progressing too slowly. Wars, climate change, slow economic growth, rising debt, and other global shocks are making progress difficult. The UN has asked countries to increase their efforts in the run-up to 2030.",
         "The UN did report signs of progress. It said one billion more people have access to drinking water. Internet connectivity has also increased to about 74 per cent of the world's population. However, many serious challenges remain. There is a huge lack of progress on gender equality. A UN spokesperson said: \"At the current rate of progress, gender equality would take 171 years to achieve.\" Another official said countries needed to invest more in infrastructure. The UN said the goals could still be achieved, but faster action was needed."
@@ -4145,7 +4067,7 @@
       "minutes": 2,
       "words": 215,
       "published": "21st September",
-      "summary": "Sustainable Development Goals not on track, says UN 21st September - \"Harder\"",
+      "summary": "Sustainable Development Goals not on track, says UN",
       "paragraphs": [
         "The United Nations has warned that the world is not on track to achieve its Sustainable Development Goals (SDGs) by 2030. The goals were implemented in 2015 to improve people's lives and protect the planet. They include eliminating poverty, improving education, reducing gender inequality, and tackling climate change. However, the UN has reported that only about one third of the goals are currently on track to be met. Around half are progressing too slowly. Wars, climate change, slow economic growth, rising debt, financing gaps, and other global shocks are making progress difficult. The UN has called on countries to increase their efforts in the run-up to 2030.",
         "The UN did report signs of progress. It noted that one billion more people now have access to drinking water. Internet connectivity has also increased, from around 40 per cent of the world's population in 2015 to about 74 per cent today. Despite these improvements, many serious challenges remain. In particular, there is a considerable lack of progress on gender equality. A UN spokesperson said: \"At the current rate of progress, gender equality would take 171 years to achieve.\" Another official said governments needed to invest more money in infrastructure and institutions. The official also wanted countries to cooperate more. The UN said the goals could still be achieved, but much faster action was needed."
@@ -5380,6 +5302,84 @@
         "1": "https://breakingnewsenglish.com/2611/261105-walking-around-the-world-1.html",
         "2": "https://breakingnewsenglish.com/2611/261105-walking-around-the-world-2.html",
         "3": "https://breakingnewsenglish.com/2611/261105-walking-around-the-world.html"
+      }
+    },
+    "https://breakingnewsenglish.com/2611/261109-pineapple-on-pizza-4.html": {
+      "id": "2611/261109-pineapple-on-pizza.html",
+      "title": "Chef fired for refusing to put pineapple on pizza",
+      "titleZh": "",
+      "tag": "Harder",
+      "level": "Level 4 · B1-B2",
+      "levelBand": "B1-B2",
+      "resolvedLevel": 4,
+      "requestedLevel": 4,
+      "fallback": false,
+      "minutes": 1,
+      "words": 156,
+      "published": "9th November",
+      "summary": "Chef fired for refusing to put pineapple on pizza 9th November - \"Harder\"",
+      "paragraphs": [
+        "An Italian chef in Australia has been fired for refusing to put ham and pineapple on pizzas. He tried to get his job back, but he failed. The chef said topping pizzas with pineapple was an \"insult to his culture\". His employer stated that the chef's refusal was just one of several workplace issues. The chef did not get his job back because he submitted the paperwork after the deadline. The chef has since found a job at a different Italian restaurant.",
+        "The Hawaiian pizza was reportedly created in Canada in 1962 after a chef used ham and pineapple as toppings. The issue of pineapple on pizza has divided public opinion since then. Pizza lovers are shocked at the idea. The restaurant owner in Australia said pineapple was not his \"absolute favourite\" topping, but he would not \"turn his nose up at it\". Many restaurant owners say customers should be able to choose whatever toppings they like."
+      ],
+      "sourceName": "Breaking News English",
+      "sourceUrl": "https://breakingnewsenglish.com/2611/261109-pineapple-on-pizza-4.html",
+      "availableLevels": {
+        "4": "https://breakingnewsenglish.com/2611/261109-pineapple-on-pizza-4.html",
+        "5": "https://breakingnewsenglish.com/2611/261109-pineapple-on-pizza-5.html",
+        "6": "https://breakingnewsenglish.com/2611/261109-pineapple-on-pizza.html"
+      }
+    },
+    "https://breakingnewsenglish.com/2611/261109-pineapple-on-pizza-5.html": {
+      "id": "2611/261109-pineapple-on-pizza.html",
+      "title": "Chef fired for refusing to put pineapple on pizza",
+      "titleZh": "",
+      "tag": "Harder",
+      "level": "Level 5 · B2-C1",
+      "levelBand": "B2-C1",
+      "resolvedLevel": 5,
+      "requestedLevel": 5,
+      "fallback": false,
+      "minutes": 2,
+      "words": 201,
+      "published": "9th November",
+      "summary": "Chef fired for refusing to put pineapple on pizza 9th November - \"Harder\"",
+      "paragraphs": [
+        "An Italian chef in Australia has been fired for refusing to put pineapple on pizzas. He tried to fight his dismissal and get his job back, but he failed. The chef said topping pizzas with the tropical fruit was an \"insult to his culture\". He claimed he was sacked from a restaurant after repeatedly refusing to make pineapple and ham pizzas for diners. His employer stated that the chef's refusal was one of several workplace issues. The chef's application to get his job back failed because he submitted it after the deadline. The chef has since found a job at another Italian restaurant.",
+        "The question of whether pineapple belongs on a pizza divides public opinion. Pizza lovers are shocked at the idea, but pineapple on pizza is on menus in many countries. The Hawaiian pizza was reportedly created in Canada in 1962 after a chef used ham and pineapple as toppings. The restaurant owner in Australia admitted that while pineapple was not his \"absolute favourite\" topping, he would not \"turn his nose up at it\". Many restaurant owners say customers should be free to enjoy whatever toppings they choose. Hawaiian pizza is very popular, but many Italians dislike the idea of it."
+      ],
+      "sourceName": "Breaking News English",
+      "sourceUrl": "https://breakingnewsenglish.com/2611/261109-pineapple-on-pizza-5.html",
+      "availableLevels": {
+        "4": "https://breakingnewsenglish.com/2611/261109-pineapple-on-pizza-4.html",
+        "5": "https://breakingnewsenglish.com/2611/261109-pineapple-on-pizza-5.html",
+        "6": "https://breakingnewsenglish.com/2611/261109-pineapple-on-pizza.html"
+      }
+    },
+    "https://breakingnewsenglish.com/2611/261109-pineapple-on-pizza.html": {
+      "id": "2611/261109-pineapple-on-pizza.html",
+      "title": "Chef fired for refusing to put pineapple on pizza",
+      "titleZh": "",
+      "tag": "Harder",
+      "level": "Level 6 · C1-C2",
+      "levelBand": "C1-C2",
+      "resolvedLevel": 6,
+      "requestedLevel": 6,
+      "fallback": false,
+      "minutes": 2,
+      "words": 224,
+      "published": "9th November",
+      "summary": "Chef fired for refusing to put pineapple on pizza 9th November - \"Harder\"",
+      "paragraphs": [
+        "An Italian chef in Brisbane, Australia, has been fired for refusing to put pineapple on pizzas, among other reasons. He went to the Fair Work Commission to fight his dismissal, but failed to get his job back. The chef stated that topping pizzas with the tropical fruit was an \"insult to his culture\". He claimed he was sacked from a restaurant in May after repeatedly refusing his boss's instructions to make pineapple and ham pizzas for diners. His employer contended that the refusal was one of several workplace issues. The commission rejected the chef's application because it was submitted after the deadline. The chef has since found a job at another Italian restaurant.",
+        "The question of whether pineapple belongs on pizza is a controversial one. It continues to divide public opinion. Pizza purists are aghast at the idea, but it is an established menu staple in many countries. The Hawaiian pizza was reportedly invented in Canada in 1962 after a chef used ham and pineapple as toppings. The restaurant owner expressed his opinion on it. He admitted that while the pizza was not his \"absolute favourite,\" he would not \"turn his nose up at it\". Many restaurateurs insist that customers should be free to enjoy whatever ingredients and toppings they choose. Although the Hawaiian pizza is popular internationally, many Italians regard it as \"culinary heresy\"."
+      ],
+      "sourceName": "Breaking News English",
+      "sourceUrl": "https://breakingnewsenglish.com/2611/261109-pineapple-on-pizza.html",
+      "availableLevels": {
+        "4": "https://breakingnewsenglish.com/2611/261109-pineapple-on-pizza-4.html",
+        "5": "https://breakingnewsenglish.com/2611/261109-pineapple-on-pizza-5.html",
+        "6": "https://breakingnewsenglish.com/2611/261109-pineapple-on-pizza.html"
       }
     }
   }

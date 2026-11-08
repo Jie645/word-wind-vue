@@ -1,7 +1,7 @@
 {
   "source": "Free Dictionary API + Wiktionary + MyMemory",
-  "count": 3362,
-  "failed": 22,
+  "count": 3403,
+  "failed": 21,
   "words": {
     "ability": {
       "word": "ability",
@@ -113747,6 +113747,1412 @@
         [
           "v",
           "(chiefly in the negative, auxiliary) Contraction of was + not. [(now colloquial) Used in phrases with existential there when the semantic subject is (usually third-person) plural.]"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "aghast": {
+      "word": "aghast",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Terrified; struck with amazement; showing signs of terror or horror."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "absolute": {
+      "word": "absolute",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Free of restrictions, limitations, qualifications or conditions; unconditional."
+        ],
+        [
+          "adj",
+          "Unrestricted by laws, a constitution, or parliamentary or judicial or other checks; (legally) unlimited in power, especially if despotic."
+        ],
+        [
+          "adj",
+          "Characteristic of an absolutist ruler: domineering, peremptory."
+        ],
+        [
+          "adj",
+          "Free from imperfection, perfect, complete; especially, perfectly embodying a quality in its essential characteristics or to its highest degree."
+        ],
+        [
+          "adj",
+          "Pure, free from mixture or adulteration; unmixed."
+        ],
+        [
+          "adj",
+          "Complete, utter, outright; unmitigated, not qualified or diminished in any way."
+        ],
+        [
+          "adj",
+          "(very occasionally postpositive) Positive, certain; unquestionable; not in doubt."
+        ],
+        [
+          "adj",
+          "(especially philosophy) Fundamental, ultimate, intrinsic; not relative; independent of references or relations to other things or standards."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "application": {
+      "word": "application",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(computing) A computer program or the set of software that the end user perceives as a single entity as a tool for a well-defined purpose. (Also called: application program; application software.)"
+        ],
+        [
+          "n",
+          "A verbal or written request for assistance or employment or admission to a school, course or similar."
+        ],
+        [
+          "n",
+          "The act of applying as a means; the employment of means to accomplish an end; specific use."
+        ],
+        [
+          "n",
+          "The act of directing or referring something to a particular case, to discover or illustrate agreement or disagreement, fitness, or correspondence."
+        ],
+        [
+          "n",
+          "The act of requesting, claiming, or petitioning something."
+        ],
+        [
+          "n",
+          "(bureaucracy, law) A petition, entreaty, or other request, with the adposition for denoting the subject matter."
+        ],
+        [
+          "n",
+          "Diligence; close thought or attention."
+        ],
+        [
+          "n",
+          "The act of physically applying or laying on."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "although": {
+      "word": "although",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adv",
+          "despite the fact that"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "chef": {
+      "word": "chef",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "The head cook of a restaurant or other establishment."
+        ],
+        [
+          "n",
+          "The presiding cook in the kitchen of a large household."
+        ],
+        [
+          "n",
+          "Any cook."
+        ],
+        [
+          "v",
+          "(stative, informal) To work as a chef; to prepare and cook food professionally."
+        ],
+        [
+          "n",
+          "(slang) One who manufactures illegal drugs; a cook."
+        ],
+        [
+          "v",
+          "(Internet slang) To impress others."
+        ],
+        [
+          "v",
+          "(MLE, transitive) To stab with a knife, to shank."
+        ],
+        [
+          "n",
+          "(historical) A reliquary in the shape of a head."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "controversial": {
+      "word": "controversial",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Arousing or likely to arouse controversy."
+        ],
+        [
+          "adj",
+          "Engaging in or given to controversy; disputatious, argumentative."
+        ],
+        [
+          "n",
+          "(now rare) Someone or something (such as a matter or an argument) that is controversial."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "culinary": {
+      "word": "culinary",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Relating to the practice of cookery or the activity of cooking."
+        ],
+        [
+          "adj",
+          "Of or relating to a kitchen."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "contended": {
+      "word": "contended",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "(intransitive) To be in opposition; to contest; to dispute; to vie; to quarrel; to fight."
+        ],
+        [
+          "v",
+          "(intransitive) To be in debate; to engage in discussion; to dispute; to argue."
+        ],
+        [
+          "v",
+          "(intransitive) To struggle or exert oneself to obtain or retain possession of, or to defend."
+        ],
+        [
+          "v",
+          "(intransitive) To believe (something is reasonable) and argue (for it); to advocate."
+        ],
+        [
+          "v",
+          "To try to cope with a difficulty or problem. [with with]"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "brisbane": {
+      "word": "brisbane",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A large city, the capital city of Queensland, Australia."
+        ],
+        [
+          "n",
+          "A local government area in Queensland, the largest by population in Australia; in full, the City of Brisbane."
+        ],
+        [
+          "n",
+          "A river that flows through the city in Queensland; in full, the Brisbane River."
+        ],
+        [
+          "n",
+          "A city in San Mateo County, California, United States."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "dislike": {
+      "word": "dislike",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "(transitive) To have a feeling of aversion or antipathy towards; not to like."
+        ],
+        [
+          "n",
+          "An attitude or a feeling of distaste or aversion."
+        ],
+        [
+          "n",
+          "(usually in the plural) Something that a person dislikes (has or feels aversion to)."
+        ],
+        [
+          "n",
+          "(Internet) An individual vote showing disapproval of, or lack of support for, something posted on the Internet."
+        ],
+        [
+          "v",
+          "(Internet) To leave a vote to show disapproval of, or lack of support for, something posted on the Internet."
+        ],
+        [
+          "v",
+          "(obsolete, transitive) To displease; to offend. In third-person only."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "dismissal": {
+      "word": "dismissal",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "Deprivation of office; the fact or process of being fired from employment or stripped of rank."
+        ],
+        [
+          "n",
+          "The act of sending someone away."
+        ],
+        [
+          "n",
+          "Removal from consideration; putting something out of one's mind, mentally disregarding something or someone."
+        ],
+        [
+          "n",
+          "A written or spoken statement of such an act."
+        ],
+        [
+          "n",
+          "(law) The rejection of a legal proceeding, or a claim or charge made therein."
+        ],
+        [
+          "n",
+          "(cricket) The event of a batsman getting out; a wicket."
+        ],
+        [
+          "n",
+          "Release from confinement; liberation."
+        ],
+        [
+          "n",
+          "(Christianity) The final blessing said by a priest or minister at the end of a religious service."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "divide": {
+      "word": "divide",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "(transitive) To split or separate (something) into two or more parts."
+        ],
+        [
+          "v",
+          "(transitive) To share (something) by dividing it."
+        ],
+        [
+          "v",
+          "(transitive) To cause (a group of people) to disagree."
+        ],
+        [
+          "v",
+          "(transitive, arithmetic, with by) To calculate the number (the quotient) by which you must multiply one given number (the divisor) to produce a second given number (the dividend)."
+        ],
+        [
+          "v",
+          "(intransitive) To separate into two or more parts."
+        ],
+        [
+          "v",
+          "(transitive, arithmetic) To be a divisor of."
+        ],
+        [
+          "v",
+          "To disunite in opinion or interest; to make discordant or hostile; to set at variance."
+        ],
+        [
+          "v",
+          "To vote, as in the British parliament and other legislatures, by the members separating themselves into two parties (as on opposite sides of the hall or in opposite lobbies), that is, the ayes dividing from the noes."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "divided": {
+      "word": "divided",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "separated or split into pieces"
+        ],
+        [
+          "adj",
+          "having conflicting opinions, interests or emotions"
+        ],
+        [
+          "adj",
+          "disunited"
+        ],
+        [
+          "adj",
+          "(US) (of a road) separated into lanes, that move in opposite directions, by a median"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "divides": {
+      "word": "divides",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "(transitive) To split or separate (something) into two or more parts."
+        ],
+        [
+          "v",
+          "(transitive) To share (something) by dividing it."
+        ],
+        [
+          "v",
+          "(transitive) To cause (a group of people) to disagree."
+        ],
+        [
+          "v",
+          "(transitive, arithmetic, with by) To calculate the number (the quotient) by which you must multiply one given number (the divisor) to produce a second given number (the dividend)."
+        ],
+        [
+          "v",
+          "(intransitive) To separate into two or more parts."
+        ],
+        [
+          "v",
+          "(transitive, arithmetic) To be a divisor of."
+        ],
+        [
+          "v",
+          "To disunite in opinion or interest; to make discordant or hostile; to set at variance."
+        ],
+        [
+          "v",
+          "To vote, as in the British parliament and other legislatures, by the members separating themselves into two parties (as on opposite sides of the hall or in opposite lobbies), that is, the ayes dividing from the noes."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "employer": {
+      "word": "employer",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A person, firm or other entity which pays for or hires the services of another person."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "failed": {
+      "word": "failed",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "unsuccessful"
+        ],
+        [
+          "adj",
+          "Bankrupt."
+        ],
+        [
+          "adj",
+          "Decayed; worn out."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "fair": {
+      "word": "fair",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Unblemished (figuratively or literally); clean and pure; innocent."
+        ],
+        [
+          "adj",
+          "Light in color, pale, particularly with regard to skin tone but also referring to blond and red hair."
+        ],
+        [
+          "adj",
+          "Just."
+        ],
+        [
+          "adj",
+          "Adequate, reasonable, or decent, but not excellent."
+        ],
+        [
+          "adj",
+          "(nautical, of a wind) Favorable to a ship's course."
+        ],
+        [
+          "adj",
+          "Favorable, pleasant."
+        ],
+        [
+          "adj",
+          "Not overcast; cloudless; clear."
+        ],
+        [
+          "adj",
+          "Free from obstacles or hindrances; unobstructed; unencumbered; open; direct; said of a road, passage, etc."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "favourite": {
+      "word": "favourite",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "(superlative) Most-liked. (In other words, [person]'s favorite [noun] = the [noun] that [person] likes the most.)"
+        ],
+        [
+          "n",
+          "A person or thing who enjoys special regard or favour."
+        ],
+        [
+          "n",
+          "A person who is preferred or trusted above all others."
+        ],
+        [
+          "n",
+          "A contestant or competitor thought most likely to win."
+        ],
+        [
+          "n",
+          "(Internet) A bookmark on a web browser or website."
+        ],
+        [
+          "v",
+          "To favour."
+        ],
+        [
+          "v",
+          "(Internet) To bookmark."
+        ],
+        [
+          "v",
+          "(Internet) To add to one's list of favourite items on a website that allows users to compile such lists."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "ham": {
+      "word": "ham",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(uncountable) Meat from the thigh and/or buttock of a hog cured for food."
+        ],
+        [
+          "n",
+          "(countable) A thigh and/or buttock of a hog slaughtered for meat; (occasionally) the corresponding cut from some other animal."
+        ],
+        [
+          "n",
+          "The back of the thigh of humans or certain other animals."
+        ],
+        [
+          "n",
+          "(anatomy) The region back of the knee joint; the popliteal space; the hock."
+        ],
+        [
+          "n",
+          "(acting) An overacting or amateurish performer; an actor with an especially showy or exaggerated style."
+        ],
+        [
+          "v",
+          "(acting) To overact; to act with exaggerated emotions."
+        ],
+        [
+          "n",
+          "(Internet, informal, uncommon) Electronic mail that is wanted; email that is not spam or junk mail."
+        ],
+        [
+          "n",
+          "(radio) An amateur radio operator."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "heresy": {
+      "word": "heresy",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(religion) A doctrine held by a member of a religion at variance or conflict with established religious beliefs."
+        ],
+        [
+          "n",
+          "(by extension) A controversial or unorthodox opinion held by a member of a group, as in politics, philosophy or science."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "hawaiian": {
+      "word": "hawaiian",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Of or pertaining to the culture of the US state of Hawaii."
+        ],
+        [
+          "adj",
+          "Of or pertaining to a resident of the US state of Hawaii."
+        ],
+        [
+          "adj",
+          "Of or pertaining to the Hawaiian race, culture, or language."
+        ],
+        [
+          "n",
+          "(countable) A descendant of the peoples inhabiting the Hawaiian Islands prior to European contact."
+        ],
+        [
+          "n",
+          "(countable, nonstandard, proscribed) A native or resident of the state of Hawaii in the United States of America."
+        ],
+        [
+          "n",
+          "A pizza topped with ham and pineapple."
+        ],
+        [
+          "adj",
+          "(of a person) Descended from the peoples inhabiting the Hawaiian Islands prior to European contact."
+        ],
+        [
+          "n",
+          "The Hawaiian language."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "insist": {
+      "word": "insist",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "(sometimes with (that + subjunctive) or intransitive, with on or upon) To demand continually that something happen or be done; to reiterate a demand despite requests to abandon it."
+        ],
+        [
+          "v",
+          "(with (that + indicative) or intransitive, with on or upon) To hold up a claim emphatically."
+        ],
+        [
+          "v",
+          "(obsolete, chiefly geometry) To stand (on); to rest (upon); to lean (upon)."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "issue": {
+      "word": "issue",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "The action or an instance of flowing or coming out, an outflow, particularly:"
+        ],
+        [
+          "n",
+          "Someone or something that flows out or comes out, particularly:"
+        ],
+        [
+          "n",
+          "(figuratively) Progeny: all one's lineal descendants."
+        ],
+        [
+          "n",
+          "(publishing) A single edition of a newspaper or other periodical publication."
+        ],
+        [
+          "n",
+          "The entire set of some item printed and disseminated during a certain period, particularly (publishing) a single printing of a particular edition of a work when contrasted with other print runs."
+        ],
+        [
+          "n",
+          "(figuratively, originally World War I military slang, usually with definite article) The entire set of something; all of something."
+        ],
+        [
+          "n",
+          "(finance) Any financial instrument issued by a company."
+        ],
+        [
+          "n",
+          "The loan of a book etc. from a library to a patron; all such loans by a given library during a given period."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "instructions": {
+      "word": "instructions",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "N",
+          "the second studio album by American producer and rapper Jermaine Dupri, released by"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "nose": {
+      "word": "nose",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A protuberance on the face housing the nostrils, which are used to breathe or smell."
+        ],
+        [
+          "n",
+          "A snout, the nose of an animal."
+        ],
+        [
+          "n",
+          "The tip of an object."
+        ],
+        [
+          "n",
+          "The bulge on the side of a piece of a jigsaw puzzle, that fits into the hole of its adjacent piece."
+        ],
+        [
+          "n",
+          "(horse racing) The length of a horse’s nose, used to indicate the distance between horses at the finish of a race, or any very close race."
+        ],
+        [
+          "n",
+          "(perfumery) A perfumer."
+        ],
+        [
+          "n",
+          "The sense of smell."
+        ],
+        [
+          "n",
+          "(idiomatic) Bouquet, the smell of something, especially wine."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "opinion": {
+      "word": "opinion",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A belief, judgment or perspective that a person has formed, either through objective or subjective reasoning, about a topic, issue, person or thing."
+        ],
+        [
+          "n",
+          "The judgment or sentiment which the mind forms of persons or things; estimation."
+        ],
+        [
+          "n",
+          "The formal decision, or expression of views, of a judge, an umpire, a doctor, or other party officially called upon to consider and decide upon a matter or point submitted."
+        ],
+        [
+          "n",
+          "(European Union law) A judicial opinion delivered by an Advocate General to the European Court of Justice where he or she proposes a legal solution to the cases for which the court is responsible."
+        ],
+        [
+          "n",
+          "(obsolete) Favorable estimation; hence, consideration; reputation; fame; public sentiment or esteem."
+        ],
+        [
+          "n",
+          "(obsolete) Obstinacy in holding to one's belief or impression; opiniativeness; conceitedness."
+        ],
+        [
+          "v",
+          "(transitive, archaic) To have or express as an opinion."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "paperwork": {
+      "word": "paperwork",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(uncountable) Routine work involving written documents."
+        ],
+        [
+          "n",
+          "(uncountable) Written documents."
+        ],
+        [
+          "n",
+          "(uncountable, hyperbolic, also figurative) Excessive paperwork, busy work, red tape."
+        ],
+        [
+          "n",
+          "(countable) A work in paper."
+        ],
+        [
+          "n",
+          "(uncountable, US, prison slang) Court documents or pre-sentencing investigation reports detailing the prisoner's criminal history (usually in the context of discerning whether an inmate has been charged for sex-related offenses or is likely to be an informant)."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "pineapple": {
+      "word": "pineapple",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "The ovoid fruit of the pineapple plant, which has very sweet white or yellow flesh, a tough, spiky shell and a tough, fibrous core."
+        ],
+        [
+          "n",
+          "(uncountable) The flesh of a pineapple fruit used as a food item."
+        ],
+        [
+          "n",
+          "A tropical plant, Ananas comosus, native to South America, having thirty or more long, spined and pointed leaves surrounding a thick stem."
+        ],
+        [
+          "n",
+          "(slang) An Australian fifty dollar note."
+        ],
+        [
+          "n",
+          "(slang) A hand grenade. (From the similarity to the shape of a pineapple fruit.)"
+        ],
+        [
+          "n",
+          "A light yellow colour, like that of pineapple flesh (also called pineapple yellow)."
+        ],
+        [
+          "n",
+          "A hairstyle consisting of a ponytail worn on top of the head, imitating the leaves of a pineapple."
+        ],
+        [
+          "n",
+          "A web burrfish (Chilomycterus antillarum, syn. Chilomycterus geometricus)"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "pizza": {
+      "word": "pizza",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(uncountable) A baked Italian dish of a thinly rolled bread crust typically topped before baking with tomato sauce, cheese, and other ingredients such as meat or vegetables."
+        ],
+        [
+          "n",
+          "(countable) A single instance of this dish."
+        ],
+        [
+          "n",
+          "(skiing, skating) snowplow: a maneuver in which the tips of the skis or skates point inwards and the back ends point outwards."
+        ],
+        [
+          "n",
+          "A surname from Italian."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "pizzas": {
+      "word": "pizzas",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(uncountable) A baked Italian dish of a thinly rolled bread crust typically topped before baking with tomato sauce, cheese, and other ingredients such as meat or vegetables."
+        ],
+        [
+          "n",
+          "(countable) A single instance of this dish."
+        ],
+        [
+          "n",
+          "(skiing, skating) snowplow: a maneuver in which the tips of the skis or skates point inwards and the back ends point outwards."
+        ],
+        [
+          "n",
+          "A surname from Italian."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "question": {
+      "word": "question",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A worded or expressed sentence, phrase, or only a word on its own, which asks for information, a reply, or a response; an interrogative."
+        ],
+        [
+          "n",
+          "A subject or topic for consideration or investigation."
+        ],
+        [
+          "n",
+          "A doubt or challenge about the truth, accuracy, or validity of a matter."
+        ],
+        [
+          "v",
+          "(transitive) To ask questions of; to interrogate; to ask for information."
+        ],
+        [
+          "v",
+          "(intransitive) To ask a question or questions; inquire or seek to know; examine."
+        ],
+        [
+          "v",
+          "(transitive) To raise doubts about; have doubts about."
+        ],
+        [
+          "n",
+          "A proposal to a meeting as a topic for deliberation."
+        ],
+        [
+          "n",
+          "(now archaic, historical, chiefly with definite article) Interrogation by torture."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "refusal": {
+      "word": "refusal",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "The act of refusing."
+        ],
+        [
+          "n",
+          "(civil engineering) Depth or point at which well or borehole drilling cannot continue."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "regard": {
+      "word": "regard",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "One's concern for another; esteem; relation, reference."
+        ],
+        [
+          "n",
+          "(uncountable) The worth or estimation in which something or someone is held."
+        ],
+        [
+          "v",
+          "(transitive) To consider, look upon (something) in a given way etc."
+        ],
+        [
+          "v",
+          "(transitive) To look at; to observe."
+        ],
+        [
+          "n",
+          "(preceded by “in” or “with”) A particular aspect or detail; respect, sense."
+        ],
+        [
+          "v",
+          "(transitive) To have to do with, to concern."
+        ],
+        [
+          "v",
+          "(transitive) To face toward."
+        ],
+        [
+          "n",
+          "(countable) A steady look, a gaze."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "refusing": {
+      "word": "refusing",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "(transitive) To decline (a request or demand)."
+        ],
+        [
+          "v",
+          "(intransitive) To decline a request or demand, forbear; to withhold permission."
+        ],
+        [
+          "v",
+          "(ditransitive) To withhold (something) from (someone); to not give it to them or to bar them from having it."
+        ],
+        [
+          "v",
+          "(military) To throw back, or cause to keep back (as the centre, a wing, or a flank), out of the regular alignment when troops are about to engage the enemy."
+        ],
+        [
+          "v",
+          "To fuse again, as with, or after, heating or melting."
+        ],
+        [
+          "v",
+          "(obsolete, transitive) To disown."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "rejected": {
+      "word": "rejected",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "N",
+          "an animated surrealist short comedy film directed by Don Hertzfeldt that was released in 2000."
+        ],
+        [
+          "N",
+          "a 2000 short animated film."
+        ],
+        [
+          "N",
+          "(foaled 1950) an American Thoroughbred racehorse whose wins included the Hollywood Gold Cup in track record timeNew York Times - July 17, 1955 and Santa Anita Handicap,St. Petersburg Times - February 28, 1954 the two most important races in California open to older horses."
+        ],
+        [
+          "N",
+          "an 1883 painting by the Australian artist Tom Roberts."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "repeatedly": {
+      "word": "repeatedly",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adv",
+          "Done several times or in repetition."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "restaurateurs": {
+      "word": "restaurateurs",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "The owner of a restaurant."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "sacked": {
+      "word": "sacked",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "(UK, informal) fired from employment"
+        ],
+        [
+          "adj",
+          "(Australia, slang) Bothered; willing to make an effort."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "staple": {
+      "word": "staple",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(by extension) Place of supply; source."
+        ],
+        [
+          "n",
+          "The principal commodity produced in a town or region."
+        ],
+        [
+          "n",
+          "A basic or essential supply."
+        ],
+        [
+          "n",
+          "A recurring topic or character."
+        ],
+        [
+          "n",
+          "Short fiber, as of cotton, sheep’s wool, or the like, which can be spun into yarn or thread."
+        ],
+        [
+          "n",
+          "Unmanufactured material; raw material."
+        ],
+        [
+          "n",
+          "a type of two-pronged fastener, usually metal, used for joining, gathering, or binding materials together."
+        ],
+        [
+          "v",
+          "(transitive) To sort according to its staple."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "submitted": {
+      "word": "submitted",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "(ambitransitive) To enter or put forward for approval, consideration, marking etc."
+        ],
+        [
+          "v",
+          "(intransitive) To yield or give way to another."
+        ],
+        [
+          "v",
+          "(transitive) To yield (something) to another, as when defeated."
+        ],
+        [
+          "v",
+          "(transitive, mixed martial arts, professional wrestling) To win a fight against (an opponent) by submission."
+        ],
+        [
+          "v",
+          "(transitive) To subject; to put through a process."
+        ],
+        [
+          "v",
+          "(transitive, obsolete) To let down; to lower."
+        ],
+        [
+          "v",
+          "(transitive, obsolete) To put or place under."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "toppings": {
+      "word": "toppings",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "That which comes from hemp in the process of hatcheling."
         ]
       ],
       "sentences": [],
