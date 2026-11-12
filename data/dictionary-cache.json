@@ -1,7 +1,7 @@
 {
   "source": "Free Dictionary API + Wiktionary + MyMemory",
-  "count": 3403,
-  "failed": 21,
+  "count": 3435,
+  "failed": 22,
   "words": {
     "ability": {
       "word": "ability",
@@ -115153,6 +115153,1021 @@
         [
           "n",
           "That which comes from hemp in the process of hatcheling."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "attacking": {
+      "word": "attacking",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Carrying out an attack."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "attack": {
+      "word": "attack",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "An attempt to cause damage, injury to, or death of an opponent or enemy."
+        ],
+        [
+          "n",
+          "An attempt to detract from the worth or credibility of, a person, position, idea, object, or thing, by physical, verbal, emotional, or other assault."
+        ],
+        [
+          "n",
+          "(gaming) Any of several specific maneuvers, skills, or special abilities that a character can use to inflict damage against opponents."
+        ],
+        [
+          "n",
+          "(computing) An attempt to exploit a vulnerability in a computer system."
+        ],
+        [
+          "v",
+          "(transitive) To apply violent force to someone or something."
+        ],
+        [
+          "v",
+          "(transitive) To aggressively challenge a person, idea, etc., with words (particularly in newspaper headlines, because it typesets into less space than \"criticize\" or similar)."
+        ],
+        [
+          "v",
+          "(transitive) To begin to affect; to act upon injuriously or destructively; to begin to decompose or waste."
+        ],
+        [
+          "v",
+          "(transitive) To deal with something in a direct way; to set to work upon."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "bank": {
+      "word": "bank",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(countable) An institution where one can place and borrow money and take care of financial affairs."
+        ],
+        [
+          "n",
+          "(countable) A branch office of such an institution."
+        ],
+        [
+          "n",
+          "(countable) An underwriter or controller of a card game."
+        ],
+        [
+          "n",
+          "(countable) A fund from deposits or contributions, to be used in transacting business; a joint stock or capital."
+        ],
+        [
+          "n",
+          "(gambling, countable) The sum of money etc. which the dealer or banker has as a fund from which to draw stakes and pay losses."
+        ],
+        [
+          "n",
+          "(slang, uncountable) Money; profit."
+        ],
+        [
+          "n",
+          "(countable) In certain games, such as dominos, a fund of pieces from which the players are allowed to draw."
+        ],
+        [
+          "n",
+          "(countable, chiefly in combination) A safe and guaranteed place of storage for and retrieval of important items or goods."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "banks": {
+      "word": "banks",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "An English toponymic surname for someone who lives near a hill or bank of land."
+        ],
+        [
+          "n",
+          "A number of places in the United States:"
+        ],
+        [
+          "n",
+          "A town in Pike County, Alabama."
+        ],
+        [
+          "n",
+          "A town in Bradley County, Arkansas."
+        ],
+        [
+          "n",
+          "A census-designated place in Boise County, Idaho."
+        ],
+        [
+          "n",
+          "A township in Fayette County, Iowa."
+        ],
+        [
+          "n",
+          "A township in Antrim County, Michigan."
+        ],
+        [
+          "n",
+          "A city in Washington County, Oregon."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "celsius": {
+      "word": "celsius",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Related to a metric temperature scale, originally defined as having the freezing point of water as 0 degrees and its boiling point as 100 degrees, at standard atmospheric pressure. The standardized definition has 0.01 °C as the triple point of water, and a difference in temperature of 1 °C corresponds to ¹⁄_(273.16) of the difference in temperature between the triple point and the absolute zero."
+        ],
+        [
+          "adj",
+          "Alternative letter-case form of Celsius. [Related to a metric temperature scale, originally defined as having the freezing point of water as 0 degrees and its boiling point as 100 degrees, at standard atmospheric pressure. The standardized definition has 0.01 °C as the triple point of water, and a difference in temperature of 1 °C corresponds to ¹⁄_(273.16) of the difference in temperature between the triple point and the absolute zero.]"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "cyber": {
+      "word": "cyber",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Of, or having to do with, the Internet; alternative form of cyber-."
+        ],
+        [
+          "n",
+          "(singular only) Everything having to do with the Internet considered collectively."
+        ],
+        [
+          "n",
+          "Cybersecurity."
+        ],
+        [
+          "adj",
+          "(informal) Cybergoth."
+        ],
+        [
+          "v",
+          "(slang, dated) To engage in cybersex."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "billois": {
+      "word": "billois",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A large wave, swell, surge, or undulating mass of something, such as water, smoke, fabric or sound"
+        ],
+        [
+          "n",
+          "A surname."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "cyberattacks": {
+      "word": "cyberattacks",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "An attack or intrusion by means of a computer network such as the Internet, often for the purpose of spying."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "cyberattack": {
+      "word": "cyberattack",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "An attack or intrusion by means of a computer network such as the Internet, often for the purpose of spying."
+        ],
+        [
+          "v",
+          "To launch a cyberattack."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "danger": {
+      "word": "danger",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "Exposure to likely harm; peril."
+        ],
+        [
+          "n",
+          "An instance or cause of likely harm."
+        ],
+        [
+          "n",
+          "(mainly outside US, rail transport) The stop indication of a signal (usually in the phrase \"at danger\")."
+        ],
+        [
+          "n",
+          "(UK, derogatory) A contemptible person, especially one seen as perverted or mentally ill."
+        ],
+        [
+          "n",
+          "(obsolete) Mischief."
+        ],
+        [
+          "n",
+          "(obsolete) Ability to harm; someone's dominion or power to harm or penalise. See in one's danger, below."
+        ],
+        [
+          "n",
+          "(obsolete) Liability."
+        ],
+        [
+          "n",
+          "(obsolete) Difficulty; sparingness; hesitation."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "cybersecurity": {
+      "word": "cybersecurity",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "Security against electronic attacks such as cyberwarfare or cyberterrorism."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "denied": {
+      "word": "denied",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "(transitive) To assert that something is not true."
+        ],
+        [
+          "v",
+          "(transitive) To disallow or reject."
+        ],
+        [
+          "v",
+          "(ditransitive) To refuse to give or grant something to someone."
+        ],
+        [
+          "v",
+          "To take something away from someone; to deprive of."
+        ],
+        [
+          "v",
+          "To disclaim connection with, responsibility for, etc.; to refuse to acknowledge; to disown; to abjure; to disavow."
+        ],
+        [
+          "v",
+          "(sports, transitive) To prevent from scoring."
+        ],
+        [
+          "v",
+          "(obsolete) To refuse (to do or accept something)."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "blamed": {
+      "word": "blamed",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "euphemism of damned (intensifier)"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "easy": {
+      "word": "easy",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Requiring little skill or effort."
+        ],
+        [
+          "adj",
+          "Causing ease; giving comfort, or freedom from care or labour."
+        ],
+        [
+          "adj",
+          "Not making resistance or showing unwillingness; tractable; yielding; compliant."
+        ],
+        [
+          "adv",
+          "In a relaxed or casual manner."
+        ],
+        [
+          "adj",
+          "Free from constraint, harshness, or formality; unconstrained; smooth."
+        ],
+        [
+          "adv",
+          "In a manner without strictness or harshness; gently; softly."
+        ],
+        [
+          "adj",
+          "(informal, derogatory, usually of a woman or girl) Consenting readily to sex."
+        ],
+        [
+          "adj",
+          "(finance, dated) Not straitened as to money matters; opposed to tight."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "equipment": {
+      "word": "equipment",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "Any items used in equipping something or someone, for example things needed for an expedition or voyage."
+        ],
+        [
+          "n",
+          "The act of equipping, or the state of being equipped, as for a voyage or expedition."
+        ],
+        [
+          "n",
+          "(slang, humorous) The male genitalia."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "foreign": {
+      "word": "foreign",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Located outside a country or place, especially one's own."
+        ],
+        [
+          "adj",
+          "Originating from, characteristic of, belonging to, or being a citizen of a country or place other than the one under discussion."
+        ],
+        [
+          "adj",
+          "Relating to a different nation."
+        ],
+        [
+          "adj",
+          "Not characteristic of or naturally taken in by an organism or system."
+        ],
+        [
+          "adj",
+          "(with to, formerly with from) Alien; strange; uncharacteristic."
+        ],
+        [
+          "adj",
+          "(US, Canada, law) From a different legal jurisdiction (state, province), even if within the same country."
+        ],
+        [
+          "adj",
+          "Belonging to a different organization, company etc."
+        ],
+        [
+          "n",
+          "A foreign person, particularly:"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "fortunately": {
+      "word": "fortunately",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adv",
+          "It is (or was, etc) fortunate that."
+        ],
+        [
+          "adv",
+          "In a fortunate manner."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "freezers": {
+      "word": "freezers",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "An appliance or room used to store food or other perishable items at temperatures below 0° Celsius (32° Fahrenheit)."
+        ],
+        [
+          "n",
+          "The section of a refrigerator used to store food or other perishable items at a temperature below 0° Celsius (32° Fahrenheit)."
+        ],
+        [
+          "n",
+          "(computing) A hardware device that can freeze the state of the system to allow it to be inspected, saved or modified."
+        ],
+        [
+          "n",
+          "(neuroscience, Parkinson's disease) A Parkinson's disease patient that experiences freezing of gait (FOG) episodes."
+        ],
+        [
+          "n",
+          "A rare surname."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "fridges": {
+      "word": "fridges",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(informal) A refrigerator."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "gerome": {
+      "word": "gerome",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "hackers": {
+      "word": "hackers",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "N",
+          "an anthology of science fiction short stories edited by Jack Dann and Gardner Dozois."
+        ],
+        [
+          "N",
+          "a 1995 American crime thriller film directed by Iain Softley and starring Jonny Lee Miller, Angelina Jolie, Jesse Bradford, Matthew Lillard, Laurence Mason, Renoly Santiago, Lorraine Bracco, and Fisher Stevens."
+        ],
+        [
+          "N",
+          "an independent strategy game developed by Trickster Arts for Android and iOS."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "happened": {
+      "word": "happened",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "(intransitive) To occur or take place."
+        ],
+        [
+          "v",
+          "(intransitive or impersonal, with infinitive) To do or occur by chance or unexpectedly."
+        ],
+        [
+          "v",
+          "(followed by on or upon) To encounter by chance."
+        ],
+        [
+          "v",
+          "(informal) To become popular or trendy."
+        ],
+        [
+          "v",
+          "(transitive, archaic) To happen to; to befall."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "iranian": {
+      "word": "iranian",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A person from Iran, or a descendant thereof."
+        ],
+        [
+          "adj",
+          "Of or relating to Iran, its people or its culture."
+        ],
+        [
+          "adj",
+          "(linguistics) Pertaining to the Iranian languages or their speakers."
+        ],
+        [
+          "n",
+          "(linguistics) A person of a diverse ethnolinguistic group that speaks the Iranian languages and shares descent from the Proto-Iranians."
+        ],
+        [
+          "n",
+          "(nonstandard) Persian (the language)."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "melted": {
+      "word": "melted",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Being in a liquid state as a result of melting."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "refrigerators": {
+      "word": "refrigerators",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A household or commercial appliance used for keeping food fresh by refrigeration (short form fridge)."
+        ],
+        [
+          "n",
+          "A similar device used to keep non-food items cold, such as blood, photographic film, drugs, or pharmaceuticals like insulin."
+        ],
+        [
+          "n",
+          "One who has a chilling influence."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "response": {
+      "word": "response",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "An answer or reply, or something in the nature of an answer or reply."
+        ],
+        [
+          "n",
+          "The act of responding or replying; reply: as, to speak in response to a question."
+        ],
+        [
+          "n",
+          "A reaction to a stimulus or provocation."
+        ],
+        [
+          "n",
+          "An online advertising performance metric representing one click-through from an online ad to its destination URL."
+        ],
+        [
+          "n",
+          "A reply to an objection in formal disputation."
+        ],
+        [
+          "n",
+          "(liturgics) A verse, sentence, phrase, or word said or sung by the choir or congregation in sequence or reply to the priest or officiant."
+        ],
+        [
+          "n",
+          "(liturgics) A versicle or anthem said or sung during or after a lection; a respond or responsory."
+        ],
+        [
+          "n",
+          "An oracular answer."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "supermarket": {
+      "word": "supermarket",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A large self-service store that sells groceries and, usually, medications, household goods, and/or clothing."
+        ],
+        [
+          "n",
+          "A chain of such stores."
+        ],
+        [
+          "n",
+          "(figurative) A one-stop shop; a place offering a range of products or services."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "threw": {
+      "word": "threw",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "(transitive) To hurl; to release (an object) with some force from one’s hands, an apparatus, etc. so that it moves rapidly through the air."
+        ],
+        [
+          "v",
+          "(transitive) To eject or cause to fall off."
+        ],
+        [
+          "v",
+          "(transitive) To move to another position or condition; to displace."
+        ],
+        [
+          "v",
+          "(transitive, ceramics) To make (a pot) by shaping clay as it turns on a wheel."
+        ],
+        [
+          "v",
+          "(transitive, cricket, of a bowler) To deliver (the ball) illegally by straightening the bowling arm during delivery."
+        ],
+        [
+          "v",
+          "(transitive, computing) To send (an error) to an exception-handling mechanism in order to interrupt normal processing."
+        ],
+        [
+          "v",
+          "(sports, video games) To intentionally lose a game."
+        ],
+        [
+          "v",
+          "(sports, transitive) (of a game where one’s role is throwing something) To perform in a specified way in (a match)."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "throw": {
+      "word": "throw",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "(transitive) To hurl; to release (an object) with some force from one’s hands, an apparatus, etc. so that it moves rapidly through the air."
+        ],
+        [
+          "v",
+          "(transitive) To eject or cause to fall off."
+        ],
+        [
+          "v",
+          "(transitive) To move to another position or condition; to displace."
+        ],
+        [
+          "v",
+          "(transitive, ceramics) To make (a pot) by shaping clay as it turns on a wheel."
+        ],
+        [
+          "v",
+          "(transitive, cricket, of a bowler) To deliver (the ball) illegally by straightening the bowling arm during delivery."
+        ],
+        [
+          "v",
+          "(transitive, computing) To send (an error) to an exception-handling mechanism in order to interrupt normal processing."
+        ],
+        [
+          "v",
+          "(sports, video games) To intentionally lose a game."
+        ],
+        [
+          "v",
+          "(sports, transitive) (of a game where one’s role is throwing something) To perform in a specified way in (a match)."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "tons": {
+      "word": "tons",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(colloquial) Lots; large quantities or numbers (of people or things)."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "unit": {
+      "word": "unit",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(mathematics) Oneness, singularity, seen as a component of a whole number; a magnitude of one."
+        ],
+        [
+          "n",
+          "(sciences) A standard measure of a quantity or magnitude."
+        ],
+        [
+          "n",
+          "The number one."
+        ],
+        [
+          "n",
+          "(education) A course, lesson, or section of a curriculum covering a particular topic or skill."
+        ],
+        [
+          "n",
+          "(commerce) An item which may be sold singly."
+        ],
+        [
+          "n",
+          "An organized group comprising people and/or equipment."
+        ],
+        [
+          "n",
+          "(US, Australia, New Zealand) A measure of housing equivalent to the living quarters of one household; an apartment where a group of apartments is contained in one or more multi-storied buildings or a group of dwellings is in one or more single storey buildings, usually arranged around a driveway."
+        ],
+        [
+          "n",
+          "(US, UK, Australia, New Zealand) Any piece of equipment, such as an appliance, power tool, stereo system, computer, tractor, or machinery."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "weak": {
+      "word": "weak",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Lacking in force (usually strength) or ability."
+        ],
+        [
+          "adj",
+          "Unable to sustain a great weight, pressure, or strain."
+        ],
+        [
+          "adj",
+          "Unable to withstand temptation, urgency, persuasion, etc.; easily impressed, moved, or overcome; accessible; vulnerable."
+        ],
+        [
+          "adj",
+          "Limp, soft."
+        ],
+        [
+          "adj",
+          "Dilute, lacking in taste or potency."
+        ],
+        [
+          "adj",
+          "(often with for) Having a strong, irrepressible emotional love for someone or (less often) something; sentimentally affected by such love."
+        ],
+        [
+          "adj",
+          "Lacking in vigour or expression."
+        ],
+        [
+          "adj",
+          "Not prevalent or effective, or not felt to be prevalent; not potent; feeble."
         ]
       ],
       "sentences": [],

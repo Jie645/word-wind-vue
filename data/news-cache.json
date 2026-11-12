@@ -6,6 +6,21 @@
   "failed": 0,
   "items": [
     {
+      "id": "2611/261112-supermarket-freezer-cyberattack.html",
+      "title": "France blames Iran for cyberattack on freezers",
+      "url": "https://breakingnewsenglish.com/2611/261112-supermarket-freezer-cyberattack.html",
+      "date": "12th November",
+      "dateIso": "2026-11-12",
+      "kind": "Easier",
+      "summary": "France blames Iran for cyberattack on freezers 12th November - \"Easier\"",
+      "availableLevels": {
+        "0": "https://breakingnewsenglish.com/2611/261112-supermarket-freezer-cyberattack-0.html",
+        "1": "https://breakingnewsenglish.com/2611/261112-supermarket-freezer-cyberattack-1.html",
+        "2": "https://breakingnewsenglish.com/2611/261112-supermarket-freezer-cyberattack-2.html",
+        "3": "https://breakingnewsenglish.com/2611/261112-supermarket-freezer-cyberattack.html"
+      }
+    },
+    {
       "id": "2611/261109-pineapple-on-pizza.html",
       "title": "Chef fired for refusing to put pineapple on pizza",
       "url": "https://breakingnewsenglish.com/2611/261109-pineapple-on-pizza.html",
@@ -200,7 +215,7 @@
       "date": "24th September",
       "dateIso": "2026-09-24",
       "kind": "Easier",
-      "summary": "Toys R Us to open 120 new stores in USA 24th September - \"Easier\"",
+      "summary": "Toys R Us to open 120 new stores in USA",
       "availableLevels": {
         "0": "https://breakingnewsenglish.com/2609/260924-toys-r-us-0.html",
         "1": "https://breakingnewsenglish.com/2609/260924-toys-r-us-1.html",
@@ -714,132 +729,9 @@
         "5": "https://breakingnewsenglish.com/2605/260525-gold-5.html",
         "6": "https://breakingnewsenglish.com/2605/260525-gold.html"
       }
-    },
-    {
-      "id": "2605/260521-being-right-handed.html",
-      "title": "Why 90 per cent of humans are right-handed",
-      "url": "https://breakingnewsenglish.com/2605/260521-being-right-handed.html",
-      "date": "21st May",
-      "dateIso": "2026-05-21",
-      "kind": "Easier",
-      "summary": "Why 90 per cent of humans are right-handed",
-      "availableLevels": {
-        "0": "https://breakingnewsenglish.com/2605/260521-being-right-handed-0.html",
-        "1": "https://breakingnewsenglish.com/2605/260521-being-right-handed-1.html",
-        "2": "https://breakingnewsenglish.com/2605/260521-being-right-handed-2.html",
-        "3": "https://breakingnewsenglish.com/2605/260521-being-right-handed.html"
-      }
     }
   ],
   "articles": {
-    "https://breakingnewsenglish.com/2605/260521-being-right-handed-0.html": {
-      "id": "2605/260521-being-right-handed.html",
-      "title": "Why 90 per cent of humans are right-handed",
-      "titleZh": "",
-      "tag": "Easier",
-      "level": "Level 0 · A2",
-      "levelBand": "A2",
-      "resolvedLevel": 0,
-      "requestedLevel": 0,
-      "fallback": false,
-      "minutes": 1,
-      "words": 102,
-      "published": "21st May",
-      "summary": "Why 90 per cent of humans are right-handed",
-      "paragraphs": [
-        "Around 90 per cent of people are right-handed. This is because of human evolution. When we first walked on two legs, our hands did more things. Our large brain thought of many things to do with our hands. If most people used the same hand, it was easier to do things like hunt, cook, and use tools.",
-        "Scientists wondered why humans, but not monkeys, are largely right-handed. Researchers compared human behaviour with monkey behaviour. A researcher said that by looking at monkeys, we can understand why many of us use our right hands. We started using our right hands millions of years ago."
-      ],
-      "sourceName": "Breaking News English",
-      "sourceUrl": "https://breakingnewsenglish.com/2605/260521-being-right-handed-0.html",
-      "availableLevels": {
-        "0": "https://breakingnewsenglish.com/2605/260521-being-right-handed-0.html",
-        "1": "https://breakingnewsenglish.com/2605/260521-being-right-handed-1.html",
-        "2": "https://breakingnewsenglish.com/2605/260521-being-right-handed-2.html",
-        "3": "https://breakingnewsenglish.com/2605/260521-being-right-handed.html"
-      }
-    },
-    "https://breakingnewsenglish.com/2605/260521-being-right-handed-1.html": {
-      "id": "2605/260521-being-right-handed.html",
-      "title": "Why 90 per cent of humans are right-handed",
-      "titleZh": "",
-      "tag": "Easier",
-      "level": "Level 1 · A2-B1",
-      "levelBand": "A2-B1",
-      "resolvedLevel": 1,
-      "requestedLevel": 1,
-      "fallback": false,
-      "minutes": 1,
-      "words": 137,
-      "published": "21st May",
-      "summary": "Why 90 per cent of humans are right-handed",
-      "paragraphs": [
-        "Around 90 per cent of people are right-handed. Researchers believe the answer is because of two areas of human evolution. The first is walking on two legs; the other is our large brain. When humans first walked on two legs, their hands were free to do many things. We started doing many things with our hands. If most people used the same hand, it was easier to do things like use tools, hunt, cook, and work together.",
-        "Scientists wondered why only humans are largely right-handed, but monkeys use both hands equally. The researchers compared human behaviour with monkey behaviour. The research showed that humans have longer legs compared to their arms. A researcher said: \"By looking across many primate species, we can begin to understand which aspects of handedness are ancient and shared, and which are uniquely human.\""
-      ],
-      "sourceName": "Breaking News English",
-      "sourceUrl": "https://breakingnewsenglish.com/2605/260521-being-right-handed-1.html",
-      "availableLevels": {
-        "0": "https://breakingnewsenglish.com/2605/260521-being-right-handed-0.html",
-        "1": "https://breakingnewsenglish.com/2605/260521-being-right-handed-1.html",
-        "2": "https://breakingnewsenglish.com/2605/260521-being-right-handed-2.html",
-        "3": "https://breakingnewsenglish.com/2605/260521-being-right-handed.html"
-      }
-    },
-    "https://breakingnewsenglish.com/2605/260521-being-right-handed-2.html": {
-      "id": "2605/260521-being-right-handed.html",
-      "title": "Why 90 per cent of humans are right-handed",
-      "titleZh": "",
-      "tag": "Easier",
-      "level": "Level 2 · A2-B1",
-      "levelBand": "A2-B1",
-      "resolvedLevel": 2,
-      "requestedLevel": 2,
-      "fallback": false,
-      "minutes": 2,
-      "words": 183,
-      "published": "21st May",
-      "summary": "Why 90 per cent of humans are right-handed",
-      "paragraphs": [
-        "Around 90 per cent of people are right-handed. Scientists have spent years trying to find out why. Researchers in the UK believe the answer is because of two areas of human evolution. The first is walking on two legs; the other is the large size of our brain. When humans first walked on two legs, their hands were free to do things. Our brain worked out many things to do with our hands. If most people used the same hand, using tools and working with other people became easier. It was useful for doing things like hunting and cooking.",
-        "Scientists wondered why only humans are largely right-handed. Monkeys and apes use both hands equally. The researchers compared human behaviour and brain patterns with monkeys and apes. The research showed that humans have longer legs compared to their arm length. Another reason is the left side of the brain controls the right hand. It is responsible for coordination. A researcher said: \"By looking across many primate species, we can begin to understand which aspects of handedness are ancient and shared, and which are uniquely human.\""
-      ],
-      "sourceName": "Breaking News English",
-      "sourceUrl": "https://breakingnewsenglish.com/2605/260521-being-right-handed-2.html",
-      "availableLevels": {
-        "0": "https://breakingnewsenglish.com/2605/260521-being-right-handed-0.html",
-        "1": "https://breakingnewsenglish.com/2605/260521-being-right-handed-1.html",
-        "2": "https://breakingnewsenglish.com/2605/260521-being-right-handed-2.html",
-        "3": "https://breakingnewsenglish.com/2605/260521-being-right-handed.html"
-      }
-    },
-    "https://breakingnewsenglish.com/2605/260521-being-right-handed.html": {
-      "id": "2605/260521-being-right-handed.html",
-      "title": "Why 90 per cent of humans are right-handed",
-      "titleZh": "",
-      "tag": "Easier",
-      "level": "Level 3 · B1",
-      "levelBand": "B1",
-      "resolvedLevel": 3,
-      "requestedLevel": 3,
-      "fallback": false,
-      "minutes": 2,
-      "words": 217,
-      "published": "21st May",
-      "summary": "Why 90 per cent of humans are right-handed",
-      "paragraphs": [
-        "Around 90 per cent of people worldwide are right-handed. Scientists have spent decades trying to find out why. Researchers from Oxford University in the UK believe they have a possible answer. Their research suggests that the answer is because of two features of human evolution. The first is walking on two legs, and the other is the large size of the human brain. When humans first started walking on two legs, their hands were free to do things. Our large brain worked out many things to do with our hands like using tools. If most people used the same hand, using tools and working with others became easier. This became useful for things like hunting and cooking.",
-        "Scientists thought the key to finding the answer was why only humans are largely right-handed. Primates (monkeys and apes) use both hands equally. The researchers compared human behaviour and brain patterns with 41 species of monkeys and apes. The research findings showed that humans have longer legs compared to their arm length. Another reason is that the left side of the brain controls the right hand. It is also responsible for motor skills and coordination. A researcher said: \"By looking across many primate species, we can begin to understand which aspects of handedness are ancient and shared, and which are uniquely human.\""
-      ],
-      "sourceName": "Breaking News English",
-      "sourceUrl": "https://breakingnewsenglish.com/2605/260521-being-right-handed.html",
-      "availableLevels": {
-        "0": "https://breakingnewsenglish.com/2605/260521-being-right-handed-0.html",
-        "1": "https://breakingnewsenglish.com/2605/260521-being-right-handed-1.html",
-        "2": "https://breakingnewsenglish.com/2605/260521-being-right-handed-2.html",
-        "3": "https://breakingnewsenglish.com/2605/260521-being-right-handed.html"
-      }
-    },
     "https://breakingnewsenglish.com/2605/260525-gold-4.html": {
       "id": "2605/260525-gold.html",
       "title": "Scientists discover why gold doesn't 'rust'",
@@ -4093,7 +3985,7 @@
       "minutes": 1,
       "words": 110,
       "published": "24th September",
-      "summary": "Toys R Us to open 120 new stores in USA 24th September - \"Easier\"",
+      "summary": "Toys R Us to open 120 new stores in USA",
       "paragraphs": [
         "Toys R Us will open 120 new stores in America. This will increase its number of stores from 40 to 160. The company wants people to have more places to buy toys. It will sell popular brands such as LEGO and Barbie. Some stores will have candy shops and family-friendly cafes. The new stores will also be in malls and airports.",
         "The new stores are part of the company's comeback in America. Toys R Us closed its last U.S. stores in 2018. It started opening them again in 2022. The company says toys are becoming popular with adults. A market research company agreed. It said toys are becoming hobbies and \"social experiences\" for adults."
@@ -4120,7 +4012,7 @@
       "minutes": 1,
       "words": 148,
       "published": "24th September",
-      "summary": "Toys R Us to open 120 new stores in USA 24th September - \"Easier\"",
+      "summary": "Toys R Us to open 120 new stores in USA",
       "paragraphs": [
         "Toys R Us will open 120 new stores in the USA. This will increase its number of stores from 40 to 160. The company wants people to have more places to buy toys and presents. The new stores will sell popular toy brands such as LEGO, Pokemon and Barbie. Some stores will have candy shops. Others will have family-friendly cafes with a toy theme. The company is growing in different places, including in malls and airports.",
         "The new stores are part of the company's comeback in America. Toys R Us closed its last U.S. stores in 2018. In 2022, it opened shops in the department store Macy's. It now has about 400 shops in Macy's. Toys R Us says toys are becoming more popular with adults. The vice-president of a market research company agreed. She said toys are becoming \"hobbies, fandom ecosystems, and social experiences\" for adults rather than just toys for children."
@@ -4147,7 +4039,7 @@
       "minutes": 2,
       "words": 178,
       "published": "24th September",
-      "summary": "Toys R Us to open 120 new stores in USA 24th September - \"Easier\"",
+      "summary": "Toys R Us to open 120 new stores in USA",
       "paragraphs": [
         "giant said this will increase the number of its stores from 40 to 160. The company wants shoppers to have more places to buy toys, gifts and collectibles. The new stores will sell popular toy brands such as LEGO, Barbie, Pokemon and KPop Demon Hunters. Some stores will have candy shops. Others will have family-friendly cafes with a toy theme. The company said: \"This is a major moment for Toys R Us.\" He added that the company is growing in different places, including stores in malls, airports and other locations.",
         "The new stores are part of the company's comeback in America. Toys R Us closed its last U.S. stores in 2018. It reopened two stores in 2019. In 2022, it opened shops in the famous department store Macy's. Toys R Us now has about 400 shops inside Macy's. The company says toys are now becoming more popular with adults. The market research company Circana said toy sales among adults are growing. A vice-president at Circana said toys are becoming \"hobbies, fandom ecosystems, and social experiences\" for adults rather than just toys for children."
@@ -4174,7 +4066,7 @@
       "minutes": 2,
       "words": 228,
       "published": "24th September",
-      "summary": "Toys R Us to open 120 new stores in USA 24th September - \"Easier\"",
+      "summary": "Toys R Us to open 120 new stores in USA",
       "paragraphs": [
         "Toys R Us is planning to open 120 new stores in the USA in the near future. The toy retail giant said the new stores will increase the number of its stores from 40 to 160. The company said it wants shoppers to have more places to buy toys, gifts and collectibles. The new stores will sell popular brands such as LEGO, Barbie, Hot Wheels, Pokemon and KPop Demon Hunters. Some stores will also have candy shops inside them. Others will have fun, family-friendly cafes that will have a toy-themed atmosphere. A company executive said: \"This is a major moment for Toys R Us.\" He added that the company is growing in different areas, including stores in malls, airports and other locations.",
         "The new stores are an important part of the company's comeback in America. Toys R Us closed its last U.S. stores in 2018 after it filed for bankruptcy. It reopened two physical stores in 2019. In 2022, it began opening shops inside the famous American department store Macy's. Toys R Us now has about 400 shops inside Macy's stores across the USA. The company says toys are becoming more popular with adults as well as with children. The market research company Circana said toy sales among adults are particularly strong. A vice-president at Circana said toys are becoming \"hobbies, fandom ecosystems, and social experiences\" for adults rather than just toys for children."
@@ -5380,6 +5272,114 @@
         "4": "https://breakingnewsenglish.com/2611/261109-pineapple-on-pizza-4.html",
         "5": "https://breakingnewsenglish.com/2611/261109-pineapple-on-pizza-5.html",
         "6": "https://breakingnewsenglish.com/2611/261109-pineapple-on-pizza.html"
+      }
+    },
+    "https://breakingnewsenglish.com/2611/261112-supermarket-freezer-cyberattack-0.html": {
+      "id": "2611/261112-supermarket-freezer-cyberattack.html",
+      "title": "France blames Iran for cyberattack on freezers",
+      "titleZh": "",
+      "tag": "Easier",
+      "level": "Level 0 · A2",
+      "levelBand": "A2",
+      "resolvedLevel": 0,
+      "requestedLevel": 0,
+      "fallback": false,
+      "minutes": 1,
+      "words": 97,
+      "published": "12th November",
+      "summary": "France blames Iran for cyberattack on freezers 12th November - \"Easier\"",
+      "paragraphs": [
+        "France blamed Iran for a cyberattack on supermarket freezers. The attack hit 700 stores. Hackers took control of cooling systems. Temperatures reached 50 degrees, so a lot of frozen food melted. Stores threw it away because it was not safe to eat. Iran said it didn't carry out the attacks. It blamed France.",
+        "Cyberattacks could be more dangerous in the future. A cybersecurity expert said hackers could soon attack services like water and electricity. They could also attack hospitals, airports, public transport and banks. This can put people's lives in danger. European leaders want to make their cybersecurity stronger."
+      ],
+      "sourceName": "Breaking News English",
+      "sourceUrl": "https://breakingnewsenglish.com/2611/261112-supermarket-freezer-cyberattack-0.html",
+      "availableLevels": {
+        "0": "https://breakingnewsenglish.com/2611/261112-supermarket-freezer-cyberattack-0.html",
+        "1": "https://breakingnewsenglish.com/2611/261112-supermarket-freezer-cyberattack-1.html",
+        "2": "https://breakingnewsenglish.com/2611/261112-supermarket-freezer-cyberattack-2.html",
+        "3": "https://breakingnewsenglish.com/2611/261112-supermarket-freezer-cyberattack.html"
+      }
+    },
+    "https://breakingnewsenglish.com/2611/261112-supermarket-freezer-cyberattack-1.html": {
+      "id": "2611/261112-supermarket-freezer-cyberattack.html",
+      "title": "France blames Iran for cyberattack on freezers",
+      "titleZh": "",
+      "tag": "Easier",
+      "level": "Level 1 · A2-B1",
+      "levelBand": "A2-B1",
+      "resolvedLevel": 1,
+      "requestedLevel": 1,
+      "fallback": false,
+      "minutes": 1,
+      "words": 142,
+      "published": "12th November",
+      "summary": "France blames Iran for cyberattack on freezers 12th November - \"Easier\"",
+      "paragraphs": [
+        "France blamed Iran for a cyberattack on supermarket freezers and refrigerators. The attack hit around 700 stores. Hackers took control of the cooling systems in the freezers. Temperatures went up to around 50 degrees. A lot of frozen food melted. Stores had to throw it away. It was not safe to eat. France said the attack was on a level never seen before. Iran said it didn't carry out the attacks. It blamed the French government for them.",
+        "Security experts said cyberattacks could be more dangerous in the future. They could hit other things. A French cybersecurity expert said that at the moment, hackers are attacking easy-to-access things. Hackers could soon attack services like water and electricity. They could also attack hospitals, airports, public transport and banks. This can put people's lives in danger. European leaders said countries need to make their cybersecurity stronger."
+      ],
+      "sourceName": "Breaking News English",
+      "sourceUrl": "https://breakingnewsenglish.com/2611/261112-supermarket-freezer-cyberattack-1.html",
+      "availableLevels": {
+        "0": "https://breakingnewsenglish.com/2611/261112-supermarket-freezer-cyberattack-0.html",
+        "1": "https://breakingnewsenglish.com/2611/261112-supermarket-freezer-cyberattack-1.html",
+        "2": "https://breakingnewsenglish.com/2611/261112-supermarket-freezer-cyberattack-2.html",
+        "3": "https://breakingnewsenglish.com/2611/261112-supermarket-freezer-cyberattack.html"
+      }
+    },
+    "https://breakingnewsenglish.com/2611/261112-supermarket-freezer-cyberattack-2.html": {
+      "id": "2611/261112-supermarket-freezer-cyberattack.html",
+      "title": "France blames Iran for cyberattack on freezers",
+      "titleZh": "",
+      "tag": "Easier",
+      "level": "Level 2 · A2-B1",
+      "levelBand": "A2-B1",
+      "resolvedLevel": 2,
+      "requestedLevel": 2,
+      "fallback": false,
+      "minutes": 2,
+      "words": 180,
+      "published": "12th November",
+      "summary": "France blames Iran for cyberattack on freezers 12th November - \"Easier\"",
+      "paragraphs": [
+        "France has blamed Iran for a cyberattack on supermarket freezers and refrigerators. The attacks happened last month. They hit around 700 stores. Hackers took control of the cooling systems in the fridges and freezers. Temperatures went up to more than 50 degrees Celsius. Huge amounts of frozen food melted. Stores had to throw it away because it was not safe to eat. France said the attack was on a level never seen before. France believes an Iranian cyber unit carried out the attack. Iran said it didn't do the attacks. It blamed the French government for them.",
+        "Security experts warned that cyberattacks could be more dangerous in the future. They could hit other things. A French blood bank has also been hit. A French cybersecurity expert said that at the moment, hackers are attacking easy-to-access things. He said there could be attacks on other things. Hackers could attack services like water and electricity. They could also attack hospitals, airports, public transport and banks. This can put people's lives in danger. Leaders in Europe have said countries need to make their cybersecurity stronger."
+      ],
+      "sourceName": "Breaking News English",
+      "sourceUrl": "https://breakingnewsenglish.com/2611/261112-supermarket-freezer-cyberattack-2.html",
+      "availableLevels": {
+        "0": "https://breakingnewsenglish.com/2611/261112-supermarket-freezer-cyberattack-0.html",
+        "1": "https://breakingnewsenglish.com/2611/261112-supermarket-freezer-cyberattack-1.html",
+        "2": "https://breakingnewsenglish.com/2611/261112-supermarket-freezer-cyberattack-2.html",
+        "3": "https://breakingnewsenglish.com/2611/261112-supermarket-freezer-cyberattack.html"
+      }
+    },
+    "https://breakingnewsenglish.com/2611/261112-supermarket-freezer-cyberattack.html": {
+      "id": "2611/261112-supermarket-freezer-cyberattack.html",
+      "title": "France blames Iran for cyberattack on freezers",
+      "titleZh": "",
+      "tag": "Easier",
+      "level": "Level 3 · B1",
+      "levelBand": "B1",
+      "resolvedLevel": 3,
+      "requestedLevel": 3,
+      "fallback": false,
+      "minutes": 2,
+      "words": 210,
+      "published": "12th November",
+      "summary": "France blames Iran for cyberattack on freezers 12th November - \"Easier\"",
+      "paragraphs": [
+        "The French government has blamed Iran for a cyberattack on supermarket freezers and refrigerators across France. The attacks happened last month. They hit around 700 supermarkets and shops. Hackers took control of the cooling systems in the fridges and freezers. Temperatures increased to more than 50 degrees Celsius. Thousands of tons of frozen food melted. Stores had to throw the food away because it was no longer safe to eat. The French Foreign Minister said the attack was on a level never seen before. France believes an Iranian cyber unit carried out the attack. Iran has strongly denied it was involved in the attacks and blamed the French government for them.",
+        "Security experts have warned that cyberattacks could be more dangerous in the future. Similar attacks have already affected other European countries. A French blood bank has also been hit. Fortunately, workers stopped the blood products from being damaged. Cybersecurity expert Gerome Billois stated: \"At the moment, they are attacking easy equipment, but we should be prepared to see attacks on other systems like water or electricity.\" Weak computer security can let hackers attack places and services, such as hospitals, airports, public transport and banks. This can put people's lives in danger. European officials have said that a strong response is needed."
+      ],
+      "sourceName": "Breaking News English",
+      "sourceUrl": "https://breakingnewsenglish.com/2611/261112-supermarket-freezer-cyberattack.html",
+      "availableLevels": {
+        "0": "https://breakingnewsenglish.com/2611/261112-supermarket-freezer-cyberattack-0.html",
+        "1": "https://breakingnewsenglish.com/2611/261112-supermarket-freezer-cyberattack-1.html",
+        "2": "https://breakingnewsenglish.com/2611/261112-supermarket-freezer-cyberattack-2.html",
+        "3": "https://breakingnewsenglish.com/2611/261112-supermarket-freezer-cyberattack.html"
       }
     }
   }
