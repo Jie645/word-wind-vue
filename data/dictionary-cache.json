@@ -1,7 +1,7 @@
 {
   "source": "Free Dictionary API + Wiktionary + MyMemory",
-  "count": 3435,
-  "failed": 22,
+  "count": 3471,
+  "failed": 23,
   "words": {
     "ability": {
       "word": "ability",
@@ -116168,6 +116168,1118 @@
         [
           "adj",
           "Not prevalent or effective, or not felt to be prevalent; not potent; feeble."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "allocated": {
+      "word": "allocated",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Having been granted an allocation; having received (something) as part of a plan or scheduled disbursement; having been assigned (something) that was set aside for a particular purpose."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "copper": {
+      "word": "copper",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(uncountable) A reddish-brown metal, symbol Cu, and atomic number 29."
+        ],
+        [
+          "n",
+          "The reddish-brown colour / color of copper."
+        ],
+        [
+          "n",
+          "(slang, law enforcement) A police officer."
+        ],
+        [
+          "n",
+          "(countable) A copper coin, typically of a small denomination, such as a penny."
+        ],
+        [
+          "n",
+          "(countable, dated) Any of various specialized items that are made of copper, where the use of copper is either traditional or vital to the function of the item."
+        ],
+        [
+          "adj",
+          "Made of copper."
+        ],
+        [
+          "adj",
+          "Having the reddish-brown colour/color of copper."
+        ],
+        [
+          "n",
+          "(UK, Australia, dated) A large pot, often used for heating water or washing clothes over a fire. In Australasia at least, it could also be a fixed installation made of copper, with a fire underneath and its own chimney. Generally made redundant by the advent of the washing machine."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "cancelled": {
+      "word": "cancelled",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "No longer planned or scheduled."
+        ],
+        [
+          "adj",
+          "(of a person) Socially censured in a way expected to be durable rather than transient. Or, otherwise a permanent and irrevocable state of social isolation, esp. from interactive media."
+        ],
+        [
+          "adj",
+          "(of a mail item) Marked over the stamp, to show that the stamp has been used."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "cables": {
+      "word": "cables",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(material) A long object used to make a physical connection."
+        ],
+        [
+          "n",
+          "A strong, large-diameter wire or rope, or something resembling such a rope."
+        ],
+        [
+          "n",
+          "An assembly of two or more cable-laid ropes."
+        ],
+        [
+          "n",
+          "An assembly of two or more wires, used for electrical power or data circuits; one or more and/or the whole may be insulated."
+        ],
+        [
+          "n",
+          "(nautical) A strong rope or chain used to moor or anchor a ship."
+        ],
+        [
+          "n",
+          "(communication) A system for transmitting television or Internet services over a network of coaxial or fibreoptic cables."
+        ],
+        [
+          "n",
+          "A telegram, notably when sent by (submarine) telegraph cable."
+        ],
+        [
+          "n",
+          "(nautical) A unit of length equal to one tenth of a nautical mile."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "described": {
+      "word": "described",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "represented in words especially with sharpness and detail"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "congress": {
+      "word": "congress",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(often capitalized) A legislative body of a state, originally the bicameral legislature of the United States of America."
+        ],
+        [
+          "n",
+          "A formal gathering or assembly; a conference held to discuss or decide on a specific question."
+        ],
+        [
+          "n",
+          "An association, especially one consisting of other associations or representatives of interest groups."
+        ],
+        [
+          "v",
+          "(intransitive) To assemble together."
+        ],
+        [
+          "v",
+          "To meet in a congress."
+        ],
+        [
+          "n",
+          "(countable, collective) A group of baboons; the collective noun for baboons."
+        ],
+        [
+          "n",
+          "(dated) Coitus; sexual intercourse."
+        ],
+        [
+          "n",
+          "(archaic) A coming together of two or more people; a meeting."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "duffy": {
+      "word": "duffy",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A surname from Irish, an anglicization of Ó Dubhthaigh (“descendant of Dubhthach”). Dubhthach is a byname derived from dubh (“black”)."
+        ],
+        [
+          "n",
+          "A surname from Irish, an anglicization of Ó Doithe."
+        ],
+        [
+          "n",
+          "A Scottish surname from Scottish Gaelic [in turn originating as a patronymic], an alternate anglicization of Mac Dhuibhshíthe (McPhee)."
+        ],
+        [
+          "n",
+          "A suburb of Canberra, Australia; named for Charles Gavan Duffy, 8th Premier of Victoria."
+        ],
+        [
+          "n",
+          "An unincorporated community in Ohio Township, Monroe County, Ohio, United States."
+        ],
+        [
+          "n",
+          "An unincorporated community in Lewis County, West Virginia, United States."
+        ],
+        [
+          "n",
+          "Archaic form of duppy (“Caribbean ghost or spirit”). [(Caribbean, Jamaica) A ghost or spirit, often appearing in the form of a dog barking or howling through the night.]"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "extra": {
+      "word": "extra",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "(not comparable) Beyond what is due, usual, expected, or necessary; extraneous; additional; supernumerary."
+        ],
+        [
+          "adj",
+          "(not comparable, dated) Extraordinarily good; superior."
+        ],
+        [
+          "adj",
+          "(comparable, slang) Over the top; going beyond what is normal or appropriate, often in a dramatic manner."
+        ],
+        [
+          "adv",
+          "(informal) To an extraordinary degree."
+        ],
+        [
+          "n",
+          "Something additional, such as an item above and beyond the ordinary school curriculum, or added to the usual charge on a bill."
+        ],
+        [
+          "n",
+          "An extra edition of a newspaper, which is printed outside of the normal printing cycle, for example to report an important late-breaking event."
+        ],
+        [
+          "n",
+          "(cricket) A run scored without the ball having hit the striker's bat - a wide, bye, leg bye or no ball."
+        ],
+        [
+          "n",
+          "(acting) A supernumerary or walk-on in a film or play."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "faa": {
+      "word": "faa",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "The letter ف in the Arabic script."
+        ],
+        [
+          "n",
+          "(aviation) Initialism of Federal Aviation Administration (agency regulating U.S. aviation)."
+        ],
+        [
+          "n",
+          "(law) Initialism of Federal Arbitration Act (9 USC 1)."
+        ],
+        [
+          "n",
+          "(UK, military, nautical, aviation) Initialism of Fleet Air Arm (carrier-borne air force of the U.K.'s Royal Navy)."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "fibre-optic": {
+      "word": "fibre-optic",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "(British spelling) Alternative spelling of fibre optic. [Of, or relating to fibre optics, or to optical fibre.]"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "friday": {
+      "word": "friday",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "The sixth day of the week in many religious traditions, and the fifth day of the week in systems using the ISO 8601 norm; the Muslim Sabbath; it follows Thursday and precedes Saturday."
+        ],
+        [
+          "n",
+          "(colloquial, with possessive) The last workday in a work schedule that is not Monday through Friday."
+        ],
+        [
+          "adv",
+          "(US, Canada, informal in UK) On Friday."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "funds": {
+      "word": "funds",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "Financial resources."
+        ],
+        [
+          "n",
+          "Permanent debts due by a government and paying interest."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "homeland": {
+      "word": "homeland",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "The country that one regards as home."
+        ],
+        [
+          "n",
+          "One's country of residence."
+        ],
+        [
+          "n",
+          "One's country of birth."
+        ],
+        [
+          "n",
+          "The traditional territory of an ethnic group."
+        ],
+        [
+          "n",
+          "(South Africa, historical) An area set aside for black South Africans under the policy of apartheid."
+        ],
+        [
+          "n",
+          "A census-designated place in Riverside County, California, United States."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "lifted": {
+      "word": "lifted",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Raised up; held aloft."
+        ],
+        [
+          "adj",
+          "Stolen."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "lines": {
+      "word": "lines",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(film, theater) Words spoken by the actors."
+        ],
+        [
+          "n",
+          "(education) A school punishment in which a student must repeatedly write out a line of text related to the offence (e.g. \"I must be quiet in class\") a specified number of times; the lines of text so written out."
+        ],
+        [
+          "n",
+          "(US) The reins with which a horse is guided by its driver."
+        ],
+        [
+          "n",
+          "(fortifications) Dispositions made to cover extended positions, and presenting a front in but one direction to an enemy."
+        ],
+        [
+          "n",
+          "A certificate of church membership."
+        ],
+        [
+          "n",
+          "A surname."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "maintenance": {
+      "word": "maintenance",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "Actions performed to keep some machine or system functioning or in service."
+        ],
+        [
+          "n",
+          "Money required or spent to provide for the needs of a person or a family."
+        ],
+        [
+          "n",
+          "(biology) The natural process which keeps an organism alive."
+        ],
+        [
+          "n",
+          "(law) A tort and (in some jurisdictions) an offence committed when a third party who does not have a bona fide interest in a lawsuit provides help or acquires an interest to a litigant's lawsuit."
+        ],
+        [
+          "n",
+          "(law, UK) Alimony, a periodical payment or a lump sum made or ordered to be made to a spouse after a divorce."
+        ],
+        [
+          "n",
+          "(law) Child support."
+        ],
+        [
+          "n",
+          "(software engineering, attributive) Software updates that fix bugs and improve stability rather than adding new features."
+        ],
+        [
+          "n",
+          "(Philippines, medicine, colloquial) Ellipsis of maintenance medicine. [(Philippines, medicine) Medication taken long-term to treat a chronic condition.]"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "normal": {
+      "word": "normal",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Usual, healthy; not sick or ill or unlike oneself."
+        ],
+        [
+          "adj",
+          "According to norms or rules or to a regular pattern."
+        ],
+        [
+          "n",
+          "(countable, uncountable) The usual state."
+        ],
+        [
+          "n",
+          "(medicine, countable) A person who is healthy, normal, as opposed to one who is morbid."
+        ],
+        [
+          "n",
+          "(slang, countable) A person who is normal, who fits into mainstream society, as opposed to those who live alternative lifestyles."
+        ],
+        [
+          "adj",
+          "(mathematics) Adhering to or being what is considered natural or regular in a particular field or context:"
+        ],
+        [
+          "adj",
+          "(probability theory, statistics, of a distribution, random variable, etc.) Which has a very specific bell curve shape; that is or has the qualities of a normal distribution."
+        ],
+        [
+          "adj",
+          "(chemistry) Of, relating to, or being a solution containing one equivalent weight of solute per litre of solution."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "ordered": {
+      "word": "ordered",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "In order, not messy, tidy."
+        ],
+        [
+          "adj",
+          "(mathematics, of a set, often with some algebraic structure) Equipped with a partial or total order which, in any of several technical senses, respects the algebraic structure of the object (if such structure exists). See [[#Derived terms]]."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "outage": {
+      "word": "outage",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A temporary suspension of operation, especially of electrical power supply."
+        ],
+        [
+          "n",
+          "The amount of something lost in storage or transportation."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "outdated": {
+      "word": "outdated",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Out of date; not the latest; obsolete."
+        ],
+        [
+          "adj",
+          "Out of date, old-fashioned, antiquated."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "overloaded": {
+      "word": "overloaded",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "loaded too heavily"
+        ],
+        [
+          "adj",
+          "of a word, having multiple meanings depending on context"
+        ],
+        [
+          "adj",
+          "(computing) of a name, used for more than one variable or procedure etc; differentiated by the compiler based on context"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "possibly": {
+      "word": "possibly",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adv",
+          "(modifying a clause or predicate) Perhaps; indicates that the proposition may be true (is not certainly false) regardless of any facts or circumstances known to, stated by or implied by the speaker."
+        ],
+        [
+          "adv",
+          "(modifying a verb) In the realm of possibility; indicates that the action may successfully be performed (is not impossible) regardless of any facts or circumstances known to, stated by or implied by the speaker that might limit the performance."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "radar": {
+      "word": "radar",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(uncountable) In full primary radar: a method of detecting a distant object and determining its position, velocity, or other characteristics by analysing radio waves (usually microwaves) which are sent towards the object and which reflect off its surfaces; also, the field of study of this method."
+        ],
+        [
+          "n",
+          "(uncountable, by extension) In full secondary radar: a method of detecting a distant object and determining its position, velocity, or other characteristics by analysing signals transmitted by the object in response to radio waves sent towards the object."
+        ],
+        [
+          "n",
+          "(countable) Often preceded by a descriptive word: a system using one of the above detection methods, differentiated by configuration or platform, frequency, power, and other technical attributes."
+        ],
+        [
+          "n",
+          "(countable) An installation of the apparatus for operating one of the above detection systems."
+        ],
+        [
+          "n",
+          "(uncountable, by extension) Often preceded by a descriptive word: a natural (for example, in an animal such as a bat) or human-made detection method based on the analysis of reflected signals other than radio waves, as light waves or sound waves; (countable) an instance of this."
+        ],
+        [
+          "n",
+          "(countable, figurative) A superior ability to detect something; an awareness, an intuition."
+        ],
+        [
+          "v",
+          "(transitive) To use a radar apparatus (noun noun, sense 1, noun, sense 1.1, or noun, sense 2) on (someone or something); to scan (someone or something) with, or as if with, radar."
+        ],
+        [
+          "n",
+          "(dated) Alternative letter-case form of radar. [(uncountable) In full primary radar: a method of detecting a distant object and determining its position, velocity, or other characteristics by analysing radio waves (usually microwaves) which are sent towards the object and which reflect off its surfaces; also, the field of study of this method.]"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "reassured": {
+      "word": "reassured",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "having confidence restored; freed from anxiety"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "replace": {
+      "word": "replace",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "(transitive) To supply or substitute an equivalent with."
+        ],
+        [
+          "v",
+          "(transitive) To take the place of; to be used instead of."
+        ],
+        [
+          "v",
+          "(transitive) To take over the position or role from."
+        ],
+        [
+          "v",
+          "(transitive) To restore to a former place, position, condition, etc.; to put back."
+        ],
+        [
+          "v",
+          "(transitive) To refund; to repay; to pay back."
+        ],
+        [
+          "v",
+          "(transitive) To demolish (a building) and build an updated form of that building in its place."
+        ],
+        [
+          "v",
+          "(transitive, rare) To place again."
+        ],
+        [
+          "v",
+          "(transitive, rare) To put in a new or different place."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "replacing": {
+      "word": "replacing",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "the act of furnishing an equivalent person or thing in the place of another"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "router": {
+      "word": "router",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(telecommunications) Any device that directs packets of information using the equivalent of Open Systems Interconnection layer 3 (network layer) information. Most commonly used in reference to Internet Protocol routers."
+        ],
+        [
+          "n",
+          "(Internet) A device that connects local area networks to form a larger internet by, at minimum, selectively passing those datagrams having a destination IP address to the network which is able to deliver them to their destination; a network gateway."
+        ],
+        [
+          "n",
+          "Someone who routes or directs items from one location to another."
+        ],
+        [
+          "n",
+          "A power tool used in carpentry for cutting grooves."
+        ],
+        [
+          "v",
+          "to hollow out or cut using a router power tool."
+        ],
+        [
+          "n",
+          "(electronics, electronic design automation) In integrated circuit or printed circuit board design, an algorithm for adding all wires needed to properly connect all of the placed components while obeying all design rules."
+        ],
+        [
+          "n",
+          "A plane made like a spokeshave, for working the inside edges of circular sashes."
+        ],
+        [
+          "n",
+          "A plane with a hooked tool protruding far below the sole, for smoothing the bottom of a cavity."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "routers": {
+      "word": "routers",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(telecommunications) Any device that directs packets of information using the equivalent of Open Systems Interconnection layer 3 (network layer) information. Most commonly used in reference to Internet Protocol routers."
+        ],
+        [
+          "n",
+          "(Internet) A device that connects local area networks to form a larger internet by, at minimum, selectively passing those datagrams having a destination IP address to the network which is able to deliver them to their destination; a network gateway."
+        ],
+        [
+          "n",
+          "Someone who routes or directs items from one location to another."
+        ],
+        [
+          "n",
+          "A power tool used in carpentry for cutting grooves."
+        ],
+        [
+          "n",
+          "(electronics, electronic design automation) In integrated circuit or printed circuit board design, an algorithm for adding all wires needed to properly connect all of the placed components while obeying all design rules."
+        ],
+        [
+          "n",
+          "A plane made like a spokeshave, for working the inside edges of circular sashes."
+        ],
+        [
+          "n",
+          "A plane with a hooked tool protruding far below the sole, for smoothing the bottom of a cavity."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "sean": {
+      "word": "sean",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A male given name from Irish."
+        ],
+        [
+          "v",
+          "Dated form of seine. [(ambitransitive) To use a seine, to fish with a seine.]"
+        ],
+        [
+          "n",
+          "Dated form of seine. [A long net having floats attached at the top and sinkers (weights) at the bottom, used in shallow water for catching fish.]"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "sparked": {
+      "word": "sparked",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "That has had sparks (of electricity) passed through it"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "stranded": {
+      "word": "stranded",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "(of a person) Abandoned or marooned."
+        ],
+        [
+          "adj",
+          "(nautical, of a vessel) Run aground on a shore or reef."
+        ],
+        [
+          "adj",
+          "(of expenses or costs) That has become unrecoverable or difficult to recover."
+        ],
+        [
+          "adj",
+          "(cricket) Narrowly missing scoring a century or similar milestone because one's team's innings ends."
+        ],
+        [
+          "adj",
+          "(of a piece of wire) Made by combining or bundling thinner wires (into a strand)."
+        ],
+        [
+          "adj",
+          "(grammar, of a word or phrase that can take a complement) Not having any expressed complement."
+        ],
+        [
+          "adj",
+          "(in combination) Having the specified number or kind of strands."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "switches": {
+      "word": "switches",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "N",
+          "an English indie rock band, consisting of members Matt Bishop (lead vocals and guitar), Ollie Thomas (guitar and backing vocals), Maxwell Tite (bass guitar) and James Gardiner pka Jimmy G (drums) ."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "telecommunications": {
+      "word": "telecommunications",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "Alternative form of telecommunication. [(uncountable) The science and technology of the communication of messages over a distance using electric, electronic or electromagnetic impulses.]"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "traced": {
+      "word": "traced",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "derived by copying something else; especially by following lines seen through a transparent sheet"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "unless": {
+      "word": "unless",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "N",
+          "the final novel by Canadian writer Carol Shields, first published by Fourth Estate, an imprint of HarperCollins in 2002."
+        ],
+        [
+          "N",
+          "a Canadian-Irish drama film, which premiered at the 2016 Toronto International Film Festival."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "wires": {
+      "word": "wires",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(uncountable) Metal formed into a thin, even thread, now usually by being drawn through a hole in a steel die."
+        ],
+        [
+          "n",
+          "A piece of such material; a thread or slender rod of metal, a cable."
+        ],
+        [
+          "n",
+          "A metal conductor that carries electricity."
+        ],
+        [
+          "n",
+          "A fence made of usually barbed wire."
+        ],
+        [
+          "n",
+          "(sports) A finish line of a racetrack."
+        ],
+        [
+          "n",
+          "(informal) A telecommunication wire or cable."
+        ],
+        [
+          "n",
+          "(by extension) An electric telegraph; a telegram."
+        ],
+        [
+          "n",
+          "(slang) A hidden listening device on the person of an undercover operative for the purposes of obtaining incriminating spoken evidence."
         ]
       ],
       "sentences": [],

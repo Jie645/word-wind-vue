@@ -6,6 +6,20 @@
   "failed": 0,
   "items": [
     {
+      "id": "2611/261116-ground-stop-at-us-airports.html",
+      "title": "Wire upgrade at fault for grounding all US flights",
+      "url": "https://breakingnewsenglish.com/2611/261116-ground-stop-at-us-airports.html",
+      "date": "16th November",
+      "dateIso": "2026-11-16",
+      "kind": "Harder",
+      "summary": "Wire upgrade at fault for grounding all US flights 16th November - \"Harder\"",
+      "availableLevels": {
+        "4": "https://breakingnewsenglish.com/2611/261116-ground-stop-at-us-airports-4.html",
+        "5": "https://breakingnewsenglish.com/2611/261116-ground-stop-at-us-airports-5.html",
+        "6": "https://breakingnewsenglish.com/2611/261116-ground-stop-at-us-airports.html"
+      }
+    },
+    {
       "id": "2611/261112-supermarket-freezer-cyberattack.html",
       "title": "France blames Iran for cyberattack on freezers",
       "url": "https://breakingnewsenglish.com/2611/261112-supermarket-freezer-cyberattack.html",
@@ -201,7 +215,7 @@
       "date": "28th September",
       "dateIso": "2026-09-28",
       "kind": "Harder",
-      "summary": "Bus passengers to be fined for playing loud music 28th September - \"Harder\"",
+      "summary": "Bus passengers to be fined for playing loud music",
       "availableLevels": {
         "4": "https://breakingnewsenglish.com/2609/260928-loud-music-public-transport-4.html",
         "5": "https://breakingnewsenglish.com/2609/260928-loud-music-public-transport-5.html",
@@ -715,101 +729,9 @@
         "2": "https://breakingnewsenglish.com/2605/260528-ferrari-luce-electric-car-2.html",
         "3": "https://breakingnewsenglish.com/2605/260528-ferrari-luce-electric-car.html"
       }
-    },
-    {
-      "id": "2605/260525-gold.html",
-      "title": "Scientists discover why gold doesn't 'rust'",
-      "url": "https://breakingnewsenglish.com/2605/260525-gold.html",
-      "date": "25th May",
-      "dateIso": "2026-05-25",
-      "kind": "Harder",
-      "summary": "Scientists discover why gold doesn't 'rust'",
-      "availableLevels": {
-        "4": "https://breakingnewsenglish.com/2605/260525-gold-4.html",
-        "5": "https://breakingnewsenglish.com/2605/260525-gold-5.html",
-        "6": "https://breakingnewsenglish.com/2605/260525-gold.html"
-      }
     }
   ],
   "articles": {
-    "https://breakingnewsenglish.com/2605/260525-gold-4.html": {
-      "id": "2605/260525-gold.html",
-      "title": "Scientists discover why gold doesn't 'rust'",
-      "titleZh": "",
-      "tag": "Harder",
-      "level": "Level 4 · B1-B2",
-      "levelBand": "B1-B2",
-      "resolvedLevel": 4,
-      "requestedLevel": 4,
-      "fallback": false,
-      "minutes": 1,
-      "words": 143,
-      "published": "25th May",
-      "summary": "Scientists discover why gold doesn't 'rust'",
-      "paragraphs": [
-        "Gold has fascinated us for thousands of years. It is a symbol of elegance and wealth. Scientists have discovered why it never loses its shine. Researchers found that gold does not rust or change colour because of the structure of atoms on its surface. The atoms rearrange themselves into unique zigzag patterns. This minimizes reactions with oxygen. As a result, the metal does not become discoloured, even after thousands of years.",
-        "Gold is one of the softest metals. It can easily be hammered into thin sheets. Gold can be beaten to a thickness of 0.1 micrometres. This is one hundred times thinner than human hair. Its purity is why people have used it for jewellery and currency for more than 5,000 years. It is also used in electronics, dentistry, spacecraft technology, and medicine. Researchers say gold will remain a key part of many industrial processes."
-      ],
-      "sourceName": "Breaking News English",
-      "sourceUrl": "https://breakingnewsenglish.com/2605/260525-gold-4.html",
-      "availableLevels": {
-        "4": "https://breakingnewsenglish.com/2605/260525-gold-4.html",
-        "5": "https://breakingnewsenglish.com/2605/260525-gold-5.html",
-        "6": "https://breakingnewsenglish.com/2605/260525-gold.html"
-      }
-    },
-    "https://breakingnewsenglish.com/2605/260525-gold-5.html": {
-      "id": "2605/260525-gold.html",
-      "title": "Scientists discover why gold doesn't 'rust'",
-      "titleZh": "",
-      "tag": "Harder",
-      "level": "Level 5 · B2-C1",
-      "levelBand": "B2-C1",
-      "resolvedLevel": 5,
-      "requestedLevel": 5,
-      "fallback": false,
-      "minutes": 2,
-      "words": 188,
-      "published": "25th May",
-      "summary": "Scientists discover why gold doesn't 'rust'",
-      "paragraphs": [
-        "Gold has held an allure for thousands of years. This precious metal is a symbol of elegance and wealth. Scientists have discovered how it stays in such perfect condition and never loses its shine. Researchers in New Orleans found that gold does not rust or change colour because of the structure of atoms on its surface. A researcher said the atoms naturally rearrange themselves into unique zigzag patterns. This minimizes reactions with oxygen. As a result, the metal does not become discoloured, even after centuries of exposure to the elements.",
-        "A low level of reactivity to oxygen is called chemical nobility. Gold is the most noble metal. It is also one of the softest metals, which means it can easily be hammered into thin sheets. Gold can be beaten to a thickness of less than 0.1 micrometres. This is one hundred times thinner than a human hair. Its purity is why we have used gold for jewellery and currency for more than 5,000 years. It is also used in electronics, dentistry, spacecraft technology, and medicine. The researchers believe gold will continue to be a key part of many industrial applications."
-      ],
-      "sourceName": "Breaking News English",
-      "sourceUrl": "https://breakingnewsenglish.com/2605/260525-gold-5.html",
-      "availableLevels": {
-        "4": "https://breakingnewsenglish.com/2605/260525-gold-4.html",
-        "5": "https://breakingnewsenglish.com/2605/260525-gold-5.html",
-        "6": "https://breakingnewsenglish.com/2605/260525-gold.html"
-      }
-    },
-    "https://breakingnewsenglish.com/2605/260525-gold.html": {
-      "id": "2605/260525-gold.html",
-      "title": "Scientists discover why gold doesn't 'rust'",
-      "titleZh": "",
-      "tag": "Harder",
-      "level": "Level 6 · C1-C2",
-      "levelBand": "C1-C2",
-      "resolvedLevel": 6,
-      "requestedLevel": 6,
-      "fallback": false,
-      "minutes": 2,
-      "words": 221,
-      "published": "25th May",
-      "summary": "Scientists discover why gold doesn't 'rust'",
-      "paragraphs": [
-        "Gold has held an enduring allure for thousands of years. This precious metal has remained a symbol of elegance and wealth. Scientists have discovered how it stays in such pristine condition and never loses its shine. Researchers from Tulane University in New Orleans found that gold does not rust or change colour because of the structure of atoms on its surface. Dr Matthew Montemore wrote that the atoms naturally rearrange themselves into unique zigzag patterns that minimize chemical reactions with oxygen. He said: \"This makes the gold much more resistant to oxidation.\" As a result, it does not become discoloured, even after centuries of exposure to the elements.",
-        "A low level of reactivity to oxygen is called chemical nobility. Gold is the most noble of all metals. Its resistance to bonding with oxygen means it maintains its shininess for thousands of years. It is also one of the most malleable metals, which means it can easily be hammered into thin sheets. Gold can be beaten to a thickness of less than 0.1 micrometres - a hundred times thinner than a human hair. Its pure form is why humans have used gold for jewellery and currency for more than 5,000 years. It also has important uses in electronics, dentistry, spacecraft technology, and medicine. The researchers believe it will continue to be integral in industrial applications."
-      ],
-      "sourceName": "Breaking News English",
-      "sourceUrl": "https://breakingnewsenglish.com/2605/260525-gold.html",
-      "availableLevels": {
-        "4": "https://breakingnewsenglish.com/2605/260525-gold-4.html",
-        "5": "https://breakingnewsenglish.com/2605/260525-gold-5.html",
-        "6": "https://breakingnewsenglish.com/2605/260525-gold.html"
-      }
-    },
     "https://breakingnewsenglish.com/2605/260528-ferrari-luce-electric-car-0.html": {
       "id": "2605/260528-ferrari-luce-electric-car.html",
       "title": "Ferrari unveils its first ever electric car",
@@ -4093,7 +4015,7 @@
       "minutes": 1,
       "words": 144,
       "published": "28th September",
-      "summary": "Bus passengers to be fined for playing loud music 28th September - \"Harder\"",
+      "summary": "Bus passengers to be fined for playing loud music",
       "paragraphs": [
         "People's loud music on public transport has become annoying for many commuters. Singapore has introduced fines of up to S$500 for music on buses that annoys other passengers. The fines will also apply to anti-social behaviour such as putting feet on seats and littering. Singapore's government said the fines would help create a \"more considerate and pleasant public transport environment\". It added: \"Every commuter has a part to play.\"",
         "The government decided that bus drivers should focus on operating buses safely. However, drivers will be able to ask inconsiderate passengers to get off the bus. Many commuters were happy with the new fines. A 29-year-old who has to travel to Singapore's airport by bus told a newspaper: \"I saw the new rules and I thought, 'Thank God'.\" Another commuter said: \"I just want to get to work without listening to other people's irritating music.\""
@@ -4119,7 +4041,7 @@
       "minutes": 2,
       "words": 186,
       "published": "28th September",
-      "summary": "Bus passengers to be fined for playing loud music 28th September - \"Harder\"",
+      "summary": "Bus passengers to be fined for playing loud music",
       "paragraphs": [
         "Loud music from passengers on public transport has become annoying for people who want to travel in quiet. Singapore has introduced fines of up to S$500 for loud music on buses that annoys other passengers. The fines will also apply to other anti-social behaviour, such as putting feet on seats, littering, and eating on buses. A news release from Singapore's government said the fines would help create a \"safer, more considerate and pleasant public transport environment\". It added: \"Every commuter has a part to play in ensuring a gracious and pleasant commuting environment.\"",
         "The government has decided that bus drivers should focus on \"their primary responsibility of operating buses safely\". However, drivers will have the power to ask inconsiderate passengers to get off the bus. Many commuters were happy with the new fines. A 29-year-old flight attendant who has to travel to work at Singapore's airport by bus told a local newspaper: \"I saw the new rules and I thought, 'Thank God'.\" A 56-year-old commuter also liked the new rules. She said: \"I just want to get to work without listening to other people's irritating music.\""
@@ -4145,7 +4067,7 @@
       "minutes": 2,
       "words": 231,
       "published": "28th September",
-      "summary": "Bus passengers to be fined for playing loud music 28th September - \"Harder\"",
+      "summary": "Bus passengers to be fined for playing loud music",
       "paragraphs": [
         "The loud music from other passengers on public transport has become a peeve for many people who want to travel in quiet. Singapore has introduced new fines of up to S$500 for blaring out music on buses that annoys other passengers. The new penalties will also be applied to other anti-social behaviour, such as putting feet on seats, littering, and eating or drinking on buses. A news release from Singapore's Land Transport Authority (LTA) said the fines would help create a \"safer, more considerate and pleasant public transport environment for all\". The LTA added: \"Public transport is a shared space, and every commuter has a part to play in ensuring a gracious and pleasant commuting environment.\"",
         "The fines will not be issued by bus drivers. The LTA has decided that bus drivers should prioritise passenger safety while driving their vehicles. The LTA said drivers needed to focus on \"their primary responsibility of operating buses safely\". However, drivers will have the power to ask inconsiderate and disruptive passengers to get off the bus. Many commuters welcomed the new fines. A 29-year-old flight attendant who has to travel to work at Singapore's Changi Airport by bus told the Straits Times newspaper: \"I saw the new rules and I thought, 'Thank God'.\" A 56-year-old commuter was happy. She said: \"I just want to get to work without having to listen to other people's music.\""
@@ -5380,6 +5302,84 @@
         "1": "https://breakingnewsenglish.com/2611/261112-supermarket-freezer-cyberattack-1.html",
         "2": "https://breakingnewsenglish.com/2611/261112-supermarket-freezer-cyberattack-2.html",
         "3": "https://breakingnewsenglish.com/2611/261112-supermarket-freezer-cyberattack.html"
+      }
+    },
+    "https://breakingnewsenglish.com/2611/261116-ground-stop-at-us-airports-4.html": {
+      "id": "2611/261116-ground-stop-at-us-airports.html",
+      "title": "Wire upgrade at fault for grounding all US flights",
+      "titleZh": "",
+      "tag": "Harder",
+      "level": "Level 4 · B1-B2",
+      "levelBand": "B1-B2",
+      "resolvedLevel": 4,
+      "requestedLevel": 4,
+      "fallback": false,
+      "minutes": 1,
+      "words": 136,
+      "published": "16th November",
+      "summary": "Wire upgrade at fault for grounding all US flights 16th November - \"Harder\"",
+      "paragraphs": [
+        "Thousands of flights across the USA were grounded on Friday after a failure in air traffic control systems. The Federal Aviation Administration said there were problems with communications equipment. More than 3,500 airplanes were already in the air. Thousands of flights were cancelled, leaving passengers stranded. The problem was traced to the replacing of old copper wires with fibre-optic cables. It will take days for things to return to normal.",
+        "The incident made people worry. Officials reassured people it was not another 9/11. They said there was no sign of a cyberattack or security threat. They called the incident a \"telecommunications outage\". The transportation secretary blamed the failure on outdated infrastructure. He said: \"It's an old system that went down. It got overloaded.\" The secretary warned that systems would \"continue to break\" unless he got allocated extra funds."
+      ],
+      "sourceName": "Breaking News English",
+      "sourceUrl": "https://breakingnewsenglish.com/2611/261116-ground-stop-at-us-airports-4.html",
+      "availableLevels": {
+        "4": "https://breakingnewsenglish.com/2611/261116-ground-stop-at-us-airports-4.html",
+        "5": "https://breakingnewsenglish.com/2611/261116-ground-stop-at-us-airports-5.html",
+        "6": "https://breakingnewsenglish.com/2611/261116-ground-stop-at-us-airports.html"
+      }
+    },
+    "https://breakingnewsenglish.com/2611/261116-ground-stop-at-us-airports-5.html": {
+      "id": "2611/261116-ground-stop-at-us-airports.html",
+      "title": "Wire upgrade at fault for grounding all US flights",
+      "titleZh": "",
+      "tag": "Harder",
+      "level": "Level 5 · B2-C1",
+      "levelBand": "B2-C1",
+      "resolvedLevel": 5,
+      "requestedLevel": 5,
+      "fallback": false,
+      "minutes": 2,
+      "words": 171,
+      "published": "16th November",
+      "summary": "Wire upgrade at fault for grounding all US flights 16th November - \"Harder\"",
+      "paragraphs": [
+        "Thousands of flights across the USA were grounded on Friday after a major communications failure in air traffic control systems. The Federal Aviation Administration ordered a nationwide ground stop after problems with communications equipment. More than 3,500 airplanes were in the air at the time. Thousands of flights were cancelled, leaving passengers stranded. The problem was traced to an overloaded router, possibly as a result of maintenance to replace old copper wires with fibre-optic cables. Operations may take days to return to normal.",
+        "The incident sparked widespread concern. Officials reassured people that it was not another 9/11. The homeland security secretary said there was no sign of a cyberattack or security threat. He called the incident a \"telecommunications outage\". The transportation secretary blamed the failure on outdated infrastructure. He said: \"We use 1980s little copper lines.\" He added: \"It's an old system that went down. It got overloaded.\" The secretary warned that systems would \"continue to break\" unless Congress allocated extra funds. He said: \"I can't build things if I don't have money.\""
+      ],
+      "sourceName": "Breaking News English",
+      "sourceUrl": "https://breakingnewsenglish.com/2611/261116-ground-stop-at-us-airports-5.html",
+      "availableLevels": {
+        "4": "https://breakingnewsenglish.com/2611/261116-ground-stop-at-us-airports-4.html",
+        "5": "https://breakingnewsenglish.com/2611/261116-ground-stop-at-us-airports-5.html",
+        "6": "https://breakingnewsenglish.com/2611/261116-ground-stop-at-us-airports.html"
+      }
+    },
+    "https://breakingnewsenglish.com/2611/261116-ground-stop-at-us-airports.html": {
+      "id": "2611/261116-ground-stop-at-us-airports.html",
+      "title": "Wire upgrade at fault for grounding all US flights",
+      "titleZh": "",
+      "tag": "Harder",
+      "level": "Level 6 · C1-C2",
+      "levelBand": "C1-C2",
+      "resolvedLevel": 6,
+      "requestedLevel": 6,
+      "fallback": false,
+      "minutes": 2,
+      "words": 210,
+      "published": "16th November",
+      "summary": "Wire upgrade at fault for grounding all US flights 16th November - \"Harder\"",
+      "paragraphs": [
+        "Thousands of flights across the USA were grounded on Friday the 13th following a major communications failure in the country's air traffic control system. The Federal Aviation Administration (FAA) ordered a nationwide ground stop after problems with radar and communications equipment. More than 3,500 airplanes were in the air at the time. Thousands of flights were cancelled, leaving passengers stranded at airports nationwide. The problem was eventually traced to an overloaded router, possibly as a result of maintenance work to replace decades-old copper wires with fibre-optic cables. The FAA lifted the ground stop almost five hours later. Operations may take days to return to normal.",
+        "The incident sparked widespread concern. Officials quickly reassured the public that it was not another 9/11. The US homeland security secretary said there had been no indication of a cyberattack or national security threat. He described the incident as a \"telecommunications outage\". Transportation Secretary Sean Duffy blamed the failure on outdated infrastructure. He said: \"We have old switches and old routers. We use 1980s little copper lines.\" He added: \"It's an old system that went down. It went down everywhere. It got overloaded.\" Duffy warned that systems would \"continue to break\" unless Congress allocated extra funds. He said: \"I can't build things if I don't have money.\""
+      ],
+      "sourceName": "Breaking News English",
+      "sourceUrl": "https://breakingnewsenglish.com/2611/261116-ground-stop-at-us-airports.html",
+      "availableLevels": {
+        "4": "https://breakingnewsenglish.com/2611/261116-ground-stop-at-us-airports-4.html",
+        "5": "https://breakingnewsenglish.com/2611/261116-ground-stop-at-us-airports-5.html",
+        "6": "https://breakingnewsenglish.com/2611/261116-ground-stop-at-us-airports.html"
       }
     }
   }
