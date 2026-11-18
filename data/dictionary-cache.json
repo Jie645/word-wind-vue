@@ -1,6 +1,6 @@
 {
   "source": "Free Dictionary API + Wiktionary + MyMemory",
-  "count": 3471,
+  "count": 3498,
   "failed": 23,
   "words": {
     "ability": {
@@ -117280,6 +117280,948 @@
         [
           "n",
           "(slang) A hidden listening device on the person of an undercover operative for the purposes of obtaining incriminating spoken evidence."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "advising": {
+      "word": "advising",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(obsolete) Advice."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "alcohol": {
+      "word": "alcohol",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(uncountable) Beverages containing ethanol, collectively."
+        ],
+        [
+          "n",
+          "(pharmacology, colloquial) Ethanol."
+        ],
+        [
+          "n",
+          "(organic chemistry, countable) Any of a class of organic compounds (such as ethanol) containing a hydroxyl functional group (-OH)."
+        ],
+        [
+          "n",
+          "(obsolete) Any very fine powder."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "content": {
+      "word": "content",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Satisfied, pleased, contented."
+        ],
+        [
+          "n",
+          "Satisfaction, contentment; pleasure."
+        ],
+        [
+          "n",
+          "That which contents or satisfies; that which if attained would make one happy."
+        ],
+        [
+          "n",
+          "Subject matter; semantic information (or a portion or body thereof); that which is contained in writing, speech, video, etc."
+        ],
+        [
+          "n",
+          "(by extension, uncountable) One or more creative works."
+        ],
+        [
+          "n",
+          "(Internet, colloquial) The potential of creative work for a content creator."
+        ],
+        [
+          "n",
+          "The amount of material contained."
+        ],
+        [
+          "n",
+          "(uncountable) That which is contained."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "consoles": {
+      "word": "consoles",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "An instrument with displays and an input device that is used to monitor and control an electronic system."
+        ],
+        [
+          "n",
+          "The keyboard and screen of a computer or other electronic device."
+        ],
+        [
+          "n",
+          "A stand-alone cabinet designed to stand on the floor; especially, one integrated with home entertainment equipment, such as a TV or stereo system."
+        ],
+        [
+          "n",
+          "A desk-like cabinet, table, or stand upon which controls, instruments, and displays are mounted."
+        ],
+        [
+          "n",
+          "(automotive) A storage tray or container mounted between the seats of an automobile."
+        ],
+        [
+          "v",
+          "(transitive) To comfort (someone) in a time of grief, disappointment, etc."
+        ],
+        [
+          "n",
+          "(architecture) An ornamental member jutting out of a wall to carry a superincumbent weight, often S-shaped."
+        ],
+        [
+          "n",
+          "A cantilever."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "commit": {
+      "word": "commit",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "(transitive) To do (something bad); to perpetrate, as a crime, sin, or fault."
+        ],
+        [
+          "v",
+          "(transitive) To give in trust; to put into charge or keeping; to entrust; to consign; used with to or formerly unto."
+        ],
+        [
+          "v",
+          "(transitive) To imprison: to forcibly place in a jail."
+        ],
+        [
+          "v",
+          "(transitive) To forcibly evaluate and treat in a medical facility, particularly for presumed mental illness."
+        ],
+        [
+          "v",
+          "(ambitransitive) To pledge or bind; to compromise, expose, or endanger by some decisive act or preliminary step. (Traditionally used only reflexively but now also without oneself etc.)"
+        ],
+        [
+          "v",
+          "(transitive, computing, databases) To make a set of changes permanent."
+        ],
+        [
+          "v",
+          "(transitive, programming) To integrate new revisions into the public or master version of a file in a version control system."
+        ],
+        [
+          "n",
+          "(programming) The submission of source code or other material to a source control repository."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "console": {
+      "word": "console",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "An instrument with displays and an input device that is used to monitor and control an electronic system."
+        ],
+        [
+          "n",
+          "The keyboard and screen of a computer or other electronic device."
+        ],
+        [
+          "n",
+          "A stand-alone cabinet designed to stand on the floor; especially, one integrated with home entertainment equipment, such as a TV or stereo system."
+        ],
+        [
+          "n",
+          "A desk-like cabinet, table, or stand upon which controls, instruments, and displays are mounted."
+        ],
+        [
+          "n",
+          "(automotive) A storage tray or container mounted between the seats of an automobile."
+        ],
+        [
+          "v",
+          "(transitive) To comfort (someone) in a time of grief, disappointment, etc."
+        ],
+        [
+          "n",
+          "(architecture) An ornamental member jutting out of a wall to carry a superincumbent weight, often S-shaped."
+        ],
+        [
+          "n",
+          "A cantilever."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "discuss": {
+      "word": "discuss",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "(transitive) To converse or debate concerning a particular topic."
+        ],
+        [
+          "v",
+          "(transitive, law) To examine or search thoroughly; to exhaust a remedy against, as against a principal debtor before proceeding against the surety."
+        ],
+        [
+          "v",
+          "(transitive, obsolete) To communicate, tell, or disclose (information, a message, etc.)."
+        ],
+        [
+          "v",
+          "(obsolete, transitive) To break to pieces; to shatter."
+        ],
+        [
+          "v",
+          "(obsolete, transitive, colloquial) To deal with, in eating or drinking; consume."
+        ],
+        [
+          "v",
+          "(obsolete, transitive) To drive away, disperse, shake off; said especially of tumors."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "grand": {
+      "word": "grand",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Of a large size or extent; great."
+        ],
+        [
+          "adj",
+          "Great in size, and fine or imposing in appearance or impression; illustrious, dignified, magnificent."
+        ],
+        [
+          "adj",
+          "(augmentative) Large, senior (high-ranking), intense, extreme, or exceptional"
+        ],
+        [
+          "adj",
+          "Having higher rank or more dignity, size, or importance than other persons or things of the same name."
+        ],
+        [
+          "adj",
+          "(Ireland, Northern England, colloquial, otherwise dated) Fine; lovely."
+        ],
+        [
+          "adj",
+          "(usually in compound forms) Standing in the second or some more remote degree of parentage or descent (see grand-)."
+        ],
+        [
+          "n",
+          "(music, plural \"grands\") A grand piano"
+        ],
+        [
+          "n",
+          "A grandparent or grandchild."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "excellent": {
+      "word": "excellent",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Of higher or the highest quality; splendid."
+        ],
+        [
+          "adj",
+          "Exceptionally good of its kind."
+        ],
+        [
+          "adj",
+          "Superior in kind or degree, irrespective of moral quality."
+        ],
+        [
+          "adj",
+          "Having excelled, having surpassed."
+        ],
+        [
+          "adv",
+          "(obsolete) Excellently."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "gta": {
+      "word": "gta",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(video games) Any game in the Grand Theft Auto series."
+        ],
+        [
+          "n",
+          "(video games) Initialism of Grand Theft Auto, a series of video games by Rockstar Games involving car theft and gang warfare."
+        ],
+        [
+          "n",
+          "(Canada) Initialism of Greater Toronto Area, the most populous urban region in Southern Ontario, Canada."
+        ],
+        [
+          "n",
+          "(Japan) Initialism of Greater Tokyo Area."
+        ],
+        [
+          "n",
+          "Initialism of graduate teaching associate."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "graphics": {
+      "word": "graphics",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(singular, computing) The pictorial representation and manipulation of data; the process by which a computer displays data."
+        ],
+        [
+          "n",
+          "(plural, computing) The art or visual representations displayed by a computer."
+        ],
+        [
+          "n",
+          "(singular) The graphic arts."
+        ],
+        [
+          "n",
+          "(singular) The making of architectural or design drawings."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "high-quality": {
+      "word": "high-quality",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Of very good quality; superior."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "hood": {
+      "word": "hood",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A covering for the head, usually attached to a larger garment such as a jacket or cloak."
+        ],
+        [
+          "n",
+          "(automotive, chiefly US, Canada) The hinged cover over the engine of a motor vehicle, known as a bonnet in other countries."
+        ],
+        [
+          "n",
+          "(automotive, chiefly UK) A soft top of a convertible car or carriage."
+        ],
+        [
+          "n",
+          "(by extension, especially in the phrase \"under the hood\") A cover over the engine, driving machinery or inner workings of something."
+        ],
+        [
+          "n",
+          "An enclosure that protects something, especially from above."
+        ],
+        [
+          "n",
+          "(slang) Gangster, thug."
+        ],
+        [
+          "n",
+          "(African-American Vernacular, slang) A neighborhood."
+        ],
+        [
+          "n",
+          "(slang) Any poor suburb or neighbourhood."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "hr": {
+      "word": "hr",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "Initialism of human resources. [(management) The personnel department of an organization, dealing with the recruitment, administration, management and training of employees.]"
+        ],
+        [
+          "n",
+          "Initialism of heart rate. [The number of heartbeats per unit of time, usually expressed as the number of beats per minute.]"
+        ],
+        [
+          "n",
+          "(baseball) Initialism of home runs (in statistics)."
+        ],
+        [
+          "n",
+          "(occupational health) Initialism of hazard ratio. [(statistics, medicine) A measure of the chance of an event in one group compared to that of another at a particular time or over a subset of a study's time; the ratio between two groups' hazard rates.]"
+        ],
+        [
+          "n",
+          "(genetics) Initialism of homologous recombination. [(genetics) The exchange of DNA between regions of homologous chromosomes that occurs during meiosis.]"
+        ],
+        [
+          "n",
+          "(law, politics) Initialism of house resolution."
+        ],
+        [
+          "n",
+          "(philately) Initialism of hinge remnant."
+        ],
+        [
+          "n",
+          "Abbreviation of Haryana: a state of India. [A state in northern India. Capital: Chandigarh. Largest city: Faridabad.]"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "jasmine": {
+      "word": "jasmine",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "Any of several plants, of the genus Jasminum, mostly native to Asia, having fragrant white or yellow flowers."
+        ],
+        [
+          "n",
+          "The perfume obtained from these plants."
+        ],
+        [
+          "n",
+          "Any of several not closely related plants having a similar perfume."
+        ],
+        [
+          "n",
+          "A yellow colour."
+        ],
+        [
+          "n",
+          "A female given name from Persian."
+        ],
+        [
+          "n",
+          "A surname from Persian."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "ordinary": {
+      "word": "ordinary",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A person with authority; authority, ordinance."
+        ],
+        [
+          "n",
+          "(ecclesiastical, law) A person having immediate jurisdiction in a given case of ecclesiastical law, such as the bishop within a diocese."
+        ],
+        [
+          "n",
+          "(law) A judge with the authority to deal with cases himself or herself rather than by delegation."
+        ],
+        [
+          "n",
+          "Something ordinary or regular."
+        ],
+        [
+          "n",
+          "(heraldry) One of the standard geometric designs placed across the center of a coat of arms, such as a pale or fess."
+        ],
+        [
+          "n",
+          "An ordinary person or thing; something commonplace."
+        ],
+        [
+          "n",
+          "(now Scotland, Ireland) The usual course of things; normal condition or health; a standard way of behaviour or action."
+        ],
+        [
+          "n",
+          "(Christianity) A part of the Christian liturgy that is reasonably constant without regard to the date on which the service is performed."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "parents": {
+      "word": "parents",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "N",
+          "a 1989 American black comedy horror film directed by Bob Balaban and starring Randy Quaid, Mary Beth Hurt, Sandy Dennis and Bryan Madorsky."
+        ],
+        [
+          "N",
+          "an American monthly magazine founded in 1926 that featured scientific information on child development geared to help parents in raising their children."
+        ],
+        [
+          "N",
+          "\"Parents\" is the seventh episode of season one of the American television comedy series, Up All Night."
+        ],
+        [
+          "N",
+          "\"Parents\" is the sixth episode of the eighth season of the American television medical drama series House and the 161st overall episode of the series."
+        ],
+        [
+          "N",
+          "a British sitcom starring Sally Phillips as Jenny Pope, a middle-class woman in her forties who moves, along with her husband and their teenage son and daughter, from London, to live with her parents in Kettering."
+        ],
+        [
+          "N",
+          "Foreldrar (Parents) is a 2007 Icelandic film written and directed by Ragnar Bragason."
+        ],
+        [
+          "N",
+          "a 2016 Danish drama film directed by Christian Tafdrup."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "realistic": {
+      "word": "realistic",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Relating to the representation of objects, actions or conditions as they actually are or were."
+        ],
+        [
+          "adj",
+          "Expressed or represented as being accurate, practicable, or not idealistic."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "sexual": {
+      "word": "sexual",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Arising from the fact of being male or female; pertaining to sex or gender, or to the social relations between the sexes."
+        ],
+        [
+          "adj",
+          "Pertaining to sexual intercourse or other intimate physical contact."
+        ],
+        [
+          "adj",
+          "Characterised by sexual feelings or behaviour; possessing sexuality."
+        ],
+        [
+          "adj",
+          "Pertaining to sexuality as a cultural phenomenon; relating to sexual behaviour or conduct."
+        ],
+        [
+          "adj",
+          "(biology) Capable of sexual reproduction; sexed, sexuate."
+        ],
+        [
+          "n",
+          "(biology) A species which reproduces by sexual rather than asexual reproduction, or a member of such a species."
+        ],
+        [
+          "n",
+          "(LGBTQ) A person who experiences sexual attraction, a person who has interest in or desire for sex (especially as contrasted with an asexual)."
+        ],
+        [
+          "adj",
+          "(LGBTQ, of a person, rare) Experiencing sexual attraction; not asexual."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "suitable": {
+      "word": "suitable",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Having sufficient or the required properties for a certain purpose or task; appropriate to a certain occasion."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "theft": {
+      "word": "theft",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "The act of stealing property."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "talk": {
+      "word": "talk",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "(intransitive) To communicate, usually by means of speech."
+        ],
+        [
+          "v",
+          "(transitive, informal) To discuss; to talk about."
+        ],
+        [
+          "n",
+          "A conversation or discussion; usually serious, but informal."
+        ],
+        [
+          "v",
+          "(transitive) To speak (a certain language)."
+        ],
+        [
+          "v",
+          "(transitive, informal, chiefly used in progressive tenses) Used to emphasise the importance, size, complexity etc. of the thing mentioned."
+        ],
+        [
+          "v",
+          "(intransitive, slang) To confess, especially implicating others."
+        ],
+        [
+          "v",
+          "(intransitive) To criticize someone for something of which one is guilty oneself."
+        ],
+        [
+          "v",
+          "(intransitive) To gossip; to create scandal."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "unsuitable": {
+      "word": "unsuitable",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Not suitable."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "waited": {
+      "word": "waited",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "(intransitive) To delay movement or action until some event or time; to remain neglected or in readiness."
+        ],
+        [
+          "v",
+          "(intransitive, stative, US) To wait tables; to serve customers in a restaurant or other eating establishment."
+        ],
+        [
+          "v",
+          "(intransitive) To remain faithful to one’s partner or betrothed during a prolonged period of absence."
+        ],
+        [
+          "v",
+          "(transitive, now rare) To delay movement or action until the arrival or occurrence of; to await. (Now generally superseded by “wait for”.)"
+        ],
+        [
+          "v",
+          "(transitive, obsolete) To attend on; to accompany; especially, to attend with ceremony or respect."
+        ],
+        [
+          "v",
+          "(obsolete) To attend as a consequence; to follow upon; to accompany."
+        ],
+        [
+          "v",
+          "(obsolete, colloquial) To defer or postpone (especially a meal)."
+        ],
+        [
+          "v",
+          "(obsolete, except in phrases) To watch with malicious intent; to lie in wait"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "violence": {
+      "word": "violence",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "Physical action which causes destruction, harm, pain, or suffering."
+        ],
+        [
+          "n",
+          "Widespread fighting."
+        ],
+        [
+          "n",
+          "Extreme force."
+        ],
+        [
+          "n",
+          "(figuratively) Injustice, wrong."
+        ],
+        [
+          "v",
+          "(nonstandard) To subject to violence."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "well-made": {
+      "word": "well-made",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Properly constructed or manufactured."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "zealand": {
+      "word": "zealand",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "Zeeland, the southwestern province of the Netherlands."
+        ],
+        [
+          "n",
+          "The largest island of Denmark."
+        ],
+        [
+          "n",
+          "(uncommon) Ellipsis of New Zealand: a country in Oceania. [A country and archipelago of Oceania, to the east of Australia. Official name: New Zealand. Capital: Wellington.]"
         ]
       ],
       "sentences": [],

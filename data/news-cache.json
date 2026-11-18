@@ -6,6 +6,21 @@
   "failed": 0,
   "items": [
     {
+      "id": "2611/261119-gta-6.html",
+      "title": "Grand Theft Auto 6 is released worldwide",
+      "url": "https://breakingnewsenglish.com/2611/261119-gta-6.html",
+      "date": "19th November",
+      "dateIso": "2026-11-19",
+      "kind": "Easier",
+      "summary": "Grand Theft Auto 6 is released worldwide 19th November - \"Easier\"",
+      "availableLevels": {
+        "0": "https://breakingnewsenglish.com/2611/261119-gta-6-0.html",
+        "1": "https://breakingnewsenglish.com/2611/261119-gta-6-1.html",
+        "2": "https://breakingnewsenglish.com/2611/261119-gta-6-2.html",
+        "3": "https://breakingnewsenglish.com/2611/261119-gta-6.html"
+      }
+    },
+    {
       "id": "2611/261116-ground-stop-at-us-airports.html",
       "title": "Wire upgrade at fault for grounding all US flights",
       "url": "https://breakingnewsenglish.com/2611/261116-ground-stop-at-us-airports.html",
@@ -200,7 +215,7 @@
       "date": "1st October",
       "dateIso": "2026-10-01",
       "kind": "Easier",
-      "summary": "European Union warns of energy price crisis 1st October - \"Easier\"",
+      "summary": "European Union warns of energy price crisis",
       "availableLevels": {
         "0": "https://breakingnewsenglish.com/2610/261001-energy-price-crisis-0.html",
         "1": "https://breakingnewsenglish.com/2610/261001-energy-price-crisis-1.html",
@@ -714,132 +729,9 @@
         "5": "https://breakingnewsenglish.com/2606/260601-japans-shrinking-population-5.html",
         "6": "https://breakingnewsenglish.com/2606/260601-japans-shrinking-population.html"
       }
-    },
-    {
-      "id": "2605/260528-ferrari-luce-electric-car.html",
-      "title": "Ferrari unveils its first ever electric car",
-      "url": "https://breakingnewsenglish.com/2605/260528-ferrari-luce-electric-car.html",
-      "date": "28th May",
-      "dateIso": "2026-05-28",
-      "kind": "Easier",
-      "summary": "Ferrari unveils its first ever electric car",
-      "availableLevels": {
-        "0": "https://breakingnewsenglish.com/2605/260528-ferrari-luce-electric-car-0.html",
-        "1": "https://breakingnewsenglish.com/2605/260528-ferrari-luce-electric-car-1.html",
-        "2": "https://breakingnewsenglish.com/2605/260528-ferrari-luce-electric-car-2.html",
-        "3": "https://breakingnewsenglish.com/2605/260528-ferrari-luce-electric-car.html"
-      }
     }
   ],
   "articles": {
-    "https://breakingnewsenglish.com/2605/260528-ferrari-luce-electric-car-0.html": {
-      "id": "2605/260528-ferrari-luce-electric-car.html",
-      "title": "Ferrari unveils its first ever electric car",
-      "titleZh": "",
-      "tag": "Easier",
-      "level": "Level 0 · A2",
-      "levelBand": "A2",
-      "resolvedLevel": 0,
-      "requestedLevel": 0,
-      "fallback": false,
-      "minutes": 1,
-      "words": 113,
-      "published": "28th May",
-      "summary": "Ferrari unveils its first ever electric car",
-      "paragraphs": [
-        "Ferrari has its first electric car. It is called Luce. This means \"light\" in Italian. The car is Ferrari's first five-seater. It is not cheap. It costs $640,000. Ferrari said many great technology partners helped to make the car. It added that the Luce has great performance. It will give pleasure to Ferrari drivers today and in the future.",
-        "The Luce was co-designed by the Apple iPhone designer. Many reviewers said the car looks like an \"Apple car\". However, it has Ferrari's power and speed. It can go from 0-100 kph in 2.5 seconds. It has a top speed of over 310 kph. It can go over 500 kilometres between charges. Ferrari said the Luce was \"absolutely stunning\"."
-      ],
-      "sourceName": "Breaking News English",
-      "sourceUrl": "https://breakingnewsenglish.com/2605/260528-ferrari-luce-electric-car-0.html",
-      "availableLevels": {
-        "0": "https://breakingnewsenglish.com/2605/260528-ferrari-luce-electric-car-0.html",
-        "1": "https://breakingnewsenglish.com/2605/260528-ferrari-luce-electric-car-1.html",
-        "2": "https://breakingnewsenglish.com/2605/260528-ferrari-luce-electric-car-2.html",
-        "3": "https://breakingnewsenglish.com/2605/260528-ferrari-luce-electric-car.html"
-      }
-    },
-    "https://breakingnewsenglish.com/2605/260528-ferrari-luce-electric-car-1.html": {
-      "id": "2605/260528-ferrari-luce-electric-car.html",
-      "title": "Ferrari unveils its first ever electric car",
-      "titleZh": "",
-      "tag": "Easier",
-      "level": "Level 1 · A2-B1",
-      "levelBand": "A2-B1",
-      "resolvedLevel": 1,
-      "requestedLevel": 1,
-      "fallback": false,
-      "minutes": 1,
-      "words": 145,
-      "published": "28th May",
-      "summary": "Ferrari unveils its first ever electric car",
-      "paragraphs": [
-        "Ferrari made its first fully electric car. It is called Luce. This means \"light\" in Italian. The car is the first five-seater made by Ferrari. It is not cheap. If you want to buy one, you must have money. It costs $640,000. Ferrari said the car comes from working with \"outstanding technology partners\". It added that the car has great performance, driving pleasure, and comfort \"for the Ferrari drivers of today and tomorrow\".",
-        "The Luce was co-designed by the designer of the Apple iPhone. Many reviewers said the car looks like an \"Apple car\". One website wrote: \"Luce looks almost nothing like a Ferrari.\" However, the car has Ferrari's power and speed. It can go from 0-100 kph in 2.5 seconds. It has a top speed of over 310 kph. It also has a range of over 500 kilometres between charges. A Ferrari spokesperson said the Luce was \"absolutely stunning\"."
-      ],
-      "sourceName": "Breaking News English",
-      "sourceUrl": "https://breakingnewsenglish.com/2605/260528-ferrari-luce-electric-car-1.html",
-      "availableLevels": {
-        "0": "https://breakingnewsenglish.com/2605/260528-ferrari-luce-electric-car-0.html",
-        "1": "https://breakingnewsenglish.com/2605/260528-ferrari-luce-electric-car-1.html",
-        "2": "https://breakingnewsenglish.com/2605/260528-ferrari-luce-electric-car-2.html",
-        "3": "https://breakingnewsenglish.com/2605/260528-ferrari-luce-electric-car.html"
-      }
-    },
-    "https://breakingnewsenglish.com/2605/260528-ferrari-luce-electric-car-2.html": {
-      "id": "2605/260528-ferrari-luce-electric-car.html",
-      "title": "Ferrari unveils its first ever electric car",
-      "titleZh": "",
-      "tag": "Easier",
-      "level": "Level 2 · A2-B1",
-      "levelBand": "A2-B1",
-      "resolvedLevel": 2,
-      "requestedLevel": 2,
-      "fallback": false,
-      "minutes": 2,
-      "words": 189,
-      "published": "28th May",
-      "summary": "Ferrari unveils its first ever electric car",
-      "paragraphs": [
-        "Ferrari has its first ever fully electric car. The sports car maker showed the car to the world on Monday. It is called Luce, which means \"light\" in Italian. The car is the first five-seater made by Ferrari. It is not cheap. Anyone who wants to buy one must have money. It costs $640,000. The Ferrari website said the car is part of \"an ecosystem of collaborations with outstanding technology partners\". It added that the car \"combines unique driving emotions with extraordinary performance, driving pleasure, and comfort for the [Ferrari drivers] of today and tomorrow\".",
-        "The Luce was co-designed by former Apple chief designer Jony Ive. He designed the iMac computer and iPhone. Many reviewers said the Luce looks like an \"Apple car\". One website wrote: \"Luce looks almost nothing like a Ferrari. In fact, it looks more like something Apple would make.\" However, the car has Ferrari's power and speed. It can go from 0-100 kph in 2.5 seconds, with a top speed of over 310 kph. The car has four electric motors. It also has a range of over 500 kilometres between charges. A Ferrari spokesperson said the Luce was \"absolutely stunning\"."
-      ],
-      "sourceName": "Breaking News English",
-      "sourceUrl": "https://breakingnewsenglish.com/2605/260528-ferrari-luce-electric-car-2.html",
-      "availableLevels": {
-        "0": "https://breakingnewsenglish.com/2605/260528-ferrari-luce-electric-car-0.html",
-        "1": "https://breakingnewsenglish.com/2605/260528-ferrari-luce-electric-car-1.html",
-        "2": "https://breakingnewsenglish.com/2605/260528-ferrari-luce-electric-car-2.html",
-        "3": "https://breakingnewsenglish.com/2605/260528-ferrari-luce-electric-car.html"
-      }
-    },
-    "https://breakingnewsenglish.com/2605/260528-ferrari-luce-electric-car.html": {
-      "id": "2605/260528-ferrari-luce-electric-car.html",
-      "title": "Ferrari unveils its first ever electric car",
-      "titleZh": "",
-      "tag": "Easier",
-      "level": "Level 3 · B1",
-      "levelBand": "B1",
-      "resolvedLevel": 3,
-      "requestedLevel": 3,
-      "fallback": false,
-      "minutes": 2,
-      "words": 230,
-      "published": "28th May",
-      "summary": "Ferrari unveils its first ever electric car",
-      "paragraphs": [
-        "Ferrari has unveiled its first ever fully electric car. The luxury sports car maker showed the car to the world on Monday. It is called Luce, which means \"light\" in Italian. The new car is also the first five-seater vehicle produced by Ferrari. It is not cheap. Anyone wanting to buy one must have deep pockets, as it costs $640,000. The Ferrari website highlighted why people might want to buy the car. It wrote: \"The Ferrari Luce... lies at the heart of an ecosystem of collaborations with outstanding technology partners. We have created a car that combines unique driving emotions with extraordinary performance, driving pleasure, and comfort for the [Ferrari drivers] of today and tomorrow.\"",
-        "The Luce was developed and co-designed by the former Apple chief designer Jony Ive. He was responsible for the designs of the iMac computer, iPhone, iPad and the Apple Watch. Many reviewers have said the Luce looks like an \"Apple car\". The Verge website wrote: \"Luce looks almost nothing like a Ferrari. In fact, it looks more like something Apple would make.\" However, the car does have Ferrari's power and speed. It can go from 0-100 kph in 2.5 seconds and has a top speed of over 310 kph. The car has four electric motors - one for each wheel. It also has a range of over 500 kilometres between charges. A Ferrari marketing officer said the Luce was \"absolutely stunning\"."
-      ],
-      "sourceName": "Breaking News English",
-      "sourceUrl": "https://breakingnewsenglish.com/2605/260528-ferrari-luce-electric-car.html",
-      "availableLevels": {
-        "0": "https://breakingnewsenglish.com/2605/260528-ferrari-luce-electric-car-0.html",
-        "1": "https://breakingnewsenglish.com/2605/260528-ferrari-luce-electric-car-1.html",
-        "2": "https://breakingnewsenglish.com/2605/260528-ferrari-luce-electric-car-2.html",
-        "3": "https://breakingnewsenglish.com/2605/260528-ferrari-luce-electric-car.html"
-      }
-    },
     "https://breakingnewsenglish.com/2606/260601-japans-shrinking-population-4.html": {
       "id": "2606/260601-japans-shrinking-population.html",
       "title": "Japan's population falls three million in five years",
@@ -4093,7 +3985,7 @@
       "minutes": 1,
       "words": 108,
       "published": "1st October",
-      "summary": "European Union warns of energy price crisis 1st October - \"Easier\"",
+      "summary": "European Union warns of energy price crisis",
       "paragraphs": [
         "The EU is worried about energy prices. It said: \"We are facing a price crisis.\" It said using less energy could lower energy prices. It is becoming difficult for countries to get enough oil and gas. Gas storage in Europe is only 68 per cent full. The EU wants countries to use less energy until things get better.",
         "In particular, the EU is worried about diesel prices. Diesel is used for farming and other industries. High diesel prices increase food prices. The EU gets 50 per cent of its diesel from the USA. Recently, President Donald Trump talked about keeping its diesel. The EU wants to produce more clean energy."
@@ -4120,7 +4012,7 @@
       "minutes": 1,
       "words": 138,
       "published": "1st October",
-      "summary": "European Union warns of energy price crisis 1st October - \"Easier\"",
+      "summary": "European Union warns of energy price crisis",
       "paragraphs": [
         "The EU is worried about rising energy prices. The EU's Energy Commissioner said: \"We are facing a price crisis.\" He said using less energy could help lower fuel prices. He added that supplies are limited. Gas storage in Europe is only 68 per cent full. The EU said that any actions to control energy prices should be \"well targeted\" and \"temporary\". It wants EU countries to use less energy until things get better.",
         "In particular, Europe is worried about diesel prices. Diesel is used for farming, shipping, and other industries. Higher diesel prices increase food prices. The EU gets about 50 per cent of its diesel from the USA. Recently, President Donald Trump talked about banning diesel exports from the USA. The EU wants European countries to produce more clean energy so that they need less energy from non-EU countries."
@@ -4147,7 +4039,7 @@
       "minutes": 2,
       "words": 193,
       "published": "1st October",
-      "summary": "European Union warns of energy price crisis 1st October - \"Easier\"",
+      "summary": "European Union warns of energy price crisis",
       "paragraphs": [
         "The EU is worried about rising energy prices. It wants countries to use less gas and electricity to help control prices. The EU's Energy Commissioner said: \"We are facing a price crisis linked to a supply crisis.\" He said using less energy could help keep fuel prices down. He added that supplies are limited. He pointed out that gas storage in Europe is only 68 per cent full. The EU said that any action to control energy prices should be \"well targeted\" and \"temporary\". It thinks European countries should use less energy until the situation gets better.",
         "In particular, Europe is worried about diesel prices. Diesel is used for farming, construction, shipping, and other industries. Higher diesel prices increase the cost of our food. The EU imports around 50 per cent of its diesel from the USA. The EU is worried it might not be able to import enough diesel from the USA. Recently, President Donald Trump talked about banning diesel exports from the USA. He said that he was thinking about a ban \"very seriously\". EU leaders want European countries to produce more clean energy so that they can rely less on imported energy."
@@ -4174,7 +4066,7 @@
       "minutes": 2,
       "words": 237,
       "published": "1st October",
-      "summary": "European Union warns of energy price crisis 1st October - \"Easier\"",
+      "summary": "European Union warns of energy price crisis",
       "paragraphs": [
         "The European Union (EU) is worried about rising energy prices. An EU body called the European Commission wants countries to reduce their use of gas and electricity to help control prices. The EU's Energy Commissioner, Dan Jorgensen, said: \"We are facing a price crisis linked to a supply crisis.\" He said using less energy could help to keep fuel prices down. He added that people needed to use less because supplies are limited. He pointed to the fact that gas storage in Europe is only 68 per cent full. Mr Jorgensen said any action to control energy prices should be \"well targeted\" and \"temporary\". He asked countries to lower their energy demand until the situation improves.",
         "In particular, Europe is worried about diesel supplies and prices. Diesel is essential for farming, construction, shipping, logistics, and other industries. Higher diesel prices increase the cost of the food we buy. The EU imports a lot of its diesel. Around 50 per cent of its diesel imports are from the USA. The European Commission is worried it might not be able to import enough of the fuel from the USA. In the past week, President Donald Trump has talked about banning exports from the USA. He said: \"Let's not send out the diesel.\" He added that he was thinking about a ban \"very seriously\". EU leaders want more European-produced clean energy so that they can rely less on imported oil and gas."
@@ -5380,6 +5272,114 @@
         "4": "https://breakingnewsenglish.com/2611/261116-ground-stop-at-us-airports-4.html",
         "5": "https://breakingnewsenglish.com/2611/261116-ground-stop-at-us-airports-5.html",
         "6": "https://breakingnewsenglish.com/2611/261116-ground-stop-at-us-airports.html"
+      }
+    },
+    "https://breakingnewsenglish.com/2611/261119-gta-6-0.html": {
+      "id": "2611/261119-gta-6.html",
+      "title": "Grand Theft Auto 6 is released worldwide",
+      "titleZh": "",
+      "tag": "Easier",
+      "level": "Level 0 · A2",
+      "levelBand": "A2",
+      "resolvedLevel": 0,
+      "requestedLevel": 0,
+      "fallback": false,
+      "minutes": 1,
+      "words": 111,
+      "published": "19th November",
+      "summary": "Grand Theft Auto 6 is released worldwide 19th November - \"Easier\"",
+      "paragraphs": [
+        "Grand Theft Auto 6 has been released. Millions of fans have waited 13 years to play it. GTA 6 could be the biggest game release ever. It has sold millions of copies and will make billions of dollars. Some excited fans are taking days off work to play it. Many fans tried to change their console settings to play the game earlier.",
+        "GTA 6 has great reviews for its graphics. Players can explore a world of crime. However, experts warn that it is not good for children. It contains violence and drugs. A media expert said: \"In GTA, players commit crimes, sometimes against ordinary people.\" The game is popular, so many children will play it."
+      ],
+      "sourceName": "Breaking News English",
+      "sourceUrl": "https://breakingnewsenglish.com/2611/261119-gta-6-0.html",
+      "availableLevels": {
+        "0": "https://breakingnewsenglish.com/2611/261119-gta-6-0.html",
+        "1": "https://breakingnewsenglish.com/2611/261119-gta-6-1.html",
+        "2": "https://breakingnewsenglish.com/2611/261119-gta-6-2.html",
+        "3": "https://breakingnewsenglish.com/2611/261119-gta-6.html"
+      }
+    },
+    "https://breakingnewsenglish.com/2611/261119-gta-6-1.html": {
+      "id": "2611/261119-gta-6.html",
+      "title": "Grand Theft Auto 6 is released worldwide",
+      "titleZh": "",
+      "tag": "Easier",
+      "level": "Level 1 · A2-B1",
+      "levelBand": "A2-B1",
+      "resolvedLevel": 1,
+      "requestedLevel": 1,
+      "fallback": false,
+      "minutes": 1,
+      "words": 156,
+      "published": "19th November",
+      "summary": "Grand Theft Auto 6 is released worldwide 19th November - \"Easier\"",
+      "paragraphs": [
+        "Grand Theft Auto 6 has been released. Millions of fans are playing it. They have waited 13 years for this new game. Gaming experts say it could be the biggest entertainment release ever. It has sold millions of copies. It will make billions of dollars. Some excited fans are taking days off work to play it. A company in the UK said workers took 83,000 days off to play the game. Many fans tried to change the region settings to play the game earlier.",
+        "GTA 6 has great reviews for its high-quality graphics. Players can explore a world of crime and follow the lives of criminals. However, experts warn that this is not good for children. It contains violence, car theft, bad language, and drugs. A media expert said: \"In GTA, players commit crimes, sometimes against ordinary people.\" The game is popular, so many children will play it. Experts say parents should talk about the game's content to their children."
+      ],
+      "sourceName": "Breaking News English",
+      "sourceUrl": "https://breakingnewsenglish.com/2611/261119-gta-6-1.html",
+      "availableLevels": {
+        "0": "https://breakingnewsenglish.com/2611/261119-gta-6-0.html",
+        "1": "https://breakingnewsenglish.com/2611/261119-gta-6-1.html",
+        "2": "https://breakingnewsenglish.com/2611/261119-gta-6-2.html",
+        "3": "https://breakingnewsenglish.com/2611/261119-gta-6.html"
+      }
+    },
+    "https://breakingnewsenglish.com/2611/261119-gta-6-2.html": {
+      "id": "2611/261119-gta-6.html",
+      "title": "Grand Theft Auto 6 is released worldwide",
+      "titleZh": "",
+      "tag": "Easier",
+      "level": "Level 2 · A2-B1",
+      "levelBand": "A2-B1",
+      "resolvedLevel": 2,
+      "requestedLevel": 2,
+      "fallback": false,
+      "minutes": 2,
+      "words": 188,
+      "published": "19th November",
+      "summary": "Grand Theft Auto 6 is released worldwide 19th November - \"Easier\"",
+      "paragraphs": [
+        "Grand Theft Auto 6 has been released. Millions of gaming fans are now playing it. They have waited 13 years for a new GTA game. Gaming experts say the latest version could be the biggest entertainment release ever. It has sold millions of copies, and is set to make billions of dollars. Some excited fans are taking days off work or school to play it. A company in the UK said that workers in Britain booked around 83,000 days off to play the game. Many fans tried to change the region settings on their games consoles to play the game earlier.",
+        "GTA 6 has excellent reviews for its high-quality graphics and exciting story. Players can explore a world of crime and follow the lives of two criminals. However, experts warn that the game is not suitable for children. That is because it contains violence, car theft, bad language, drugs, and sexual content. A media expert said: \"In GTA, players commit crimes, sometimes against ordinary people who did nothing wrong.\" The game is popular, so many children will play it. Experts say parents should talk about the game's content and set clear rules."
+      ],
+      "sourceName": "Breaking News English",
+      "sourceUrl": "https://breakingnewsenglish.com/2611/261119-gta-6-2.html",
+      "availableLevels": {
+        "0": "https://breakingnewsenglish.com/2611/261119-gta-6-0.html",
+        "1": "https://breakingnewsenglish.com/2611/261119-gta-6-1.html",
+        "2": "https://breakingnewsenglish.com/2611/261119-gta-6-2.html",
+        "3": "https://breakingnewsenglish.com/2611/261119-gta-6.html"
+      }
+    },
+    "https://breakingnewsenglish.com/2611/261119-gta-6.html": {
+      "id": "2611/261119-gta-6.html",
+      "title": "Grand Theft Auto 6 is released worldwide",
+      "titleZh": "",
+      "tag": "Easier",
+      "level": "Level 3 · B1",
+      "levelBand": "B1",
+      "resolvedLevel": 3,
+      "requestedLevel": 3,
+      "fallback": false,
+      "minutes": 2,
+      "words": 240,
+      "published": "19th November",
+      "summary": "Grand Theft Auto 6 is released worldwide 19th November - \"Easier\"",
+      "paragraphs": [
+        "Grand Theft Auto 6 (GTA 6) has finally been released. Millions of video game fans worldwide are now playing it. They have waited 13 years for a new GTA game since the release of GTA 5. Gaming experts say the latest version could be the biggest entertainment release in history. It has already sold millions of copies, and it is set to make billions of dollars. Some fans are so excited that they are taking days off work or school to play it. An HR company in the UK said that workers in Britain booked around 83,000 days off because of the game. Many fans tried to make their games consoles think they lived in New Zealand by changing their region settings. They tried this so they could play the game earlier.",
+        "GTA 6 has received excellent reviews for its high-quality, realistic graphics and exciting story. Players get to explore a huge world of crime and follow the lives of two criminals. However, many experts warn that the game is unsuitable for children under the age of 17. That is because it contains violence, killing, car theft, bad language, drugs, alcohol and sexual content. Media expert Jasmine Hood Miller said: \"In GTA, players commit crimes, sometimes against ordinary people who did nothing wrong.\" She added: \"GTA is a very well-made game that teens find fun to play.\" Many children will play the game, so experts are advising parents to discuss the game's content and set clear rules."
+      ],
+      "sourceName": "Breaking News English",
+      "sourceUrl": "https://breakingnewsenglish.com/2611/261119-gta-6.html",
+      "availableLevels": {
+        "0": "https://breakingnewsenglish.com/2611/261119-gta-6-0.html",
+        "1": "https://breakingnewsenglish.com/2611/261119-gta-6-1.html",
+        "2": "https://breakingnewsenglish.com/2611/261119-gta-6-2.html",
+        "3": "https://breakingnewsenglish.com/2611/261119-gta-6.html"
       }
     }
   }
