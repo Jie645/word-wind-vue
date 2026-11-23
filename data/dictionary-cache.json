@@ -1,6 +1,6 @@
 {
   "source": "Free Dictionary API + Wiktionary + MyMemory",
-  "count": 3498,
+  "count": 3539,
   "failed": 23,
   "words": {
     "ability": {
@@ -118222,6 +118222,1336 @@
         [
           "n",
           "(uncommon) Ellipsis of New Zealand: a country in Oceania. [A country and archipelago of Oceania, to the east of Australia. Official name: New Zealand. Capital: Wellington.]"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "abraham": {
+      "word": "abraham",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(Abrahamism) A prophet in the Old Testament, Qur'an and Aqdas; a Semitic patriarch son of Terah who practiced monotheism, father of the Jewish patriarch Isaac by Sarah and the Arab patriarch Ishmael by Hagar."
+        ],
+        [
+          "n",
+          "A male given name from Hebrew."
+        ],
+        [
+          "n",
+          "The 14th sura (chapter) of the Qur'an."
+        ],
+        [
+          "n",
+          "A surname originating as a patronymic."
+        ],
+        [
+          "n",
+          "(archaic, British slang, chiefly London) A shop selling cheap and low-quality clothes, especially in the East End of London."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "act": {
+      "word": "act",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(countable) An instance of a certain standardized college admissions test in the United States, originally called the American College Test."
+        ],
+        [
+          "n",
+          "(New Zealand politics) ACT New Zealand, a liberal conservative political party in New Zealand."
+        ],
+        [
+          "n",
+          "(countable) Something done, a deed."
+        ],
+        [
+          "n",
+          "(theology) Something done once and for all, as distinguished from a work."
+        ],
+        [
+          "n",
+          "(law, countable) A product of a legislative body, a statute."
+        ],
+        [
+          "n",
+          "(law, countable) (In the United States) A legislative proposal, a bill that has not yet become law."
+        ],
+        [
+          "n",
+          "The process of doing something."
+        ],
+        [
+          "n",
+          "(countable) A formal or official record of something done."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "author": {
+      "word": "author",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "The originator or creator of a work, especially of a literary composition; or, one of the creators of a collaborative work."
+        ],
+        [
+          "n",
+          "Someone who writes books for a living."
+        ],
+        [
+          "n",
+          "(US copyright law) The initial owner of the copyright to a work, especially a work made for hire or a work of corporate authorship."
+        ],
+        [
+          "n",
+          "(figurative) The creator or cause of anything."
+        ],
+        [
+          "v",
+          "(chiefly US, sometimes proscribed) To create a work as its author."
+        ],
+        [
+          "n",
+          "(obsolete, criminal law) Principal; the primary participant in a crime."
+        ],
+        [
+          "n",
+          "(archaic) One's authority for something: an informant."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "centenary": {
+      "word": "centenary",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "Synonym of centennial: a hundredth anniversary."
+        ],
+        [
+          "adj",
+          "Occurring every 100 years."
+        ],
+        [
+          "adj",
+          "Lasting or aged 100 years, 100-year-old."
+        ],
+        [
+          "adj",
+          "Of or related to the number one hundred, particularly"
+        ],
+        [
+          "adj",
+          "(historical, obsolete) Of or relating to hundreds, the administrative unit."
+        ],
+        [
+          "n",
+          "(obsolete) Synonym of century: a period of 100 years."
+        ],
+        [
+          "n",
+          "(obsolete) Synonym of hundred: a collection of 100 things."
+        ],
+        [
+          "n",
+          "(obsolete, rare) Synonym of centenarian: a person 100 or more years old."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "circulating": {
+      "word": "circulating",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Moving about freely."
+        ],
+        [
+          "adj",
+          "An institution lending from its collection, especially of books, on condition of membership."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "bill": {
+      "word": "bill",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(US, Canada) A piece of paper money; a banknote."
+        ],
+        [
+          "n",
+          "A written note of goods sold, services rendered, or work done, with the price or charge owing; an invoice."
+        ],
+        [
+          "n",
+          "A draft of a law, presented to a legislature for enactment; a proposed or projected law."
+        ],
+        [
+          "n",
+          "(slang, Canada, US) One hundred dollars."
+        ],
+        [
+          "n",
+          "(slang, UK) One hundred pounds sterling."
+        ],
+        [
+          "v",
+          "(transitive) To charge; to send a bill to."
+        ],
+        [
+          "n",
+          "A paper, written or printed, and posted up or given away, to advertise something, as a lecture, a play, or the sale of goods"
+        ],
+        [
+          "n",
+          "(slang, India) A written note of goods sold, services rendered, or work done, listing the price or charge paid; a receipt."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "burden": {
+      "word": "burden",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A heavy load."
+        ],
+        [
+          "n",
+          "A responsibility, onus."
+        ],
+        [
+          "n",
+          "A cause of worry; that which is grievous, wearisome, or oppressive."
+        ],
+        [
+          "v",
+          "(transitive) To encumber with a literal or figurative burden."
+        ],
+        [
+          "v",
+          "(transitive) To impose, as a load or burden; to lay or place as a burden (something heavy or objectionable)."
+        ],
+        [
+          "n",
+          "The capacity of a vessel, or the weight of cargo that she will carry."
+        ],
+        [
+          "n",
+          "(medicine) The total amount of toxins, parasites, cancer cells, plaque or similar present in an organism."
+        ],
+        [
+          "n",
+          "(mining) The tops or heads of stream-work which lie over the stream of tin."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "commemorate": {
+      "word": "commemorate",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "(transitive) To honour the memory of someone or something with a ceremony or object."
+        ],
+        [
+          "v",
+          "(transitive) To serve as a memorial to someone or something."
+        ],
+        [
+          "adj",
+          "(obsolete, rare, as a participle) Commemorated."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "consigning": {
+      "word": "consigning",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "(transitive, business) To transfer to the custody of, usually for sale, transport, or safekeeping."
+        ],
+        [
+          "v",
+          "(transitive) To entrust to the care of another."
+        ],
+        [
+          "v",
+          "(transitive) To send to a final destination."
+        ],
+        [
+          "v",
+          "To assign; to devote; to set apart."
+        ],
+        [
+          "v",
+          "To stamp or impress; to affect."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "discontinue": {
+      "word": "discontinue",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "(transitive) To interrupt the continuance of; to put an end to, especially as regards commercial productions; to stop producing, making, or supplying."
+        ],
+        [
+          "v",
+          "(transitive) To consciously cease the ingestion or administration of (a pharmaceutical drug)."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "discontinuing": {
+      "word": "discontinuing",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "(transitive) To interrupt the continuance of; to put an end to, especially as regards commercial productions; to stop producing, making, or supplying."
+        ],
+        [
+          "v",
+          "(transitive) To consciously cease the ingestion or administration of (a pharmaceutical drug)."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "distributed": {
+      "word": "distributed",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Spread across a relatively wide area."
+        ],
+        [
+          "adj",
+          "(computing) Involving numerous separate computers or entities, rather than the traditional one."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "eagle": {
+      "word": "eagle",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "Any of several large carnivorous and carrion-eating birds in the family Accipitridae, having a powerful hooked bill and keen vision."
+        ],
+        [
+          "n",
+          "(golf) A score of two under par for a hole."
+        ],
+        [
+          "v",
+          "(golf) To score an eagle."
+        ],
+        [
+          "n",
+          "(US, numismatics, historical) A gold coin with a face value of ten dollars, formerly used in the United States."
+        ],
+        [
+          "n",
+          "(historical, numismatics) A 13th-century coin minted in Europe and circulated in England as a debased sterling silver penny, outlawed under Edward I of England."
+        ],
+        [
+          "n",
+          "A surname transferred from the nickname, from the name of the bird as a byname. See eagle."
+        ],
+        [
+          "n",
+          "Any of a number of rivers in the United States and Canada."
+        ],
+        [
+          "n",
+          "A number of places in the United States:"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "exact": {
+      "word": "exact",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Precisely agreeing with a standard, a fact, or the truth; perfectly conforming; neither exceeding nor falling short in any respect."
+        ],
+        [
+          "adj",
+          "Habitually careful to agree with a standard, a rule, or a promise; accurate; methodical; punctual."
+        ],
+        [
+          "adj",
+          "Precisely or definitely conceived or stated; strict."
+        ],
+        [
+          "adv",
+          "exactly"
+        ],
+        [
+          "v",
+          "(ambitransitive) To demand and enforce the payment or performance of, sometimes in a forcible or imperious way."
+        ],
+        [
+          "v",
+          "(transitive) To make desirable or necessary."
+        ],
+        [
+          "v",
+          "(transitive) To inflict; to forcibly obtain or produce; to visit."
+        ],
+        [
+          "adj",
+          "(not comparable, homological algebra, of a sequence of morphisms in an abelian category) Such that the kernel of each morphism is the image of the preceding one."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "image": {
+      "word": "image",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A visual or other representation of the external form of something in art."
+        ],
+        [
+          "n",
+          "A mental picture of something not real or not present."
+        ],
+        [
+          "n",
+          "A characteristic of a person, group or company etc., style, manner of dress, how one is or wishes to be perceived by others."
+        ],
+        [
+          "v",
+          "(transitive) To represent by an image or symbol; to portray."
+        ],
+        [
+          "v",
+          "(transitive) To create an image of."
+        ],
+        [
+          "n",
+          "(computing) A file that contains all information needed to produce a live working copy. (See disk image and image copy.)"
+        ],
+        [
+          "v",
+          "(transitive, computing) To create a complete backup copy of a file system or other entity."
+        ],
+        [
+          "n",
+          "A statue or idol."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "gradually": {
+      "word": "gradually",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adv",
+          "In a gradual manner; making slow progress; slowly."
+        ],
+        [
+          "adv",
+          "(obsolete) by degrees"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "headdress": {
+      "word": "headdress",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A decorative covering or ornament worn on the head."
+        ],
+        [
+          "n",
+          "A hairdo."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "legal": {
+      "word": "legal",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Relating to the law or to lawyers."
+        ],
+        [
+          "adj",
+          "Having its basis in the law."
+        ],
+        [
+          "adj",
+          "Being established, permitted, required or prescribed by law."
+        ],
+        [
+          "adj",
+          "(informal) Above the age of consent or the legal drinking age."
+        ],
+        [
+          "adj",
+          "Permitting the use and/or sale of cannabis; in which cannabis is lawful."
+        ],
+        [
+          "n",
+          "(uncountable, informal) The legal department of a company or organization."
+        ],
+        [
+          "n",
+          "(countable, informal, US) One who immigrated lawfully."
+        ],
+        [
+          "adj",
+          "(Canada, US) Of paper or document layouts, measuring 8+¹⁄₂ × 14 inches (216 × 356 mm)."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "legislation": {
+      "word": "legislation",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A law which has been enacted by legislature or other governing body."
+        ],
+        [
+          "n",
+          "The act of legislating; preparation and enactment of laws."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "liberty": {
+      "word": "liberty",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "The condition of being free."
+        ],
+        [
+          "n",
+          "The condition of being free from imprisonment, slavery or forced labour."
+        ],
+        [
+          "n",
+          "The condition of being free to act, believe or express oneself as one chooses."
+        ],
+        [
+          "n",
+          "Freedom from excessive government control."
+        ],
+        [
+          "n",
+          "A short period when a sailor is allowed ashore."
+        ],
+        [
+          "n",
+          "(often plural) A breach of social convention."
+        ],
+        [
+          "n",
+          "(historical) A local division of government administration in medieval England."
+        ],
+        [
+          "n",
+          "(go) An empty space next to a group of stones of the same color."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "lincoln": {
+      "word": "lincoln",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A city and local government district in Lincolnshire, England (OS grid ref SK9771)."
+        ],
+        [
+          "n",
+          "An English surname from Old English."
+        ],
+        [
+          "n",
+          "Abraham Lincoln, President of the United States during the Civil War."
+        ],
+        [
+          "n",
+          "A male given name transferred from the surname, of American usage, originally in honor of Abraham Lincoln."
+        ],
+        [
+          "n",
+          "A number of places in the United States:"
+        ],
+        [
+          "n",
+          "The capital city of Nebraska, and the county seat of Lancaster County."
+        ],
+        [
+          "n",
+          "A city in Talladega County, Alabama, named after Benjamin Lincoln."
+        ],
+        [
+          "n",
+          "A city in Washington County, Arkansas."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "lisa": {
+      "word": "lisa",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A female given name from Hebrew."
+        ],
+        [
+          "n",
+          "(slang) An idealised girlfriend."
+        ],
+        [
+          "n",
+          "(computing, historical) Ellipsis of Apple Lisa."
+        ],
+        [
+          "n",
+          "(finance) Acronym of lifetime individual savings account"
+        ],
+        [
+          "n",
+          "(ESA, physics, space science) Initialism of Laser Interferometer Space Antenna; abbreviation, used in LISA Pathfinder, an ESA space probe that will test technologies needed a gravitational wave observatory."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "mcclain": {
+      "word": "mcclain",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A surname."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "mint": {
+      "word": "mint",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A building or institution where money (originally, only coins) is produced under government licence."
+        ],
+        [
+          "n",
+          "(informal) A vast sum of money; (by extension) a large amount of something."
+        ],
+        [
+          "n",
+          "(figuratively) Any place regarded as a source of unlimited supply; the supply itself."
+        ],
+        [
+          "v",
+          "(transitive) To reproduce (coins), usually en masse, under licence."
+        ],
+        [
+          "v",
+          "To invent; to forge; to fabricate; to fashion."
+        ],
+        [
+          "v",
+          "(transitive, cryptocurrencies) To create a crypto token."
+        ],
+        [
+          "adj",
+          "(numismatics) In near-perfect condition; uncirculated."
+        ],
+        [
+          "adj",
+          "(philately) Unused with original gum; as issued originally."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "minting": {
+      "word": "minting",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "The act by which money is minted."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "nickname": {
+      "word": "nickname",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A familiar, invented name for a person or thing used instead of the actual name of the person or thing, often based on some noteworthy characteristic."
+        ],
+        [
+          "n",
+          "A familiar, shortened or diminutive name for a person or thing."
+        ],
+        [
+          "v",
+          "(transitive) To give a nickname to (a person or thing)."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "numerous": {
+      "word": "numerous",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Indefinitely large numerically; many."
+        ],
+        [
+          "adj",
+          "Consisting of a large number of individuals or parts."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "one-cent": {
+      "word": "one-cent",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(obsolete) The state of being at one or reconciled."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "penny": {
+      "word": "penny",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "In the United Kingdom, a unit of currency worth ¹⁄₁₀₀ of a pound sterling, or a copper coin worth this amount. Abbreviation: p."
+        ],
+        [
+          "n",
+          "In the US and (formerly) Canada, a one-cent coin, worth ¹⁄₁₀₀ of a dollar. Abbreviation: ¢."
+        ],
+        [
+          "n",
+          "In various countries, a small-denomination copper or brass coin."
+        ],
+        [
+          "n",
+          "Money in general."
+        ],
+        [
+          "n",
+          "(historical) In the United Kingdom and Ireland and many other countries, a unit of currency worth ¹⁄₂₄₀ of a pound sterling or Irish pound before decimalisation, or a copper coin worth this amount. Abbreviation: d."
+        ],
+        [
+          "n",
+          "(historical) In Ireland, a coin worth ¹⁄₁₀₀ of an Irish pound before the introduction of the euro. Abbreviation: p."
+        ],
+        [
+          "n",
+          "A unit of nail size, said to be either the cost per 100 nails, or the number of nails per penny. Abbreviation: d."
+        ],
+        [
+          "v",
+          "(slang) To jam a door shut by inserting pennies between the doorframe and the door."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "permanently": {
+      "word": "permanently",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adv",
+          "Forever."
+        ],
+        [
+          "adv",
+          "In a permanent manner; lastingly."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "portrait": {
+      "word": "portrait",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(countable) A painting or other picture of a person, especially the head and shoulders."
+        ],
+        [
+          "n",
+          "(countable, figuratively) An accurate depiction of a person, a mood, etc."
+        ],
+        [
+          "n",
+          "(computing, printing) A print orientation where the vertical sides are longer than the horizontal sides."
+        ],
+        [
+          "adj",
+          "Representing the actual features of an individual; not ideal."
+        ],
+        [
+          "v",
+          "(obsolete) To portray; to draw."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "redesign": {
+      "word": "redesign",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "To lay out or plan a new version of something previously laid out or planned."
+        ],
+        [
+          "n",
+          "A plan for making changes to the structure and functions of an artifact, building or system so as to better serve the purpose of the original design, or to serve purposes different from those set forth in the original design."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "round": {
+      "word": "round",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "(physical) Of shape:"
+        ],
+        [
+          "adj",
+          "Circular or cylindrical; having a circular cross-section in one direction."
+        ],
+        [
+          "adj",
+          "Spherical; shaped like a ball; having a circular cross-section in more than one direction."
+        ],
+        [
+          "adj",
+          "Loosely or approximately circular."
+        ],
+        [
+          "adj",
+          "Lacking sharp angles; having gentle curves."
+        ],
+        [
+          "adj",
+          "Plump."
+        ],
+        [
+          "adj",
+          "Complete, whole, not lacking."
+        ],
+        [
+          "adj",
+          "(of a number) Convenient for rounding other numbers to; for example, ending in a zero."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "sense": {
+      "word": "sense",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "Any of the manners by which living beings perceive the physical world: for humans sight, smell, hearing, touch, taste."
+        ],
+        [
+          "n",
+          "Perception through the intellect; apprehension; awareness."
+        ],
+        [
+          "n",
+          "Sound practical or moral judgment."
+        ],
+        [
+          "n",
+          "The meaning, reason, or value of something."
+        ],
+        [
+          "n",
+          "A meaning of a term (word or expression), among its various meanings."
+        ],
+        [
+          "n",
+          "(semantics, lexicography) A single conventional use of a word; one of the entries or definitions for a word in a dictionary."
+        ],
+        [
+          "n",
+          "A natural appreciation or ability."
+        ],
+        [
+          "v",
+          "To use biological senses: to either see, hear, smell, taste, or feel."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "transactions": {
+      "word": "transactions",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "a written account of what transpired at a meeting"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "unavailable": {
+      "word": "unavailable",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Not available."
+        ],
+        [
+          "n",
+          "(US, history) A communist who operated underground and was therefore not available for a political leadership position."
+        ],
+        [
+          "adj",
+          "(obsolete) Unavailing; ineffective."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "undermined": {
+      "word": "undermined",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "(figuratively) To weaken or work against; to hinder, sabotage."
+        ],
+        [
+          "v",
+          "To erode the base or foundation of something, e.g. by the action of water."
+        ],
+        [
+          "v",
+          "To dig underneath (something), to make a passage for destructive or military purposes; to sap."
+        ],
+        [
+          "v",
+          "(philosophy) To regard an object as the sum of the parts that compose it, in object-oriented ontology."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "underwent": {
+      "word": "underwent",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "(transitive) To experience; to pass through a phase."
+        ],
+        [
+          "v",
+          "(transitive) To suffer or endure; bear with."
+        ],
+        [
+          "v",
+          "(transitive, obsolete) To go or move under or beneath."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "viewed": {
+      "word": "viewed",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Having been viewed; having been seen, watched or witnessed."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "viability": {
+      "word": "viability",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "The property of being viable; the ability to live or to succeed."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "wikipedia": {
+      "word": "wikipedia",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A free-content, multilingual, online encyclopedia and wiki run by the Wikimedia Foundation."
+        ],
+        [
+          "n",
+          "(metonymic) The community that develops Wikipedia."
+        ],
+        [
+          "n",
+          "(colloquial) An article or page on Wikipedia."
+        ],
+        [
+          "n",
+          "(figuratively, colloquial) A source of abundant encyclopedic knowledge."
+        ],
+        [
+          "v",
+          "(intransitive, colloquial) To consult Wikipedia for information."
+        ],
+        [
+          "v",
+          "(transitive, colloquial) To search Wikipedia for information on a specific subject."
+        ],
+        [
+          "n",
+          "A version of the encyclopedia Wikipedia in a particular language."
+        ],
+        [
+          "n",
+          "A wiki or similar collaborative database, especially one that is also an encyclopaedia."
         ]
       ],
       "sentences": [],

@@ -6,6 +6,20 @@
   "failed": 0,
   "items": [
     {
+      "id": "2611/261123-penny-coin.html",
+      "title": "U.S. brings an end to production of one-cent coin",
+      "url": "https://breakingnewsenglish.com/2611/261123-penny-coin.html",
+      "date": "23rd November",
+      "dateIso": "2026-11-23",
+      "kind": "Harder",
+      "summary": "U.S. brings an end to production of one-cent coin 23rd November - \"Harder\"",
+      "availableLevels": {
+        "4": "https://breakingnewsenglish.com/2611/261123-penny-coin-4.html",
+        "5": "https://breakingnewsenglish.com/2611/261123-penny-coin-5.html",
+        "6": "https://breakingnewsenglish.com/2611/261123-penny-coin.html"
+      }
+    },
+    {
       "id": "2611/261119-gta-6.html",
       "title": "Grand Theft Auto 6 is released worldwide",
       "url": "https://breakingnewsenglish.com/2611/261119-gta-6.html",
@@ -201,7 +215,7 @@
       "date": "5th October",
       "dateIso": "2026-10-05",
       "kind": "Harder",
-      "summary": "Schools closed in France as students clash with police 5th October - \"Harder\"",
+      "summary": "Schools closed in France as students clash with police",
       "availableLevels": {
         "4": "https://breakingnewsenglish.com/2610/261005-school-closures-student-protests-4.html",
         "5": "https://breakingnewsenglish.com/2610/261005-school-closures-student-protests-5.html",
@@ -715,101 +729,9 @@
         "2": "https://breakingnewsenglish.com/2606/260604-earth-prize-2.html",
         "3": "https://breakingnewsenglish.com/2606/260604-earth-prize.html"
       }
-    },
-    {
-      "id": "2606/260601-japans-shrinking-population.html",
-      "title": "Japan's population falls three million in five years",
-      "url": "https://breakingnewsenglish.com/2606/260601-japans-shrinking-population.html",
-      "date": "1st June",
-      "dateIso": "2026-06-01",
-      "kind": "Harder",
-      "summary": "Japan's population falls three million in five years",
-      "availableLevels": {
-        "4": "https://breakingnewsenglish.com/2606/260601-japans-shrinking-population-4.html",
-        "5": "https://breakingnewsenglish.com/2606/260601-japans-shrinking-population-5.html",
-        "6": "https://breakingnewsenglish.com/2606/260601-japans-shrinking-population.html"
-      }
     }
   ],
   "articles": {
-    "https://breakingnewsenglish.com/2606/260601-japans-shrinking-population-4.html": {
-      "id": "2606/260601-japans-shrinking-population.html",
-      "title": "Japan's population falls three million in five years",
-      "titleZh": "",
-      "tag": "Harder",
-      "level": "Level 4 · B1-B2",
-      "levelBand": "B1-B2",
-      "resolvedLevel": 4,
-      "requestedLevel": 4,
-      "fallback": false,
-      "minutes": 1,
-      "words": 150,
-      "published": "1st June",
-      "summary": "Japan's population falls three million in five years",
-      "paragraphs": [
-        "Japan's population fell by three million in the past five years. This is the largest drop since records began in 1920. The government released figures for its latest five-yearly census. It shows that the number of people in Japan in October was around 123 million. This is a fall of 2.5 per cent. The census is the third in a row to show a decrease. Japan's government said that the population decline is advancing. It said it would take actions to address it.",
-        "A big reason for the decline is very low birth rates. In 2025, there were just over 700,000 births, compared to 2.5 million in the postwar baby boom. Many governments have taken actions to encourage couples to have babies. These include more child allowances and parental leave, and subsidized early years education. Japan is one of the world's oldest societies. Its greying population is putting a lot of stress on healthcare and pensions."
-      ],
-      "sourceName": "Breaking News English",
-      "sourceUrl": "https://breakingnewsenglish.com/2606/260601-japans-shrinking-population-4.html",
-      "availableLevels": {
-        "4": "https://breakingnewsenglish.com/2606/260601-japans-shrinking-population-4.html",
-        "5": "https://breakingnewsenglish.com/2606/260601-japans-shrinking-population-5.html",
-        "6": "https://breakingnewsenglish.com/2606/260601-japans-shrinking-population.html"
-      }
-    },
-    "https://breakingnewsenglish.com/2606/260601-japans-shrinking-population-5.html": {
-      "id": "2606/260601-japans-shrinking-population.html",
-      "title": "Japan's population falls three million in five years",
-      "titleZh": "",
-      "tag": "Harder",
-      "level": "Level 5 · B2-C1",
-      "levelBand": "B2-C1",
-      "resolvedLevel": 5,
-      "requestedLevel": 5,
-      "fallback": false,
-      "minutes": 2,
-      "words": 178,
-      "published": "1st June",
-      "summary": "Japan's population falls three million in five years",
-      "paragraphs": [
-        "Japan's population has fallen by three million in the past five years. This is the largest drop since records began in 1920. Japan's government released figures for its 2025 census. This demographic survey is carried out every five years. The latest one reveals that the number of residents in October was around 123 million. This was a drop of just over 3 million from 2020. This is a fall of 2.5 per cent. The census is the third in a row to show a decrease. Japan's government confirmed that population decline is advancing. It vowed to take \"comprehensive measures\".",
-        "The government said a big reason for the decline was historically low birth rates. In 2025, there were just over 700,000 births. This compared to 2.5 million yearly births in the postwar baby boom. Many governments have introduced measures to encourage couples to have babies. These include expanded child allowances, more parental leave, and subsidized early years education. They have had little success. Japan is one of the world's oldest societies. Its greying population is putting a lot of strain on healthcare systems, pensions, and the labour force."
-      ],
-      "sourceName": "Breaking News English",
-      "sourceUrl": "https://breakingnewsenglish.com/2606/260601-japans-shrinking-population-5.html",
-      "availableLevels": {
-        "4": "https://breakingnewsenglish.com/2606/260601-japans-shrinking-population-4.html",
-        "5": "https://breakingnewsenglish.com/2606/260601-japans-shrinking-population-5.html",
-        "6": "https://breakingnewsenglish.com/2606/260601-japans-shrinking-population.html"
-      }
-    },
-    "https://breakingnewsenglish.com/2606/260601-japans-shrinking-population.html": {
-      "id": "2606/260601-japans-shrinking-population.html",
-      "title": "Japan's population falls three million in five years",
-      "titleZh": "",
-      "tag": "Harder",
-      "level": "Level 6 · C1-C2",
-      "levelBand": "C1-C2",
-      "resolvedLevel": 6,
-      "requestedLevel": 6,
-      "fallback": false,
-      "minutes": 2,
-      "words": 195,
-      "published": "1st June",
-      "summary": "Japan's population falls three million in five years",
-      "paragraphs": [
-        "The population of Japan has fallen by over three million in the past five years. This is the largest drop since records began in 1920. Japan's internal affairs ministry has released preliminary figures for its 2025 census. This demographic survey is conducted every five years. The latest one reveals that the number of residents in October 2025 was 123,049,524. This was a drop of 3,096,575 from the 2020 survey - a fall of 2.5 per cent. The census is the third in a row to show a decrease. Japan's Chief Cabinet Secretary said: \"It was confirmed again that the population decline is advancing even further.\" He vowed to promote \"comprehensive measures\" to address the downturn.",
-        "The government attributed the decline to various factors. These included historically low birth rates. In 2025, there were around 706,000 births in Japan. This compared to around 2.5 million annual births during the postwar baby boom. Successive governments have introduced many measures to encourage couples to have babies. They have expanded child allowances, increased parental leave, and subsidized early years education. However, these have had little success. Japan is one of the world's oldest societies. The increasingly greying population is putting considerable strain on healthcare systems, pensions, and the labour force."
-      ],
-      "sourceName": "Breaking News English",
-      "sourceUrl": "https://breakingnewsenglish.com/2606/260601-japans-shrinking-population.html",
-      "availableLevels": {
-        "4": "https://breakingnewsenglish.com/2606/260601-japans-shrinking-population-4.html",
-        "5": "https://breakingnewsenglish.com/2606/260601-japans-shrinking-population-5.html",
-        "6": "https://breakingnewsenglish.com/2606/260601-japans-shrinking-population.html"
-      }
-    },
     "https://breakingnewsenglish.com/2606/260604-earth-prize-0.html": {
       "id": "2606/260604-earth-prize.html",
       "title": "Teenagers win Earth Prize for microplastic 'magnet'",
@@ -4093,7 +4015,7 @@
       "minutes": 1,
       "words": 130,
       "published": "5th October",
-      "summary": "Schools closed in France as students clash with police 5th October - \"Harder\"",
+      "summary": "Schools closed in France as students clash with police",
       "paragraphs": [
         "Thousands of students in France are protesting against the condition of their schools. They have fought with riot police. There are reports that police used tear gas against some protestors. The students began protesting in September. France's Education Ministry said more than 1,020 high schools have been affected. Around 5,000 people have been arrested in the past week. Most were teenagers. More than 65 school staff have been injured.",
         "The students are angry about poor conditions in schools. They say there is a lack of teachers, overcrowded classrooms, and old school buildings. One student said: \"We don't even have enough chairs.\" Students want more spending on education. In particular, they say schools in poorer areas get fewer resources despite greater educational needs. The government said there would be \"concrete responses\" to fix things."
@@ -4119,7 +4041,7 @@
       "minutes": 2,
       "words": 176,
       "published": "5th October",
-      "summary": "Schools closed in France as students clash with police 5th October - \"Harder\"",
+      "summary": "Schools closed in France as students clash with police",
       "paragraphs": [
         "Thousands of students in France have been protesting against the condition of their schools. They have clashed with riot police. There are reports that police used tear gas against some protestors. The students began protesting in late September. The protests quickly spread nationwide. France's Education Ministry said more than 1,020 high schools have been affected by the protests. This is roughly one in four schools. The interior minister reported that around 5,000 people have been arrested in the past week. Most were teenagers. At least 65 school staff have been injured.",
         "The students are angry about poor conditions in high schools. They say there is a lack of teachers, overcrowded classrooms, inadequate facilities, and old school buildings. One student said: \"There are 35 pupils per class. We don't even have enough chairs.\" Students want more investment in education after years of underinvestment. In particular, they want more spending on schools in poorer suburbs. Students say schools in poor areas of Paris get fewer resources despite greater educational needs. The education minister said there would be \"concrete responses\" from the government."
@@ -4145,7 +4067,7 @@
       "minutes": 2,
       "words": 209,
       "published": "5th October",
-      "summary": "Schools closed in France as students clash with police 5th October - \"Harder\"",
+      "summary": "Schools closed in France as students clash with police",
       "paragraphs": [
         "Thousands of students across France have taken to the streets to protest against the state of French schools. They have clashed with riot police in violent protests. There are reports that police used tear gas against some demonstrators. The student action began in high schools near Paris in late September and quickly spread nationwide. France's Education Ministry has reported that more than 1,020 high schools have been affected by protests or strikes. This is roughly one in four high schools. The country's interior minister reported that around 5,000 people had been arrested in the past week. He said the majority of them were teenagers. At least 65 school staff have also been injured.",
         "The students' main concerns are what they perceive as poor conditions in high schools. They are angry about a lack of teachers, overcrowded classrooms, inadequate facilities, and dilapidated school buildings. One 15-year-old student said: \"There are 35 pupils per class. We don't even have enough chairs.\" Students are calling for greater investment in education after what they see as years of underinvestment. In particular, they want more spending on schools in poorer suburbs. Students say schools in deprived areas of Paris receive fewer resources despite greater educational needs. The education minister said there would be \"concrete responses\" from the government."
@@ -5380,6 +5302,84 @@
         "1": "https://breakingnewsenglish.com/2611/261119-gta-6-1.html",
         "2": "https://breakingnewsenglish.com/2611/261119-gta-6-2.html",
         "3": "https://breakingnewsenglish.com/2611/261119-gta-6.html"
+      }
+    },
+    "https://breakingnewsenglish.com/2611/261123-penny-coin-4.html": {
+      "id": "2611/261123-penny-coin.html",
+      "title": "U.S. brings an end to production of one-cent coin",
+      "titleZh": "",
+      "tag": "Harder",
+      "level": "Level 4 · B1-B2",
+      "levelBand": "B1-B2",
+      "resolvedLevel": 4,
+      "requestedLevel": 4,
+      "fallback": false,
+      "minutes": 1,
+      "words": 145,
+      "published": "23rd November",
+      "summary": "U.S. brings an end to production of one-cent coin 23rd November - \"Harder\"",
+      "paragraphs": [
+        "The U.S. has ended production of its one-cent coin. President Donald Trump signed the Common Cents Act. The coin will still be legal tender. The US Mint stopped making the penny in November 2025. Businesses now have to round cash transactions up or down to the nearest five cents. Discontinuing the penny was an economic decision. In 2024, each coin cost 3.69 cents to produce. The bill's author said the US would save $85 million per year.",
+        "The penny dates back to the founding years of the USA. Congress set up the US Mint in 1792. The penny has seen many design changes. Early designs included an image of Liberty. In 1909, it featured a portrait of President Abraham Lincoln to commemorate 100 years since his birth. Rising manufacturing costs gradually made the coin too expensive to make. Wikipedia stated that the coin was eventually \"viewed as a burden\" to businesses."
+      ],
+      "sourceName": "Breaking News English",
+      "sourceUrl": "https://breakingnewsenglish.com/2611/261123-penny-coin-4.html",
+      "availableLevels": {
+        "4": "https://breakingnewsenglish.com/2611/261123-penny-coin-4.html",
+        "5": "https://breakingnewsenglish.com/2611/261123-penny-coin-5.html",
+        "6": "https://breakingnewsenglish.com/2611/261123-penny-coin.html"
+      }
+    },
+    "https://breakingnewsenglish.com/2611/261123-penny-coin-5.html": {
+      "id": "2611/261123-penny-coin.html",
+      "title": "U.S. brings an end to production of one-cent coin",
+      "titleZh": "",
+      "tag": "Harder",
+      "level": "Level 5 · B2-C1",
+      "levelBand": "B2-C1",
+      "resolvedLevel": 5,
+      "requestedLevel": 5,
+      "fallback": false,
+      "minutes": 2,
+      "words": 177,
+      "published": "23rd November",
+      "summary": "U.S. brings an end to production of one-cent coin 23rd November - \"Harder\"",
+      "paragraphs": [
+        "The U.S. has stopped producing its one-cent coin after President Donald Trump signed the Common Cents Act. However, the coin will remain legal tender and continue circulating. The US Mint actually stopped manufacturing the penny in November 2025. Businesses now have to round cash transactions up or down to the nearest five cents when change is unavailable. The decision to discontinue the penny was an economic one. In 2024, each coin cost 3.69 cents to produce. The bill's author said: \"This legislation will save $85 million per year....It's common sense.\"",
+        "The penny's history dates back to the founding years of the USA. Congress established the US Mint in 1792. A year later, the mint made more than 11,000 one-cent coins. The penny saw numerous design changes. Early designs included an image of Liberty and a Native American chief's headdress. In 1909, it featured a portrait of President Abraham Lincoln to commemorate the centenary of his birth. Rising manufacturing costs have gradually undermined the coin's viability. Wikipedia stated that the coin was eventually \"viewed as a burden\" to businesses, government, and the public."
+      ],
+      "sourceName": "Breaking News English",
+      "sourceUrl": "https://breakingnewsenglish.com/2611/261123-penny-coin-5.html",
+      "availableLevels": {
+        "4": "https://breakingnewsenglish.com/2611/261123-penny-coin-4.html",
+        "5": "https://breakingnewsenglish.com/2611/261123-penny-coin-5.html",
+        "6": "https://breakingnewsenglish.com/2611/261123-penny-coin.html"
+      }
+    },
+    "https://breakingnewsenglish.com/2611/261123-penny-coin.html": {
+      "id": "2611/261123-penny-coin.html",
+      "title": "U.S. brings an end to production of one-cent coin",
+      "titleZh": "",
+      "tag": "Harder",
+      "level": "Level 6 · C1-C2",
+      "levelBand": "C1-C2",
+      "resolvedLevel": 6,
+      "requestedLevel": 6,
+      "fallback": false,
+      "minutes": 2,
+      "words": 213,
+      "published": "23rd November",
+      "summary": "U.S. brings an end to production of one-cent coin 23rd November - \"Harder\"",
+      "paragraphs": [
+        "The United States has officially brought an end to the production of its one-cent coin. President Donald Trump signed the Common Cents Act on Friday. However, the coin will remain legal tender and continue circulating. The US Mint had actually stopped manufacturing the penny (the nickname for the coin) in November 2025. Businesses now have to round cash transactions up or down to the nearest five cents when exact change is unavailable. The decision to discontinue minting the penny was an economic one. In 2024, each coin cost 3.69 cents to produce. The bill's author, Lisa McClain, said: \"This legislation will save $85 million per year by permanently ending penny production. It's common sense.\"",
+        "The penny's history dates back to the founding years of the United States. Congress established the US Mint in 1792. The following year, the mint distributed more than 11,000 one-cent coins. The penny underwent numerous design changes. Early designs included an image of Liberty, a Native American chief's headdress, and an eagle. In 1909, it featured a portrait of former President Abraham Lincoln to commemorate the centenary of his birth. The last major redesign was in 2010. Rising manufacturing costs gradually undermined the coin's viability, consigning it to history. Wikipedia stated that the coin was eventually \"viewed as a burden to businesses, banks, government, and the public\"."
+      ],
+      "sourceName": "Breaking News English",
+      "sourceUrl": "https://breakingnewsenglish.com/2611/261123-penny-coin.html",
+      "availableLevels": {
+        "4": "https://breakingnewsenglish.com/2611/261123-penny-coin-4.html",
+        "5": "https://breakingnewsenglish.com/2611/261123-penny-coin-5.html",
+        "6": "https://breakingnewsenglish.com/2611/261123-penny-coin.html"
       }
     }
   }
