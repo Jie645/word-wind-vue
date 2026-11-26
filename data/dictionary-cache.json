@@ -1,7 +1,7 @@
 {
   "source": "Free Dictionary API + Wiktionary + MyMemory",
-  "count": 3539,
-  "failed": 23,
+  "count": 3556,
+  "failed": 21,
   "words": {
     "ability": {
       "word": "ability",
@@ -119552,6 +119552,648 @@
         [
           "n",
           "A wiki or similar collaborative database, especially one that is also an encyclopaedia."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "bag": {
+      "word": "bag",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A soft container made out of cloth, paper, thin plastic, etc. and open at the top, used to hold food, commodities, and other goods."
+        ],
+        [
+          "n",
+          "A container made of leather, plastic, or other material, usually with a handle or handles, in which you carry personal items, or clothes or other things that you need for travelling. Includes shopping bags, schoolbags, suitcases, briefcases, handbags, backpacks, etc."
+        ],
+        [
+          "n",
+          "(colloquial) One's preference."
+        ],
+        [
+          "n",
+          "(derogatory) An ugly woman."
+        ],
+        [
+          "n",
+          "(baseball) The cloth-covered pillow used for first, second, and third base."
+        ],
+        [
+          "n",
+          "(baseball) First, second, or third base."
+        ],
+        [
+          "v",
+          "(transitive) To put into a bag."
+        ],
+        [
+          "v",
+          "(informal) To catch or kill, especially when fishing or hunting."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "atms": {
+      "word": "atms",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(slang, by extension) Any source of a large amount of money."
+        ],
+        [
+          "n",
+          "(banking) Initialism of automated teller machine or automatic teller machine."
+        ],
+        [
+          "n",
+          "(telecommunications, electronics) Initialism of asynchronous transfer mode. [A broadband voice and data technology with quality (class) of service QoS transmission for sending and receiving voice, data, and multimedia information over a fiber-optic network.]"
+        ],
+        [
+          "n",
+          "(computing) Initialism of Adobe Type Manager."
+        ],
+        [
+          "n",
+          "(transport) Initialism of advanced traffic management. [Technologies that monitor and manage traffic flow to improve transportation efficiency.]"
+        ],
+        [
+          "n",
+          "(transport) Initialism of active traffic management."
+        ],
+        [
+          "n",
+          "(transport) Initialism of air traffic management."
+        ],
+        [
+          "n",
+          "(transport) Initialism of air traffic movement."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "chilled": {
+      "word": "chilled",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Cooled."
+        ],
+        [
+          "adj",
+          "Chilled out; relaxed."
+        ],
+        [
+          "adj",
+          "Having chills, filled with an uncomfortable sense of fear, dread, or alarm."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "bags": {
+      "word": "bags",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(often in the phrase 'bags of') A large quantity."
+        ],
+        [
+          "n",
+          "(slang) Trousers."
+        ],
+        [
+          "n",
+          "(slang, vulgar) A woman's breasts."
+        ],
+        [
+          "v",
+          "(Australia, New Zealand, Ireland, UK) To reserve for oneself."
+        ],
+        [
+          "n",
+          "(chiefly Chicago) A game similar to beanbag toss, cornhole."
+        ],
+        [
+          "n",
+          "Acronym of beauty, age, goodness, size (“those categories of adjective that occur before the noun in French”). [(uncountable) The quality of being (especially visually) attractive, pleasing, fine or good-looking; comeliness.]"
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "cookers": {
+      "word": "cookers",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "N",
+          "an American horror film directed by Dan Mintz which was released in 2001."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "camping": {
+      "word": "camping",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(uncountable) The recreational or educational activity of temporarily living in a tent or similar accommodation."
+        ],
+        [
+          "n",
+          "(countable) The act of setting up a camp."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "campaign": {
+      "word": "campaign",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A series of operations undertaken to achieve a set goal."
+        ],
+        [
+          "n",
+          "(sports) A player or team's efforts during a sporting season."
+        ],
+        [
+          "n",
+          "(roleplaying games) A series of play sessions using the same player characters, forming a continuous narrative."
+        ],
+        [
+          "v",
+          "(intransitive) To take part in a campaign."
+        ],
+        [
+          "v",
+          "(transitive) Consistently ride in races for a racing season."
+        ],
+        [
+          "n",
+          "The period during which a blast furnace is continuously in operation."
+        ],
+        [
+          "n",
+          "(obsolete) An open field; a large, open plain without considerable hills; a champaign."
+        ],
+        [
+          "n",
+          "(obsolete) An excursion into the countryside."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "disasters": {
+      "word": "disasters",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "N",
+          "a quarterly peer-reviewed academic journal published by Wiley-Blackwell for the Overseas Development Institute."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "information": {
+      "word": "information",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "Things that are or can be known about a given topic; communicable knowledge of something."
+        ],
+        [
+          "n",
+          "Something that provides a definitive characterization or description of the nature and attributes of a specified entity."
+        ],
+        [
+          "n",
+          "The act of informing or imparting knowledge; notification."
+        ],
+        [
+          "n",
+          "(computing, data management) The output resulting from the systematic collection, manipulation and organization of raw data into a structured, interpretable format."
+        ],
+        [
+          "n",
+          "(computing, formally) The meaning that a human assigns to data by means of the known conventions used in its representation."
+        ],
+        [
+          "n",
+          "(information theory) Any unambiguous abstract data, the smallest possible unit being the bit."
+        ],
+        [
+          "n",
+          "(information technology) Any ordered sequence of symbols (or signals) (that could contain a message)."
+        ],
+        [
+          "n",
+          "(law, countable) A statement of criminal activity brought before a judge or magistrate; in the UK, used to inform a magistrate of an offence and request a warrant; in the US, an accusation brought before a judge without a grand jury indictment."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "ireland": {
+      "word": "ireland",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A country in northwestern Europe."
+        ],
+        [
+          "n",
+          "A large island in northwestern Europe."
+        ],
+        [
+          "n",
+          "A surname."
+        ],
+        [
+          "n",
+          "Other places named Ireland:"
+        ],
+        [
+          "n",
+          "A hamlet in Southill parish, Central Bedfordshire district, Bedfordshire, England (OS grid ref TL1341)."
+        ],
+        [
+          "n",
+          "A community in Antigonish County, Nova Scotia, Canada."
+        ],
+        [
+          "n",
+          "An unincorporated community in Madison Township, Dubois County, Indiana, United States."
+        ],
+        [
+          "n",
+          "An unincorporated community in Lewis County, West Virginia, United States."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "ready": {
+      "word": "ready",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "adj",
+          "Prepared for immediate action or use."
+        ],
+        [
+          "adj",
+          "Not slow or hesitating; quick in action or perception of any kind."
+        ],
+        [
+          "adj",
+          "Offering itself at once; at hand; opportune; convenient."
+        ],
+        [
+          "adj",
+          "Inclined; apt to happen."
+        ],
+        [
+          "adj",
+          "Liable at any moment."
+        ],
+        [
+          "v",
+          "(transitive) To prepare; to make ready for action."
+        ],
+        [
+          "adj",
+          "(prepositive) first only used predicatively, freely used from the end of the 17th century"
+        ],
+        [
+          "n",
+          "(slang) Ready money; cash."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "radio": {
+      "word": "radio",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(countable) A device that can capture (receive) the signal sent over radio waves and render the modulated signal as sound."
+        ],
+        [
+          "n",
+          "(uncountable) The technology that allows for the transmission of sound or other signals by modulation of electromagnetic waves."
+        ],
+        [
+          "n",
+          "(countable) Any audio playing device, such as the on-board entertainment system in a car, usually including a radio receiver as well as the capability to play audio from recorded media; see also car radio."
+        ],
+        [
+          "n",
+          "(countable) A device that can transmit radio signals."
+        ],
+        [
+          "n",
+          "(Internet, uncountable) The continuous broadcasting of sound via the Internet in the style of traditional radio."
+        ],
+        [
+          "v",
+          "(ambitransitive) To use two-way radio to transmit (a message) (to another radio or other radio operator)."
+        ],
+        [
+          "v",
+          "(transitive) To order or assist (to a location), using telecommunications."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "storms": {
+      "word": "storms",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A surname."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "shop": {
+      "word": "shop",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "An establishment that sells goods or services to the public; originally only a physical location, but now a virtual establishment as well."
+        ],
+        [
+          "v",
+          "(intransitive) To visit stores or shops to browse or explore merchandise, especially with the intention of buying such merchandise."
+        ],
+        [
+          "v",
+          "(transitive) To browse or purchase products from (a catalog, an internet website, etc.), mostly from home."
+        ],
+        [
+          "n",
+          "A place where things are manufactured or crafted; a workshop."
+        ],
+        [
+          "n",
+          "Workplace; office. Used mainly in expressions such as shop talk, closed shop and shop floor."
+        ],
+        [
+          "n",
+          "(figurative, uncountable) Discussion of business or professional affairs."
+        ],
+        [
+          "n",
+          "An act of shopping, especially routine shopping for food and other domestic supplies."
+        ],
+        [
+          "n",
+          "An establishment where a barber or beautician works."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "torches": {
+      "word": "torches",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "A stick of wood or plant fibres twisted together, with one end soaked in a flammable substance such as resin or tallow and set on fire, which is held in the hand, put into a wall bracket, or stuck into the ground, and used chiefly as a light source."
+        ],
+        [
+          "n",
+          "(by extension) A similarly shaped implement with a replaceable supply of flammable material; specifically, a pole with a lamp at one end."
+        ],
+        [
+          "n",
+          "(figurative) A source of enlightenment or guidance."
+        ],
+        [
+          "n",
+          "(figurative) In carry, hand on,take up pass on the torch: a precious cause, principle, tradition, etc., which needs to be protected and transmitted to others."
+        ],
+        [
+          "n",
+          "(by extension, botany) (chiefly in the plural) The common mullein, great mullein, or torchwort (Verbascum thapsus)."
+        ],
+        [
+          "n",
+          "(by extension, botany) A spike (“kind of inflorescence”) made up of spikelets."
+        ],
+        [
+          "n",
+          "(by extension, botany) A flower which is red or red-orange in colour like a flame."
+        ],
+        [
+          "n",
+          "(US, slang) An arsonist."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "uplift": {
+      "word": "uplift",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "v",
+          "To raise something or someone to a higher physical, social, moral, intellectual, spiritual or emotional level."
+        ],
+        [
+          "n",
+          "The act or result of uplifting (in various senses)."
+        ],
+        [
+          "v",
+          "(science fiction) To raise (a nonsentient species) into sentience."
+        ],
+        [
+          "v",
+          "(New Zealand) To remove (a child) from a damaging home environment by a social welfare organization."
+        ],
+        [
+          "v",
+          "(law, of a penalty) To aggravate; to increase."
+        ],
+        [
+          "n",
+          "(law) An increase in a fine or penalty due to aggravating circumstances."
+        ],
+        [
+          "v",
+          "(aviation, travel) To be accepted for carriage on a flight."
+        ],
+        [
+          "n",
+          "(transport) The picking up and loading of goods to be transported by a mover."
+        ]
+      ],
+      "sentences": [],
+      "phrases": [],
+      "phraseLabel": "词形变化",
+      "sourceName": "Datamuse / Wiktionary",
+      "sourceUrl": "https://www.datamuse.com/api/",
+      "online": true
+    },
+    "wind-up": {
+      "word": "wind-up",
+      "type": "word",
+      "us": "",
+      "uk": "",
+      "trans": [
+        [
+          "n",
+          "(countable, uncountable) Real or perceived movement of atmospheric air usually caused by convection or differences in air pressure."
+        ],
+        [
+          "n",
+          "Air artificially put in motion by any force or action."
+        ],
+        [
+          "n",
+          "(countable, uncountable) The ability to breathe easily."
+        ],
+        [
+          "n",
+          "(figurative) News of an event, especially by hearsay or gossip."
+        ],
+        [
+          "n",
+          "(figurative) A tendency or trend."
+        ],
+        [
+          "n",
+          "(philosophy, alchemy) One of the four elements of the ancient Greeks and Romans; air."
+        ],
+        [
+          "n",
+          "One of the five basic elements in Indian and Japanese models of the Classical elements."
+        ],
+        [
+          "n",
+          "(uncountable, colloquial) Flatus."
         ]
       ],
       "sentences": [],

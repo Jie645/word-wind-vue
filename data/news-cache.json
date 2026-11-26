@@ -6,6 +6,21 @@
   "failed": 0,
   "items": [
     {
+      "id": "2611/261126-prepping.html",
+      "title": "Governments asking people to prep for emergencies",
+      "url": "https://breakingnewsenglish.com/2611/261126-prepping.html",
+      "date": "26th November",
+      "dateIso": "2026-11-26",
+      "kind": "Easier",
+      "summary": "Governments asking people to prep for emergencies 26th November - \"Easier\"",
+      "availableLevels": {
+        "0": "https://breakingnewsenglish.com/2611/261126-prepping-0.html",
+        "1": "https://breakingnewsenglish.com/2611/261126-prepping-1.html",
+        "2": "https://breakingnewsenglish.com/2611/261126-prepping-2.html",
+        "3": "https://breakingnewsenglish.com/2611/261126-prepping.html"
+      }
+    },
+    {
       "id": "2611/261123-penny-coin.html",
       "title": "U.S. brings an end to production of one-cent coin",
       "url": "https://breakingnewsenglish.com/2611/261123-penny-coin.html",
@@ -200,7 +215,7 @@
       "date": "8th October",
       "dateIso": "2026-10-08",
       "kind": "Easier",
-      "summary": "Death of worker at plague lab raises concerns 8th October - \"Easier\"",
+      "summary": "Death of worker at plague lab raises concerns",
       "availableLevels": {
         "0": "https://breakingnewsenglish.com/2610/261008-suspected-pneumonic-plague-0.html",
         "1": "https://breakingnewsenglish.com/2610/261008-suspected-pneumonic-plague-1.html",
@@ -714,132 +729,9 @@
         "5": "https://breakingnewsenglish.com/2606/260608-hissing-cockroaches-5.html",
         "6": "https://breakingnewsenglish.com/2606/260608-hissing-cockroaches.html"
       }
-    },
-    {
-      "id": "2606/260604-earth-prize.html",
-      "title": "Teenagers win Earth Prize for microplastic 'magnet'",
-      "url": "https://breakingnewsenglish.com/2606/260604-earth-prize.html",
-      "date": "4th June",
-      "dateIso": "2026-06-04",
-      "kind": "Easier",
-      "summary": "Teenagers win Earth Prize for microplastic 'magnet'",
-      "availableLevels": {
-        "0": "https://breakingnewsenglish.com/2606/260604-earth-prize-0.html",
-        "1": "https://breakingnewsenglish.com/2606/260604-earth-prize-1.html",
-        "2": "https://breakingnewsenglish.com/2606/260604-earth-prize-2.html",
-        "3": "https://breakingnewsenglish.com/2606/260604-earth-prize.html"
-      }
     }
   ],
   "articles": {
-    "https://breakingnewsenglish.com/2606/260604-earth-prize-0.html": {
-      "id": "2606/260604-earth-prize.html",
-      "title": "Teenagers win Earth Prize for microplastic 'magnet'",
-      "titleZh": "",
-      "tag": "Easier",
-      "level": "Level 0 · A2",
-      "levelBand": "A2",
-      "resolvedLevel": 0,
-      "requestedLevel": 0,
-      "fallback": false,
-      "minutes": 1,
-      "words": 108,
-      "published": "4th June",
-      "summary": "Teenagers win Earth Prize for microplastic 'magnet'",
-      "paragraphs": [
-        "Three Indian sixteen-year-olds won this year's Earth Prize. The award is for eco-challenges. The teenagers made a special powder made from the seeds of the tamarind fruit. Microplastics in water stick to the powder. They are then removed from the water with a magnet. The powder is a simple way to make water safer to drink.",
-        "The teenagers were very happy to win the award. They said it was \"incredibly special\". Microplastics are in our drinking water. The teenagers said their powder is like a magnet for microplastics. The collected plastic is recycled \"so it can't return to nature\". The powder will protect our planet from microplastic pollution."
-      ],
-      "sourceName": "Breaking News English",
-      "sourceUrl": "https://breakingnewsenglish.com/2606/260604-earth-prize-0.html",
-      "availableLevels": {
-        "0": "https://breakingnewsenglish.com/2606/260604-earth-prize-0.html",
-        "1": "https://breakingnewsenglish.com/2606/260604-earth-prize-1.html",
-        "2": "https://breakingnewsenglish.com/2606/260604-earth-prize-2.html",
-        "3": "https://breakingnewsenglish.com/2606/260604-earth-prize.html"
-      }
-    },
-    "https://breakingnewsenglish.com/2606/260604-earth-prize-1.html": {
-      "id": "2606/260604-earth-prize.html",
-      "title": "Teenagers win Earth Prize for microplastic 'magnet'",
-      "titleZh": "",
-      "tag": "Easier",
-      "level": "Level 1 · A2-B1",
-      "levelBand": "A2-B1",
-      "resolvedLevel": 1,
-      "requestedLevel": 1,
-      "fallback": false,
-      "minutes": 1,
-      "words": 142,
-      "published": "4th June",
-      "summary": "Teenagers win Earth Prize for microplastic 'magnet'",
-      "paragraphs": [
-        "Three sixteen-year-olds in India have won this year's Earth Prize. The award is for solutions to eco-challenges. The three teenagers invented a special powder made from tamarind seeds. A tamarind is a tropical fruit. Microplastics in water stick to the powder. The microplastics and powder are then removed from the water with a magnet. The powder is a simple, cheap way to make water safer to drink in poor and rural areas.",
-        "The powder is called 'Plas-Stick'. The teenagers were very happy to win the award. They said it was \"incredibly special for all of us\". They explained that microplastics hide in our drinking water. They said their powder acts like a magnet for these microplastics. The collected plastic is turned into useful items \"so it can't return to nature\". The powder will protect people, animals, and our planet from microplastic pollution."
-      ],
-      "sourceName": "Breaking News English",
-      "sourceUrl": "https://breakingnewsenglish.com/2606/260604-earth-prize-1.html",
-      "availableLevels": {
-        "0": "https://breakingnewsenglish.com/2606/260604-earth-prize-0.html",
-        "1": "https://breakingnewsenglish.com/2606/260604-earth-prize-1.html",
-        "2": "https://breakingnewsenglish.com/2606/260604-earth-prize-2.html",
-        "3": "https://breakingnewsenglish.com/2606/260604-earth-prize.html"
-      }
-    },
-    "https://breakingnewsenglish.com/2606/260604-earth-prize-2.html": {
-      "id": "2606/260604-earth-prize.html",
-      "title": "Teenagers win Earth Prize for microplastic 'magnet'",
-      "titleZh": "",
-      "tag": "Easier",
-      "level": "Level 2 · A2-B1",
-      "levelBand": "A2-B1",
-      "resolvedLevel": 2,
-      "requestedLevel": 2,
-      "fallback": false,
-      "minutes": 2,
-      "words": 185,
-      "published": "4th June",
-      "summary": "Teenagers win Earth Prize for microplastic 'magnet'",
-      "paragraphs": [
-        "Three sixteen-year-olds in India have won this year's Earth Prize. It is the world's largest environmental competition for teenagers. It is for thinking of solutions to global eco-challenges. The three teenagers invented a biodegradable powder made from tamarind seeds. A tamarind is a tropical fruit that is used in sauces. Microplastics in water stick to the powder. The mass of microplastics and powder can be removed from the water with a magnet. The powder is a simple, cheap way to make water safer to drink in rural areas.",
-        "The teenagers called their invention 'Plas-Stick'. They were extremely happy to win an award for it. They said it was \"incredibly special for all of us, especially as the first team from India to receive it\". They explained: \"Tiny bits of plastic hide in our drinking water, but they're too small to see. We made a special powder...that acts like a magnet for these tiny plastics.\" Their website also says the collected plastic is turned into useful items, \"so it can't return to nature\". The powder will protect people, animals, and our planet from microplastic pollution."
-      ],
-      "sourceName": "Breaking News English",
-      "sourceUrl": "https://breakingnewsenglish.com/2606/260604-earth-prize-2.html",
-      "availableLevels": {
-        "0": "https://breakingnewsenglish.com/2606/260604-earth-prize-0.html",
-        "1": "https://breakingnewsenglish.com/2606/260604-earth-prize-1.html",
-        "2": "https://breakingnewsenglish.com/2606/260604-earth-prize-2.html",
-        "3": "https://breakingnewsenglish.com/2606/260604-earth-prize.html"
-      }
-    },
-    "https://breakingnewsenglish.com/2606/260604-earth-prize.html": {
-      "id": "2606/260604-earth-prize.html",
-      "title": "Teenagers win Earth Prize for microplastic 'magnet'",
-      "titleZh": "",
-      "tag": "Easier",
-      "level": "Level 3 · B1",
-      "levelBand": "B1",
-      "resolvedLevel": 3,
-      "requestedLevel": 3,
-      "fallback": false,
-      "minutes": 2,
-      "words": 230,
-      "published": "4th June",
-      "summary": "Teenagers win Earth Prize for microplastic 'magnet'",
-      "paragraphs": [
-        "Three sixteen-year-olds from India have won this year's Earth Prize. This award is the world's largest environmental sustainability competition for teenagers. Teens can win by developing innovative solutions to global eco-challenges. The three Indian teenagers won by inventing a biodegradable powder made from old tamarind seeds. A tamarind is a tropical fruit that is used in sauces and desserts. The powder attracts microplastics when it is put in water. The microplastics stick together and form a mass that we can see. The mass of microplastics and powder can then be removed from the water with a magnet. The powder is a simple, cheap way to make water safer to drink in rural areas.",
-        "The three teenagers called their invention 'Plas-Stick'. They were extremely happy to win an award for it. They said: \"Being named the global winners of the Earth Prize is incredibly special for all of us, especially as the first team from India to receive it.\" They added: \"Tiny bits of plastic hide in our drinking water, but they're too small to see. We made a special powder from thrown-away tamarind seeds that acts like a magnet for these tiny plastics.\" Their website outlines another benefit. It said: \"The collected plastic is safely turned into small useful items... so it can't return to nature. This simple method helps protect people, animals, and our planet from invisible plastic pollution.\""
-      ],
-      "sourceName": "Breaking News English",
-      "sourceUrl": "https://breakingnewsenglish.com/2606/260604-earth-prize.html",
-      "availableLevels": {
-        "0": "https://breakingnewsenglish.com/2606/260604-earth-prize-0.html",
-        "1": "https://breakingnewsenglish.com/2606/260604-earth-prize-1.html",
-        "2": "https://breakingnewsenglish.com/2606/260604-earth-prize-2.html",
-        "3": "https://breakingnewsenglish.com/2606/260604-earth-prize.html"
-      }
-    },
     "https://breakingnewsenglish.com/2606/260608-hissing-cockroaches-4.html": {
       "id": "2606/260608-hissing-cockroaches.html",
       "title": "Thousands of hissing cockroaches seized in Australia",
@@ -4093,7 +3985,7 @@
       "minutes": 1,
       "words": 106,
       "published": "8th October",
-      "summary": "Death of worker at plague lab raises concerns 8th October - \"Easier\"",
+      "summary": "Death of worker at plague lab raises concerns",
       "paragraphs": [
         "A worker at a research laboratory in Siberia died. Local reports say she may have broken a test tube of pneumonic plague bacteria. Russia said the woman's death was from \"pneumonia of an unknown origin\" and not plague. The USA said there was no \"cause for alarm,\" but officials should \"keep an eye on it\".",
         "Pneumonic plague can be deadly. It can kill in 18 hours. It spreads quickly through the air when someone coughs. It can be treated if drugs are given when symptoms appear. A scientist said: \"Pneumonic plague can spread from person to person, and that is why there is the concern around this.\""
@@ -4120,7 +4012,7 @@
       "minutes": 1,
       "words": 150,
       "published": "8th October",
-      "summary": "Death of worker at plague lab raises concerns 8th October - \"Easier\"",
+      "summary": "Death of worker at plague lab raises concerns",
       "paragraphs": [
         "The USA is worried after a worker at a research laboratory in Siberia died. She died of severe pneumonia. Local reports say she may have broken a test tube of pneumonic plague bacteria. Officials are checking people who were in contact with her. Russia said the woman's death was from \"pneumonia of an unknown origin\" and not plague. The USA said there was no \"cause for alarm\". However, it said officials should \"keep an eye on it\".",
         "Pneumonic plague can be deadly. It attacks the lungs. It can kill in 18 hours. It also spreads quickly. It moves through the air when someone coughs. The disease can be treated with medicine if drugs are given when symptoms appear. Pneumonic plague is different from COVID-19, which is caused by a virus. A microbiologist said: \"Pneumonic plague can spread from person to person, and that is why there is the concern around this.\""
@@ -4147,7 +4039,7 @@
       "minutes": 2,
       "words": 183,
       "published": "8th October",
-      "summary": "Death of worker at plague lab raises concerns 8th October - \"Easier\"",
+      "summary": "Death of worker at plague lab raises concerns",
       "paragraphs": [
         "The USA is worried after a worker at a research laboratory in Siberia died. Some newspapers suspect that she came into contact with plague bacteria. She died after developing severe pneumonia. Local reports say she may have broken a test tube of plague bacteria. Officials are checking people who were in contact with the worker. Russia said the woman's death was from \"pneumonia of an unknown origin\" and not plague. The US secretary of state said there was no \"cause for alarm\". However, he said officials should \"keep an eye on it\".",
         "Pneumonic plague can be deadly. It attacks the lungs. It can kill 18 to 24 hours after symptoms begin. It can also spread quickly. It moves from person to person through the air when someone coughs or sneezes. The disease can be treated with antibiotics if they are given as soon as symptoms appear. Pneumonic plague is different from COVID-19, which is caused by a virus and not a bacterium. A microbiologist told the BBC: \"Pneumonic plague can spread from person to person, and that is why there is the concern around this.\""
@@ -4174,7 +4066,7 @@
       "minutes": 2,
       "words": 223,
       "published": "8th October",
-      "summary": "Death of worker at plague lab raises concerns 8th October - \"Easier\"",
+      "summary": "Death of worker at plague lab raises concerns",
       "paragraphs": [
         "The USA has raised concerns after a worker at a plague research laboratory in Siberia died. Some newspapers suspect that she died after coming into contact with plague bacteria. The 28-year-old worker died after developing severe pneumonia. Local reports say she may have broken a test tube containing plague bacteria. Dozens of hospital workers have been quarantined. Officials are monitoring people who were in contact with the woman who died. Russia has said the woman's death was from \"pneumonia of an unknown origin\" and not plague. US Secretary of State Marco Rubio said there was no \"cause for alarm\". He said officials should \"keep an eye on it\".",
         "Pneumonic plague can be deadly. It attacks the lungs and can cause death 18 to 24 hours after symptoms begin. It is highly contagious, so it can spread quickly. It can move from person to person through the air when an infected person coughs or sneezes. The disease can be treated with antibiotics. However, antibiotics work best when they are given as soon as symptoms appear. Pneumonic plague is different from COVID-19, which is caused by a virus and not a bacterium. COVID-19 spreads much more easily around the world than plague. Microbiologist Dr Simon Clarke told the BBC: \"Pneumonic plague can spread from person to person, and that is why there is the concern around this.\""
@@ -5380,6 +5272,114 @@
         "4": "https://breakingnewsenglish.com/2611/261123-penny-coin-4.html",
         "5": "https://breakingnewsenglish.com/2611/261123-penny-coin-5.html",
         "6": "https://breakingnewsenglish.com/2611/261123-penny-coin.html"
+      }
+    },
+    "https://breakingnewsenglish.com/2611/261126-prepping-0.html": {
+      "id": "2611/261126-prepping.html",
+      "title": "Governments asking people to prep for emergencies",
+      "titleZh": "",
+      "tag": "Easier",
+      "level": "Level 0 · A2",
+      "levelBand": "A2",
+      "resolvedLevel": 0,
+      "requestedLevel": 0,
+      "fallback": false,
+      "minutes": 1,
+      "words": 107,
+      "published": "26th November",
+      "summary": "Governments asking people to prep for emergencies 26th November - \"Easier\"",
+      "paragraphs": [
+        "Many countries want people to prepare for emergencies. They said people need food and water to survive for 72 hours. The UK's advice is to have a wind-up radio and a sleeping bag. The advice is working. People in Britain are buying more bottled water. A London shop owner said he was selling a lot of torches.",
+        "Events like extreme weather and cyberattacks could stop people from getting things they need. Recently, there were cyberattacks on supermarkets. Stores threw away a lot of frozen food. Hackers could bring down the internet and ATMs. The UK said people should take \"simple steps\" to be ready and to stay safe."
+      ],
+      "sourceName": "Breaking News English",
+      "sourceUrl": "https://breakingnewsenglish.com/2611/261126-prepping-0.html",
+      "availableLevels": {
+        "0": "https://breakingnewsenglish.com/2611/261126-prepping-0.html",
+        "1": "https://breakingnewsenglish.com/2611/261126-prepping-1.html",
+        "2": "https://breakingnewsenglish.com/2611/261126-prepping-2.html",
+        "3": "https://breakingnewsenglish.com/2611/261126-prepping.html"
+      }
+    },
+    "https://breakingnewsenglish.com/2611/261126-prepping-1.html": {
+      "id": "2611/261126-prepping.html",
+      "title": "Governments asking people to prep for emergencies",
+      "titleZh": "",
+      "tag": "Easier",
+      "level": "Level 1 · A2-B1",
+      "levelBand": "A2-B1",
+      "resolvedLevel": 1,
+      "requestedLevel": 1,
+      "fallback": false,
+      "minutes": 1,
+      "words": 144,
+      "published": "26th November",
+      "summary": "Governments asking people to prep for emergencies 26th November - \"Easier\"",
+      "paragraphs": [
+        "European countries want people to prepare for emergencies. They asked people to buy food and water to survive for 72 hours. The UK's message is called \"Be Ready\". Its advice is to store water, food, a wind-up radio, and sleeping bags. The advice is working. Sales of bottled water in the UK went up by 67 per cent. Sales of canned food increased by 37 per cent. A London shop owner said he was selling a lot of torches and camping cookers.",
+        "Governments are worried events like extreme weather and cyberattacks could stop people from getting things they need. Online attacks affect supermarkets, electricity, and other important services. Recently, there were cyberattacks on supermarkets. Stores had to throw away a lot of frozen food. Hackers could bring down the internet and ATMs. The UK said people should take \"simple steps\" to be ready and to stay safe."
+      ],
+      "sourceName": "Breaking News English",
+      "sourceUrl": "https://breakingnewsenglish.com/2611/261126-prepping-1.html",
+      "availableLevels": {
+        "0": "https://breakingnewsenglish.com/2611/261126-prepping-0.html",
+        "1": "https://breakingnewsenglish.com/2611/261126-prepping-1.html",
+        "2": "https://breakingnewsenglish.com/2611/261126-prepping-2.html",
+        "3": "https://breakingnewsenglish.com/2611/261126-prepping.html"
+      }
+    },
+    "https://breakingnewsenglish.com/2611/261126-prepping-2.html": {
+      "id": "2611/261126-prepping.html",
+      "title": "Governments asking people to prep for emergencies",
+      "titleZh": "",
+      "tag": "Easier",
+      "level": "Level 2 · A2-B1",
+      "levelBand": "A2-B1",
+      "resolvedLevel": 2,
+      "requestedLevel": 2,
+      "fallback": false,
+      "minutes": 2,
+      "words": 177,
+      "published": "26th November",
+      "summary": "Governments asking people to prep for emergencies 26th November - \"Easier\"",
+      "paragraphs": [
+        "European governments want people to prepare for emergencies and possible disasters. They asked people to keep enough food and water to survive for 72 hours. The UK's message has a simple name. It is called \"Be Ready\". Its advice is to store bottled water, canned food, a wind-up radio, and sleeping bags. The advice is changing people's shopping habits. Sales of bottled water in the UK have risen by 67 per cent, while sales of canned food have increased by 37 per cent. A London shop owner said he was selling a lot of torches and camping cookers.",
+        "Governments are worried events could stop people from getting things they need. These events include extreme weather and cyberattacks. Online attacks affect supermarkets, electricity networks, and other important services. Recently, there have been cyberattacks on supermarket refrigerators and freezers. Stores had to throw away large amounts of frozen food. Other events, such as computer system failures, could bring down the internet and ATMs. The UK said people should take \"simple steps\" to be ready. It believes preparing will help families stay safer."
+      ],
+      "sourceName": "Breaking News English",
+      "sourceUrl": "https://breakingnewsenglish.com/2611/261126-prepping-2.html",
+      "availableLevels": {
+        "0": "https://breakingnewsenglish.com/2611/261126-prepping-0.html",
+        "1": "https://breakingnewsenglish.com/2611/261126-prepping-1.html",
+        "2": "https://breakingnewsenglish.com/2611/261126-prepping-2.html",
+        "3": "https://breakingnewsenglish.com/2611/261126-prepping.html"
+      }
+    },
+    "https://breakingnewsenglish.com/2611/261126-prepping.html": {
+      "id": "2611/261126-prepping.html",
+      "title": "Governments asking people to prep for emergencies",
+      "titleZh": "",
+      "tag": "Easier",
+      "level": "Level 3 · B1",
+      "levelBand": "B1",
+      "resolvedLevel": 3,
+      "requestedLevel": 3,
+      "fallback": false,
+      "minutes": 2,
+      "words": 213,
+      "published": "26th November",
+      "summary": "Governments asking people to prep for emergencies 26th November - \"Easier\"",
+      "paragraphs": [
+        "European governments are asking people to prepare for emergencies by keeping enough food and water to survive for 72 hours. The UK, France, Ireland, and the Netherlands have provided information to encourage people to prepare for possible disasters. The UK's campaign has a simple name. It is called \"Be Ready\". It advises families to store bottled water, canned food, a wind-up radio, and sleeping bags. The advice is changing people's shopping habits. Sales of bottled water in the UK have risen by 67 per cent, while sales of canned food have increased by 37 per cent. A London shop owner said: \"There is an uplift, 100 per cent.\" He said he is selling a lot of torches and camping cookers.",
+        "Governments are worried that events could stop people from getting things they need. These events include extreme weather, like heatwaves, storms, and wildfires. In addition, cyberattacks could affect supermarkets, electricity networks, and other important services. Recently, cyberattacks on European supermarkets caused problems with refrigerators and freezers. Stores had to throw away large amounts of frozen and chilled food. Other events, such as computer system failures, could also stop people using the internet or accessing cash. The UK government said people should take \"simple steps\" to be ready. Governments believe preparing will help families stay safer in emergencies."
+      ],
+      "sourceName": "Breaking News English",
+      "sourceUrl": "https://breakingnewsenglish.com/2611/261126-prepping.html",
+      "availableLevels": {
+        "0": "https://breakingnewsenglish.com/2611/261126-prepping-0.html",
+        "1": "https://breakingnewsenglish.com/2611/261126-prepping-1.html",
+        "2": "https://breakingnewsenglish.com/2611/261126-prepping-2.html",
+        "3": "https://breakingnewsenglish.com/2611/261126-prepping.html"
       }
     }
   }
